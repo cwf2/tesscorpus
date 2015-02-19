@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.parentalia">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Parentalia</Display>
+    <Abbr>aus. par.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0622</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa022.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book praefprose</Display><MaskLower>0</MaskLower><MaskUpper>0</MaskUpper><LocusLower>praefprose.0</LocusLower><LocusUpper>praefprose.0</LocusUpper></Part><Part id="2"><Display>Book praefverse</Display><MaskLower>1</MaskLower><MaskUpper>18</MaskUpper><LocusLower>praefverse.1</LocusLower><LocusUpper>praefverse.18</LocusUpper></Part><Part id="3"><Display>Book 1</Display><MaskLower>19</MaskLower><MaskUpper>36</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.18</LocusUpper></Part><Part id="4"><Display>Book 2</Display><MaskLower>37</MaskLower><MaskUpper>44</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.8</LocusUpper></Part><Part id="5"><Display>Book 3</Display><MaskLower>45</MaskLower><MaskUpper>68</MaskUpper><LocusLower>3.1</LocusLower><LocusUpper>3.24</LocusUpper></Part><Part id="6"><Display>Book 4</Display><MaskLower>69</MaskLower><MaskUpper>100</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.32</LocusUpper></Part><Part id="7"><Display>Book 5</Display><MaskLower>101</MaskLower><MaskUpper>112</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.12</LocusUpper></Part><Part id="8"><Display>Book 6</Display><MaskLower>113</MaskLower><MaskUpper>124</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.12</LocusUpper></Part><Part id="9"><Display>Book 7</Display><MaskLower>125</MaskLower><MaskUpper>138</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.14</LocusUpper></Part><Part id="10"><Display>Book 8</Display><MaskLower>139</MaskLower><MaskUpper>156</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.18</LocusUpper></Part><Part id="11"><Display>Book 9</Display><MaskLower>157</MaskLower><MaskUpper>186</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.30</LocusUpper></Part><Part id="12"><Display>Book 10</Display><MaskLower>187</MaskLower><MaskUpper>192</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.6</LocusUpper></Part><Part id="13"><Display>Book 11</Display><MaskLower>193</MaskLower><MaskUpper>208</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.16</LocusUpper></Part><Part id="14"><Display>Book 12</Display><MaskLower>209</MaskLower><MaskUpper>220</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.12</LocusUpper></Part><Part id="15"><Display>Book 13</Display><MaskLower>221</MaskLower><MaskUpper>232</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.12</LocusUpper></Part><Part id="16"><Display>Book 14</Display><MaskLower>233</MaskLower><MaskUpper>244</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.12</LocusUpper></Part><Part id="17"><Display>Book 15</Display><MaskLower>245</MaskLower><MaskUpper>258</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.14</LocusUpper></Part><Part id="18"><Display>Book 16</Display><MaskLower>259</MaskLower><MaskUpper>274</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.16</LocusUpper></Part><Part id="19"><Display>Book 17</Display><MaskLower>275</MaskLower><MaskUpper>293</MaskUpper><LocusLower>17.1</LocusLower><LocusUpper>17.19</LocusUpper></Part><Part id="20"><Display>Book 18</Display><MaskLower>294</MaskLower><MaskUpper>305</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.12</LocusUpper></Part><Part id="21"><Display>Book 19</Display><MaskLower>306</MaskLower><MaskUpper>319</MaskUpper><LocusLower>19.1</LocusLower><LocusUpper>19.14</LocusUpper></Part><Part id="22"><Display>Book 20</Display><MaskLower>320</MaskLower><MaskUpper>325</MaskUpper><LocusLower>20.1</LocusLower><LocusUpper>20.6</LocusUpper></Part><Part id="23"><Display>Book 21</Display><MaskLower>326</MaskLower><MaskUpper>333</MaskUpper><LocusLower>21.1</LocusLower><LocusUpper>21.8</LocusUpper></Part><Part id="24"><Display>Book 22</Display><MaskLower>334</MaskLower><MaskUpper>349</MaskUpper><LocusLower>22.1</LocusLower><LocusUpper>22.16</LocusUpper></Part><Part id="25"><Display>Book 23</Display><MaskLower>350</MaskLower><MaskUpper>369</MaskUpper><LocusLower>23.1</LocusLower><LocusUpper>23.20</LocusUpper></Part><Part id="26"><Display>Book 24</Display><MaskLower>370</MaskLower><MaskUpper>385</MaskUpper><LocusLower>24.1</LocusLower><LocusUpper>24.16</LocusUpper></Part><Part id="27"><Display>Book 25</Display><MaskLower>386</MaskLower><MaskUpper>397</MaskUpper><LocusLower>25.1</LocusLower><LocusUpper>25.12</LocusUpper></Part><Part id="28"><Display>Book 26</Display><MaskLower>398</MaskLower><MaskUpper>405</MaskUpper><LocusLower>26.1</LocusLower><LocusUpper>26.8</LocusUpper></Part><Part id="29"><Display>Book 27</Display><MaskLower>406</MaskLower><MaskUpper>409</MaskUpper><LocusLower>27.1</LocusLower><LocusUpper>27.4</LocusUpper></Part><Part id="30"><Display>Book 28</Display><MaskLower>410</MaskLower><MaskUpper>416</MaskUpper><LocusLower>28.1</LocusLower><LocusUpper>28.7</LocusUpper></Part><Part id="31"><Display>Book 29</Display><MaskLower>417</MaskLower><MaskUpper>424</MaskUpper><LocusLower>29.1</LocusLower><LocusUpper>29.8</LocusUpper></Part><Part id="32"><Display>Book 30</Display><MaskLower>425</MaskLower><MaskUpper>436</MaskUpper><LocusLower>30.1</LocusLower><LocusUpper>30.12</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="praefprose.0">Scio versiculis meis evenire, ut fastidiose legantur: quippe sic meritum est eorum, sed quosdam solet commendare materia et aliquotiens fortasse lectorem solum lemma sollicitat tituli, ut festivitate persuasus et ineptiam ferre contentus sit. hoc opusculum nec materia amoenum est nec appellatione iucundum, habet maestam religionem, qua carorum meorum obitus tristi adfectione commemoro. titulus libelli est Parentalia. antiquae appellationis hic dies et iam inde ab Numa cognatorum inferiis institutus: nec quidquam sanctius habet reverentia superstitum, quam ut amissos venerabiliter recordetur.</TextUnit>
+    <TextUnit id="1" loc="praefverse.1">Nomina carorum iam condita funere iusto,</TextUnit>
+    <TextUnit id="2" loc="praefverse.2">fleta prius lacrimis, nunc memorabo modis,</TextUnit>
+    <TextUnit id="3" loc="praefverse.3">nuda, sine ornatu fandique carentia cultu:</TextUnit>
+    <TextUnit id="4" loc="praefverse.4">sufficit inferiis exequialis honos,</TextUnit>
+    <TextUnit id="5" loc="praefverse.5">nenia, funereis satis officiosa querellis,</TextUnit>
+    <TextUnit id="6" loc="praefverse.6">annua ne tacitis munera praetereas,</TextUnit>
+    <TextUnit id="7" loc="praefverse.7">quae Numa cognatis sollemnia dedicat umbris,</TextUnit>
+    <TextUnit id="8" loc="praefverse.8">ut gradus aut mortis postulat aut generis,</TextUnit>
+    <TextUnit id="9" loc="praefverse.9">hoc satis est tumulis, satis est telluris egenis:</TextUnit>
+    <TextUnit id="10" loc="praefverse.10">voce ciere animas funeris instar habet.</TextUnit>
+    <TextUnit id="11" loc="praefverse.11">gaudent conpositi cineres sua nomina dici:</TextUnit>
+    <TextUnit id="12" loc="praefverse.12">frontibus hoc scriptis et monumenta iubent,</TextUnit>
+    <TextUnit id="13" loc="praefverse.13">ille etiam, maesti cui defuit urna sepulcri,</TextUnit>
+    <TextUnit id="14" loc="praefverse.14">nomine ter dicto paene sepultus erit.</TextUnit>
+    <TextUnit id="15" loc="praefverse.15">at tu, quicumque es, lector, qui fata meorum</TextUnit>
+    <TextUnit id="16" loc="praefverse.16">dignaris maestis conmemorare elegis,</TextUnit>
+    <TextUnit id="17" loc="praefverse.17">inconcussa tuae percurras tempora vitae</TextUnit>
+    <TextUnit id="18" loc="praefverse.18">et praeter iustum funera nulla fleas.</TextUnit>
+    <TextUnit id="19" loc="1.1">PRIMUS in his pater Ausonius, quem ponere primum,</TextUnit>
+    <TextUnit id="20" loc="1.2">etsi cunctetur filius, ordo iubet,</TextUnit>
+    <TextUnit id="21" loc="1.3">cura dei, placidae functus quod honore senectae</TextUnit>
+    <TextUnit id="22" loc="1.4">undecies binas vixit Olympiadas.</TextUnit>
+    <TextUnit id="23" loc="1.5">omnia, quae voluit, qui prospera vidit: eidem,</TextUnit>
+    <TextUnit id="24" loc="1.6">optavit quidquid, contigit, ut voluit,</TextUnit>
+    <TextUnit id="25" loc="1.7">non quia fatorum nimia indulgentia, sed quod</TextUnit>
+    <TextUnit id="26" loc="1.8">tam moderata illi vota fuere viro.</TextUnit>
+    <TextUnit id="27" loc="1.9">quem sua contendit septem sapientibus aetas,</TextUnit>
+    <TextUnit id="28" loc="1.10">quorum doctrinam moribus excoluit,</TextUnit>
+    <TextUnit id="29" loc="1.11">viveret ut potius quam diceret, arte sophorum,</TextUnit>
+    <TextUnit id="30" loc="1.12">quamquam et facundo non rudis ingenio,</TextUnit>
+    <TextUnit id="31" loc="1.13">praeditus et vitas hominum ratione medendi</TextUnit>
+    <TextUnit id="32" loc="1.14">porrigere et fatis amplificare moras,</TextUnit>
+    <TextUnit id="33" loc="1.15">inde et perfunctae manet haec reverentia vitae,</TextUnit>
+    <TextUnit id="34" loc="1.16">aetas nostra illi quod dedit hunc titulum:</TextUnit>
+    <TextUnit id="35" loc="1.17">ut nullum Ausonius, quem sectaretur, habebat,</TextUnit>
+    <TextUnit id="36" loc="1.18">sic nullum, qui se nunc imitetur, habet.</TextUnit>
+    <TextUnit id="37" loc="2.1">PROXIMA tu, genetrix Aeonia, sanguine mixto</TextUnit>
+    <TextUnit id="38" loc="2.2">Tarbellae matris patris et Haeduici.</TextUnit>
+    <TextUnit id="39" loc="2.3">morigerae uxoris virtus cui contigit omnis,</TextUnit>
+    <TextUnit id="40" loc="2.4">fama pudicitiae lanificaeque manus</TextUnit>
+    <TextUnit id="41" loc="2.5">coniugiique fides et natos cura regendi</TextUnit>
+    <TextUnit id="42" loc="2.6">et gravitas comis laetaque serietas.</TextUnit>
+    <TextUnit id="43" loc="2.7">aeternum placidos manes conplexa mariti,</TextUnit>
+    <TextUnit id="44" loc="2.8">viva torum quondam, functa fove tumulum.</TextUnit>
+    <TextUnit id="45" loc="3.1">CULTA mihi est pietas patre primum et matre vocatis,</TextUnit>
+    <TextUnit id="46" loc="3.2">dici set refugit tertius Arborius,</TextUnit>
+    <TextUnit id="47" loc="3.3">quem primum memorare nefas mihi patre secundo,</TextUnit>
+    <TextUnit id="48" loc="3.4">rursum non primum ponere paene nefas,</TextUnit>
+    <TextUnit id="49" loc="3.5">temperies adhibenda, et proximus ille vocandus1</TextUnit>
+    <TextUnit id="50" loc="3.6">ante alios, quamquam patre secundus erit.</TextUnit>
+    <TextUnit id="51" loc="3.7">tu frater genetricis et unanimis genitori,</TextUnit>
+    <TextUnit id="52" loc="3.8">et mihi qui fueris, quod pater et genetrix,</TextUnit>
+    <TextUnit id="53" loc="3.9">qui me lactantem, puerum iuvenemque virumque</TextUnit>
+    <TextUnit id="54" loc="3.10">artibus ornasti, quas didicisse iuvat —</TextUnit>
+    <TextUnit id="55" loc="3.11">te sibi Palladiae antetulit toga docta Tolosae,</TextUnit>
+    <TextUnit id="56" loc="3.12">te Narbonensis Gallia praeposuit,</TextUnit>
+    <TextUnit id="57" loc="3.13">ornasti cuius Latio sermone tribunal</TextUnit>
+    <TextUnit id="58" loc="3.14">et fora Hiberorum quaeque Novem populis,</TextUnit>
+    <TextUnit id="59" loc="3.15">hinc tenus Europam fama crescente petito</TextUnit>
+    <TextUnit id="60" loc="3.16">Constantinopolis rhetore te viguit,</TextUnit>
+    <TextUnit id="61" loc="3.17">tu per mille modos, per mille oracula fandi</TextUnit>
+    <TextUnit id="62" loc="3.18">doctus, facundus, tu celer, atque memor,</TextUnit>
+    <TextUnit id="63" loc="3.19">tu, postquam primis placui tibi traditus annis,</TextUnit>
+    <TextUnit id="64" loc="3.20">dixisti nato me satis esse tibi. me tibi,</TextUnit>
+    <TextUnit id="65" loc="3.21">me patribus clarum decus esse professus</TextUnit>
+    <TextUnit id="66" loc="3.22">dictasti fatis verba notanda meis.</TextUnit>
+    <TextUnit id="67" loc="3.23">Ergo vale Elysiam sortitus, avuncule, sedem:</TextUnit>
+    <TextUnit id="68" loc="3.24">haec tibi de Musis carmina libo tuis.</TextUnit>
+    <TextUnit id="69" loc="4.1">OFFICIOSA pium ne desere, pagina, munus:</TextUnit>
+    <TextUnit id="70" loc="4.2">maternum post hos commemoremus avum</TextUnit>
+    <TextUnit id="71" loc="4.3">Arborium, Haeduico ductum de stemmate nomen,</TextUnit>
+    <TextUnit id="72" loc="4.4">conplexum multas nobilitate domus,</TextUnit>
+    <TextUnit id="73" loc="4.5">qua Lugdunensis provincia quaque potentes</TextUnit>
+    <TextUnit id="74" loc="4.6">Haedues, Alpino quaque Vienna iugo.</TextUnit>
+    <TextUnit id="75" loc="4.7">invida set nimium generique opibusque superbis</TextUnit>
+    <TextUnit id="76" loc="4.8">aerumna incubuit; namque avus et genitor</TextUnit>
+    <TextUnit id="77" loc="4.9">proscripti, regnum cum Victorinus haberet</TextUnit>
+    <TextUnit id="78" loc="4.10">ductor et in Tetricos recidit imperium.</TextUnit>
+    <TextUnit id="79" loc="4.11">tum profugum in terris, per quas erumpit Aturrus</TextUnit>
+    <TextUnit id="80" loc="4.12">Tarbellique furor perstrepit oceani,</TextUnit>
+    <TextUnit id="81" loc="4.13">grassantis dudum fortunae tela paventem</TextUnit>
+    <TextUnit id="82" loc="4.14">pauperis Aemiliae condicio inplicuit.</TextUnit>
+    <TextUnit id="83" loc="4.15">mox tenuis multo quaesita pecunia nisu</TextUnit>
+    <TextUnit id="84" loc="4.16">solamen fesso, non et opes tribuit,</TextUnit>
+    <TextUnit id="85" loc="4.17">tu caeli numeros et conscia sidera fati</TextUnit>
+    <TextUnit id="86" loc="4.18">callebas studium dissimulanter agens,</TextUnit>
+    <TextUnit id="87" loc="4.19">non ignota tibi nostrae quoque formula vitae,</TextUnit>
+    <TextUnit id="88" loc="4.20">signatis quam tu condideras tabulis,</TextUnit>
+    <TextUnit id="89" loc="4.21">prodita non umquam; sed matris cura retexit,</TextUnit>
+    <TextUnit id="90" loc="4.22">sedula quam timidi cura tegebat avi.</TextUnit>
+    <TextUnit id="91" loc="4.23">tu novies denos vitam cum duxeris annos,</TextUnit>
+    <TextUnit id="92" loc="4.24">expertus Fortis tela cavenda deae,</TextUnit>
+    <TextUnit id="93" loc="4.25">amissum flesti per trina decennia natum</TextUnit>
+    <TextUnit id="94" loc="4.26">saucius: hoc leto lumine cassus eras.</TextUnit>
+    <TextUnit id="95" loc="4.27">dicebas sed te solacia longa fovere,</TextUnit>
+    <TextUnit id="96" loc="4.28">quod mea praecipuus fata maneret honos,</TextUnit>
+    <TextUnit id="97" loc="4.29">et modo conciliis animarum mixte priorum</TextUnit>
+    <TextUnit id="98" loc="4.30">fata tui certe nota nepotis habes.</TextUnit>
+    <TextUnit id="99" loc="4.31">sentis, quod quaestor, quod te praefectus et idem</TextUnit>
+    <TextUnit id="100" loc="4.32">consul honorifico munere conmemoro.</TextUnit>
+    <TextUnit id="101" loc="5.1">AEMILIAM nunc fare aviam, pia cura nepotis,</TextUnit>
+    <TextUnit id="102" loc="5.2">coniunx praedicto quae fuit Arborio.</TextUnit>
+    <TextUnit id="103" loc="5.3">nomen huic ioculare datum, cute fusca quod olim</TextUnit>
+    <TextUnit id="104" loc="5.4">aequales inter Maura vocata fuit.</TextUnit>
+    <TextUnit id="105" loc="5.5">sed non atra animo, qui clarior esset olore</TextUnit>
+    <TextUnit id="106" loc="5.6">et non calcata qui nive candidior.</TextUnit>
+    <TextUnit id="107" loc="5.7">et non deliciis ignoscere prompta pudendis</TextUnit>
+    <TextUnit id="108" loc="5.8">ad perpendiculum seque suosque habuit,</TextUnit>
+    <TextUnit id="109" loc="5.9">haec me praereptum cunis et ab ubere matris</TextUnit>
+    <TextUnit id="110" loc="5.10">blanda sub austeris inbuit inperiis.</TextUnit>
+    <TextUnit id="111" loc="5.11">tranquillos aviae cineres praestate, quieti</TextUnit>
+    <TextUnit id="112" loc="5.12">aeternum manes, si pia verba loquor.</TextUnit>
+    <TextUnit id="113" loc="6.1">TUQUE gradu generis matertera, sed vice matris</TextUnit>
+    <TextUnit id="114" loc="6.2">adfectu nati commemoranda pio,</TextUnit>
+    <TextUnit id="115" loc="6.3">Aemilia, in cunis Hilari cognomen adepta,</TextUnit>
+    <TextUnit id="116" loc="6.4">quod laeta et pueri comis ad effigiem,</TextUnit>
+    <TextUnit id="117" loc="6.5">reddebas verum non dissimulanter ephebum,</TextUnit>
+    <TextUnit id="118" loc="6.6">more virum medicis artibus experiens,</TextUnit>
+    <TextUnit id="119" loc="6.7">feminei sexus odium tibi semper et inde</TextUnit>
+    <TextUnit id="120" loc="6.8">crevit devotae virginitatis amor.</TextUnit>
+    <TextUnit id="121" loc="6.9">quae tibi septenos novies est culta per annos</TextUnit>
+    <TextUnit id="122" loc="6.10">quique aevi finis, ipse pudicitiae.</TextUnit>
+    <TextUnit id="123" loc="6.11">haec, quia uti mater monitis et amore fovebas,</TextUnit>
+    <TextUnit id="124" loc="6.12">supremis reddo filius exequiis.</TextUnit>
+    <TextUnit id="125" loc="7.1">Et patruos, elegea, meos reminiscere cantu,</TextUnit>
+    <TextUnit id="126" loc="7.2">Contemtum, tellus quem Rutupina tegit;</TextUnit>
+    <TextUnit id="127" loc="7.3">magna cui et variae quaesita pecunia sortis</TextUnit>
+    <TextUnit id="128" loc="7.4">heredis nullo nomine tuta perit;</TextUnit>
+    <TextUnit id="129" loc="7.5">raptus enim laetis et adhuc florentibus annis</TextUnit>
+    <TextUnit id="130" loc="7.6">trans mare et ignaris fratribus oppetiit.</TextUnit>
+    <TextUnit id="131" loc="7.7">Iulius in longam produxit fata senectam,</TextUnit>
+    <TextUnit id="132" loc="7.8">adfectus damnis innumerabilibus,</TextUnit>
+    <TextUnit id="133" loc="7.9">qui comis blandusque et mensa commodus uncta</TextUnit>
+    <TextUnit id="134" loc="7.10">heredes solo nomine nos habuit.</TextUnit>
+    <TextUnit id="135" loc="7.11">Ambo pii, vultu similes, ioca seria mixti,</TextUnit>
+    <TextUnit id="136" loc="7.12">aevi fortunam non habuere parem,</TextUnit>
+    <TextUnit id="137" loc="7.13">discreti quamquam tumulis et honore iacetis,</TextUnit>
+    <TextUnit id="138" loc="7.14">commune hoc vobis munus habete, “vale.”</TextUnit>
+    <TextUnit id="139" loc="8.1">QUI proceres veteremque volet celebrare senatum</TextUnit>
+    <TextUnit id="140" loc="8.2">claraque ab exortu stemmata Burdigalae,</TextUnit>
+    <TextUnit id="141" loc="8.3">teque tuumque genus memoret, Lucane Talisi,</TextUnit>
+    <TextUnit id="142" loc="8.4">moribus ornasti qui veteres proavos.</TextUnit>
+    <TextUnit id="143" loc="8.5">pulcher honore oris, tranquillo pectore comis,</TextUnit>
+    <TextUnit id="144" loc="8.6">facundo quamvis maior ab ingenio:</TextUnit>
+    <TextUnit id="145" loc="8.7">venatu et ruris cultu victusque nitore</TextUnit>
+    <TextUnit id="146" loc="8.8">omne aevum peragens, publica despiciens:</TextUnit>
+    <TextUnit id="147" loc="8.9">nosci inter primos cupiens, prior esse recusans,</TextUnit>
+    <TextUnit id="148" loc="8.10">ipse tuo vivens segregus arbitrio.</TextUnit>
+    <TextUnit id="149" loc="8.11">optabas tu me generum florente iuventa:</TextUnit>
+    <TextUnit id="150" loc="8.12">optare hoc tantum, non et habere datum,</TextUnit>
+    <TextUnit id="151" loc="8.13">vota probant superi mentisque faventia sanctis</TextUnit>
+    <TextUnit id="152" loc="8.14">inplent fata, viri quod voluere boni.</TextUnit>
+    <TextUnit id="153" loc="8.15">et nunc perpetui sentis sub honore sepulcri,</TextUnit>
+    <TextUnit id="154" loc="8.16">quam reverens natae quamque tui maneam.</TextUnit>
+    <TextUnit id="155" loc="8.17">caelebs namque gener haec nunc pia munera solvo</TextUnit>
+    <TextUnit id="156" loc="8.18">nam et caelebs numquam desinam et esse gener.</TextUnit>
+    <TextUnit id="157" loc="9.1">HACTENUS ut caros, ita iusto funere fletos</TextUnit>
+    <TextUnit id="158" loc="9.2">functa piis cecinit nenia nostra modis,</TextUnit>
+    <TextUnit id="159" loc="9.3">nunc dolor atque cruces nec contrectabile vulnus,</TextUnit>
+    <TextUnit id="160" loc="9.4">coniugis ereptae mors memoranda mihi.</TextUnit>
+    <TextUnit id="161" loc="9.5">nobilis a proavis et origine clara senatus,</TextUnit>
+    <TextUnit id="162" loc="9.6">moribus atque bonis clara Sabina magis,</TextUnit>
+    <TextUnit id="163" loc="9.7">te iuvenis primis luxi deceptus in annis</TextUnit>
+    <TextUnit id="164" loc="9.8">perque novem caelebs te fleo Olympiadas.</TextUnit>
+    <TextUnit id="165" loc="9.9">nec licet obductum senio sopire dolorem;</TextUnit>
+    <TextUnit id="166" loc="9.10">semper crudescit nam mihi paene recens.</TextUnit>
+    <TextUnit id="167" loc="9.11">admittunt alii solacia temporis aegri:</TextUnit>
+    <TextUnit id="168" loc="9.12">haec graviora facit vulnera longa dies.</TextUnit>
+    <TextUnit id="169" loc="9.13">torqueo deceptos ego vita caelibe canos,</TextUnit>
+    <TextUnit id="170" loc="9.14">quoque magis solus, hoc mage maestus ago.</TextUnit>
+    <TextUnit id="171" loc="9.15">vulnus alit, quod muta domus silet et torus alget,</TextUnit>
+    <TextUnit id="172" loc="9.16">quod mala non cuiquam, non bona participo.</TextUnit>
+    <TextUnit id="173" loc="9.17">maereo, si coniunx alii bona; maereo contra,</TextUnit>
+    <TextUnit id="174" loc="9.18">si mala: ad exemplum tu mihi semper ades.</TextUnit>
+    <TextUnit id="175" loc="9.19">tu mihi crux ab utraque venis: sive est mala, quod tu</TextUnit>
+    <TextUnit id="176" loc="9.20">dissimilis fueris; seu bona, quod similis.</TextUnit>
+    <TextUnit id="177" loc="9.21">non ego opes cassas et inania gaudia plango,</TextUnit>
+    <TextUnit id="178" loc="9.22">sed iuvenis iuveni quod mihi rapta viro.</TextUnit>
+    <TextUnit id="179" loc="9.23">laeta, pudica, gravis, genus inclita et inclita forma,</TextUnit>
+    <TextUnit id="180" loc="9.24">et dolor atque decus coniugis Ausonii,</TextUnit>
+    <TextUnit id="181" loc="9.25">quae modo septenos quater inpletura Decembres</TextUnit>
+    <TextUnit id="182" loc="9.26">liquisti natos, pignera nostra, duos.</TextUnit>
+    <TextUnit id="183" loc="9.27">illa favore dei, sicut tua vota fuerunt,</TextUnit>
+    <TextUnit id="184" loc="9.28">florent, optatis adcumulata bonis,</TextUnit>
+    <TextUnit id="185" loc="9.29">et precor, ut vigeant tandemque superstite utroque</TextUnit>
+    <TextUnit id="186" loc="9.30">nuntiet hoc cineri nostra favilla tuo.</TextUnit>
+    <TextUnit id="187" loc="10.1">NON ego te infletum memori fraudabo querella,</TextUnit>
+    <TextUnit id="188" loc="10.2">primus, nate, meo nomine dicte puer:</TextUnit>
+    <TextUnit id="189" loc="10.3">murmura quem primis meditantem absolvere verbis</TextUnit>
+    <TextUnit id="190" loc="10.4">indolis et plenae, planximus exequiis.1</TextUnit>
+    <TextUnit id="191" loc="10.5">tu gremio in proavi funus commune Iocatus,</TextUnit>
+    <TextUnit id="192" loc="10.6">invidiam tumuli ne paterere tui.</TextUnit>
+    <TextUnit id="193" loc="11.1">TU quoque maturos, puer inmature, dolores</TextUnit>
+    <TextUnit id="194" loc="11.2">interrupisti luctus acerbus avi,</TextUnit>
+    <TextUnit id="195" loc="11.3">Pastor care nepos, spes cuius certa fuisses, 1</TextUnit>
+    <TextUnit id="196" loc="11.4">Hesperii patris tertia progenies,</TextUnit>
+    <TextUnit id="197" loc="11.5">nomen, quod casus dederat (quia fistula primum</TextUnit>
+    <TextUnit id="198" loc="11.6">pastorale melos concinuit genito),</TextUnit>
+    <TextUnit id="199" loc="11.7">sero intellectum vitae brevis argumentum:</TextUnit>
+    <TextUnit id="200" loc="11.8">spiritus adflatis quod fugit e calamis,</TextUnit>
+    <TextUnit id="201" loc="11.9">occidis emissae percussus pondere testae,</TextUnit>
+    <TextUnit id="202" loc="11.10">abiecit tecto quam manus artificis.</TextUnit>
+    <TextUnit id="203" loc="11.11">non fuit artificis manus haec: manus illa cruenti</TextUnit>
+    <TextUnit id="204" loc="11.12">certa fuit fati suppositura reum.</TextUnit>
+    <TextUnit id="205" loc="11.13">heu, quae vota mihi, quae rumpis gaudia. Pastor!</TextUnit>
+    <TextUnit id="206" loc="11.14">illa meum petiit tegula missa caput,</TextUnit>
+    <TextUnit id="207" loc="11.15">dignior o, nostrae gemeres qui fata senectae</TextUnit>
+    <TextUnit id="208" loc="11.16">et quererere meas maestus ad exequias!</TextUnit>
+    <TextUnit id="209" loc="12.1">SI qua fuit virtus, cuperet quam femina prudens</TextUnit>
+    <TextUnit id="210" loc="12.2">esse suam, soror hac Dryadia haud caruit,</TextUnit>
+    <TextUnit id="211" loc="12.3">quin etiam multas habuit, quas sexus habere</TextUnit>
+    <TextUnit id="212" loc="12.4">fortior optaret nobilitasque virum,</TextUnit>
+    <TextUnit id="213" loc="12.5">docta satis vitamque colu famamque tueri,</TextUnit>
+    <TextUnit id="214" loc="12.6">docta bonos mores ipsa suosque docens,</TextUnit>
+    <TextUnit id="215" loc="12.7">et verum vita cui carius unaque cura</TextUnit>
+    <TextUnit id="216" loc="12.8">nosse deum et fratrem diligere ante alios.</TextUnit>
+    <TextUnit id="217" loc="12.9">coniuge adhuc iuvenis caruit, sed seria vitans</TextUnit>
+    <TextUnit id="218" loc="12.10">moribus austeras aequiperavit anus</TextUnit>
+    <TextUnit id="219" loc="12.11">produxitque hilarem per sena decennia vitam,</TextUnit>
+    <TextUnit id="220" loc="12.12">inque domo ac tecto, quo pater, oppetiit.</TextUnit>
+    <TextUnit id="221" loc="13.1">AVITIANUM, Musa, germanum meum</TextUnit>
+    <TextUnit id="222" loc="13.2">dona querella funebri,</TextUnit>
+    <TextUnit id="223" loc="13.3">minor iste natu me, sed ingenio prior</TextUnit>
+    <TextUnit id="224" loc="13.4">artes paternas inhibit.</TextUnit>
+    <TextUnit id="225" loc="13.5">verum iuventae flore laeto perfrui</TextUnit>
+    <TextUnit id="226" loc="13.6">aevique supra puberis</TextUnit>
+    <TextUnit id="227" loc="13.7">exire metas vetuit infesta Atropos.</TextUnit>
+    <TextUnit id="228" loc="13.8">heu quem dolorem sociis!</TextUnit>
+    <TextUnit id="229" loc="13.9">heu quanta vitae decora, quem cultum spei,1</TextUnit>
+    <TextUnit id="230" loc="13.10">germane, pubes deseris,</TextUnit>
+    <TextUnit id="231" loc="13.11">germane carnis lege et ortu sanguinis,</TextUnit>
+    <TextUnit id="232" loc="13.12">amore paene filius!</TextUnit>
+    <TextUnit id="233" loc="14.1">O GENERIS clari decus, o mihi funus acerbum,</TextUnit>
+    <TextUnit id="234" loc="14.2">Euromi, e iuvenum lecte cohorte gener,</TextUnit>
+    <TextUnit id="235" loc="14.3">occidis in primae raptus mihi flore iuventae,</TextUnit>
+    <TextUnit id="236" loc="14.4">laetantis nati vix bene note pater,</TextUnit>
+    <TextUnit id="237" loc="14.5">tu procerum de stirpe satus, praegressus et ipsos,</TextUnit>
+    <TextUnit id="238" loc="14.6">unde genus clarae nobilitatis erat,</TextUnit>
+    <TextUnit id="239" loc="14.7">ore decens, bonus ingenio, facundus et omni</TextUnit>
+    <TextUnit id="240" loc="14.8">dexteritate vigens praecipuusque fide.</TextUnit>
+    <TextUnit id="241" loc="14.9">hoc praefecturae sedes, hoc Illyris ora</TextUnit>
+    <TextUnit id="242" loc="14.10">praeside te experta est, fiscus et ipse cliens.</TextUnit>
+    <TextUnit id="243" loc="14.11">nil aevi brevitate tamen tibi laudis ademptum:</TextUnit>
+    <TextUnit id="244" loc="14.12">indole maturus, funere acerbus obis.</TextUnit>
+    <TextUnit id="245" loc="15.1">ET te germanum non sanguine, sed vice fratris,</TextUnit>
+    <TextUnit id="246" loc="15.2">Maxime, defunctum nenia nostra canet,</TextUnit>
+    <TextUnit id="247" loc="15.3">coniunx namque meae tu consociate sorori</TextUnit>
+    <TextUnit id="248" loc="15.4">aevi fruge tui destituis viduam,</TextUnit>
+    <TextUnit id="249" loc="15.5">non domus hoc tantum sensit tua: sensit acerbum</TextUnit>
+    <TextUnit id="250" loc="15.6">saucia, pro, casum curia Burdigalae,</TextUnit>
+    <TextUnit id="251" loc="15.7">te primore vigens, te deficiente relabens</TextUnit>
+    <TextUnit id="252" loc="15.8">inque Valentinum te moriente cadens,</TextUnit>
+    <TextUnit id="253" loc="15.9">heu quare nato, qui fruge et flore nepotum,</TextUnit>
+    <TextUnit id="254" loc="15.10">ereptus nobis, Maxime, non frueris?</TextUnit>
+    <TextUnit id="255" loc="15.11">set frueris, divina habitat si portio manes</TextUnit>
+    <TextUnit id="256" loc="15.12">quaeque futura olim gaudia, nosse datur,</TextUnit>
+    <TextUnit id="257" loc="15.13">longior hic etiam laetorum fructus habetur — anticipasse</TextUnit>
+    <TextUnit id="258" loc="15.14">diu, quae modo participas.</TextUnit>
+    <TextUnit id="259" loc="16.1">TU quoque sive nurus mihi nomine, vel vice natae,</TextUnit>
+    <TextUnit id="260" loc="16.2">Veria, supremi carmen honoris habe.</TextUnit>
+    <TextUnit id="261" loc="16.3">cuius si probitas, si forma et fama fidesque</TextUnit>
+    <TextUnit id="262" loc="16.4">morigerae uxoris lanificaeque manus</TextUnit>
+    <TextUnit id="263" loc="16.5">nunc laudanda forent, procul et de manibus imis</TextUnit>
+    <TextUnit id="264" loc="16.6">accersenda foret vox 1 proavi Eusebii.</TextUnit>
+    <TextUnit id="265" loc="16.7">qui quoniam functo iam pridem conditus aevo</TextUnit>
+    <TextUnit id="266" loc="16.8">transcripsit partes in mea verba suas,</TextUnit>
+    <TextUnit id="267" loc="16.9">accipe funereas, neptis defleta, querellas,</TextUnit>
+    <TextUnit id="268" loc="16.10">coniunx Arborii commemoranda mei,</TextUnit>
+    <TextUnit id="269" loc="16.11">cui parva ingentis luctus solacia linquens</TextUnit>
+    <TextUnit id="270" loc="16.12">destituis natos, quo magis excrucias.</TextUnit>
+    <TextUnit id="271" loc="16.13">at tibi dilecti ne desit cura mariti,</TextUnit>
+    <TextUnit id="272" loc="16.14">iuncta colis thalamo nunc monumenta tuo.</TextUnit>
+    <TextUnit id="273" loc="16.15">hic, ubi primus hymen, sedes ibi maesta sepulcri:</TextUnit>
+    <TextUnit id="274" loc="16.16">nupta magis dici quam tumulata potes.</TextUnit>
+    <TextUnit id="275" loc="17.1">NEC germana genitum te</TextUnit>
+    <TextUnit id="276" loc="17.2">modulamine nenia tristi</TextUnit>
+    <TextUnit id="277" loc="17.3">tacitum sine honore relinquat,</TextUnit>
+    <TextUnit id="278" loc="17.4">super indole cuius adulti</TextUnit>
+    <TextUnit id="279" loc="17.5">magnae bona copia laudis.</TextUnit>
+    <TextUnit id="280" loc="17.6">verum memorare magis quam</TextUnit>
+    <TextUnit id="281" loc="17.7">functum laudare decebit.</TextUnit>
+    <TextUnit id="282" loc="17.8">decus hoc matrisque meumque</TextUnit>
+    <TextUnit id="283" loc="17.9">in tempore puberis aevi</TextUnit>
+    <TextUnit id="284" loc="17.10">vis perculit invida fati.</TextUnit>
+    <TextUnit id="285" loc="17.11">eheu quem, Maxime, fructum,</TextUnit>
+    <TextUnit id="286" loc="17.12">facunde et musice et acer,</TextUnit>
+    <TextUnit id="287" loc="17.13">mentem bonus, ingenio ingens,</TextUnit>
+    <TextUnit id="288" loc="17.14">volucer pede, corpore pulcher,</TextUnit>
+    <TextUnit id="289" loc="17.15">lingua catus, ore canorus.</TextUnit>
+    <TextUnit id="290" loc="17.16">cape munera tristia patrum,</TextUnit>
+    <TextUnit id="291" loc="17.17">lacrimabilis orsa querellae,</TextUnit>
+    <TextUnit id="292" loc="17.18">quae funereo modulatu</TextUnit>
+    <TextUnit id="293" loc="17.19">tibi maestus avunculus offert.</TextUnit>
+    <TextUnit id="294" loc="18.1">QUI ioca laetitiamque colis, qui tristia damnas</TextUnit>
+    <TextUnit id="295" loc="18.2">nec metuis quemquam nec metuendus agis,</TextUnit>
+    <TextUnit id="296" loc="18.3">qui nullum insidiis captas nec lite lacessis,</TextUnit>
+    <TextUnit id="297" loc="18.4">sed iustam et clemens vitam agis et sapiens,</TextUnit>
+    <TextUnit id="298" loc="18.5">tranquillos manes supremaque mitia Sancti</TextUnit>
+    <TextUnit id="299" loc="18.6">ore pio et verbis advenerare bonis,</TextUnit>
+    <TextUnit id="300" loc="18.7">militiam nullo qui turbine sedulus egit,</TextUnit>
+    <TextUnit id="301" loc="18.8">praeside laetatus quo Rutupinus ager,</TextUnit>
+    <TextUnit id="302" loc="18.9">octoginta annos cuius tranquilla senectus</TextUnit>
+    <TextUnit id="303" loc="18.10">nullo mutavit deteriore die.</TextUnit>
+    <TextUnit id="304" loc="18.11">ergo precare favens, ut qualia tempora vitae,</TextUnit>
+    <TextUnit id="305" loc="18.12">talia et ad manes otia Sanctus agat.</TextUnit>
+    <TextUnit id="306" loc="19.1">TUQUE Pudentillam verbis adfare supremis,</TextUnit>
+    <TextUnit id="307" loc="19.2">quae famae curam, quae probitatis habes,</TextUnit>
+    <TextUnit id="308" loc="19.3">nobilis haec, frugi, proba, laeta, pudica, decora,</TextUnit>
+    <TextUnit id="309" loc="19.4">coniugium Sancti iugiter haec habuit.</TextUnit>
+    <TextUnit id="310" loc="19.5">inviolata tuens castae praeconia vitae</TextUnit>
+    <TextUnit id="311" loc="19.6">rexit opes proprias otia agente viro:</TextUnit>
+    <TextUnit id="312" loc="19.7">non ideo exprobrans aut fronte obducta marito,</TextUnit>
+    <TextUnit id="313" loc="19.8">quod gereret totam femina sola domum.</TextUnit>
+    <TextUnit id="314" loc="19.9">heu nimium iuvenis, sed laeta superstate nato</TextUnit>
+    <TextUnit id="315" loc="19.10">atque viro, patiens fata suprema obiit:</TextUnit>
+    <TextUnit id="316" loc="19.11">unanimis nostrae et quondam germana Sabinae</TextUnit>
+    <TextUnit id="317" loc="19.12">et mihi inoffenso nomine dicta soror.</TextUnit>
+    <TextUnit id="318" loc="19.13">nunc etiam manes placidos pia cura retractat</TextUnit>
+    <TextUnit id="319" loc="19.14">atque Pundentillam fantis honore colit.</TextUnit>
+    <TextUnit id="320" loc="20.1">NEC iam tu, matris spes unica, ephebe Talisi,</TextUnit>
+    <TextUnit id="321" loc="20.2">consobrine meus, inmemoratus eris,</TextUnit>
+    <TextUnit id="322" loc="20.3">ereptus primis aevi florentis in annis,</TextUnit>
+    <TextUnit id="323" loc="20.4">iam tamen et coniunx, iam properate pater,</TextUnit>
+    <TextUnit id="324" loc="20.5">festinasse putes fatum, ne funus acerbum</TextUnit>
+    <TextUnit id="325" loc="20.6">diceret hoc genitor tam cito factus avus.</TextUnit>
+    <TextUnit id="326" loc="21.1">NOTITIA exilis nobis, Attusia, tecum,</TextUnit>
+    <TextUnit id="327" loc="21.2">cumque tuo plane coniuge nulla fuit.</TextUnit>
+    <TextUnit id="328" loc="21.3">verum tu nostrae soror es germana Sabinae,</TextUnit>
+    <TextUnit id="329" loc="21.4">adfinis quoque tu, Regule, nomen habes,</TextUnit>
+    <TextUnit id="330" loc="21.5">sortitos igitur tam cara vocabula nobis</TextUnit>
+    <TextUnit id="331" loc="21.6">stringamus maesti carminis obsequio,</TextUnit>
+    <TextUnit id="332" loc="21.7">quamvis Santonica procul in tellure iacentes</TextUnit>
+    <TextUnit id="333" loc="21.8">pervenit ad manes exequialis honor.</TextUnit>
+    <TextUnit id="334" loc="22.1">DESINITE, o veteres, Calpurnia nomina, Frugi</TextUnit>
+    <TextUnit id="335" loc="22.2">ut proprium hoc vestrae gentis habere decus,</TextUnit>
+    <TextUnit id="336" loc="22.3">nec solus semper censor Cato nec sibi solus</TextUnit>
+    <TextUnit id="337" loc="22.4">iustus Aristides his placeant titulis,</TextUnit>
+    <TextUnit id="338" loc="22.5">nam sapiens quicumque fuit verumque fidemque</TextUnit>
+    <TextUnit id="339" loc="22.6">qui coluit, comitem se tibi, Censor, agat.</TextUnit>
+    <TextUnit id="340" loc="22.7">tu gravis et comis cum iustitiaque remissus,</TextUnit>
+    <TextUnit id="341" loc="22.8">austeris doctus iungere temperiem,</TextUnit>
+    <TextUnit id="342" loc="22.9">tu non adscito tibi me nec sanguine iuncto</TextUnit>
+    <TextUnit id="343" loc="22.10">optasti nostras consociare domos.</TextUnit>
+    <TextUnit id="344" loc="22.11">nempe aliqua in nobis morum simulacra tuorum</TextUnit>
+    <TextUnit id="345" loc="22.12">effigies nostri praebuit ingenii;</TextUnit>
+    <TextUnit id="346" loc="22.13">aut iam Fortunae sic se vertigo rotabat,</TextUnit>
+    <TextUnit id="347" loc="22.14">ut pondus fatis tam bona vota darent,</TextUnit>
+    <TextUnit id="348" loc="22.15">si quid aput manes sentis, fovet hoc tibi mentem,</TextUnit>
+    <TextUnit id="349" loc="22.16">quod fieri optaras, id voluisse deum.</TextUnit>
+    <TextUnit id="350" loc="23.1">Qui nomen vultumque patris, Pauline, gerebas,</TextUnit>
+    <TextUnit id="351" loc="23.2">amissi specimen qui genitoris eras;</TextUnit>
+    <TextUnit id="352" loc="23.3">propter quem luctus miserae decedere matris</TextUnit>
+    <TextUnit id="353" loc="23.4">coeperat, offerret cum tua forma patrem,</TextUnit>
+    <TextUnit id="354" loc="23.5">redderet et mores et moribus adderet illud,</TextUnit>
+    <TextUnit id="355" loc="23.6">Paulinus caruit quo pater, eloquium:</TextUnit>
+    <TextUnit id="356" loc="23.7">eriperis laetis et pubescentibus annis</TextUnit>
+    <TextUnit id="357" loc="23.8">crudaque adhuc matris pectora sollicitas.</TextUnit>
+    <TextUnit id="358" loc="23.9">flemus enim et raptam thalami de sede sororem,</TextUnit>
+    <TextUnit id="359" loc="23.10">heu non maturo funere, Dryadiam.</TextUnit>
+    <TextUnit id="360" loc="23.11">flemus, ego in primis, qui matris avunculus, ac vos</TextUnit>
+    <TextUnit id="361" loc="23.12">natorum tamquam diligo progeniem,</TextUnit>
+    <TextUnit id="362" loc="23.13">illa manus inter genetricis et oscula patris</TextUnit>
+    <TextUnit id="363" loc="23.14">occidit, Hispana tu regione procul,</TextUnit>
+    <TextUnit id="364" loc="23.15">quam tener et primo nove flos decerperis aevo,</TextUnit>
+    <TextUnit id="365" loc="23.16">nondum purpureas cinctus ephebe genas!</TextUnit>
+    <TextUnit id="366" loc="23.17">quattuor ediderat nunc functa puerpera partus,</TextUnit>
+    <TextUnit id="367" loc="23.18">funera set tumulis iam geminata dedit.</TextUnit>
+    <TextUnit id="368" loc="23.19">Sit satis hoc, Pauline pater; divisio facta est:1</TextUnit>
+    <TextUnit id="369" loc="23.20">debetur matri cetera progenies.</TextUnit>
+    <TextUnit id="370" loc="24.1">QUI laetum ingenium, mores qui diligit aequos</TextUnit>
+    <TextUnit id="371" loc="24.2">quique fidem sancta cum pietate colit,</TextUnit>
+    <TextUnit id="372" loc="24.3">Paulini manes mecum veneratus amicis</TextUnit>
+    <TextUnit id="373" loc="24.4">inroret lacrimis annua liba ferens,</TextUnit>
+    <TextUnit id="374" loc="24.5">aequaevus, Pauline, mihi natamque sororis</TextUnit>
+    <TextUnit id="375" loc="24.6">indeptus thalamo: sic mihi paene gener,</TextUnit>
+    <TextUnit id="376" loc="24.7">stirpis Aquitanae mater tibi: nam genitori</TextUnit>
+    <TextUnit id="377" loc="24.8">Cossio Vasatum, municipale genus.</TextUnit>
+    <TextUnit id="378" loc="24.9">scrinia praefecti meritus, rationibus inde</TextUnit>
+    <TextUnit id="379" loc="24.10">praepositus Libycis praemia opima capis.</TextUnit>
+    <TextUnit id="380" loc="24.11">nam correcturae tibi Tarraco Hibera tribunal</TextUnit>
+    <TextUnit id="381" loc="24.12">praebuit, adfectans esse clienta tibi.</TextUnit>
+    <TextUnit id="382" loc="24.13">tu socrum pro matre colens adfinis haberi</TextUnit>
+    <TextUnit id="383" loc="24.14">non poteras, nati cum fruerere loco.</TextUnit>
+    <TextUnit id="384" loc="24.15">inter concordes vixisti fidus amicos,</TextUnit>
+    <TextUnit id="385" loc="24.16">duodeviginti functus Olympiadas.</TextUnit>
+    <TextUnit id="386" loc="25.1">TE quoque Dryadiam materteram</TextUnit>
+    <TextUnit id="387" loc="25.2">flebilibus modulis</TextUnit>
+    <TextUnit id="388" loc="25.3">germana genitus, prope filius,</TextUnit>
+    <TextUnit id="389" loc="25.4">ore pio veneror,</TextUnit>
+    <TextUnit id="390" loc="25.5">quam thalamo taedisque iugalibus</TextUnit>
+    <TextUnit id="391" loc="25.6">invida mors rapuit;</TextUnit>
+    <TextUnit id="392" loc="25.7">mutavitque torum feretri vice</TextUnit>
+    <TextUnit id="393" loc="25.8">exequialis honor,</TextUnit>
+    <TextUnit id="394" loc="25.9">discebas in me, matertera</TextUnit>
+    <TextUnit id="395" loc="25.10">mater uti fieres;</TextUnit>
+    <TextUnit id="396" loc="25.11">unde modo hoc maestum tibi defero</TextUnit>
+    <TextUnit id="397" loc="25.12">filius officium.</TextUnit>
+    <TextUnit id="398" loc="26.1">QUIN et funereis amitam inpertire querellis,</TextUnit>
+    <TextUnit id="399" loc="26.2">Musa, Cataphroniam.</TextUnit>
+    <TextUnit id="400" loc="26.3">innuba devotae quae virginitatis amorem</TextUnit>
+    <TextUnit id="401" loc="26.4">parcaque anus coluit:</TextUnit>
+    <TextUnit id="402" loc="26.5">et mihi, quod potuit, quamvis de paupere summa,</TextUnit>
+    <TextUnit id="403" loc="26.6">mater uti, adtribuit.</TextUnit>
+    <TextUnit id="404" loc="26.7">ergo commemorata have maestumque vocata</TextUnit>
+    <TextUnit id="405" loc="26.8">pro genetrice vale.</TextUnit>
+    <TextUnit id="406" loc="27.1">ET amita Veneria properiter obiit:</TextUnit>
+    <TextUnit id="407" loc="27.2">cui brevia melea modifica recino:</TextUnit>
+    <TextUnit id="408" loc="27.3">cinis ut placidulus ab opere vigeat,</TextUnit>
+    <TextUnit id="409" loc="27.4">celeripes adeat loca tacita Erebi.</TextUnit>
+    <TextUnit id="410" loc="28.1">PARVA etiam fuit Idalia,</TextUnit>
+    <TextUnit id="411" loc="28.2">nomine praedita quae Paphiae</TextUnit>
+    <TextUnit id="412" loc="28.3">et speciem meruit Veneris;</TextUnit>
+    <TextUnit id="413" loc="28.4">quae genita est mihi paene soror,</TextUnit>
+    <TextUnit id="414" loc="28.5">filia nam fuit haec amitae,</TextUnit>
+    <TextUnit id="415" loc="28.6">quam celebrat sub honore pio</TextUnit>
+    <TextUnit id="416" loc="28.7">nenia carmine funereo.</TextUnit>
+    <TextUnit id="417" loc="29.1">AEMILIA et, vix nota mihi soror, accipe questus,</TextUnit>
+    <TextUnit id="418" loc="29.2">debent quos cineri maesta elegea tuo.</TextUnit>
+    <TextUnit id="419" loc="29.3">coniunxit nostras aequaeva infantia cunas,</TextUnit>
+    <TextUnit id="420" loc="29.4">uno quamvis tu consule maior eras.</TextUnit>
+    <TextUnit id="421" loc="29.5">invida set nimium Lachesis properata peregit</TextUnit>
+    <TextUnit id="422" loc="29.6">tempora et ad manes funera acerba dedit,</TextUnit>
+    <TextUnit id="423" loc="29.7">praemissa ergo vale manesque verere parentum,</TextUnit>
+    <TextUnit id="424" loc="29.8">qui maiore aevo quique minore venit.</TextUnit>
+    <TextUnit id="425" loc="30.1">UT generis clari, veterum sic femina morum,</TextUnit>
+    <TextUnit id="426" loc="30.2">Urbica, Censoris nobilitata toro;</TextUnit>
+    <TextUnit id="427" loc="30.3">ingenitis pollens virtutibus auctaque et illis,</TextUnit>
+    <TextUnit id="428" loc="30.4">quas docuit coniunx, quas pater et genetrix — quas</TextUnit>
+    <TextUnit id="429" loc="30.5">habuit Tanaquil, quas Pythagorea Theano</TextUnit>
+    <TextUnit id="430" loc="30.6">quaeque sine exemplo in nece functa viri.</TextUnit>
+    <TextUnit id="431" loc="30.7">et tibi si fatum sic permutare dedisset,</TextUnit>
+    <TextUnit id="432" loc="30.8">viveret hoc nostro tempore Censor adhuc,</TextUnit>
+    <TextUnit id="433" loc="30.9">set neque tu viduo longum cruciata sub aevo</TextUnit>
+    <TextUnit id="434" loc="30.10">protinus optato fine secuta virum.</TextUnit>
+    <TextUnit id="435" loc="30.11">annua nunc maestis ferimus tibi iusta querellis</TextUnit>
+    <TextUnit id="436" loc="30.12">cum genero et natis consocer Ausonius.</TextUnit>
+  </Text>
+</TessDocument>

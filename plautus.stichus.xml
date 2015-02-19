@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="plautus.stichus">
+  <Metadata>
+    <Author>plautus</Author>
+    <Display>Stichus</Display>
+    <Abbr>pl. stich.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>T. Maccius Plautus. Plauti Comoediae. F. Leo. Berlin. Weidmann. 1895.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.02.0047</DigitalSourceURL>
+    <AddedBy>Chris Forstall</AddedBy>
+    <URI>urn:cts:latinLit:phi0119.phi018.perseus-lat1</URI>
+  </Metadata>
+  <Text>
+    <TextUnit id="0" loc="1">Credo ego miseram</TextUnit>
+    <TextUnit id="1" loc="1a">fuisse Penelopam,</TextUnit>
+    <TextUnit id="2" loc="2">soror, suo ex animo,</TextUnit>
+    <TextUnit id="3" loc="2a">quae tam diu vidua</TextUnit>
+    <TextUnit id="4" loc="3">viro suo caruit;</TextUnit>
+    <TextUnit id="5" loc="3a">nam nos eius animum</TextUnit>
+    <TextUnit id="6" loc="4">de nostris factis noscimus, quarum viri hinc apsunt,</TextUnit>
+    <TextUnit id="7" loc="5">quorumque nos negotiis apsentum, ita ut aequom est,</TextUnit>
+    <TextUnit id="8" loc="6">sollicitae noctes et dies, soror, sumus semper.</TextUnit>
+    <TextUnit id="9" loc="7">Nostrum officium</TextUnit>
+    <TextUnit id="10" loc="7a">nos facere aequomst,</TextUnit>
+    <TextUnit id="11" loc="8">neque id magis facimus</TextUnit>
+    <TextUnit id="12" loc="8a">quam nos monet pietas.</TextUnit>
+    <TextUnit id="13" loc="9">sed hic, soror, asside dum: multa volo tecum</TextUnit>
+    <TextUnit id="14" loc="10">loqui de re viri. Salvene, amabo?</TextUnit>
+    <TextUnit id="15" loc="11">Spero quidem et volo; sed hoc, soror, crucior,</TextUnit>
+    <TextUnit id="16" loc="12">patrem tuom meumque adeo, unice qui unus</TextUnit>
+    <TextUnit id="17" loc="13">civibus ex omnibus probus perhibetur,</TextUnit>
+    <TextUnit id="18" loc="14">eum nunc improbi viri officio uti,</TextUnit>
+    <TextUnit id="19" loc="15">viris qui tantas apsentibus nostris</TextUnit>
+    <TextUnit id="20" loc="16">facit iniurias immerito</TextUnit>
+    <TextUnit id="21" loc="17">nosque ab eis abducere volt.</TextUnit>
+    <TextUnit id="22" loc="18">haec res vitae me, soror, saturant,</TextUnit>
+    <TextUnit id="23" loc="19">haec mihi dividiae et senio sunt.</TextUnit>
+    <TextUnit id="24" loc="20">Ne lacruma, soror, neu tuo id animo</TextUnit>
+    <TextUnit id="25" loc="21">fac quod tibi tuos pater facere minatur:</TextUnit>
+    <TextUnit id="26" loc="22">spes est eum melius facturum.</TextUnit>
+    <TextUnit id="27" loc="23">novi ego illum: ioculo istaec dicit,</TextUnit>
+    <TextUnit id="28" loc="24">neque ille sibi mereat Persarum</TextUnit>
+    <TextUnit id="29" loc="25">montis, qui esse aurei perhibentur,</TextUnit>
+    <TextUnit id="30" loc="26">ut istuc faciat quod tu metuis.</TextUnit>
+    <TextUnit id="31" loc="27">tamen si faciat, minime irasci</TextUnit>
+    <TextUnit id="32" loc="28">decet, neque id immerito eveniet.</TextUnit>
+    <TextUnit id="33" loc="29">nam viri nostri domo ut abierunt,</TextUnit>
+    <TextUnit id="34" loc="30">hic tertius annus. Ita ut memoras.</TextUnit>
+    <TextUnit id="35" loc="31">Quom ipsi interea vivant, valeant,</TextUnit>
+    <TextUnit id="36" loc="32">ubi sint, quid agant, ecquid agant,</TextUnit>
+    <TextUnit id="37" loc="33">neque participant nos, neque redeunt.</TextUnit>
+    <TextUnit id="38" loc="34-35">An id doles, soror, quia illi suom officium</TextUnit>
+    <TextUnit id="39" loc="36">non colunt, quom tu tuom facis? Ita pol.</TextUnit>
+    <TextUnit id="40" loc="37">Tace sis, cave sis audiam ego istuc</TextUnit>
+    <TextUnit id="41" loc="38">posthac ex te. Nam quid iam?</TextUnit>
+    <TextUnit id="42" loc="39">Quia pol meo animo omnis sapientis</TextUnit>
+    <TextUnit id="43" loc="40">suom officium aequom est colere et facere.</TextUnit>
+    <TextUnit id="44" loc="41">quam ob rem ego te hoc, soror, tametsi es maior,</TextUnit>
+    <TextUnit id="45" loc="42">moneo, ut tuom memineris officium:</TextUnit>
+    <TextUnit id="46" loc="43">etsi illi improbi sint atque aliter</TextUnit>
+    <TextUnit id="47" loc="44">nobis faciant quam aequomst, tam pol</TextUnit>
+    <TextUnit id="48" loc="45">ne quid magis simus * omnibus obnixe opibus</TextUnit>
+    <TextUnit id="49" loc="46">nostrum officium meminisse decet.</TextUnit>
+    <TextUnit id="50" loc="47">Placet; taceo. At memineris facito.</TextUnit>
+    <TextUnit id="51" loc="48">[ Nolo ego, soror, me credi esse immemorem viri,</TextUnit>
+    <TextUnit id="52" loc="49">neque ille eos honores, mihi quos habuit, perdidit;</TextUnit>
+    <TextUnit id="53" loc="50">nam pol mihi grata acceptaque eiust benignitas.</TextUnit>
+    <TextUnit id="54" loc="51">et me quidem haec condicio nunc non paenitet,</TextUnit>
+    <TextUnit id="55" loc="52">neque est cur [non] studeam has nuptias mutarier;</TextUnit>
+    <TextUnit id="56" loc="53">verum postremo in patris potestate est situm:</TextUnit>
+    <TextUnit id="57" loc="54">faciendum id nobis quod parentes imperant.</TextUnit>
+    <TextUnit id="58" loc="55">Scio, atque in cogitando maerore augeor,</TextUnit>
+    <TextUnit id="59" loc="56">nam propemodum iam ostendit suam sententiam.</TextUnit>
+    <TextUnit id="60" loc="57">Igitur quaeramus, nobis quid facto usus sit.]</TextUnit>
+    <TextUnit id="61" loc="58">Qui manet ut moneatur semper servos homo officium suom</TextUnit>
+    <TextUnit id="62" loc="59">nec voluntate id facere meminit, servos is habitu hau probust.</TextUnit>
+    <TextUnit id="63" loc="60">vos meministis quot kalendis petere demensum cibum:</TextUnit>
+    <TextUnit id="64" loc="61">qui minus meministis quod opus sit facto facere in aedibus?</TextUnit>
+    <TextUnit id="65" loc="62">iam quidem in suo quicque loco nisi erit mihi situm supellectilis,</TextUnit>
+    <TextUnit id="66" loc="63">quom ego revortar, vos monimentis commonefaciam bubulis.</TextUnit>
+    <TextUnit id="67" loc="64">non homines habitare mecum mi hic videntur, sed sues.</TextUnit>
+    <TextUnit id="68" loc="65">facite sultis, nitidae ut aedes meae sint, quom redeam domum.</TextUnit>
+    <TextUnit id="69" loc="66">iam ego domi adero: ad meam maiorem filiam inviso modo;</TextUnit>
+    <TextUnit id="70" loc="67">siquis me quaeret, inde vocatote aliqui; aut iam egomet hic ero.</TextUnit>
+    <TextUnit id="71" loc="68">Quid agimus, soror, si offirmabit pater adversum nos? Pati</TextUnit>
+    <TextUnit id="72" loc="69">nos oportet quod ille faciat, cuius potestas plus potest.</TextUnit>
+    <TextUnit id="73" loc="70">exorando, haud adversando sumendam operam censeo:</TextUnit>
+    <TextUnit id="74" loc="71">gratiam per si petimus, spero ab eo impetrassere;</TextUnit>
+    <TextUnit id="75" loc="72">adversari sine dedecore et scelere summo haud possumus,</TextUnit>
+    <TextUnit id="76" loc="73">neque equidem id factura neque tu ut facias consilium dabo,</TextUnit>
+    <TextUnit id="77" loc="74">verum ut exoremus. novi ego nostros: exorabilest.</TextUnit>
+    <TextUnit id="78" loc="75">Principium ego quo pacto cum illis occipiam, id ratiocinor:</TextUnit>
+    <TextUnit id="79" loc="76">utrum ego perplexim lacessam oratione ad hunc modum,</TextUnit>
+    <TextUnit id="80" loc="77">quasi numquam quicquam in eas simulem, quasi nil indaudiverim</TextUnit>
+    <TextUnit id="81" loc="78">eas in se meruisse culpam, an potius temptem saeviter,</TextUnit>
+    <TextUnit id="82" loc="79">[an minaciter. scio litis fore, ego meas novi optume.]</TextUnit>
+    <TextUnit id="83" loc="80">si manere hic sese malint potius quam alio nubere.</TextUnit>
+    <TextUnit id="84" loc="81">non faciam. quid mi opust decurso aetatis spatio cum meis</TextUnit>
+    <TextUnit id="85" loc="82">gerere bellum, quom nil, quam ob rem id faciam, meruisse arbitror?</TextUnit>
+    <TextUnit id="86" loc="83">minime, nolo turbas, sed hoc mihi optumum factu arbitror:</TextUnit>
+    <TextUnit id="87" loc="84">[sic faciam: adsimulabo quasi quam culpam in sese admiserint.]</TextUnit>
+    <TextUnit id="88" loc="85">perplexabiliter earum hodie perpavefaciam pectora;</TextUnit>
+    <TextUnit id="89" loc="86">post id [agam] igitur deinde, ut animus meus erit, faciam palam.</TextUnit>
+    <TextUnit id="90" loc="87">multa scio faciunda verba. ibo intro. sed apertast foris.</TextUnit>
+    <TextUnit id="91" loc="88">Certo enim mihi paternae vocis sonitus auris accidit.</TextUnit>
+    <TextUnit id="92" loc="89">Is est ecastor. ferre advorsum homini occupemus osculum.</TextUnit>
+    <TextUnit id="93" loc="90">Salve, mi pater. Et vos ambae. ilico agite assidite.</TextUnit>
+    <TextUnit id="94" loc="91">Osculum--- Sat est osculi mihi vostri. Qui, amabo, pater?</TextUnit>
+    <TextUnit id="95" loc="92">Quia ita meae animae salsura evenit. Asside hic, pater.</TextUnit>
+    <TextUnit id="96" loc="93">Non sedeo istic, vos sedete; ego sedero in subsellio.</TextUnit>
+    <TextUnit id="97" loc="94">Mane pulvinum. Bene procuras. mihi satis sic fultumst. sede.</TextUnit>
+    <TextUnit id="98" loc="95">Sine, pater. Quid opust? Opust. Morem tibi geram. atque hoc est satis.</TextUnit>
+    <TextUnit id="99" loc="96">Numquam enim nimis curare possunt suom parentem filiae.</TextUnit>
+    <TextUnit id="100" loc="97">quem aequiust nos potiorem habere quam te? postidea, pater,</TextUnit>
+    <TextUnit id="101" loc="98">viros nostros, quibus tu voluisti esse nos matres familias.</TextUnit>
+    <TextUnit id="102" loc="99">Bonas ut aequomst facere facitis, quom tamen apsentis viros</TextUnit>
+    <TextUnit id="103" loc="100">proinde habetis quasi praesentes sint. Pudicitiast, pater,</TextUnit>
+    <TextUnit id="104" loc="101">eos nos magnificare, qui nos socias sumpserunt sibi.</TextUnit>
+    <TextUnit id="105" loc="102">Num quis hic est alienus nostris dictis auceps auribus?</TextUnit>
+    <TextUnit id="106" loc="103">Nullus praeter nosque teque. Vostrum animum adhiberi volo;</TextUnit>
+    <TextUnit id="107" loc="104">nam ego ad vos nunc imperitus rerum et morum mulierum,</TextUnit>
+    <TextUnit id="108" loc="105">discipulus venio ad magistras: quibus matronas moribus,</TextUnit>
+    <TextUnit id="109" loc="106">quae optumae sunt, esse oportet? sed utraque ut dicat mihi.</TextUnit>
+    <TextUnit id="110" loc="107">Quid istuc est quod huc exquaesitum mulierum mores venis?</TextUnit>
+    <TextUnit id="111" loc="108">Pol ego uxorem quaero, postquam vostra mater mortuast.</TextUnit>
+    <TextUnit id="112" loc="109">Facile invenies et peiorem et peius moratam, pater,</TextUnit>
+    <TextUnit id="113" loc="110">quam illa fuit: meliorem neque tu reperies neque sol videt.</TextUnit>
+    <TextUnit id="114" loc="111">At ego ex te exquaero atque ex istac tua sorore. Edepol pater,</TextUnit>
+    <TextUnit id="115" loc="112">scio ut oportet esse: si sint---ita ut ego aequom censeo.</TextUnit>
+    <TextUnit id="116" loc="113">Volo scire ergo, ut aequom censes. Vt, per urbem quom ambulent,</TextUnit>
+    <TextUnit id="117" loc="114">omnibus os opturent, ne quis merito male dicat sibi.</TextUnit>
+    <TextUnit id="118" loc="115">Dic vicissim nunciam tu. Quid vis tibi dicam, pater?</TextUnit>
+    <TextUnit id="119" loc="116">Vbi facillime spectatur mulier, quae ingenio est bono?</TextUnit>
+    <TextUnit id="120" loc="117">Quoi male faciundi est potestas, quae ne id faciat temperat.</TextUnit>
+    <TextUnit id="121" loc="118">[ Hau male istuc. age tu altera, utra sit condicio pensior,</TextUnit>
+    <TextUnit id="122" loc="119">virginemne an viduam habere? Quanta mea sapientiast,</TextUnit>
+    <TextUnit id="123" loc="120">ex malis multis malum quod minimumst, id minimest malum.]</TextUnit>
+    <TextUnit id="124" loc="121">Qui potest mulier vitare vitiis? Vt cottidie</TextUnit>
+    <TextUnit id="125" loc="122">pridie caveat ne faciat quod pigeat postridie.</TextUnit>
+    <TextUnit id="126" loc="123">Quae tibi mulier videtur multo sapientissuma?</TextUnit>
+    <TextUnit id="127" loc="124">Quae tamen, cum res secundae sunt, se poterit noscere,</TextUnit>
+    <TextUnit id="128" loc="125">et illa quae aequo animo patietur sibi esse peius quam fuit.</TextUnit>
+    <TextUnit id="129" loc="126">Edepol vos lepide temptavi vostrumque ingenium ingeni.</TextUnit>
+    <TextUnit id="130" loc="127">sed hoc est quod ad vos venio quodque esse ambas conventas volo:</TextUnit>
+    <TextUnit id="131" loc="128">mi auctores ita sunt amici, ut vos hinc abducam domum.</TextUnit>
+    <TextUnit id="132" loc="129">At enim nos, quarum res agitur, aliter auctores sumus.</TextUnit>
+    <TextUnit id="133" loc="130">nam aut olim, nisi tibi placebant, non datas oportuit,</TextUnit>
+    <TextUnit id="134" loc="131">aut nunc non aequomst abduci, pater, illisce apsentibus.</TextUnit>
+    <TextUnit id="135" loc="132">Vosne ego patiar cum mendicis nuptas me vivo viris?</TextUnit>
+    <TextUnit id="136" loc="133">Placet ille meus mihi mendicus: suos rex reginae placet.</TextUnit>
+    <TextUnit id="137" loc="134">idem animust in paupertate qui olim in divitiis fuit:</TextUnit>
+    <TextUnit id="138" loc="135">[ Vosne latrones et mendicos homines magni penditis?</TextUnit>
+    <TextUnit id="139" loc="136">] non tu me argento dedisti, opinor, nuptum, sed viro.</TextUnit>
+    <TextUnit id="140" loc="137">Quid illos exspectatis, qui abhinc iam abierunt triennium?</TextUnit>
+    <TextUnit id="141" loc="138">quin vos capitis condicionem ex pessuma primariam?</TextUnit>
+    <TextUnit id="142" loc="139">Stultitiast, pater, venatum ducere invitas canes.</TextUnit>
+    <TextUnit id="143" loc="140">hostis est uxor, invita quae viro nuptum datur.</TextUnit>
+    <TextUnit id="144" loc="141">Certumne est neutram vostrarum persequi imperium patris?</TextUnit>
+    <TextUnit id="145" loc="142">Persequimur, nam quo dedisti nuptum, abire nolumus.</TextUnit>
+    <TextUnit id="146" loc="143">Bene valete. ibo atque amicis vostra consilia eloquar.</TextUnit>
+    <TextUnit id="147" loc="144">Probiores credo arbitrabunt, si probis narraveris.</TextUnit>
+    <TextUnit id="148" loc="145">Curate igitur familiarem rem ut potestis. Optume,</TextUnit>
+    <TextUnit id="149" loc="146">nunc places, quom recte monstras; nunc tibi auscultabimus.</TextUnit>
+    <TextUnit id="150" loc="147">nunc, soror, abeamus intro. Immo intervisam domum.</TextUnit>
+    <TextUnit id="151" loc="148">si a viro tibi forte veniet nuntius, facito ut sciam.---</TextUnit>
+    <TextUnit id="152" loc="149">Neque ego te celabo, neque tu me celassis quod scias.</TextUnit>
+    <TextUnit id="153" loc="150">eho, Crocotium, i, parasitum Gelasimum huc arcessito,</TextUnit>
+    <TextUnit id="154" loc="151">tecum adduce; nam illum ecastor mittere ad portum volo,</TextUnit>
+    <TextUnit id="155" loc="152">si quae forte ex Asia navis heri aut hodie venerit.</TextUnit>
+    <TextUnit id="156" loc="153">nam dies totos apud portum servos unus assidet;</TextUnit>
+    <TextUnit id="157" loc="154">sed tamen volo intervisi. propera atque actutum redi.---</TextUnit>
+    <TextUnit id="158" loc="155">Famem ego fuisse suspicor matrem mihi,</TextUnit>
+    <TextUnit id="159" loc="156">nam postquam natus sum, satur numquam fui.</TextUnit>
+    <TextUnit id="160" loc="157">neque quisquam melius referet matri gratiam</TextUnit>
+    <TextUnit id="161" loc="157a">[quam ego meae matri refero invitissimus.]</TextUnit>
+    <TextUnit id="162" loc="158">neque rettulit, quam ego refero meae matri Fami.</TextUnit>
+    <TextUnit id="163" loc="159">nam illa me in alvo menses gestavit decem,</TextUnit>
+    <TextUnit id="164" loc="160">at ego illam in alvo gesto plus annos decem.</TextUnit>
+    <TextUnit id="165" loc="161">atque illa puerum me gestavit parvolum,</TextUnit>
+    <TextUnit id="166" loc="162">quo minus laboris cepisse illam existumo:</TextUnit>
+    <TextUnit id="167" loc="163">ego non pauxillulam in utero gesto famem,</TextUnit>
+    <TextUnit id="168" loc="164">verum hercle multo maximam et gravissimam;</TextUnit>
+    <TextUnit id="169" loc="165">uteri dolores mihi oboriuntur cotidie,</TextUnit>
+    <TextUnit id="170" loc="166">sed matrem parere nequeo, nec quid agam scio.</TextUnit>
+    <TextUnit id="171" loc="167">atque auditavi saepe hoc volgo dicier,</TextUnit>
+    <TextUnit id="172" loc="168">solere elephantum gravidam perpetuos decem</TextUnit>
+    <TextUnit id="173" loc="169">esse annos; eius ex semine haec certost fames,</TextUnit>
+    <TextUnit id="174" loc="170">nam iam complures annos utero haeret meo.</TextUnit>
+    <TextUnit id="175" loc="171">nunc si ridiculum hominem quaerat quispiam,</TextUnit>
+    <TextUnit id="176" loc="172">venalis ego sum cum ornamentis omnibus;</TextUnit>
+    <TextUnit id="177" loc="173">inanimentis explementum quaerito.</TextUnit>
+    <TextUnit id="178" loc="174">Gelasimo nomen mi indidit parvo pater,</TextUnit>
+    <TextUnit id="179" loc="175">quia inde iam a pausillo puero ridiculus fui.</TextUnit>
+    <TextUnit id="180" loc="176">propter pauperiem hoc adeo nomen repperi,</TextUnit>
+    <TextUnit id="181" loc="177">eo quia paupertas fecit ridiculus forem;</TextUnit>
+    <TextUnit id="182" loc="178">nam illa artis omnis perdocet, ubi quem attigit.</TextUnit>
+    <TextUnit id="183" loc="179">per annonam caram dixit me natum pater:</TextUnit>
+    <TextUnit id="184" loc="180">propterea, credo, nunc essurio acrius.</TextUnit>
+    <TextUnit id="185" loc="181">sed generi nostro haec redditast benignitas:</TextUnit>
+    <TextUnit id="186" loc="182">nulli negare soleo, siquis me essum vocat.</TextUnit>
+    <TextUnit id="187" loc="183">oratio una interiit hominum pessume,</TextUnit>
+    <TextUnit id="188" loc="184">atque optuma hercle meo animo et scitissuma,</TextUnit>
+    <TextUnit id="189" loc="185">qua ante utebantur: veni illo ad cenam, sic face,</TextUnit>
+    <TextUnit id="190" loc="186">promitte vero, ne gravare. est commodum?</TextUnit>
+    <TextUnit id="191" loc="187">volo inquam fieri, non amittam quin eas.</TextUnit>
+    <TextUnit id="192" loc="188">nunc reppererunt iam ei verbo vicarium</TextUnit>
+    <TextUnit id="193" loc="189">(nihili quidem hercle verbumst ac vilissimum):</TextUnit>
+    <TextUnit id="194" loc="190">vocem te ad cenam, nisi egomet cenem foris.</TextUnit>
+    <TextUnit id="195" loc="191">ei hercle ego verbo lumbos diffractos velim,</TextUnit>
+    <TextUnit id="196" loc="192">ni vere perierit, si cenassit domi.</TextUnit>
+    <TextUnit id="197" loc="193">haec verba subigunt me uti mores barbaros</TextUnit>
+    <TextUnit id="198" loc="194">discam atque ut faciam praeconis compendium</TextUnit>
+    <TextUnit id="199" loc="195">itaque auctionem praedicem, ipse ut venditem.</TextUnit>
+    <TextUnit id="200" loc="196">Hic illest parasitus, quem arcessitum missa sum.</TextUnit>
+    <TextUnit id="201" loc="197">quae loquitur auscultabo prius quam conloquar.</TextUnit>
+    <TextUnit id="202" loc="198">Sed curiosi sunt hic complures mali,</TextUnit>
+    <TextUnit id="203" loc="199">alienas res qui curant studio maximo,</TextUnit>
+    <TextUnit id="204" loc="200">quibus ipsis nullast res, quam procurent, sua:</TextUnit>
+    <TextUnit id="205" loc="201">ei quando quem auctionem facturum sciunt,</TextUnit>
+    <TextUnit id="206" loc="202">adeunt, perquirunt quid sit causae ilico:</TextUnit>
+    <TextUnit id="207" loc="203">alienum aes cogat an pararit praedium,</TextUnit>
+    <TextUnit id="208" loc="204">uxorin sit reddenda dos divortio.</TextUnit>
+    <TextUnit id="209" loc="205">eos omnis tametsi hercle haud indignos iudico</TextUnit>
+    <TextUnit id="210" loc="206">qui multum miseri sint, laborent, nil moror:</TextUnit>
+    <TextUnit id="211" loc="207">dicam auctionis causam, ut damno gaudeant;</TextUnit>
+    <TextUnit id="212" loc="208">nam curiosus nemo est quin sit malevolus.</TextUnit>
+    <TextUnit id="213" loc="208a">[ipse egomet quam ob rem auctionem praedicem]</TextUnit>
+    <TextUnit id="214" loc="209">damna evenerunt maxuma misero mihi,</TextUnit>
+    <TextUnit id="215" loc="210">ita me mancupia miserum adfecerunt male,</TextUnit>
+    <TextUnit id="216" loc="211">potationes plurumae demortuae,</TextUnit>
+    <TextUnit id="217" loc="212">quot adeo cenae, quas deflevi, mortuae,</TextUnit>
+    <TextUnit id="218" loc="213">quot potiones mulsi, quae autem prandia,</TextUnit>
+    <TextUnit id="219" loc="214">quae inter continuom perdidi triennium.</TextUnit>
+    <TextUnit id="220" loc="215">prae maerore adeo miser atque aegritudine</TextUnit>
+    <TextUnit id="221" loc="216">consenui; paene sum fame emortuos.</TextUnit>
+    <TextUnit id="222" loc="217">Ridiculus aeque nullus est quando esurit.</TextUnit>
+    <TextUnit id="223" loc="218">Nunc auctionem facere decretumst mihi:</TextUnit>
+    <TextUnit id="224" loc="219">foras necessumst quidquid habeo vendere.</TextUnit>
+    <TextUnit id="225" loc="220">adeste sultis, praeda erit praesentium.</TextUnit>
+    <TextUnit id="226" loc="221">logos ridiculos vendo. age licemini.</TextUnit>
+    <TextUnit id="227" loc="222">qui cena poscit? ecqui poscit prandio?</TextUnit>
+    <TextUnit id="228" loc="223">hercle aestumavi prandio, cena tibi.</TextUnit>
+    <TextUnit id="229" loc="224">ehem, adnuistin? nemo meliores dabit.</TextUnit>
+    <TextUnit id="230" loc="225">[nulli meliores esse parasito sinam.]</TextUnit>
+    <TextUnit id="231" loc="226">vel unctiones Graecas sudatorias</TextUnit>
+    <TextUnit id="232" loc="227">vendo vel alias malacas, crapularias;</TextUnit>
+    <TextUnit id="233" loc="228">cavillationes, adsentatiunculas</TextUnit>
+    <TextUnit id="234" loc="229">ac perieratiunculas parasiticas;</TextUnit>
+    <TextUnit id="235" loc="230">robiginosam strigilem, ampullam rubidam,</TextUnit>
+    <TextUnit id="236" loc="231">parasitum inanem quo recondas reliquias.</TextUnit>
+    <TextUnit id="237" loc="232">haec veniisse iam opus est quantum potest,</TextUnit>
+    <TextUnit id="238" loc="233">ut decumam partem Herculi polluceam.</TextUnit>
+    <TextUnit id="239" loc="234-235">Ecastor auctionem haud magni preti.</TextUnit>
+    <TextUnit id="240" loc="236">adhaesit homini ad infimum ventrem fames.</TextUnit>
+    <TextUnit id="241" loc="237">adibo ad hominem. Quis haec est quae advorsum it mihi?</TextUnit>
+    <TextUnit id="242" loc="238">Epignomi ancilla haec quidem est Crocotium.</TextUnit>
+    <TextUnit id="243" loc="239">Gelasime, salve. Non id est nomen mihi.</TextUnit>
+    <TextUnit id="244" loc="240">Certo mecastor id fuit nomen tibi.</TextUnit>
+    <TextUnit id="245" loc="241">Fuit disertim, verum id usu perdidi:</TextUnit>
+    <TextUnit id="246" loc="242">nunc Miccotrogus nomine e vero vocor.</TextUnit>
+    <TextUnit id="247" loc="243">Eu ecastor, risi te hodie multum. Quando aut quo in loco?</TextUnit>
+    <TextUnit id="248" loc="244-245">Hic quom auctionem praedicabas, Pessuma,</TextUnit>
+    <TextUnit id="249" loc="246">eho an audivisti? Te quidem dignissumam.</TextUnit>
+    <TextUnit id="250" loc="247">Quo nunc is? Ad te. Quid venis? Panegyris</TextUnit>
+    <TextUnit id="251" loc="248">rogare iussit ted ut opere maximo,</TextUnit>
+    <TextUnit id="252" loc="249">mecum simitu ut ires ad sese domum.</TextUnit>
+    <TextUnit id="253" loc="250">Ego illo mehercle vero eo quantum potest.</TextUnit>
+    <TextUnit id="254" loc="251">iamne exta cocta sunt? quot agnis fecerat?</TextUnit>
+    <TextUnit id="255" loc="252">Illa quidem nullum sacrificavit. Quo modo?</TextUnit>
+    <TextUnit id="256" loc="253">quid igitur me volt? Tritici modios decem</TextUnit>
+    <TextUnit id="257" loc="254">rogare, opinor [te volt]. Mene, ut ab sese petam?</TextUnit>
+    <TextUnit id="258" loc="255">Immo ut a vobis mutuom nobis dares.</TextUnit>
+    <TextUnit id="259" loc="256">Nega esse quod dem nec mihi nec mutuom,</TextUnit>
+    <TextUnit id="260" loc="257">neque aliud quicquam nisi hoc quod habeo pallium;</TextUnit>
+    <TextUnit id="261" loc="258">linguam quoque etiam vendidi datariam. Au,</TextUnit>
+    <TextUnit id="262" loc="259-260">nullan tibi lingua est? Quae quidem dicat dabo;</TextUnit>
+    <TextUnit id="263" loc="261">ventri reliqui eccam aliam quae dicat cedo.</TextUnit>
+    <TextUnit id="264" loc="262">Malum quidem si vis--- Haec eadem dicit tibi.</TextUnit>
+    <TextUnit id="265" loc="263">Quid nunc? an non? Abi sane domum,</TextUnit>
+    <TextUnit id="266" loc="264-265">iam illo venturum dicito. propera atque abi.---</TextUnit>
+    <TextUnit id="267" loc="266">demiror quid illaec me ad se arcessi iusserit,</TextUnit>
+    <TextUnit id="268" loc="267">quae numquam iussit me ad se arcessi ante hunc diem,</TextUnit>
+    <TextUnit id="269" loc="268">postquam vir abiit eius. miror quid siet,</TextUnit>
+    <TextUnit id="270" loc="269">nisi ut periclum fiat: visam quid velit.</TextUnit>
+    <TextUnit id="271" loc="270">sed eccum Pinacium eius puerum. hoc vide,</TextUnit>
+    <TextUnit id="272" loc="271">satin ut facete, aeque atque ex pictura, astitit?</TextUnit>
+    <TextUnit id="273" loc="272">ne iste edepol vinum poculo pauxillulo</TextUnit>
+    <TextUnit id="274" loc="273">saepe exanclavit submerum scitissume.</TextUnit>
+    <TextUnit id="275" loc="274">Mercurius, Iovis qui nuntius perhibetur, numquam aeque patri</TextUnit>
+    <TextUnit id="276" loc="275">suo nuntium lepidum attulit quam ego nunc meae erae nuntiabo:</TextUnit>
+    <TextUnit id="277" loc="276">itaque onustum pectus porto laetitia lubentiaque</TextUnit>
+    <TextUnit id="278" loc="277">neque lubet nisi gloriose quicquam proloqui profecto.</TextUnit>
+    <TextUnit id="279" loc="278">amoenitates omnium venerum et venustatum adfero</TextUnit>
+    <TextUnit id="280" loc="279">ripisque superat mi atque abundat pectus laetitia meum.</TextUnit>
+    <TextUnit id="281" loc="280">propera, Pinacium, pedes hortare, honesta dicta factis</TextUnit>
+    <TextUnit id="282" loc="281">(nunc tibi potestas adipiscendist gloriam laudem decus)</TextUnit>
+    <TextUnit id="283" loc="282">eraeque egenti subveni, [benefacta maiorum tuom]</TextUnit>
+    <TextUnit id="284" loc="283">quae misera in exspectatione est Epignomi adventum viri.</TextUnit>
+    <TextUnit id="285" loc="284">proinde ut decet, amat virum suom, cupide expetit. nunc, Pinacium,</TextUnit>
+    <TextUnit id="286" loc="285">age ut placet, curre ut lubet, cave quemquam flocci feceris,</TextUnit>
+    <TextUnit id="287" loc="286">cubitis depulsa de via, tranquillam concinna viam;</TextUnit>
+    <TextUnit id="288" loc="287">si rex obstabit obviam, regem ipsum prius pervortito.</TextUnit>
+    <TextUnit id="289" loc="288">Quidnam dicam Pinacium</TextUnit>
+    <TextUnit id="290" loc="288a">lascivibundum tam lubentem currere?</TextUnit>
+    <TextUnit id="291" loc="289">harundinem fert sportulamque et hamulum piscarium.</TextUnit>
+    <TextUnit id="292" loc="290">Sed tandem, opinor, aequiust eram mihi esse supplicem</TextUnit>
+    <TextUnit id="293" loc="291">atque oratores mittere ad me donaque ex auro et quadrigas,</TextUnit>
+    <TextUnit id="294" loc="292">qui vehar, nam pedibus ire non queo. ergo iam revortar.</TextUnit>
+    <TextUnit id="295" loc="293">ad me adiri et supplicari egomet mi aequom censeo.</TextUnit>
+    <TextUnit id="296" loc="294">an vero nugas censeas, nihil esse quod ego nunc scio?</TextUnit>
+    <TextUnit id="297" loc="295">tantum a portu adporto bonum, tam gaudium grande adfero,</TextUnit>
+    <TextUnit id="298" loc="296">vix ipsa domina hoc, nisi sciat, exoptare ab deis audeat.</TextUnit>
+    <TextUnit id="299" loc="297">nunc ultro id deportem? hau placet, neque id viri officium arbitror.</TextUnit>
+    <TextUnit id="300" loc="298">sic hoc videtur mihi magis meo convenire huic nuntio:</TextUnit>
+    <TextUnit id="301" loc="299">adversum veniat, opsecret, se ut nuntio hoc impertiam;</TextUnit>
+    <TextUnit id="302" loc="300">secundas fortunas decent superbiae.</TextUnit>
+    <TextUnit id="303" loc="301">sed tandem cum recogito, qui potuit scire haec scire me?</TextUnit>
+    <TextUnit id="304" loc="302">non enim possum quin revortar, quin loquar, quin edissertem</TextUnit>
+    <TextUnit id="305" loc="303">eramque ex maerore eximam, bene facta maiorum meum</TextUnit>
+    <TextUnit id="306" loc="304">exaugeam atque illam augeam insperato opportuno bono:</TextUnit>
+    <TextUnit id="307" loc="305">contundam facta Talthubi contemnamque omnis nuntios;</TextUnit>
+    <TextUnit id="308" loc="306">simulque [ad] cursuram meditabor [me] ad ludos Olympios.</TextUnit>
+    <TextUnit id="309" loc="307">sed spatium hoc occidit: brevest curriculo; quam me paenitet.</TextUnit>
+    <TextUnit id="310" loc="308">quid hoc? occlusam ianuam video. ibo et pultabo fores.</TextUnit>
+    <TextUnit id="311" loc="309">aperite atque adproperate, fores facite ut pateant, removete moram;</TextUnit>
+    <TextUnit id="312" loc="310">nimis haec res sine cura geritur. vide quam dudum hic asto et pulto.</TextUnit>
+    <TextUnit id="313" loc="311">somnone operam datis? experiar, fores an cubiti ac pedes plus valeant.</TextUnit>
+    <TextUnit id="314" loc="312">nimis vellem hae fores erum fugissent, ea causa ut haberent malum magnum;</TextUnit>
+    <TextUnit id="315" loc="313">defessus sum pultando.</TextUnit>
+    <TextUnit id="316" loc="314">hoc postremumst. vae vobis.</TextUnit>
+    <TextUnit id="317" loc="315">Ibo atque hunc compellabo.</TextUnit>
+    <TextUnit id="318" loc="316">salvos sis. Et tu salve.</TextUnit>
+    <TextUnit id="319" loc="317">Iam tu piscator ?</TextUnit>
+    <TextUnit id="320" loc="318">Quam pridem non edisti?</TextUnit>
+    <TextUnit id="321" loc="319-320">Vnde is? quid fers? quid festinas? Tua quod nil refert, ne cures.</TextUnit>
+    <TextUnit id="322" loc="321">Quid istic inest? Quas tu edes colubras. Quid tam ? Si in te</TextUnit>
+    <TextUnit id="323" loc="322">pudor adsit, non me appelles.</TextUnit>
+    <TextUnit id="324" loc="323">Possum scire ex te verum?</TextUnit>
+    <TextUnit id="325" loc="324-325">Potes: hodie non cenabis.</TextUnit>
+    <TextUnit id="326" loc="326">Quisnam, opsecro, has frangit fores? ubi est?</TextUnit>
+    <TextUnit id="327" loc="326a">tun haec facis? tun mihi huc hostis venis?</TextUnit>
+    <TextUnit id="328" loc="327">Salve, tuo arcessitu venio huc. Ean gratia fores effringis?</TextUnit>
+    <TextUnit id="329" loc="328">Tuos inclama, tui delinquont: ego quid me velles visebam;</TextUnit>
+    <TextUnit id="330" loc="329">nam me quidem harum miserebat. Ergo auxilium propere latumst.</TextUnit>
+    <TextUnit id="331" loc="330">Quisnam hic loquitur tam prope nos? Pinacium. Ubi is est?</TextUnit>
+    <TextUnit id="332" loc="331">Respice ad me et relinque egentem parasitum, Panegyris.</TextUnit>
+    <TextUnit id="333" loc="332">Pinacium. Istuc indiderunt nomen maiores mihi.</TextUnit>
+    <TextUnit id="334" loc="333">Quid agis? Quid agam rogitas? Quidni rogitem? Quid mecum est tibi?</TextUnit>
+    <TextUnit id="335" loc="334">Mein fastidis, propudiose? eloquere propere, Pinacium.</TextUnit>
+    <TextUnit id="336" loc="335">Iube me omittere igitur hos, qui retinent. Qui retinent? Rogas?</TextUnit>
+    <TextUnit id="337" loc="336">omnia membra lassitudo mihi tenet. Linguam quidem</TextUnit>
+    <TextUnit id="338" loc="337">sat scio tibi non tenere. Ita celeri curriculo fui</TextUnit>
+    <TextUnit id="339" loc="338">propere a portu, tui honoris causa. Ecquid adportas boni?</TextUnit>
+    <TextUnit id="340" loc="339">Nimio inparti multo tanto plus quam speras. Salva sum.</TextUnit>
+    <TextUnit id="341" loc="340">At ego perii, quoi medullam lassitudo perbibit.</TextUnit>
+    <TextUnit id="342" loc="341">Quid ego, quoi misero medullam ventris percepit fames.</TextUnit>
+    <TextUnit id="343" loc="342">Ecquem convenisti? Multos. At virum? Equidem plurimos:</TextUnit>
+    <TextUnit id="344" loc="343">verum ex multis nequiorem nullum quam hic est. Quo modo?</TextUnit>
+    <TextUnit id="345" loc="344">iam dudum ego istum patior dicere iniuste mihi.</TextUnit>
+    <TextUnit id="346" loc="345">praeterhac si me inritassis--- Edepol essuries male.</TextUnit>
+    <TextUnit id="347" loc="346">Animum inducam, ut istuc verum te elocutum esse arbitrer.</TextUnit>
+    <TextUnit id="348" loc="347">Munditias volo fieri. ecferte huc scopas simulque harundinem,</TextUnit>
+    <TextUnit id="349" loc="348">ut operam omnem araneorum perdam et texturam improbem</TextUnit>
+    <TextUnit id="350" loc="349">deiciamque eorum omnis telas. Miseri algebunt postea.</TextUnit>
+    <TextUnit id="351" loc="350">Quid? illos itidemne esse censes quasi te, cum veste unica?</TextUnit>
+    <TextUnit id="352" loc="351">cape illas scopas. Capiam. Hoc egomet, tu hoc converre. Ego fecero.</TextUnit>
+    <TextUnit id="353" loc="352">Ecquis huc effert nassiternam cum aqua? Sine suffragio</TextUnit>
+    <TextUnit id="354" loc="353">populi tamen aedilitatem hic quidem gerit. Age tu ocius</TextUnit>
+    <TextUnit id="355" loc="354">pinge, humum consperge ante aedis. Faciam. Factum oportuit.</TextUnit>
+    <TextUnit id="356" loc="355">ego hinc araneas de foribus deiciam et de pariete.</TextUnit>
+    <TextUnit id="357" loc="356">Edepol rem negotiosam. Quid sit, nil etiam scio,</TextUnit>
+    <TextUnit id="358" loc="357">nisi forte hospites venturi sunt. Vos lectos sternite.</TextUnit>
+    <TextUnit id="359" loc="358">Principium placet de lectis. Alii ligna caedite,</TextUnit>
+    <TextUnit id="360" loc="359">alii piscis depurgate, quos piscatu rettuli,</TextUnit>
+    <TextUnit id="361" loc="360">pernam et glandium deicite. Hic hercle homo nimium sapit.</TextUnit>
+    <TextUnit id="362" loc="361">Non ecastor, ut ego opinor, satis erae morem geris.</TextUnit>
+    <TextUnit id="363" loc="362">Immo res omnis relictas habeo prae quod tu velis.</TextUnit>
+    <TextUnit id="364" loc="363">Tum tu igitur, qua causa missus es ad portum, id expedi.</TextUnit>
+    <TextUnit id="365" loc="364">Dicam. postquam me misisti ad portum, cum luci simul,</TextUnit>
+    <TextUnit id="366" loc="365">commodum radiosus sese sol superabat ex mari.</TextUnit>
+    <TextUnit id="367" loc="366">dum percontor portitores, ecquae navis venerit</TextUnit>
+    <TextUnit id="368" loc="367">ex Asia, negant venisse, conspicatus sum interim</TextUnit>
+    <TextUnit id="369" loc="368">cercurum, quo ego me maiorem non vidisse censeo.</TextUnit>
+    <TextUnit id="370" loc="369">in portum vento secundo, velo passo pervenit.</TextUnit>
+    <TextUnit id="371" loc="370">alius alium percontamur: quoiast navis? quid vehit?</TextUnit>
+    <TextUnit id="372" loc="371">interibi Epignomum conspicio tuom virum et servom Stichum.</TextUnit>
+    <TextUnit id="373" loc="372">Hem quid? Epignomum ? Tuom virum. Et vitam meam.</TextUnit>
+    <TextUnit id="374" loc="373">Venit inquam. Tutin ipsus ipsum vidisti? Lubens.</TextUnit>
+    <TextUnit id="375" loc="374">argenti aurique advexit nimium. Nimis factum bene.</TextUnit>
+    <TextUnit id="376" loc="375">hercle vero capiam scopas atque hoc convorram lubens.</TextUnit>
+    <TextUnit id="377" loc="376">Lanam purpuramque multam. Em qui ventrem vestiam.</TextUnit>
+    <TextUnit id="378" loc="377">Lectos eburatos, auratos. Accubabo regie.</TextUnit>
+    <TextUnit id="379" loc="378">Tum Babylonica et peristroma tonsilia et tappetia</TextUnit>
+    <TextUnit id="380" loc="379">advexit, nimium bonae rei. Hercle rem gestam bene.</TextUnit>
+    <TextUnit id="381" loc="380">Poste, ut occepi narrare, fidicinas, tibicinas,</TextUnit>
+    <TextUnit id="382" loc="381">sambucas advexit secum forma eximia. Eugepae,</TextUnit>
+    <TextUnit id="383" loc="382">quando adbibero, adludiabo: tum sum ridiculissumus.</TextUnit>
+    <TextUnit id="384" loc="383">Poste unguenta multigenerum multa. Non vendo logos.</TextUnit>
+    <TextUnit id="385" loc="384">iam non facio auctionem, mi optigit hereditas:</TextUnit>
+    <TextUnit id="386" loc="385">malivoli, perquisitores auctionum, perierint.</TextUnit>
+    <TextUnit id="387" loc="386">Hercules, decumam esse adauctam tibi quam vovi gratulor.</TextUnit>
+    <TextUnit id="388" loc="387">[spes est, tandem aliquando inportunam exigere ex utero famem.]</TextUnit>
+    <TextUnit id="389" loc="388">Poste autem advexit parasitos secum. Ei, perii miser.</TextUnit>
+    <TextUnit id="390" loc="389">Ridiculissumos. Revorram hercle hoc quod converri modo.</TextUnit>
+    <TextUnit id="391" loc="390">Vidistin virum sororis Pamphilum? Non. Non adest?</TextUnit>
+    <TextUnit id="392" loc="391">Immo venisse eum simitu aiebat ille: ego huc citus</TextUnit>
+    <TextUnit id="393" loc="392">praecucurri, ut nuntiarem nuntium exoptabilem.</TextUnit>
+    <TextUnit id="394" loc="393">Venales logi sunt illi, quos negabam vendere.</TextUnit>
+    <TextUnit id="395" loc="394">ilicet, iam meo malost quod malevolentes gaudeant.</TextUnit>
+    <TextUnit id="396" loc="395">Hercules, qui deus sis, sane discessisti non bene.</TextUnit>
+    <TextUnit id="397" loc="396">I intro, Pinacium, iube famulos rem divinam mi apparent.</TextUnit>
+    <TextUnit id="398" loc="397">bene vale. Vin administrem? Sat servorum habeo domi.---</TextUnit>
+    <TextUnit id="399" loc="398">Enim vero, Gelasime, opinor provenisti futtile,</TextUnit>
+    <TextUnit id="400" loc="399">si neque ille adest neque hic, qui venit, quicquam subvenit.</TextUnit>
+    <TextUnit id="401" loc="400">ibo intro ad libros et discam de dictis melioribus;</TextUnit>
+    <TextUnit id="402" loc="401">nam ni illos homines expello, ego occidi planissume.---</TextUnit>
+    <TextUnit id="403" loc="402">Quom bene re gesta salvos convortor domum,</TextUnit>
+    <TextUnit id="404" loc="403">Neptuno grates habeo et Tempestatibus;</TextUnit>
+    <TextUnit id="405" loc="404">simul Mercurio, qui me in mercimoniis</TextUnit>
+    <TextUnit id="406" loc="405">iuvit lucrisque quadruplicavit rem meam.</TextUnit>
+    <TextUnit id="407" loc="406">olim quos abiens adfeci aegrimonia,</TextUnit>
+    <TextUnit id="408" loc="407">eos nunc laetantis faciam adventu meo.</TextUnit>
+    <TextUnit id="409" loc="408">nam iam Antiphonem conveni adfinem meum</TextUnit>
+    <TextUnit id="410" loc="409">cumque eo reveni ex inimicitia in gratiam.</TextUnit>
+    <TextUnit id="411" loc="410">videte, quaeso, quid potest pecunia:</TextUnit>
+    <TextUnit id="412" loc="411">quoniam bene gesta re rediisse me videt</TextUnit>
+    <TextUnit id="413" loc="412">magnasque adportavisse divitias domum,</TextUnit>
+    <TextUnit id="414" loc="413">sine advocatis ibidem in cercuro in stega</TextUnit>
+    <TextUnit id="415" loc="414">in amicitiam atque in gratiam convortimus.</TextUnit>
+    <TextUnit id="416" loc="415">et is hodie apud me cenat et frater meus;</TextUnit>
+    <TextUnit id="417" loc="416">nam heri ambo in uno portu fuimus, sed mea</TextUnit>
+    <TextUnit id="418" loc="417">hodie solutast navis aliquanto prius.</TextUnit>
+    <TextUnit id="419" loc="418">age abduce hasce intro, quas mecum adduxi, Stiche.</TextUnit>
+    <TextUnit id="420" loc="419">Ere, si ego taceam seu loquar, scio scire te</TextUnit>
+    <TextUnit id="421" loc="420">quam multas tecum miserias mulcaverim.</TextUnit>
+    <TextUnit id="422" loc="421">nunc hunc diem unum ex illis multis miseriis</TextUnit>
+    <TextUnit id="423" loc="422">volo me eleutheria capere advenientem domum.</TextUnit>
+    <TextUnit id="424" loc="423">Et ius et aequom postulas: sumas, Stiche.</TextUnit>
+    <TextUnit id="425" loc="424">in hunc diem te nil moror; abi quo lubet.</TextUnit>
+    <TextUnit id="426" loc="425">cadum tibi veteris vini propino. Papae,</TextUnit>
+    <TextUnit id="427" loc="426">ducam hodie amicam. Vel decem, dum de tuo.</TextUnit>
+    <TextUnit id="428" loc="427">Quid? hoc etiam unum? Quid id autem unumst? expedi.</TextUnit>
+    <TextUnit id="429" loc="428">Ad cenam ibone? Si , censeo.</TextUnit>
+    <TextUnit id="430" loc="429">Sic hoc placet; rogatu necne, nil moror.</TextUnit>
+    <TextUnit id="431" loc="430">Vbi cenas hodie? Sic hanc rationem institi:</TextUnit>
+    <TextUnit id="432" loc="431">amicam ego habeo Stephanium hinc ex proxumo,</TextUnit>
+    <TextUnit id="433" loc="432">tui fratris ancillam: eo condixi in symbolam</TextUnit>
+    <TextUnit id="434" loc="433">ad cenam, ad eius conservom Sangarinum Syrum.</TextUnit>
+    <TextUnit id="435" loc="434">eademst amica ambobus, rivales sumus.</TextUnit>
+    <TextUnit id="436" loc="435">Age abduce hasce intro. hunc tibi dedo diem.</TextUnit>
+    <TextUnit id="437" loc="436">Meam culpam habeto, nisi probe excruciavero.</TextUnit>
+    <TextUnit id="438" loc="437">iam hercle ego per hortum ad amicam transibo meam</TextUnit>
+    <TextUnit id="439" loc="438">mi hanc occupatum noctem; eadem symbolam</TextUnit>
+    <TextUnit id="440" loc="439">dabo et iubebo ad Sangarinum cenam coqui.</TextUnit>
+    <TextUnit id="441" loc="440">aut egomet ibo atque opsonabo opsonium.</TextUnit>
+    <TextUnit id="442" loc="441">Sangarinus scio iam hic aderit cum domino suo,</TextUnit>
+    <TextUnit id="443" loc="442">servos homo, qui nisi temperi ad cenam meat,</TextUnit>
+    <TextUnit id="444" loc="443">advorsitores pol cum verberibus decet</TextUnit>
+    <TextUnit id="445" loc="444">dari, uti eum verberabundi adducant domum.</TextUnit>
+    <TextUnit id="446" loc="445">parata res faciam ut sit. egomet me moror.</TextUnit>
+    <TextUnit id="447" loc="446">atque id ne vos miremini, hominis servolos</TextUnit>
+    <TextUnit id="448" loc="447">potare, amare atque ad cenam condicere:</TextUnit>
+    <TextUnit id="449" loc="448">licet haec Athenis nobis. sed quom cogito,</TextUnit>
+    <TextUnit id="450" loc="449">potius quam invidiam inveniam, est etiam hic ostium</TextUnit>
+    <TextUnit id="451" loc="450">aliud posticum nostrarum harunc aedium:</TextUnit>
+    <TextUnit id="452" loc="450a">[posticam partem magis utuntur aedium]</TextUnit>
+    <TextUnit id="453" loc="451">ea ibo opsonatum, eadem referam opsonium:</TextUnit>
+    <TextUnit id="454" loc="452">per hortum utroque commeatus continet.</TextUnit>
+    <TextUnit id="455" loc="453">ite hac secundum vos me. ego hunc lacero diem.---</TextUnit>
+    <TextUnit id="456" loc="454">Libros inspexi; tam confido quam potis,</TextUnit>
+    <TextUnit id="457" loc="455">me meum optenturum regem ridiculis meis.</TextUnit>
+    <TextUnit id="458" loc="456">nunc interviso, iamne a portu advenerit,</TextUnit>
+    <TextUnit id="459" loc="457">ut eum advenientem meis dictis deleniam.</TextUnit>
+    <TextUnit id="460" loc="458">Hic quidem Gelasimus est parasitus, qui venit.</TextUnit>
+    <TextUnit id="461" loc="459">Auspicio hodie optumo exivi foras:</TextUnit>
+    <TextUnit id="462" loc="460">mustela murem abstulit praeter pedes;</TextUnit>
+    <TextUnit id="463" loc="461">cum strena obscaevavit; spectatum hoc mihist.</TextUnit>
+    <TextUnit id="464" loc="462">nam ut illa vitam repperit hodie sibi,</TextUnit>
+    <TextUnit id="465" loc="463">item me spero facturum: augurium hac facit.</TextUnit>
+    <TextUnit id="466" loc="464">Epignomus hic quidemst qui astat. ibo atque adloquar.</TextUnit>
+    <TextUnit id="467" loc="465">o Epignome, ut ego nunc te conspicio libens,</TextUnit>
+    <TextUnit id="468" loc="466">ut prae laetitia lacrimae prosiliunt mihi.</TextUnit>
+    <TextUnit id="469" loc="467">valuistin usque? Sustentatumst sedulo.</TextUnit>
+    <TextUnit id="470" loc="468">Propino tibi salutem plenis faucibus.</TextUnit>
+    <TextUnit id="471" loc="469">Bene atque amice dicis. di dent quae velis.</TextUnit>
+    <TextUnit id="472" loc="470-471">Cenem illi apud te, quoniam salvos advenis.</TextUnit>
+    <TextUnit id="473" loc="472">Locatast opera nunc quidem; tam gratiast.</TextUnit>
+    <TextUnit id="474" loc="473">Promitte. Certumst. Sic face inquam. Certa res.</TextUnit>
+    <TextUnit id="475" loc="474">Lubente me hercle facies. Idem ego istuc scio.</TextUnit>
+    <TextUnit id="476" loc="475">quando usus veniet, fiet. Nunc ergo usus est.</TextUnit>
+    <TextUnit id="477" loc="476">Non edepol possum. Quid gravare? censeas.</TextUnit>
+    <TextUnit id="478" loc="477">nescio quid vero habeo in mundo. I modo,</TextUnit>
+    <TextUnit id="479" loc="478">alium convivam quaerito tibi in hunc diem.</TextUnit>
+    <TextUnit id="480" loc="479">Quin tu promittis? Non graver, si possiem.</TextUnit>
+    <TextUnit id="481" loc="480">Vnum quidem hercle certo promitto tibi:</TextUnit>
+    <TextUnit id="482" loc="481">libens accipiam certo, si promiseris.</TextUnit>
+    <TextUnit id="483" loc="482">Valeas. Certumnest? Certum. cenabo domi.</TextUnit>
+    <TextUnit id="484" loc="483">[Quando quidem tu ad me non vis promittere]</TextUnit>
+    <TextUnit id="485" loc="484">sed---quoniam nil processit hac, ego ivero</TextUnit>
+    <TextUnit id="486" loc="485">apertiore magis via; ita plane loquar:</TextUnit>
+    <TextUnit id="487" loc="486">vin ad te ad cenam veniam? Si possim, velim;</TextUnit>
+    <TextUnit id="488" loc="487">verum hic apud me cenant alieni novem.</TextUnit>
+    <TextUnit id="489" loc="488">Hau postulo equidem med in lecto accumbere:</TextUnit>
+    <TextUnit id="490" loc="489">scis tu me esse unisubselli virum.</TextUnit>
+    <TextUnit id="491" loc="490">At ei oratores sunt popli, summi viri;</TextUnit>
+    <TextUnit id="492" loc="491">Ambracia veniunt huc legati publice.</TextUnit>
+    <TextUnit id="493" loc="492">Ergo oratores populi, summates viri,</TextUnit>
+    <TextUnit id="494" loc="493">summi accubent, ego infimatis infimus.</TextUnit>
+    <TextUnit id="495" loc="494">Haud aequomst te inter oratores accipi.</TextUnit>
+    <TextUnit id="496" loc="495">Equidem hercle orator sum, sed procedit parum.</TextUnit>
+    <TextUnit id="497" loc="496">Cras de reliquiis nos volo. multum vale.---</TextUnit>
+    <TextUnit id="498" loc="497">Perii hercle vero plane, nihil obnoxie.</TextUnit>
+    <TextUnit id="499" loc="498">uno Gelasimo minus est quam dudum fuit.</TextUnit>
+    <TextUnit id="500" loc="499">certumst mustelae posthac numquam credere,</TextUnit>
+    <TextUnit id="501" loc="500">nam incertiorem nullam novi bestiam;</TextUnit>
+    <TextUnit id="502" loc="501">quaen eapse deciens in die mutat locum,</TextUnit>
+    <TextUnit id="503" loc="502">ea ego auspicavi in re capitali mea?</TextUnit>
+    <TextUnit id="504" loc="503">certumst amicos convocare, ut consulam</TextUnit>
+    <TextUnit id="505" loc="504">qua lege nunc med essurire oporteat.---</TextUnit>
+    <TextUnit id="506" loc="505">Ita me di bene ament measque mihi [bene] servassint filias,</TextUnit>
+    <TextUnit id="507" loc="506">ut mihi volup est, Pamphilippe, quia vos in patriam domum</TextUnit>
+    <TextUnit id="508" loc="507">rediisse video bene gesta re ambos, te et fratrem tuom.</TextUnit>
+    <TextUnit id="509" loc="508">Satis abs te accipiam, nisi videam mihi te amicum esse, Antipho;</TextUnit>
+    <TextUnit id="510" loc="509">nunc quia te amicum mihi experior esse, credetur tibi.</TextUnit>
+    <TextUnit id="511" loc="510">Vocem ego te ad me ad cenam, frater tuos ni dixisset mihi,</TextUnit>
+    <TextUnit id="512" loc="511">te apud se cenaturum esse hodie, quom me ad se ad cenam vocat.</TextUnit>
+    <TextUnit id="513" loc="512">et magis par fuerat me vobis dare cenam advenientibus,</TextUnit>
+    <TextUnit id="514" loc="513">quam me ad illum promittere, nisi nollem ei advorsarier.</TextUnit>
+    <TextUnit id="515" loc="514">nunc me gratiam abs te inire verbis nil desidero:</TextUnit>
+    <TextUnit id="516" loc="515">cras apud me eritis et tu et ille cum vostris uxoribus.</TextUnit>
+    <TextUnit id="517" loc="516">At apud me perendie. nam ille heri me iam vocaverat</TextUnit>
+    <TextUnit id="518" loc="517">in hunc diem. sed satin ego tecum pacificatus sum, Antipho?</TextUnit>
+    <TextUnit id="519" loc="518">Quando ita rem gessistis ut vos velle amicosque addecet,</TextUnit>
+    <TextUnit id="520" loc="519">pax commersque est vobis mecum. nam hoc tu facito ut cogites:</TextUnit>
+    <TextUnit id="521" loc="520">ut cuique homini res paratast, perinde amicis utitur:</TextUnit>
+    <TextUnit id="522" loc="521">si res firma, item firmi amici sunt; sin res laxe labat,</TextUnit>
+    <TextUnit id="523" loc="522">itidem amici conlabascunt: res amicos invenit.</TextUnit>
+    <TextUnit id="524" loc="523">Iam redeo. nimiast voluptas, ubi diu afueris domo,</TextUnit>
+    <TextUnit id="525" loc="524">domum ubi redieris, si tibi nullast aegritudo animo obviam.</TextUnit>
+    <TextUnit id="526" loc="525">nam ita me absente familiarem rem uxor curavit meam,</TextUnit>
+    <TextUnit id="527" loc="526">omnium me exilem atque inanem fecit aegritudinum.</TextUnit>
+    <TextUnit id="528" loc="527">sed eccum fratrem Pamphilippum, incedit cum socero suo.</TextUnit>
+    <TextUnit id="529" loc="528">Quid agitur, Epignome? Quid tu? quam dudum in portum venis?</TextUnit>
+    <TextUnit id="530" loc="529">Hau longissume. Postilla iam iste est tranquillus tibi?</TextUnit>
+    <TextUnit id="531" loc="530">Magis quam mare quo ambo estis vecti. Facis ut alias res soles.</TextUnit>
+    <TextUnit id="532" loc="531">hodiene exoneramus navem, frater? Clementer volo.</TextUnit>
+    <TextUnit id="533" loc="532">nos potius oneremus nosmet vicissatim voluptatibus.</TextUnit>
+    <TextUnit id="534" loc="533">quam mox coctast cena? inpransus ego sum. Abi intro ad me et lava.</TextUnit>
+    <TextUnit id="535" loc="534">Deos salutatum atque uxorem modo intro devortor domum;</TextUnit>
+    <TextUnit id="536" loc="535">haec si ita ut volo conficio, continuo ad te transeo.</TextUnit>
+    <TextUnit id="537" loc="536">Apud nos eccillam festinat cum sorore uxor tua.</TextUnit>
+    <TextUnit id="538" loc="537">Optumest, iam istoc morai minus erit. iam ego apud te ero.</TextUnit>
+    <TextUnit id="539" loc="538">Prius quam abis, praesente ted huic apologum agere unum volo.</TextUnit>
+    <TextUnit id="540" loc="539">Maxume. Fuit olim, quasi ego sum, senex; ei filiae</TextUnit>
+    <TextUnit id="541" loc="540">duae erant, quasi nunc meae sunt; eae erant duobus nuptae fratribus,</TextUnit>
+    <TextUnit id="542" loc="541">quasi nunc meae sunt vobis. Miror quo evasurust apologus.</TextUnit>
+    <TextUnit id="543" loc="542">Erant minori illi adulescenti fidicina et tibicina,</TextUnit>
+    <TextUnit id="544" loc="543">peregre advexerat, quasi nunc tu; sed ille erat caeleps senex,</TextUnit>
+    <TextUnit id="545" loc="544">quasi ego nunc sum. Perge porro. praesens hic quidem est apologus.</TextUnit>
+    <TextUnit id="546" loc="545">Deinde senex ille illi dixit, cuius erat tibicina,</TextUnit>
+    <TextUnit id="547" loc="546">quasi ego nunc tibi dico: Ausculto atque animum advorto sedulo.</TextUnit>
+    <TextUnit id="548" loc="547">Ego tibi meam filiam, bene quicum cubitares, dedi:</TextUnit>
+    <TextUnit id="549" loc="548">nunc mihi reddi ego aequom esse abs te quicum cubitem censeo.</TextUnit>
+    <TextUnit id="550" loc="549">Quis istuc dicit? an ille quasi tu? Quasi ego nunc dico tibi.</TextUnit>
+    <TextUnit id="551" loc="550">Immo duas dabo, inquit ille adulescens una si parumst;</TextUnit>
+    <TextUnit id="552" loc="551">et si duarum paenitebit, inquit addentur duae.</TextUnit>
+    <TextUnit id="553" loc="552">Quis istuc quaeso? an ille quasi ego? Is ipse quasi tu. tum senex</TextUnit>
+    <TextUnit id="554" loc="553">ille quasi ego: si vis, inquit quattuor sane dato,</TextUnit>
+    <TextUnit id="555" loc="554">dum equidem hercle quod edint addas, meum ne contruncent cibum.</TextUnit>
+    <TextUnit id="556" loc="555">Videlicet parcum illum fuisse senem, qui illi istaec dixerit,</TextUnit>
+    <TextUnit id="557" loc="556">quom ille, illi qui pollicetur, eum cibum poposcerit.</TextUnit>
+    <TextUnit id="558" loc="557">Videlicet non fuisse illum aequom adulescentem, qui ilico</TextUnit>
+    <TextUnit id="559" loc="558">ubi ille poscit denegavit dare se granum tritici.</TextUnit>
+    <TextUnit id="560" loc="559">hercle qui aequom postulabat ille senex, quando quidem</TextUnit>
+    <TextUnit id="561" loc="560">filiae illae dederat dotem, accipere pro tibicina.</TextUnit>
+    <TextUnit id="562" loc="561">Hercle ille quidem certo adulescens docte vorsutus fuit,</TextUnit>
+    <TextUnit id="563" loc="562">qui seni illi concubinam dare dotatam noluit.</TextUnit>
+    <TextUnit id="564" loc="563">Senex quidem voluit, si posset, indipisci de cibo;</TextUnit>
+    <TextUnit id="565" loc="564">quia nequit, qua lege licuit velle dixit fieri.</TextUnit>
+    <TextUnit id="566" loc="565">fiat ille inquit adulescens. facis benigne inquit senex.</TextUnit>
+    <TextUnit id="567" loc="566">habeon rem pactam? inquit. faciam ita inquit ut fieri voles.</TextUnit>
+    <TextUnit id="568" loc="567">sed ego ibo intro et gratulabor vostrum adventum filiis.</TextUnit>
+    <TextUnit id="569" loc="568">poste ibo lautum in pyelum, ibi fovebo senectutem meam.</TextUnit>
+    <TextUnit id="570" loc="569">post ubi lavero, otiosus vos opperiar accubans.---</TextUnit>
+    <TextUnit id="571" loc="570">Graphicum mortalem Antiphonem, ut apologum fecit quam fabre.</TextUnit>
+    <TextUnit id="572" loc="571">Etiam nunc scelestus se esse ducit pro adulescentulo.</TextUnit>
+    <TextUnit id="573" loc="572">dabitur homini amica, noctu quae in lecto occentet senem;</TextUnit>
+    <TextUnit id="574" loc="573">namque edepol aliud quidem illi quid amica opus sit nescio.</TextUnit>
+    <TextUnit id="575" loc="574">Sed quid agit parasitus noster Gelasimus? etiam valet?</TextUnit>
+    <TextUnit id="576" loc="575">Vidi edepol hominem haud perdudum. Quid agit? Quod famelicus.</TextUnit>
+    <TextUnit id="577" loc="576">Quin vocavisti hominem ad cenam? Ne quid adveniens perderem.</TextUnit>
+    <TextUnit id="578" loc="577">atque eccum tibi lupum in sermone: praesens esuriens adest.</TextUnit>
+    <TextUnit id="579" loc="578">Ludificemur hominem. Capti consili memorem mones.</TextUnit>
+    <TextUnit id="580" loc="579">Sed ita ut occepi narrare vobis: quom hic non adfui,</TextUnit>
+    <TextUnit id="581" loc="580">cum amicis deliberavi iam et cum cognatis meis.</TextUnit>
+    <TextUnit id="582" loc="581">ita mi auctores fuere, ut egomet me hodie iugularem fame.</TextUnit>
+    <TextUnit id="583" loc="582">sed videone ego Pamphilippum cum fratre Epignomo? atque is est.</TextUnit>
+    <TextUnit id="584" loc="583">adgrediar hominem. o sperate Pamphilippe, o spes mea,</TextUnit>
+    <TextUnit id="585" loc="584">o mea vita, o mea voluptas, salve. salvom gaudeo</TextUnit>
+    <TextUnit id="586" loc="585">peregre te in patriam rediisse. Salvo salve, Gelasime.</TextUnit>
+    <TextUnit id="587" loc="586">Valuistin bene? Sustentatumst sedulo. Edepol gaudeo.</TextUnit>
+    <TextUnit id="588" loc="587">edepol ne ego nunc mihi medimnum mille esse argenti velim.</TextUnit>
+    <TextUnit id="589" loc="588">Quid eo tibi opust? Hunc hercle ad cenam ut vocem, te non vocem.</TextUnit>
+    <TextUnit id="590" loc="589">Advorsum te fabulare. Illud quidem, ambos ut vocem;</TextUnit>
+    <TextUnit id="591" loc="590">et equidem simitu hau maligne vos invitassem domum</TextUnit>
+    <TextUnit id="592" loc="591">ad me, sed mihi ipsi domi meae nihil est. atque hoc scitis vos.</TextUnit>
+    <TextUnit id="593" loc="592">Edepol te vocem lubenter, si superfiat locus.</TextUnit>
+    <TextUnit id="594" loc="593">Quin tum stans obstrusero aliquid strenue. Immo unum hoc potest.</TextUnit>
+    <TextUnit id="595" loc="594">Quid? Vbi convivae abierint, tum venias. Vae aetati tuae.</TextUnit>
+    <TextUnit id="596" loc="595">Vasa lautum, non ad cenam dico. Di te perduint.</TextUnit>
+    <TextUnit id="597" loc="596">quid ais, Pamphilippe? Ad cenam hercle alio promisi foras.</TextUnit>
+    <TextUnit id="598" loc="597">Quid, foras? Foras hercle vero. Qui malum tibi lasso libet</TextUnit>
+    <TextUnit id="599" loc="598">foris cenare? Vtrum tu censes? Iuben domi cenam coqui</TextUnit>
+    <TextUnit id="600" loc="599">atque ad illum renuntiari? Solus cenabo domi?</TextUnit>
+    <TextUnit id="601" loc="600">Non enim solus: me vocato. At ille ne suscenseat,</TextUnit>
+    <TextUnit id="602" loc="601">mea qui causa sumptum fecit. Facile excusari potest.</TextUnit>
+    <TextUnit id="603" loc="602">mihi modo ausculta, iube cenam domi coqui. Non me quidem</TextUnit>
+    <TextUnit id="604" loc="603">faciet auctore, hodie ut illum decipiat. Non tu hinc abis?</TextUnit>
+    <TextUnit id="605" loc="604">nisi me non perspicere censes quid agas. cave sis tu tibi,</TextUnit>
+    <TextUnit id="606" loc="605">nam illic homo tuam hereditatem inhiat, quasi esuriens lupus.</TextUnit>
+    <TextUnit id="607" loc="606">non tu scis, quam efflictentur homines noctu hic in via?</TextUnit>
+    <TextUnit id="608" loc="607">Tanto pluris qui defendant ire advorsum iussero.</TextUnit>
+    <TextUnit id="609" loc="608">Non it, non it, quia tanto opere suades ne ebitat. Iube</TextUnit>
+    <TextUnit id="610" loc="609">domi mi tibique tuaeque uxori celeriter cenam coqui.</TextUnit>
+    <TextUnit id="611" loc="610">si hercle faxis, non opinor dices deceptum fore.</TextUnit>
+    <TextUnit id="612" loc="611">Per hanc tibi cenam incenato, Gelasime, esse hodie licet.</TextUnit>
+    <TextUnit id="613" loc="612">Ibisne ad cenam foras? Apud fratrem ceno in proxumo.</TextUnit>
+    <TextUnit id="614" loc="613">Certumnest? Certum. Edepol te hodie lapide percussum velim.</TextUnit>
+    <TextUnit id="615" loc="614">Non metuo: per hortum transibo, non prodibo in publicum.</TextUnit>
+    <TextUnit id="616" loc="615">Quid ais, Gelasime? Oratores tu accipis, habeas tibi.</TextUnit>
+    <TextUnit id="617" loc="616">Tua pol refert. Enim, si quidem mea refert, opera utere.</TextUnit>
+    <TextUnit id="618" loc="617">Posse edepol tibi opinor etiam uni locum condi *</TextUnit>
+    <TextUnit id="619" loc="618">ubi accubes. Sane faciundum censeo. O lux oppidi.</TextUnit>
+    <TextUnit id="620" loc="619">Si arte poteris accubare. Vel inter cuneos ferreos;</TextUnit>
+    <TextUnit id="621" loc="620">tantillum loculi, ubi catellus cubet, id mi satis est loci.</TextUnit>
+    <TextUnit id="622" loc="621">Exorabo aliquo modo. veni. Hucine? Immo in carcerem;</TextUnit>
+    <TextUnit id="623" loc="622">nam hic quidem genium meliorem tuom non facies. eamus, tu.</TextUnit>
+    <TextUnit id="624" loc="623">Deos salutabo modo, poste ad te continuo transeo.---</TextUnit>
+    <TextUnit id="625" loc="624">Quid igitur? Dixi equidem, in carcerem ires. Quin si iusseris,</TextUnit>
+    <TextUnit id="626" loc="625">eo quoque ibo. Di immortales, hic quidem pol summam in crucem</TextUnit>
+    <TextUnit id="627" loc="626">cena aut prandio perduci potest. Ita ingenium meumst:</TextUnit>
+    <TextUnit id="628" loc="627">quicumvis depugno multo facilius quam cum fame.</TextUnit>
+    <TextUnit id="629" loc="628">Dum parasitus mi atque fratri fuisti, rem confregimus.</TextUnit>
+    <TextUnit id="630" loc="629">Non nego ista apud te. Satis spectatast mihi iam tua felicitas;</TextUnit>
+    <TextUnit id="631" loc="630">nunc ego nolo ex Gelasimo mihi fieri te Catagelasimum.---</TextUnit>
+    <TextUnit id="632" loc="631">Iamne abiisti? Gelasime, vide quid es capturus consili.</TextUnit>
+    <TextUnit id="633" loc="632">egone? tune. mihine? tibine. viden ut annonast gravis?</TextUnit>
+    <TextUnit id="634" loc="633">viden, benignitates hominum ut periere et prothymiae?</TextUnit>
+    <TextUnit id="635" loc="634">viden ridiculos nihili fieri, atque ipsos parasitarier?</TextUnit>
+    <TextUnit id="636" loc="635">numquam edepol me vivom quisquam in crastinum inspiciet diem;</TextUnit>
+    <TextUnit id="637" loc="636">nam mihi iam intus potione iuncea onerabo gulam,</TextUnit>
+    <TextUnit id="638" loc="637-640">neque ego hoc committam, ut me esse homines mortuom dicant fame.---</TextUnit>
+    <TextUnit id="639" loc="641">More hoc fit, atque stulte mea sententia:</TextUnit>
+    <TextUnit id="640" loc="642">si quem hominem exspectant, eum solent provisere;</TextUnit>
+    <TextUnit id="641" loc="643">qui hercle illa causa ocius nihilo venit.</TextUnit>
+    <TextUnit id="642" loc="644">idem ego nunc facio, qui proviso Sagarinum,</TextUnit>
+    <TextUnit id="643" loc="645">qui nihilo citius veniet tamen hac gratia.</TextUnit>
+    <TextUnit id="644" loc="646">iam hercle ego decumbam solus, si ille huc non venit.</TextUnit>
+    <TextUnit id="645" loc="647">cadum modo hinc a me huc cum vino transferam,</TextUnit>
+    <TextUnit id="646" loc="648">postidea accumbam. quasi nix tabescit dies.---</TextUnit>
+    <TextUnit id="647" loc="649">Salvete, Athenae, quae nutrices Graeciae,</TextUnit>
+    <TextUnit id="648" loc="650">sperata erilis patria, te video libens.</TextUnit>
+    <TextUnit id="649" loc="651">sed amica mea et conserva quid agat Stephanium</TextUnit>
+    <TextUnit id="650" loc="652">curaest, ut valeat. nam Sticho mandaveram,</TextUnit>
+    <TextUnit id="651" loc="653">salutem ut nuntiaret atque ei ut diceret</TextUnit>
+    <TextUnit id="652" loc="654">me hodie venturum, ut cenam coqueret temperi.</TextUnit>
+    <TextUnit id="653" loc="655">sed Stichus est hic quidem. Fecisti, ere, facetias,</TextUnit>
+    <TextUnit id="654" loc="656">quom hoc donavisti dono tuom servom Stichum.</TextUnit>
+    <TextUnit id="655" loc="657">pro di immortales, quot ego voluptates fero,</TextUnit>
+    <TextUnit id="656" loc="658">quot risiones, quot iocos, quot savia,</TextUnit>
+    <TextUnit id="657" loc="659">saltationes, blanditias, prothymias.</TextUnit>
+    <TextUnit id="658" loc="660">Stiche. Hem. Quid fit? Euge, Sangarine lepidissume.</TextUnit>
+    <TextUnit id="659" loc="661">fero convivam Dionysum mihique et tibi.</TextUnit>
+    <TextUnit id="660" loc="662">namque edepol cena cocta est, locus liber datust</TextUnit>
+    <TextUnit id="661" loc="663">mihi et tibi apud vos (nam apud nos est convivium,</TextUnit>
+    <TextUnit id="662" loc="664">ibi voster cenat cum uxore adeo et Antipho,</TextUnit>
+    <TextUnit id="663" loc="665">ibidem erus est noster), hoc mihi dono datumst.</TextUnit>
+    <TextUnit id="664" loc="666">Quis somniavit aurum? Quid id ad te attinet?</TextUnit>
+    <TextUnit id="665" loc="667">proin tu lavare propera. Lautus sum. Optime,</TextUnit>
+    <TextUnit id="666" loc="668">[sequere ergo hac me intro. Ego vero sequor.</TextUnit>
+    <TextUnit id="667" loc="669">] volo eluamus hodie, peregrina omnia</TextUnit>
+    <TextUnit id="668" loc="670">relinque, Athenas nunc colamus. sequere me.---</TextUnit>
+    <TextUnit id="669" loc="671">Sequor, et domum redeunti principium placet.</TextUnit>
+    <TextUnit id="670" loc="672">bona scaeva strenaque obviam occessit mihi.---</TextUnit>
+    <TextUnit id="671" loc="673">Mirum videri nemini vestrum volo, spectatores,</TextUnit>
+    <TextUnit id="672" loc="674-675">quid ego hinc, quae illic habito, exeam: faciam vos certiores.</TextUnit>
+    <TextUnit id="673" loc="676">domo dudum huc arcessita sum, nam quoniam nuntiatum est</TextUnit>
+    <TextUnit id="674" loc="677">istarum venturos viros, ibi festinamus omnes;</TextUnit>
+    <TextUnit id="675" loc="678">lectis sternendis studuimus munditiisque apparandis.</TextUnit>
+    <TextUnit id="676" loc="679">inter illud tamen negotium meis curavi amicis,</TextUnit>
+    <TextUnit id="677" loc="680">Sticho et conservo Sagarino meo, cena cocta ut esset.</TextUnit>
+    <TextUnit id="678" loc="681">Stichus obsonatust, ceterum ego operam do: is adlegavit.</TextUnit>
+    <TextUnit id="679" loc="682">nunc ibo hinc et amicos meos curabo hic advenientes.---</TextUnit>
+    <TextUnit id="680" loc="683">Agite ite foras: ferte pompam. cado te praeficio, Stiche.</TextUnit>
+    <TextUnit id="681" loc="684">omnibus modis temptare certumst nostrum hodie convivium.</TextUnit>
+    <TextUnit id="682" loc="685">ita me di ament, lepide accipimur quom hoc recipimur in loco.</TextUnit>
+    <TextUnit id="683" loc="686">quisquis praetereat, comissatum volo vocari. Convenit,</TextUnit>
+    <TextUnit id="684" loc="687">dum quidem hercle quisque veniat, veniat cum vino suo.</TextUnit>
+    <TextUnit id="685" loc="688">nam hinc quidem hodie polluctura praeter nos dabitur nemini.</TextUnit>
+    <TextUnit id="686" loc="689">nosmet inter nos ministremus monotropi. Hoc conviviumst</TextUnit>
+    <TextUnit id="687" loc="690">pro opibus nostris satis commodule nucibus, fabulis, ficulis,</TextUnit>
+    <TextUnit id="688" loc="691">oleae interiplio, lupillo, comminuto crustulo.</TextUnit>
+    <TextUnit id="689" loc="692">Sat est: servo homini modeste melius facere sumptum quam ampliter.</TextUnit>
+    <TextUnit id="690" loc="693">suom quemque decet: quibus divitiae domi sunt, scaphiis cantharis</TextUnit>
+    <TextUnit id="691" loc="694">batiocis bibunt, at nos nostro Samiolo poterio:</TextUnit>
+    <TextUnit id="692" loc="695">tamen bibimus nos, tamen efficimus pro opibus nostra moenia.</TextUnit>
+    <TextUnit id="693" loc="696">Age dice uter utrubi accumbamus. Abi tu sane superior.</TextUnit>
+    <TextUnit id="694" loc="697">atque adeo, ut tu scire possis, pacto ego hoc tecum divido:</TextUnit>
+    <TextUnit id="695" loc="698">vide, utram tibi libet etiam nunc capere, cape provinciam.</TextUnit>
+    <TextUnit id="696" loc="699">Quid istuc est provinciai? Vtrum Fontine an Libero</TextUnit>
+    <TextUnit id="697" loc="700">imperium te inhibere mavis? Nimio liquido Libero.</TextUnit>
+    <TextUnit id="698" loc="701">sed amica mea et tua dum cenat dumque se exornat, nos volo</TextUnit>
+    <TextUnit id="699" loc="702">tamen ludere inter nos. strategum te facio huic convivio.</TextUnit>
+    <TextUnit id="700" loc="703">Nimium lepide in mentem venit: potius quam in subsellio</TextUnit>
+    <TextUnit id="701" loc="704">cynice hic accipimur quam in lectis. Immo enim nimio hic dulcius.</TextUnit>
+    <TextUnit id="702" loc="705">sed interim, stratege noster, cur hic cessat cantharus?</TextUnit>
+    <TextUnit id="703" loc="706">vide, quot cyathos bibimus. Tot quot digiti tibi sunt in manu.</TextUnit>
+    <TextUnit id="704" loc="707">cantio Graecast: ἢ πέντ' ἢ τρία πῖν' ἢ μὴ τέτταρα.</TextUnit>
+    <TextUnit id="705" loc="708">Tibi propino. decumam a fonte tibi tute inde, si sapis.</TextUnit>
+    <TextUnit id="706" loc="709">bene vos, bene nos, bene te, bene me, bene nostram etiam Stephanium.</TextUnit>
+    <TextUnit id="707" loc="710">[ Bibe si bibis. Non mora erit apud me. Edepol convivi sat est,</TextUnit>
+    <TextUnit id="708" loc="711">modo nostra huc amica accedat: id abest, aliud nil abest.]</TextUnit>
+    <TextUnit id="709" loc="712">Lepide hoc actum est. tibi propino cantharum. vinum tu habes.</TextUnit>
+    <TextUnit id="710" loc="713">Nimis vellem aliquid pulpamenti. Si horum, quae adsunt, paenitet,</TextUnit>
+    <TextUnit id="711" loc="714">nihil est. tene aquam. Melius dicis; nil moror cuppedia.</TextUnit>
+    <TextUnit id="712" loc="715">bibe, tibicen. age si quid agis, bibendum hercle hoc est, ne nega.</TextUnit>
+    <TextUnit id="713" loc="716">quid hic fastidis quod faciundum vides esse tibi? quin bibis?</TextUnit>
+    <TextUnit id="714" loc="717">[age si quid agis] accipe inquam. non hoc tuo fit sumptu: inpendet publicum.</TextUnit>
+    <TextUnit id="715" loc="718">haud tuom istuc est te vereri. eripe ex ore tibias.</TextUnit>
+    <TextUnit id="716" loc="719">Vbi illic biberit, vel servato meum modum vel tu dabo.</TextUnit>
+    <TextUnit id="717" loc="720">nolo ego nos prosumo bibere. nulli rei erimus postea;</TextUnit>
+    <TextUnit id="718" loc="721">namque edepol quam vis desubito vel cadus verti potest.</TextUnit>
+    <TextUnit id="719" loc="722">Quid igitur? quamquam gravatus fuisti, non nocuit tamen.</TextUnit>
+    <TextUnit id="720" loc="723">age, tibicen, quando bibisti, refer ad labeas tibias,</TextUnit>
+    <TextUnit id="721" loc="724">suffla celeriter tibi buccas quasi proserpens bestia,</TextUnit>
+    <TextUnit id="722" loc="725">agedum. Stiche, uter demutassit, poculo multabitur.</TextUnit>
+    <TextUnit id="723" loc="726">Bonum ius dicis. impetrare oportet qui aequom postulat.</TextUnit>
+    <TextUnit id="724" loc="727">Age ergo observa. si pecassis, multam hic retinebo ilico.</TextUnit>
+    <TextUnit id="725" loc="728">Optimum atque aequissimum oras. em tibi hoc primum omnium:</TextUnit>
+    <TextUnit id="726" loc="729">haec facetiast, amare inter se rivalis duos,</TextUnit>
+    <TextUnit id="727" loc="730">uno cantharo potare, unum scortum ducere.</TextUnit>
+    <TextUnit id="728" loc="731">hoc memorabilest: ego tu sum, tu es ego, unianimi sumus,</TextUnit>
+    <TextUnit id="729" loc="732">unam amicam amamus ambo, mecum ubi est, tecum est tamen;</TextUnit>
+    <TextUnit id="730" loc="733">tecum ubi autem est, mecum ibi autemst: neuter neutri invidet.</TextUnit>
+    <TextUnit id="731" loc="734">Ohe, iam satis, nolo obtaedescat; alium ludum nunc volo.</TextUnit>
+    <TextUnit id="732" loc="735">Vin amicam huc evocemus? ea saltabit. Censeo.</TextUnit>
+    <TextUnit id="733" loc="736">Mea suavis, amabilis, amoena Stephanium, ad amores tuos</TextUnit>
+    <TextUnit id="734" loc="737">foras egredere, satis mihi pulchra es. At enim pulcherrima.</TextUnit>
+    <TextUnit id="735" loc="738">Fac nos hilaros hilariores opera atque adventu tuo.</TextUnit>
+    <TextUnit id="736" loc="739-740">Peregre advenientes te expetimus, Stephaniscidium, mel meum,</TextUnit>
+    <TextUnit id="737" loc="741">si amabilitas tibi nostra placet, si tibi ambo accepti sumus.</TextUnit>
+    <TextUnit id="738" loc="742">Morem vobis geram, meae deliciae. nam ita me Venus amoena amet,</TextUnit>
+    <TextUnit id="739" loc="743">ut ego huc iam dudum simitu exissem vobiscum foras,</TextUnit>
+    <TextUnit id="740" loc="744">nisi me vobis exornarem. nam ita est ingenium muliebre:</TextUnit>
+    <TextUnit id="741" loc="745">bene cum lauta est, tersa ornata ficta est, infecta est tamen;</TextUnit>
+    <TextUnit id="742" loc="746">nimioque sibi mulier meretrix repperit odium ocius</TextUnit>
+    <TextUnit id="743" loc="747">sua inmunditia, quam in perpetuom ut placeat munditia sua.</TextUnit>
+    <TextUnit id="744" loc="748">Nimium lepide fabulata est. Veneris mera est oratio,</TextUnit>
+    <TextUnit id="745" loc="749">Sangarine. Quid est? Totus doleo. Totus? tanto miserior.</TextUnit>
+    <TextUnit id="746" loc="750">Vtrubi accumbo? Vtrubi tu vis? Cum ambobus volo, nam ambos amo.</TextUnit>
+    <TextUnit id="747" loc="751">Vapulat peculium, actum est. Fugit hoc libertas caput.</TextUnit>
+    <TextUnit id="748" loc="752">Date mihi locum, ubi accumbam, amabo, siquidem placeo. Tun mihi?</TextUnit>
+    <TextUnit id="749" loc="753">Cupio cum utroque. Ei mihi, bene ego dispereo. quid ais? Quid est?</TextUnit>
+    <TextUnit id="750" loc="754">Ita me di ament, numquam enim fiet hodie, haec quin saltet tamen.</TextUnit>
+    <TextUnit id="751" loc="755">age, mulsa mea suavitudo, salta: saltabo ego simul.</TextUnit>
+    <TextUnit id="752" loc="756">Numquam edepol med istoc vinces, quin ego ibidem pruriam.</TextUnit>
+    <TextUnit id="753" loc="757">Siquidem mihi saltandum est, tum vos date bibat tibicini.</TextUnit>
+    <TextUnit id="754" loc="758">Et quidem nobis. Tene, tibicen, primum; postidea loci</TextUnit>
+    <TextUnit id="755" loc="759">si hoc eduxeris, proinde ut antehac, celeriter</TextUnit>
+    <TextUnit id="756" loc="760">lepidam et suavem cantionem aliquam occupito cinaedicam,</TextUnit>
+    <TextUnit id="757" loc="761">ubi perpruriscamus usque ex unguiculis. inde huc aquam.</TextUnit>
+    <TextUnit id="758" loc="762">tene tu hoc, educe. dudum placuit potio:</TextUnit>
+    <TextUnit id="759" loc="763">nunc minus gravate iam accipit. tene tu. interim,</TextUnit>
+    <TextUnit id="760" loc="764">meus oculus, da mihi savium, dum illic bibit.</TextUnit>
+    <TextUnit id="761" loc="765">Prostibilest tandem? stantem stanti savium</TextUnit>
+    <TextUnit id="762" loc="766">dare amicum amicae? euge euge, sic furi datur.</TextUnit>
+    <TextUnit id="763" loc="767">Age, iam infla buccas, nunciam aliquid suaviter.</TextUnit>
+    <TextUnit id="764" loc="768">redde cantionem veteri pro vino novam.</TextUnit>
+    <TextUnit id="765" loc="769">qui Ionicus aut cinaedicust, qui hoc tale facere possiet?</TextUnit>
+    <TextUnit id="766" loc="770">Si istoc me vorsu viceris, alio me provocato:</TextUnit>
+    <TextUnit id="767" loc="771">Fac tu hoc modo. At tu hoc modo. Babae. Tatae. Papae. Pax.</TextUnit>
+    <TextUnit id="768" loc="772">Nunc pariter ambo. omnis voco cinaedos contra.</TextUnit>
+    <TextUnit id="769" loc="773">satis esse nobis non magis potis quam fungo imber.</TextUnit>
+    <TextUnit id="770" loc="774">Intro hinc abeamus nunciam: saltatum satis pro vinost.</TextUnit>
+    <TextUnit id="771" loc="775">vos, spectatores, plaudite atque ite ad vos comissatum.</TextUnit>
+  </Text>
+</TessDocument>

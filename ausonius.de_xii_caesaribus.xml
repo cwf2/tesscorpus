@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.de_xii_caesaribus">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Ausonii de XII Caesaribus per Suetonium Tranquillum scriptis</Display>
+    <Abbr>aus. caes.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0604</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa002.perseus-lat1</URI>
+  </Metadata>
+  <Parts>
+     <Part id="1">
+        <Display>Book 1</Display>
+        <MaskLower>0</MaskLower>
+        <MaskUpper>39</MaskUpper>
+     </Part>
+     <Part id="2">
+        <Display>Book 2</Display>
+        <MaskLower>40</MaskLower>
+        <MaskUpper>139</MaskUpper>
+     </Part>
+  </Parts>
+  <Text>
+    <TextUnit id="0" loc="1.1.1">Caesareos proceres, in quorum regna secundis</TextUnit>
+    <TextUnit id="1" loc="1.1.2">consulibus dudum Romana potentia cessit,</TextUnit>
+    <TextUnit id="2" loc="1.1.3">accipe bis senos, sua quemque monosticha signant,</TextUnit>
+    <TextUnit id="3" loc="1.1.4">quorum per plenam senem Suetonius olim</TextUnit>
+    <TextUnit id="4" loc="1.1.5">nomina, res gestas vitamque obitumque peregit.</TextUnit>
+    
+    <TextUnit id="5" loc="1.2.1">PRIMUS regalem patefecit Iulius aulam</TextUnit>
+    <TextUnit id="6" loc="1.2.2">Caesar et Augusto nomen transcripsit et arcem,</TextUnit>
+    <TextUnit id="7" loc="1.2.3">privignus post hunc regnat Nero Claudius, a quo</TextUnit>
+    <TextUnit id="8" loc="1.2.4">Caesar, cognomen caligae cui castra dederunt.</TextUnit>
+    <TextUnit id="9" loc="1.2.5">Claudius hinc potitur regno, post quem Nero saevus,</TextUnit>
+    <TextUnit id="10" loc="1.2.6">ultimus Aeneadum, post hunc tres, nec tribus annis:</TextUnit>
+    <TextUnit id="11" loc="1.2.7">Galba senex, frustra socio confisus inerti;</TextUnit>
+    <TextUnit id="12" loc="1.2.8">mollis Otho, infami per luxum degener aevo</TextUnit>
+    <TextUnit id="13" loc="1.2.9">nec regno dignus nec morte Vitellius ut vir.</TextUnit>
+    <TextUnit id="14" loc="1.2.10">his decimus fatoque accitus Vespasianus</TextUnit>
+    <TextUnit id="15" loc="1.2.11">et Titus imperii felix brevitate, secutus</TextUnit>
+    <TextUnit id="16" loc="1.2.12">frater, quem calvum dixit sua Roma Neronem.</TextUnit>
+    
+    <TextUnit id="17" loc="1.3.1">Iulius, ut perhibent, divus trieteride regnat.</TextUnit>
+    <TextUnit id="18" loc="1.3.2">Augustus post lustra decem sex prorogat annos,</TextUnit>
+    <TextUnit id="19" loc="1.3.3">et ter septenis geminos Nero Claudius addit,</TextUnit>
+    <TextUnit id="20" loc="1.3.4">tertia finit hiems grassantia tempora Gai.</TextUnit>
+    <TextUnit id="21" loc="1.3.5">Claudius hebdomadam duplicem trahit et Nero dirus</TextUnit>
+    <TextUnit id="22" loc="1.3.6">tantundem, summae consul sed defuit unus.</TextUnit>
+    <TextUnit id="23" loc="1.3.7">Galba senex, Otho lascive, famose Vitelli,</TextUnit>
+    <TextUnit id="24" loc="1.3.8">tertia vos Latio regnantes nesciit aestas,</TextUnit>
+    <TextUnit id="25" loc="1.3.10">implet fatalem decadam sibi Vespasianus.</TextUnit>
+    <TextUnit id="26" loc="1.3.11">ter dominante Tito cingit nova laurea Ianum:</TextUnit>
+    <TextUnit id="27" loc="1.3.12">quindecies, saevis potitur dum frater habenis.</TextUnit>
+    
+    <TextUnit id="28" loc="1.4.1">Iulius interiit Caesar grassante senatu,</TextUnit>
+    <TextUnit id="29" loc="1.4.2">addidit Augustum di vis matura senectus,</TextUnit>
+    <TextUnit id="30" loc="1.4.3">sera senex Capreis exul Nero fata peregit,</TextUnit>
+    <TextUnit id="31" loc="1.4.4">expetiit poenas de Caesare Chaerea mollis.</TextUnit>
+    <TextUnit id="32" loc="1.4.5">Claudius ambiguo conclusit fata veneno.</TextUnit>
+    <TextUnit id="33" loc="1.4.6">matricida Nero proprii vim pertulit ensis.</TextUnit>
+    <TextUnit id="34" loc="1.4.7">Galba senex periit saevo prostratus Othone</TextUnit>
+    <TextUnit id="35" loc="1.4.8">mox Otho famosus, clara set morte potitus,</TextUnit>
+    <TextUnit id="36" loc="1.4.9">prodiga succedunt perimendi sceptra Vitelli.</TextUnit>
+    <TextUnit id="37" loc="1.4.10">laudatum imperium, mors lenis Vespasiano.</TextUnit>
+    <TextUnit id="38" loc="1.4.11">at Titus, orbis amor, rapitur florentibus annis,</TextUnit>
+    <TextUnit id="39" loc="1.4.12">sera gravem perimunt, sed iusta piacula fratrem.</TextUnit>
+    
+    <TextUnit id="40" loc="2.praef.1">NUNC et praedictos et regni sorte sequentes</TextUnit>
+    <TextUnit id="41" loc="2.praef.2">expediam, series quos tenet imperii,</TextUnit>
+    <TextUnit id="42" loc="2.praef.3">incipiam ab divo percurramque ordine cunctos,</TextUnit>
+    <TextUnit id="43" loc="2.praef.4">novi Romanae quos memor historiae.</TextUnit>
+    
+    <TextUnit id="44" loc="2.1.1">IMPERIUM, binis fuerat sollemne quod olim</TextUnit>
+    <TextUnit id="45" loc="2.1.2">consulibus, Caesar Iulius optinuit.</TextUnit>
+    <TextUnit id="46" loc="2.1.3">set breve ius regni, sola trieteride gestum:</TextUnit>
+    <TextUnit id="47" loc="2.1.3">perculit armatae factio saeva togae.</TextUnit>
+    
+    <TextUnit id="48" loc="2.2.1">ULTOR successorque dehinc Octavius,</TextUnit>
+    <TextUnit id="49" loc="2.2.2">idem Caesar et Augusti nomine nobilior.</TextUnit>
+    <TextUnit id="50" loc="2.2.3">longaeva et numquam dubiis violata potestas</TextUnit>
+    <TextUnit id="51" loc="2.2.4">in terris positum prodidit esse deum.</TextUnit>
+    
+    <TextUnit id="52" loc="2.3.1">PRAENOMEN Tiberi nanctus Nero prima iuventae</TextUnit>
+    <TextUnit id="53" loc="2.3.2">tempora laudato gessit in imperio,</TextUnit>
+    <TextUnit id="54" loc="2.3.3">frustra dehinc solo Caprearum clausus in antro,</TextUnit>
+    <TextUnit id="55" loc="2.3.4">quae prodit vitiis, credit operta locis.</TextUnit>
+    
+    <TextUnit id="56" loc="2.4.1">POST hunc castrensi caligae cognomine</TextUnit>
+    <TextUnit id="57" loc="2.4.2">Caesar successit saevo saevior ingenio,</TextUnit>
+    <TextUnit id="58" loc="2.4.3">caedibus incestisque dehinc maculosus et omni</TextUnit>
+    <TextUnit id="59" loc="2.4.4">crimine pollutum qui superavit avum.</TextUnit>
+     
+    <TextUnit id="60" loc="2.5.1">CLAUDIUS inrisae privato in tempore vitae,</TextUnit>
+    <TextUnit id="61" loc="2.5.2">in regno specimen prodidit ingenii,</TextUnit>
+    <TextUnit id="62" loc="2.5.3">libertina tamen nuptarum et crimina passus</TextUnit>
+    <TextUnit id="63" loc="2.5.4">non faciendo nocens, set patiendo fuit.</TextUnit>
+      
+    <TextUnit id="64" loc="2.6.1">AENEADUM generis qui sextus et ultimus heres,</TextUnit>
+    <TextUnit id="65" loc="2.6.2">polluit et clausit Iulia sacra Nero.</TextUnit>
+    <TextUnit id="66" loc="2.6.3">nomina quot pietas, tot habet quoque crimina vitae.</TextUnit>
+    <TextUnit id="67" loc="2.6.4">disce ex Tranquillo: set meminisse piget.</TextUnit>
+    
+    <TextUnit id="68" loc="2.7.1">SPE frustrate senex, privatus sceptra mereri</TextUnit>
+    <TextUnit id="69" loc="2.7.2">visus et imperio proditus inferior,</TextUnit>
+    <TextUnit id="70" loc="2.7.3">fama tibi melior iuveni; set iustior ordo est</TextUnit>
+    <TextUnit id="71" loc="2.7.4">conplacuisse dehinc, displicuisse prius.</TextUnit>
+    
+    <TextUnit id="72" loc="2.8.1">AEMULA polluto gesturus sceptra Neroni</TextUnit>
+    <TextUnit id="73" loc="2.8.2">obruitur celeri raptus Otho exitio,</TextUnit>
+    <TextUnit id="74" loc="2.8.3">fine tamen laudandus erit, qui morte decora</TextUnit>
+    <TextUnit id="75" loc="2.8.4">hoc solum fecit nobile, quod periit.</TextUnit>
+    
+    <TextUnit id="76" loc="2.9.1">VITA ferox, mors foeda tibi, nec digne, Vitelli,</TextUnit>
+    <TextUnit id="77" loc="2.9.2">qui fieres Caesar: sic sibi fata placent.</TextUnit>
+    <TextUnit id="78" loc="2.9.3">umbra tamen brevis imperii; quia praemia regni</TextUnit>
+    <TextUnit id="79" loc="2.9.4">saepe indignus adit, non nisi dignus habet.</TextUnit>
+    
+    <TextUnit id="80" loc="2.10.1">QUAERENDI adtentus, moderato commodus usu,</TextUnit>
+    <TextUnit id="81" loc="2.10.2">auget nec reprimit Vespasianus opes,</TextUnit>
+    <TextUnit id="82" loc="2.10.3">olim qui dubiam privato in tempore famam,</TextUnit>
+    <TextUnit id="83" loc="2.10.4">rarum aliis, princeps transtulit in melius.</TextUnit>
+    
+    <TextUnit id="84" loc="2.11.1">FELIX imperio, felix brevitate regendi,</TextUnit>
+    <TextUnit id="85" loc="2.11.2">expers civilis sanguinis, orbis amor.</TextUnit>
+    <TextUnit id="86" loc="2.11.3">unum dixisti moriens te crimen habere;</TextUnit>
+    <TextUnit id="87" loc="2.11.4">set nulli de te, nec tibi credidimus.</TextUnit>
+    
+    <TextUnit id="88" loc="2.12.1">HACTENUS edideras dominos, gens Flavia, iustos.</TextUnit>
+    <TextUnit id="89" loc="2.12.2">cur duo quae dederant, tertius eripuit?</TextUnit>
+    <TextUnit id="90" loc="2.12.3">vix tanti est habuisse illos, quia dona bonorum</TextUnit>
+    <TextUnit id="91" loc="2.12.4">sunt brevia; aeternum, quae nocuere, dolent.</TextUnit>
+    
+    <TextUnit id="92" loc="2.13.1">PROXIMUS extincto moderatur sceptra tyranno</TextUnit>
+    <TextUnit id="93" loc="2.13.2">Nerva senex, princeps nomine, mente parens.</TextUnit>
+    <TextUnit id="94" loc="2.13.3">nulla viro suboles; imitatur adoptio prolem,</TextUnit>
+    <TextUnit id="95" loc="2.13.4">quam legisse iuvat, quam genuisse velit.</TextUnit>
+    
+    <TextUnit id="96" loc="2.14.1">ADGREDITUR regimen viridi Traianus in aevo,</TextUnit>
+    <TextUnit id="97" loc="2.14.2">belli laude prior, cetera patris habens.</TextUnit>
+    <TextUnit id="98" loc="2.14.3">hic quoque prole carens sociat sibi sorte legendi,</TextUnit>
+    <TextUnit id="99" loc="2.14.4">quem fateare bonum, diffiteare parem.</TextUnit>
+    
+    <TextUnit id="100" loc="2.15.1">AELIUS hinc subiit mediis praesignis in actis:</TextUnit>
+    <TextUnit id="101" loc="2.15.2">principia et finem fama notat gravior,</TextUnit>
+    <TextUnit id="102" loc="2.15.3">orbus et hic: cui iunctus erit documenta daturus,</TextUnit>
+    <TextUnit id="103" loc="2.15.4">adsciti quantum praemineant genitis.</TextUnit>
+    
+    <TextUnit id="104" loc="2.16.1">ANTONINUS abhinc regimen capit ille vocatu</TextUnit>
+    <TextUnit id="105" loc="2.16.2">consulesque Pius, nomen habens meriti,</TextUnit>
+    <TextUnit id="106" loc="2.16.3">filius huic fato nullus; set lege suorum</TextUnit>
+    <TextUnit id="107" loc="2.16.4">a patria sumpsit, qui regeret patriam.</TextUnit>
+    
+    <TextUnit id="108" loc="2.17.1">POST Marco tutela datur, qui scita Platonis</TextUnit>
+    <TextUnit id="109" loc="2.17.2">flexit ad imperium patre Pio melior.</TextUnit>
+    <TextUnit id="110" loc="2.17.3">successore suo moriens, set principe pravo,</TextUnit>
+    <TextUnit id="111" loc="2.17.4">hoc solo patriae, quod genuit, nocuit.</TextUnit>
+    
+    <TextUnit id="112" loc="2.18.1">COMMODUS insequitur, pugnis maculosus harenae,</TextUnit>
+    <TextUnit id="113" loc="2.18.2">Thraecidico princeps bella movens gladio,</TextUnit>
+    <TextUnit id="114" loc="2.18.3">eliso tandem persolvens gutture poenas,</TextUnit>
+    <TextUnit id="115" loc="2.18.4">criminibus fassus matris adulterium.</TextUnit>
+    
+    <TextUnit id="116" loc="2.19.1">HELVI, iudicio et consulto lecte senati,</TextUnit>
+    <TextUnit id="117" loc="2.19.2">princeps decretis prodite, non studiis.</TextUnit>
+    <TextUnit id="118" loc="2.19.3">quod doluit male fida cohors, errore probato,</TextUnit>
+    <TextUnit id="119" loc="2.19.4">curia quod castris cesserat imperio.</TextUnit>
+    
+    <TextUnit id="120" loc="2.20.1">DI bene, quod sceptri Didius non gaudet opimis</TextUnit>
+    <TextUnit id="121" loc="2.20.2">et cito periuro praemia adempta seni.</TextUnit>
+    <TextUnit id="122" loc="2.20.3">tuque, Severe pater, titulum ne horresce novantis:</TextUnit>
+    <TextUnit id="123" loc="2.20.4">non rapit imperium vis tua, sed recipit.</TextUnit>
+    
+    <TextUnit id="124" loc="2.21.1">IMPIGER egelido movet arma Severus ab Histro,</TextUnit>
+    <TextUnit id="125" loc="2.21.2">ut parricidae regna adimat Didio.</TextUnit>
+    <TextUnit id="126" loc="2.21.3">Punica origo illi; set qui virtute probaret</TextUnit>
+    <TextUnit id="127" loc="2.21.4">non obstare locum, cum valet ingenium.</TextUnit>
+    
+    <TextUnit id="128" loc="2.22.1">DISSIMILIS virtute patri et multo magis illi,</TextUnit>
+    <TextUnit id="129" loc="2.22.2">cuius adoptivo nomine te perhibes,</TextUnit>
+    <TextUnit id="130" loc="2.22.3">fratris morte nocens, punitus fine cruento,</TextUnit>
+    <TextUnit id="131" loc="2.22.4">inrisu populi tu Caracalla magis.</TextUnit>
+    
+    <TextUnit id="132" loc="2.23.1">PRINCIPIS hinc custos sumptum pro Caesare ferrum</TextUnit>
+    <TextUnit id="133" loc="2.23.2">vertit in auctorem caede Macrinus iners.</TextUnit>
+    <TextUnit id="134" loc="2.23.3">mox cum prole ruit. gravibus pulsare querellis</TextUnit>
+    <TextUnit id="135" loc="2.23.4">cesset perfidiam: quae patitur, meruit.</TextUnit>
+    
+    <TextUnit id="136" loc="2.24.1">TUNE etiam Augustae sedis penetralia foedas,</TextUnit>
+    <TextUnit id="137" loc="2.24.2">Antoninorum nomina falsa gerens,</TextUnit>
+    <TextUnit id="138" loc="2.24.3">quo nunquam neque turpe magis neque foedius ullum</TextUnit>
+    <TextUnit id="139" loc="2.24.4">monstrum Romano sedit in imperio?</TextUnit>
+  </Text>
+</TessDocument>

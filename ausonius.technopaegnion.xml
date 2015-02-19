@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.technopaegnion">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Technopaegnion</Display>
+    <Abbr>aus. tech.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0625</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa028.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>1</MaskUpper><LocusLower>1.0</LocusLower><LocusUpper>1.1</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>2</MaskLower><MaskUpper>17</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.16</LocusUpper></Part><Part id="3"><Display>Book 3</Display><MaskLower>18</MaskLower><MaskUpper>33</MaskUpper><LocusLower>3.1</LocusLower><LocusUpper>3.16</LocusUpper></Part><Part id="4"><Display>Book 4</Display><MaskLower>34</MaskLower><MaskUpper>45</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.12</LocusUpper></Part><Part id="5"><Display>Book 5</Display><MaskLower>46</MaskLower><MaskUpper>50</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.5</LocusUpper></Part><Part id="6"><Display>Book 6</Display><MaskLower>51</MaskLower><MaskUpper>60</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.10</LocusUpper></Part><Part id="7"><Display>Book 7</Display><MaskLower>61</MaskLower><MaskUpper>72</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.12</LocusUpper></Part><Part id="8"><Display>Book 8</Display><MaskLower>73</MaskLower><MaskUpper>85</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.13</LocusUpper></Part><Part id="9"><Display>Book 9</Display><MaskLower>86</MaskLower><MaskUpper>97</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.12</LocusUpper></Part><Part id="10"><Display>Book 10</Display><MaskLower>98</MaskLower><MaskUpper>123</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.26</LocusUpper></Part><Part id="11"><Display>Book 11</Display><MaskLower>124</MaskLower><MaskUpper>128</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.5</LocusUpper></Part><Part id="12"><Display>Book 12</Display><MaskLower>129</MaskLower><MaskUpper>143</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.15</LocusUpper></Part><Part id="13"><Display>Book 13</Display><MaskLower>144</MaskLower><MaskUpper>170</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.27</LocusUpper></Part><Part id="14"><Display>Book 14</Display><MaskLower>171</MaskLower><MaskUpper>192</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.22</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.0">Ausonius Pacato Proconsuli Scio mihi aput alios pro laboris modulo laudem non posse procedere, quam tamen si tu indulseris, ut ait Afranius in Thaide:</TextUnit>
+    <TextUnit id="1" loc="1.1">maiorem laudem quam laborem invenero.1 quae lecturus es monosyllaba sunt, quasi quaedam puncta sermonum: in quibus nullus facundiae locus est, sensuum nulla conceptio, propositio, redditio, conclusio aliaque sophistica, quae in uno versu esse non possunt: set cohaerent ita, ut circuli catenarum separati, et simul ludicrum opusculum texui, ordiri maiuscula solitus: set “in tenui labor, at non tenuis gloria,” 2 si probantur. tu facies, ut sint aliquid, nam sine te monosyllaba erunt vel si quid minus, in quibus ego, quod ad usum pertinet, lusi, quod ad molestiam, laboravi, libello Technopaegnii nomen dedi, ne aut ludum laboranti, aut artem crederes defuisse ludenti.</TextUnit>
+    <TextUnit id="2" loc="2.1">MISI ad te Technopaegnion, inertis otii mei inutile</TextUnit>
+    <TextUnit id="3" loc="2.2">opusculum. versiculi sunt monosyllabis coepti et</TextUnit>
+    <TextUnit id="4" loc="2.3">monosyllabis terminati. nec hic modo stetit scrupea</TextUnit>
+    <TextUnit id="5" loc="2.4">difficultas, sed accessit ad miseriam conectendi, ut</TextUnit>
+    <TextUnit id="6" loc="2.5">idem monosyllabon, quod esset finis extremi versus,</TextUnit>
+    <TextUnit id="7" loc="2.6">principium fieret insequentis, dic ergo: o mora, o</TextUnit>
+    <TextUnit id="8" loc="2.7">poena! rem vanam quippe curavi: exigua est, et</TextUnit>
+    <TextUnit id="9" loc="2.8">fastiditur: inconexa est et implicatur: cum sit aliquid,</TextUnit>
+    <TextUnit id="10" loc="2.9">vel nihili deprehenditur. laboravi tamen, ut</TextUnit>
+    <TextUnit id="11" loc="2.10">haberet aut historicon quippiam, aut dialecticon.</TextUnit>
+    <TextUnit id="12" loc="2.11">nam poeticam vel sophisticam levitatem necessitas</TextUnit>
+    <TextUnit id="13" loc="2.12">observationis exclusit, ad summam, non est quod</TextUnit>
+    <TextUnit id="14" loc="2.13">mireris: sed paucis litteris additis, est cuius miserearis</TextUnit>
+    <TextUnit id="15" loc="2.14">neque aemulari velis, et si huc quoque descendens,</TextUnit>
+    <TextUnit id="16" loc="2.15">maiorem molestiam capias ingenii et</TextUnit>
+    <TextUnit id="17" loc="2.16">facundiae detrimento, quam oblectationem imitationis affectu.</TextUnit>
+    <TextUnit id="18" loc="3.1">RES hominum fragiles alit et regit et perimit Fors</TextUnit>
+    <TextUnit id="19" loc="3.2">Fors dubia aeternumque labans: quam blanda fovet Spes</TextUnit>
+    <TextUnit id="20" loc="3.3">Spes nullo finita aevo: cui terminus est Mors</TextUnit>
+    <TextUnit id="21" loc="3.4">Mors avida, inferna mergit caligine quam nox</TextUnit>
+    <TextUnit id="22" loc="3.5">nox obitura vicem, remeaverit aurea cum lux</TextUnit>
+    <TextUnit id="23" loc="3.6">lux dono concessa deum, cui praevius est Sol</TextUnit>
+    <TextUnit id="24" loc="3.7">Sol, cui nec furto in Veneris latet armipotens Mars</TextUnit>
+    <TextUnit id="25" loc="3.8">Mars nullo de patre satus, quem Thraessa colit gens</TextUnit>
+    <TextUnit id="26" loc="3.9">gens infrena virum, quibus in scelus omne ruit fas fas</TextUnit>
+    <TextUnit id="27" loc="3.10">hominem mactare sacris: ferus iste loci mos</TextUnit>
+    <TextUnit id="28" loc="3.11">mos ferus audacis populi, quem nulla tenet lex</TextUnit>
+    <TextUnit id="29" loc="3.12">lex naturali quam condidit inperio ius</TextUnit>
+    <TextUnit id="30" loc="3.13">ius genitum pietate hominum, ius certa dei mens</TextUnit>
+    <TextUnit id="31" loc="3.14">mens, quae caelesti sensu rigat emeritum COR</TextUnit>
+    <TextUnit id="32" loc="3.15">COR vegetum mundi instar habens, animae vigor et vis:</TextUnit>
+    <TextUnit id="33" loc="3.16">vis tamen hic nulla est: tantum est iocus et nihili res.</TextUnit>
+    <TextUnit id="34" loc="4.1">UT in vetere proverbio est “sequitur vara vibiam,”</TextUnit>
+    <TextUnit id="35" loc="4.2">similium nugarum subtexo nequitiam, et hi versi-</TextUnit>
+    <TextUnit id="36" loc="4.3">culi monosyllabis terminantur, exordio tamen libero,</TextUnit>
+    <TextUnit id="37" loc="4.4">quamquam fine legitimo. set laboravi, ut quantum</TextUnit>
+    <TextUnit id="38" loc="4.5">eius possent aput aures indulgentissimas, absurda</TextUnit>
+    <TextUnit id="39" loc="4.6">concinerent, insulsa resiperent, hiulca congruerent;</TextUnit>
+    <TextUnit id="40" loc="4.7">denique haberent et amara dulcedinem et inepta</TextUnit>
+    <TextUnit id="41" loc="4.8">venerem et aspera lenitatem, quae quidem omnia,</TextUnit>
+    <TextUnit id="42" loc="4.9">quoniam insuavis materia devenustat, lectio benigna</TextUnit>
+    <TextUnit id="43" loc="4.10">conciliet. tu quoque mihi tua crede securior, quippe</TextUnit>
+    <TextUnit id="44" loc="4.11">meliora, ut, quod per adagionem coepimus, proverbio</TextUnit>
+    <TextUnit id="45" loc="4.12">finiamus et “mutuum muli scalpant.”</TextUnit>
+    <TextUnit id="46" loc="5.1">AEMULA dis, naturae imitatrix, omniparens ars,</TextUnit>
+    <TextUnit id="47" loc="5.2">Pacato ut studeat ludus meus, esto operi dux.</TextUnit>
+    <TextUnit id="48" loc="5.3">arta, inamoena licet nec congrua carminibus lex,</TextUnit>
+    <TextUnit id="49" loc="5.4">iudice sub tanto fandi tamen accipiet ius.</TextUnit>
+    <TextUnit id="50" loc="5.5">quippe et ridiculis data gloria, ni prohibet fors.</TextUnit>
+    <TextUnit id="51" loc="6.1">INDICAT in pueris septennia prima novus dens,</TextUnit>
+    <TextUnit id="52" loc="6.2">pubentes annos robustior anticipat vox.</TextUnit>
+    <TextUnit id="53" loc="6.3">invicta et ventis et solibus est hominum frons,</TextUnit>
+    <TextUnit id="54" loc="6.4">ecdurum nervi cum viscere consociant os.</TextUnit>
+    <TextUnit id="55" loc="6.5">palpitat inrequies, vegetum, teres, acre, calens cor,</TextUnit>
+    <TextUnit id="56" loc="6.6">unde vigent sensus, dominatrix quos vegetat mens,</TextUnit>
+    <TextUnit id="57" loc="6.7">atque in verba refert modulata lege loquax os.</TextUnit>
+    <TextUnit id="58" loc="6.8">quam validum est, hominis quota portio, caeruleum fel!</TextUnit>
+    <TextUnit id="59" loc="6.9">quam tenue et molem quantam fert corpoream crus!</TextUnit>
+    <TextUnit id="60" loc="6.10">pondere sub quanto nostrum moderatur iter pes!</TextUnit>
+    <TextUnit id="61" loc="7.1">SAEPE in coniugiis fit noxia, si nimia est, dos. 1</TextUnit>
+    <TextUnit id="62" loc="7.2">sexus uterque potens, set praevalet inperio mas.</TextUnit>
+    <TextUnit id="63" loc="7.3">qui recte faciet, non qui dominatur, erit 2 rex.</TextUnit>
+    <TextUnit id="64" loc="7.4">vexat amicitias et foedera dissociat lis.</TextUnit>
+    <TextUnit id="65" loc="7.5">incipe, quidquid agas: pro toto est prima operis pars.3</TextUnit>
+    <TextUnit id="66" loc="7.6">insinuat caelo disque inserit emeritos laus.</TextUnit>
+    <TextUnit id="67" loc="7.7">et disciplinis conferta est et vitiis urbs.</TextUnit>
+    <TextUnit id="68" loc="7.8">urbibus in tutis munitior urbibus est arx.</TextUnit>
+    <TextUnit id="69" loc="7.9">auro magnus honos, auri pretium tamen est aes.</TextUnit>
+    <TextUnit id="70" loc="7.10">longa dies operosa viro, sed temperies nox,</TextUnit>
+    <TextUnit id="71" loc="7.11">qua caret Aethiopum plaga, pervigil, inrequies gens,</TextUnit>
+    <TextUnit id="72" loc="7.12">semper ubi aeterna vertigine clara manet lux.</TextUnit>
+    <TextUnit id="73" loc="8.1">SUNT et caelicolum monosyllaba. prima deum Fas,</TextUnit>
+    <TextUnit id="74" loc="8.2">quae Themis est Grais; post hanc Rea,quae Latiis Ops;</TextUnit>
+    <TextUnit id="75" loc="8.3">tum Iovis et Consi germanus, Tartareus Dis,</TextUnit>
+    <TextUnit id="76" loc="8.4">et soror et coniunx fratris, regina deum,1 Vis,</TextUnit>
+    <TextUnit id="77" loc="8.5">et qui quadriiugo curru pater invenitur Sol,</TextUnit>
+    <TextUnit id="78" loc="8.6">quique truces belli motus ciet armipotens Mars,</TextUnit>
+    <TextUnit id="79" loc="8.7">quem numquam pietas, numquam bona sollicitat Pax.</TextUnit>
+    <TextUnit id="80" loc="8.8">nec cultor nemorum reticebere, Maenalide Pan,</TextUnit>
+    <TextUnit id="81" loc="8.9">nec genius domuum, Larunda progenitus Lar,</TextUnit>
+    <TextUnit id="82" loc="8.10">fluminibusque Italis praepollens, sulphureus Nar,2</TextUnit>
+    <TextUnit id="83" loc="8.11">quaeque pias divum periuria, nocticolor Styx,</TextUnit>
+    <TextUnit id="84" loc="8.12">velivolique maris constrator, leuconotos Libs,</TextUnit>
+    <TextUnit id="85" loc="8.13">et numquam in dubiis hominem bona destituens Spes.</TextUnit>
+    <TextUnit id="86" loc="9.1">NEC nostros reticebo cibos, quos priscus habet mos,</TextUnit>
+    <TextUnit id="87" loc="9.2">inritamentum quibus additur aequoreum sal.</TextUnit>
+    <TextUnit id="88" loc="9.3">communis pecorique olim cibus atque homini glans,</TextUnit>
+    <TextUnit id="89" loc="9.4">ante equidem campis quam spicea suppeteret frux.</TextUnit>
+    <TextUnit id="90" loc="9.5">mox ador atque adoris de polline pultificum far,</TextUnit>
+    <TextUnit id="91" loc="9.6">instruxit mensas quo quondam Romulidum plebs,</TextUnit>
+    <TextUnit id="92" loc="9.7">hinc cibus, hinc potus, cum dilueretur aqua puls,</TextUnit>
+    <TextUnit id="93" loc="9.8">est inter fruges morsu piper aequiperans git,</TextUnit>
+    <TextUnit id="94" loc="9.9">et Pelusiaco de semine plana, teres lens,</TextUnit>
+    <TextUnit id="95" loc="9.10">et duplici defensa putamine quinquegenus nux,</TextUnit>
+    <TextUnit id="96" loc="9.11">quodque cibo et potu placitum, labor acer apum, mel:</TextUnit>
+    <TextUnit id="97" loc="9.12">naturae liquor iste novae, cui summa natat faex.</TextUnit>
+    <TextUnit id="98" loc="10.1">SOLAMEN tibi, Phoebe, novum dedit Oebalius flos.</TextUnit>
+    <TextUnit id="99" loc="10.2">flore alio reus est Narcissi morte sacer fons.</TextUnit>
+    <TextUnit id="100" loc="10.3">caedis Adoneae mala gloria fulmineus sus.</TextUnit>
+    <TextUnit id="101" loc="10.4">periurum Lapitham Iunonia ludificat nubs</TextUnit>
+    <TextUnit id="102" loc="10.5">ludit et Aeaciden Parnasia Delphicolae sors.</TextUnit>
+    <TextUnit id="103" loc="10.6">Thraeicium Libycum freta Cimmeriumque secat bos.</TextUnit>
+    <TextUnit id="104" loc="10.7">non sine Hamadryadis fato cadit arborea trabs,</TextUnit>
+    <TextUnit id="105" loc="10.8">quo generata Venus, Saturnia desecuit falx.</TextUnit>
+    <TextUnit id="106" loc="10.9">sicca inter rupes Scythicas stetit alitibus crux,</TextUnit>
+    <TextUnit id="107" loc="10.10">unde Prometheo de corpore sanguineus ros</TextUnit>
+    <TextUnit id="108" loc="10.11">adspargit cautes et dira aconita creat cos.</TextUnit>
+    <TextUnit id="109" loc="10.12">Ibycus ut periit, index fuit altivolans grus.</TextUnit>
+    <TextUnit id="110" loc="10.13">Aeacidae ad tumulum mactata est Andromachae glos.</TextUnit>
+    <TextUnit id="111" loc="10.14">carcere in Argivo Philopoemena lenta adiit mors.</TextUnit>
+    <TextUnit id="112" loc="10.15">tertia opima dedit spoliatus Aremoricus Lars. 1</TextUnit>
+    <TextUnit id="113" loc="10.16">sera venenato potu abstulit Hannibalem nex.</TextUnit>
+    <TextUnit id="114" loc="10.17">res Asiae quantas leto dedit inmeritas fraus!1</TextUnit>
+    <TextUnit id="115" loc="10.18">ultrix flagravit de rupibus Euboicis fax.</TextUnit>
+    <TextUnit id="116" loc="10.19">stat Iovis ad cyathum, generat quem Dardanius Tros.</TextUnit>
+    <TextUnit id="117" loc="10.20">praepetibus pennis super aera vectus 2 homo Cres.</TextUnit>
+    <TextUnit id="118" loc="10.21">intulit incestam tibi vim, Philomela, ferus Thrax.</TextUnit>
+    <TextUnit id="119" loc="10.22">barbarus est Lydus, pellax Geta, femineus Phryx, 3</TextUnit>
+    <TextUnit id="120" loc="10.23">fallaces Ligures, nullo situs in pretio Car.</TextUnit>
+    <TextUnit id="121" loc="10.24">vellera depectit nemoralia vestifluus Ser. 4</TextUnit>
+    <TextUnit id="122" loc="10.25">nota in portentis Thebana tricorporibus Sphinx.</TextUnit>
+    <TextUnit id="123" loc="10.26">nota Caledoniis nuribus 5 muliebre secus Strix,</TextUnit>
+    <TextUnit id="124" loc="11.1">ANNUS ab exortu cum floriparum reserat ver,</TextUnit>
+    <TextUnit id="125" loc="11.2">cuncta vigent: nemus omne viret, nitet auricomum rus</TextUnit>
+    <TextUnit id="126" loc="11.3">t fusura umbras radicitus exigitur stirps.</TextUnit>
+    <TextUnit id="127" loc="11.4">non denso ad terram lapsu glomerata fluit nix.</TextUnit>
+    <TextUnit id="128" loc="11.5">Horum spirat odor, Libani ceu montis honor tus. iam pelago volitat mercator vestifluus Ser 1</TextUnit>
+    <TextUnit id="129" loc="12.1">QUIS subit in poenam capitali iudicio? vas.</TextUnit>
+    <TextUnit id="130" loc="12.2">quid si lis fuerit nummaria, quis dabitur? praes.</TextUnit>
+    <TextUnit id="131" loc="12.3">quis mirmilloni contenditur? aequimanus Thraex.</TextUnit>
+    <TextUnit id="132" loc="12.4">inter virtutes quod nomen Mercurio? fur.</TextUnit>
+    <TextUnit id="133" loc="12.5">turibula et paterae, quae tertia vasa deum? lanx.</TextUnit>
+    <TextUnit id="134" loc="12.6">cincta mari quaenam tellus creat Hippocratem? Co.</TextUnit>
+    <TextUnit id="135" loc="12.7">grex magis an regnum Minoida sollicitat? grex.</TextUnit>
+    <TextUnit id="136" loc="12.8">quid praeter nubem Phaeacibus inpositum? mons.2</TextUnit>
+    <TextUnit id="137" loc="12.9">dic cessante cibo somno quis opimior est? glis. 3</TextUnit>
+    <TextUnit id="138" loc="12.10">tergora dic clipeis accommoda quae faciat? glus.</TextUnit>
+    <TextUnit id="139" loc="12.11">sponte ablativi casus quis rectus erit? spons.</TextUnit>
+    <TextUnit id="140" loc="12.12">quadrupes oscinibus quis iungitur auspiciis? mus. 4</TextUnit>
+    <TextUnit id="141" loc="12.13">quid fluitat pelago, quod non natat in fluvio? pix. 5</TextUnit>
+    <TextUnit id="142" loc="12.14">bissenas partes quis continet aequipares? as.</TextUnit>
+    <TextUnit id="143" loc="12.15">tertia defuerit si portio, quid reliquum? bes.</TextUnit>
+    <TextUnit id="144" loc="13.1">DUX elementorum studiis viget in Latiis A</TextUnit>
+    <TextUnit id="145" loc="13.2">et suprema notis adscribitur Argolicis fi.</TextUnit>
+    <TextUnit id="146" loc="13.3">Hτα quod Aeolidum, quodque ε1 valet, hoc Latiare E.</TextUnit>
+    <TextUnit id="147" loc="13.4">praesto quod E Latium semper breve Dorica vox ε.</TextUnit>
+    <TextUnit id="148" loc="13.5">hoc tereti argutoque sono negat Attica gens O.</TextUnit>
+    <TextUnit id="149" loc="13.6">ω* quod, et O, Graecum conpensat Romula vox O.</TextUnit>
+    <TextUnit id="150" loc="13.7">littera sum, Iotae similis vox plena, iubens I.</TextUnit>
+    <TextUnit id="151" loc="13.8">Cecropiis ignota notis, ferale sonans V.</TextUnit>
+    <TextUnit id="152" loc="13.9">Pythagorae bivium, ramis pateo ambiguis Y. 2</TextUnit>
+    <TextUnit id="153" loc="13.10">vocibus in Grais numquam ultima conspicior M.</TextUnit>
+    <TextUnit id="154" loc="13.11">Zeta iacens, si surgat, erit nota, quae legitur N.</TextUnit>
+    <TextUnit id="155" loc="13.12">Maeandrum flexusque vagos imitata vagor Ξ.</TextUnit>
+    <TextUnit id="156" loc="13.13">dividuum Betae monosyllabon Italicum B.</TextUnit>
+    <TextUnit id="157" loc="13.14">non formam, at vocem Deltae gero Romuleum D.</TextUnit>
+    <TextUnit id="158" loc="13.15">hostilis quae forma iugi est, hanc efficiet π*.</TextUnit>
+    <TextUnit id="159" loc="13.16">Ausonium si Pe scribas, ero Cecropium P,</TextUnit>
+    <TextUnit id="160" loc="13.17">et Rho quod Graeco, mutabitur in Latium P.</TextUnit>
+    <TextUnit id="161" loc="13.18">malus ut antemnam fert vertice, sic ego sum T.</TextUnit>
+    <TextUnit id="162" loc="13.19">spiritus hic, flatu tenuissima vivificans, H.</TextUnit>
+    <TextUnit id="163" loc="13.20">haec tribus in Latio tantum addita nominibus, K;</TextUnit>
+    <TextUnit id="164" loc="13.21">praevaluit post quam, Gammae vice functa prius, C,</TextUnit>
+    <TextUnit id="165" loc="13.22">atque alium pro se titulum replicata dedit G.</TextUnit>
+    <TextUnit id="166" loc="13.23">ansis cincta duabus erit cum lota, leges SANPI.1</TextUnit>
+    <TextUnit id="167" loc="13.24">in Latio numerus denarius, Argolicum χ*.</TextUnit>
+    <TextUnit id="168" loc="13.25">haec gruis effigies Palamedica porrigitur φ*.</TextUnit>
+    <TextUnit id="169" loc="13.26">Coppa fui quondam Boeotia, nunc Latium Q.</TextUnit>
+    <TextUnit id="170" loc="13.27">furca tricornigera specie paene ultima sum ψ*.</TextUnit>
+    <TextUnit id="171" loc="14.1">ET logodaedalia? stride modo, qui nimium trux</TextUnit>
+    <TextUnit id="172" loc="14.2">frivola condemnas: nequam quoque cum pretio est mers!</TextUnit>
+    <TextUnit id="173" loc="14.3">Ennius ut memorat, repleat te laetificum gau.2</TextUnit>
+    <TextUnit id="174" loc="14.4">livida mens hominum concretum felle coquat pus.</TextUnit>
+    <TextUnit id="175" loc="14.5">dic, quid significent Catalepta Maronis? in his al</TextUnit>
+    <TextUnit id="176" loc="14.6">Celtarum posuit; sequitur non lucidius tau: 3</TextUnit>
+    <TextUnit id="177" loc="14.8">estne peregrini vox nominis an Latii sil?</TextUnit>
+    <TextUnit id="178" loc="14.9">et quod germano mixtum male letiferum min?</TextUnit>
+    <TextUnit id="179" loc="14.7">imperium, litem, venerem cur una notat res?</TextUnit>
+    <TextUnit id="180" loc="14.10">lintribus in geminis constratus ponto sit an pons?</TextUnit>
+    <TextUnit id="181" loc="14.11">Bucolico saepes dixit Maro, cur Cicero saeps?</TextUnit>
+    <TextUnit id="182" loc="14.12">vox solita et cunctis notissima, si memores, lac</TextUnit>
+    <TextUnit id="183" loc="14.13">cur condemnatur, ratio magis ut faciat lact?</TextUnit>
+    <TextUnit id="184" loc="14.14">an, Libyae ferale malum, sit Romula vox seps?</TextUnit>
+    <TextUnit id="185" loc="14.15">si bonus est insons contrarius et reus, est sons?</TextUnit>
+    <TextUnit id="186" loc="14.16">dives opum cur nomen habet Iove de stygio dis?</TextUnit>
+    <TextUnit id="187" loc="14.17">unde Rudinus ait “divum domus altisonum cael”?1</TextUnit>
+    <TextUnit id="188" loc="14.18">et cuius de more, quod addidit, “endo suam do”?2</TextUnit>
+    <TextUnit id="189" loc="14.19">aut, de fronde loquens, cur dicit “populea fros”?3</TextUnit>
+    <TextUnit id="190" loc="14.20">Sed quo progredior? quae finis, quis modus et calx?</TextUnit>
+    <TextUnit id="191" loc="14.21">indulge, Pacate bonus, doctus, facilis vir;</TextUnit>
+    <TextUnit id="192" loc="14.22">totum opus hoc sparsum, crinis velut Antiphilae: pax.4</TextUnit>
+  </Text>
+</TessDocument>

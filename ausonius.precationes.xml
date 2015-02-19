@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.precationes">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Precationes</Display>
+    <Abbr>aus. idyll. 8_or_9.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0623</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa026.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>51</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.56</LocusUpper></Part><Part id="2"><Display>Book 6</Display><MaskLower>52</MaskLower><MaskUpper>68</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.16</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">IANUARIAS FASCIBUS SUMPTIS</TextUnit>
+    <TextUnit id="1" loc="1.2">IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.</TextUnit>
+    <TextUnit id="2" loc="1.4">consulis Ausonii Latiam visure curulem,</TextUnit>
+    <TextUnit id="3" loc="1.5">ecquid ab Augusta nunc maiestate secundum</TextUnit>
+    <TextUnit id="4" loc="1.6">quod mireris, habes? Roma illa domusque Quirini</TextUnit>
+    <TextUnit id="5" loc="1.7">et toga purpurei rutilans praetexta senati</TextUnit>
+    <TextUnit id="6" loc="1.8">hoc apice aeternis signat sua tempora fastis. IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.1 skipl 48 prevline=8 10</TextUnit>
+    <TextUnit id="7" loc="1.10">Anne, bonis coepte auspiciis, da vere salubri</TextUnit>
+    <TextUnit id="8" loc="1.11">apricas ventorum animas, da roscida Cancro</TextUnit>
+    <TextUnit id="9" loc="1.12">solstitia et gelidum Boream Septembribus horis,</TextUnit>
+    <TextUnit id="10" loc="1.13">mordeat autumnis frigus subtile pruinis</TextUnit>
+    <TextUnit id="11" loc="1.14">et tenuata moris cesset mediocribus aestas,</TextUnit>
+    <TextUnit id="12" loc="1.15">sementem Notus umificet, sit bruma nivalis,</TextUnit>
+    <TextUnit id="13" loc="1.16">dum pater antiqui renovatur Martius anni. IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.</TextUnit>
+    <TextUnit id="14" loc="1.17">Spiret odorato florum nova gratia Maio,</TextUnit>
+    <TextUnit id="15" loc="1.18">Iulius et segetes coquat et mare temperet Euris, skipl 48 prevline=18 20</TextUnit>
+    <TextUnit id="16" loc="1.20">Sirius ardentem non augeat igne Leonem,</TextUnit>
+    <TextUnit id="17" loc="1.21">discolor arboreos variet Pomona sapores,</TextUnit>
+    <TextUnit id="18" loc="1.22">mitiget autumnus, quod maturaverit aestas,</TextUnit>
+    <TextUnit id="19" loc="1.23">et genialis hiems parta sibi dote fruatur,</TextUnit>
+    <TextUnit id="20" loc="1.24">pacem mundus agat nec turbida sidera regnent. IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL. skipl 50 prevline=24 26</TextUnit>
+    <TextUnit id="21" loc="1.26">Nulla tuos, Gradive, offendat stella penates,</TextUnit>
+    <TextUnit id="22" loc="1.27">quae non aequa tibi; non Cynthia, non celer Arcas</TextUnit>
+    <TextUnit id="23" loc="1.28">finitimus terris; non tu, Saturne, supremo</TextUnit>
+    <TextUnit id="24" loc="1.29">ultime circuitu: procul a Pyroente remotus</TextUnit>
+    <TextUnit id="25" loc="1.30">tranquillum properabis iter. vos comminus ite,</TextUnit>
+    <TextUnit id="26" loc="1.31">stella salutigeri Iovis et Cythereie Vesper:</TextUnit>
+    <TextUnit id="27" loc="1.32">non umquam hospitibus facilis Cyllenius absit.</TextUnit>
+    <TextUnit id="28" loc="1.33">IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.</TextUnit>
+    <TextUnit id="29" loc="1.34">Hostibus edomitis, qua Francia mixta Suebis</TextUnit>
+    <TextUnit id="30" loc="1.35">certat ad obsequium, Latiis ut militet armis,</TextUnit>
+    <TextUnit id="31" loc="1.36">qua vaga Sauromates sibi iunxerat agmina Chuni,</TextUnit>
+    <TextUnit id="32" loc="1.37">quaque Getes sociis Histrum adsultabat Alanis</TextUnit>
+    <TextUnit id="33" loc="1.38">(hoc mihi praepetibus victoria nuntiat alis):</TextUnit>
+    <TextUnit id="34" loc="1.39">iam venit Augustus, nostros ut comat honores,</TextUnit>
+    <TextUnit id="35" loc="1.40">officio exornans, quos participare cupisset.</TextUnit>
+    <TextUnit id="36" loc="1.41">IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.</TextUnit>
+    <TextUnit id="37" loc="1.42">Aurea venturo, Sol, porrige gaudia Iano:</TextUnit>
+    <TextUnit id="38" loc="1.43">fascibus Ausonii succedet Caesar in annum,</TextUnit>
+    <TextUnit id="39" loc="1.44">quintam Romulei praetextam habiturus honoris,</TextUnit>
+    <TextUnit id="40" loc="1.45">ecce ubi se cumulat mea purpura (mitibus audi</TextUnit>
+    <TextUnit id="41" loc="1.46">auribus hoc. Nemesis) post me dignatur oriri</TextUnit>
+    <TextUnit id="42" loc="1.47">Augustus consul, plus quam conferre videtur</TextUnit>
+    <TextUnit id="43" loc="1.48">me sibi, qui iussit nostros praecedere fasces.</TextUnit>
+    <TextUnit id="44" loc="1.49">IANE, VENI: NOVUS ANNE, VENI: RENOVATE VENI, SOL.</TextUnit>
+    <TextUnit id="45" loc="1.50">Tu tropicum soli da 1 cedere, rursus et illum</TextUnit>
+    <TextUnit id="46" loc="1.51">terga dare, ut duplex tropico varietur ab astro</TextUnit>
+    <TextUnit id="47" loc="1.52">et quater a ternis properet mutatio signis,</TextUnit>
+    <TextUnit id="48" loc="1.53">aestivos inpelle dies brumamque morantem</TextUnit>
+    <TextUnit id="49" loc="1.54">noctibus adceleret promissus Caesaris annus,</TextUnit>
+    <TextUnit id="50" loc="1.55">illum ego si cernam, tum terque quaterque beatus,</TextUnit>
+    <TextUnit id="51" loc="1.56">tunc ero bis consul, tunc tangam vertice caelum.</TextUnit>
+    <TextUnit id="52" loc="6.1">Anne, bonis coepte auspiciis, felicia cernis</TextUnit>
+    <TextUnit id="53" loc="6.2">consulis Ausonii primordia: prome coruscum,</TextUnit>
+    <TextUnit id="54" loc="6.3">Sol aeterne, caput solitoque inlustrior almo</TextUnit>
+    <TextUnit id="55" loc="6.4">lumine purpureum iubar exere lucis eoae.</TextUnit>
+    <TextUnit id="56" loc="6.5">anne, pater rerum, quas Iani mense bifrontis</TextUnit>
+    <TextUnit id="57" loc="6.6">volvis in hibernum glaciali fine Decembrem,</TextUnit>
+    <TextUnit id="58" loc="6.7">alme, veni et festum veteri novus adice Ianum.</TextUnit>
+    <TextUnit id="59" loc="6.7a">coge secuturos bis sena per ostia menses;2</TextUnit>
+    <TextUnit id="60" loc="6.8">sollemnes pervade vias bissenaque mundo</TextUnit>
+    <TextUnit id="61" loc="6.9">curricula aequatis varians per tempora signis</TextUnit>
+    <TextUnit id="62" loc="6.10">praecipitem aeterna perfer vertigine cursum,</TextUnit>
+    <TextUnit id="63" loc="6.11">sic prono raptate polo, contraria Phoebus</TextUnit>
+    <TextUnit id="64" loc="6.12">ut momenta ferat servata parte dierum</TextUnit>
+    <TextUnit id="65" loc="6.13">et novus hiberno reparet sua lumina pulsu,</TextUnit>
+    <TextUnit id="66" loc="6.14">menstrua ter decies redeunt dum cornua lunae,</TextUnit>
+    <TextUnit id="67" loc="6.15">exortus obitusque manu volvente rotabis,</TextUnit>
+    <TextUnit id="68" loc="6.16">legitimum Phoebi cohibens per signa meatum.</TextUnit>
+  </Text>
+</TessDocument>

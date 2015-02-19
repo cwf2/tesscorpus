@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.epitaphia_heroum_qui_bello_troico_interfuerunt">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Epitaphia heroum qui bello Troico interfuerunt</Display>
+    <Abbr>aus. epit.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0614</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa012.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book praef</Display><MaskLower>0</MaskLower><MaskUpper>0</MaskUpper><LocusLower>praef.0</LocusLower><LocusUpper>praef.0</LocusUpper></Part><Part id="2"><Display>Book 1</Display><MaskLower>1</MaskLower><MaskUpper>4</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.4</LocusUpper></Part><Part id="3"><Display>Book 2</Display><MaskLower>5</MaskLower><MaskUpper>10</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.6</LocusUpper></Part><Part id="4"><Display>Book 3</Display><MaskLower>11</MaskLower><MaskUpper>16</MaskUpper><LocusLower>3.1</LocusLower><LocusUpper>3.6</LocusUpper></Part><Part id="5"><Display>Book 4</Display><MaskLower>17</MaskLower><MaskUpper>20</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.4</LocusUpper></Part><Part id="6"><Display>Book 5</Display><MaskLower>21</MaskLower><MaskUpper>22</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.2</LocusUpper></Part><Part id="7"><Display>Book 6</Display><MaskLower>23</MaskLower><MaskUpper>26</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.4</LocusUpper></Part><Part id="8"><Display>Book 7</Display><MaskLower>27</MaskLower><MaskUpper>32</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.6</LocusUpper></Part><Part id="9"><Display>Book 8</Display><MaskLower>33</MaskLower><MaskUpper>38</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.6</LocusUpper></Part><Part id="10"><Display>Book 9</Display><MaskLower>39</MaskLower><MaskUpper>42</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.4</LocusUpper></Part><Part id="11"><Display>Book 10</Display><MaskLower>43</MaskLower><MaskUpper>46</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.4</LocusUpper></Part><Part id="12"><Display>Book 11</Display><MaskLower>47</MaskLower><MaskUpper>50</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.4</LocusUpper></Part><Part id="13"><Display>Book 12</Display><MaskLower>51</MaskLower><MaskUpper>58</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.8</LocusUpper></Part><Part id="14"><Display>Book 13</Display><MaskLower>59</MaskLower><MaskUpper>62</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.4</LocusUpper></Part><Part id="15"><Display>Book 14</Display><MaskLower>63</MaskLower><MaskUpper>64</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.2</LocusUpper></Part><Part id="16"><Display>Book 15</Display><MaskLower>65</MaskLower><MaskUpper>69</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.5</LocusUpper></Part><Part id="17"><Display>Book 16</Display><MaskLower>70</MaskLower><MaskUpper>73</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.4</LocusUpper></Part><Part id="18"><Display>Book 17</Display><MaskLower>74</MaskLower><MaskUpper>75</MaskUpper><LocusLower>17.1</LocusLower><LocusUpper>17.2</LocusUpper></Part><Part id="19"><Display>Book 18</Display><MaskLower>76</MaskLower><MaskUpper>79</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.4</LocusUpper></Part><Part id="20"><Display>Book 19</Display><MaskLower>80</MaskLower><MaskUpper>85</MaskUpper><LocusLower>19.1</LocusLower><LocusUpper>19.6</LocusUpper></Part><Part id="21"><Display>Book 20</Display><MaskLower>86</MaskLower><MaskUpper>91</MaskUpper><LocusLower>20.1</LocusLower><LocusUpper>20.6</LocusUpper></Part><Part id="22"><Display>Book 21</Display><MaskLower>92</MaskLower><MaskUpper>95</MaskUpper><LocusLower>21.1</LocusLower><LocusUpper>21.4</LocusUpper></Part><Part id="23"><Display>Book 22</Display><MaskLower>96</MaskLower><MaskUpper>99</MaskUpper><LocusLower>22.1</LocusLower><LocusUpper>22.4</LocusUpper></Part><Part id="24"><Display>Book 23</Display><MaskLower>100</MaskLower><MaskUpper>105</MaskUpper><LocusLower>23.1</LocusLower><LocusUpper>23.6</LocusUpper></Part><Part id="25"><Display>Book 24</Display><MaskLower>106</MaskLower><MaskUpper>110</MaskUpper><LocusLower>24.1</LocusLower><LocusUpper>24.5</LocusUpper></Part><Part id="26"><Display>Book 25</Display><MaskLower>111</MaskLower><MaskUpper>116</MaskUpper><LocusLower>25.1</LocusLower><LocusUpper>25.6</LocusUpper></Part><Part id="27"><Display>Book 26</Display><MaskLower>117</MaskLower><MaskUpper>120</MaskUpper><LocusLower>26.1</LocusLower><LocusUpper>26.4</LocusUpper></Part><Part id="28"><Display>Book 27</Display><MaskLower>121</MaskLower><MaskUpper>130</MaskUpper><LocusLower>27.1</LocusLower><LocusUpper>27.10</LocusUpper></Part><Part id="29"><Display>Book 28</Display><MaskLower>131</MaskLower><MaskUpper>136</MaskUpper><LocusLower>28.1</LocusLower><LocusUpper>28.6</LocusUpper></Part><Part id="30"><Display>Book 29</Display><MaskLower>137</MaskLower><MaskUpper>140</MaskUpper><LocusLower>29.1</LocusLower><LocusUpper>29.4</LocusUpper></Part><Part id="31"><Display>Book 30</Display><MaskLower>141</MaskLower><MaskUpper>146</MaskUpper><LocusLower>30.1</LocusLower><LocusUpper>30.6</LocusUpper></Part><Part id="32"><Display>Book 31</Display><MaskLower>147</MaskLower><MaskUpper>152</MaskUpper><LocusLower>31.1</LocusLower><LocusUpper>31.6</LocusUpper></Part><Part id="33"><Display>Book 32</Display><MaskLower>153</MaskLower><MaskUpper>162</MaskUpper><LocusLower>32.1</LocusLower><LocusUpper>32.10</LocusUpper></Part><Part id="34"><Display>Book 33</Display><MaskLower>163</MaskLower><MaskUpper>172</MaskUpper><LocusLower>33.1</LocusLower><LocusUpper>33.10</LocusUpper></Part><Part id="35"><Display>Book 34</Display><MaskLower>173</MaskLower><MaskUpper>178</MaskUpper><LocusLower>34.1</LocusLower><LocusUpper>34.6</LocusUpper></Part><Part id="36"><Display>Book 35</Display><MaskLower>179</MaskLower><MaskUpper>184</MaskUpper><LocusLower>35.1</LocusLower><LocusUpper>35.6</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="praef.0">Ausonius Lectori Suo Salutem. Ad rem pertinere existimavi, ut vel vanum opusculum materiae congruentis absolverem et libello, qui commemorationem habet eorum, qui vel peregrini Burdigalae vel 1 Burdigalenses peregre docuerunt, Epitaphia subnecterem scilicet titulos sepulcrales 2 heroum, qui bello Troico interfuerunt. Quae antiqua cum aput philologum quendam repperissem, Latino sermone converti, non ut inservirem ordinis persequendi studio 3, set ut cohercerem libere nec aberrarem.</TextUnit>
+    <TextUnit id="1" loc="1.1">REX regum Atrides, fraternae coniugis ultor,</TextUnit>
+    <TextUnit id="2" loc="1.2">oppetii manibus coniugis ipse meae.</TextUnit>
+    <TextUnit id="3" loc="1.3">quid prodest Helenes raptum punisse dolentem,</TextUnit>
+    <TextUnit id="4" loc="1.4">vindicem adulterii cum Clytemestra necet?</TextUnit>
+    <TextUnit id="5" loc="2.1">FELIX O Menelae, deum cui debita sedes</TextUnit>
+    <TextUnit id="6" loc="2.2">decretumque piis manibus Elysium,</TextUnit>
+    <TextUnit id="7" loc="2.3">Tyndareo dilecte gener, dilecte Tonanti,</TextUnit>
+    <TextUnit id="8" loc="2.4">coniugii vindex, ultor adulterii,</TextUnit>
+    <TextUnit id="9" loc="2.5">aeterno pollens aevo aeternaque iuventa,</TextUnit>
+    <TextUnit id="10" loc="2.6">nec leti passus tempora nec senii.</TextUnit>
+    <TextUnit id="11" loc="3.1">AIACIS tumulo pariter tegor obruta Virtus,</TextUnit>
+    <TextUnit id="12" loc="3.2">inlacrimans bustis funeris ipsa mei,</TextUnit>
+    <TextUnit id="13" loc="3.3">incomptas lacerata comas, quod pravus Atrides</TextUnit>
+    <TextUnit id="14" loc="3.4">cedere me instructis compulit insidiis,</TextUnit>
+    <TextUnit id="15" loc="3.5">iam dabo purpureum claro de sanguine florem,</TextUnit>
+    <TextUnit id="16" loc="3.6">testantem gemitu crimina iudicii.</TextUnit>
+    <TextUnit id="17" loc="4.1">NON una Aeaciden tellus habet: ossa teguntur</TextUnit>
+    <TextUnit id="18" loc="4.2">litore Sigeo, crinem Larisa cremavit.</TextUnit>
+    <TextUnit id="19" loc="4.3">pars tumulis secreta iacet, pars classe relata est; 1</TextUnit>
+    <TextUnit id="20" loc="4.4">orbe set in toto redivivum ostendet Homerus 2.</TextUnit>
+    <TextUnit id="21" loc="5.1">CONDITUR hoc tumulo Laerta natus Ulixes:</TextUnit>
+    <TextUnit id="22" loc="5.2">perlege Odyssean omnia nosse volens.</TextUnit>
+    <TextUnit id="23" loc="6.1">CONDITUR hic genitore bono melior Diomedes,</TextUnit>
+    <TextUnit id="24" loc="6.2">crimen ob uxoris pulsus dotalibus Argis,</TextUnit>
+    <TextUnit id="25" loc="6.3">Argyripam clarosque viris qui condidit Arpos,</TextUnit>
+    <TextUnit id="26" loc="6.4">clarior urbe nova patriae quam sede vetusta.</TextUnit>
+    <TextUnit id="27" loc="7.1">CONSILIIS belloque bonus, quae copula rara est,</TextUnit>
+    <TextUnit id="28" loc="7.2">carus et Atridis, carus et Aeacidis:</TextUnit>
+    <TextUnit id="29" loc="7.3">praemia virtutis simul et pietatis adeptus,</TextUnit>
+    <TextUnit id="30" loc="7.4">servate Antilochus Nestore patre obii.</TextUnit>
+    <TextUnit id="31" loc="7.5">non hic ordo fuit: set iustius ille superstes,</TextUnit>
+    <TextUnit id="32" loc="7.6">Troia capi sine quo perfida non poterat.</TextUnit>
+    <TextUnit id="33" loc="8.1">Hoc tegor in tumulo quarti iam prodigus aevi</TextUnit>
+    <TextUnit id="34" loc="8.2">Nestor, consilio clarus et eloquio,</TextUnit>
+    <TextUnit id="35" loc="8.3">obiecit sese cuius pro morte peremptus</TextUnit>
+    <TextUnit id="36" loc="8.4">filius et nati vulnere vivo pater,</TextUnit>
+    <TextUnit id="37" loc="8.5">eheu cur fatis disponere sic placet aevum,</TextUnit>
+    <TextUnit id="38" loc="8.6">tam longum ut nobis, tam breve ut Antilocho?</TextUnit>
+    <TextUnit id="39" loc="9.1">ORBE tegor medio, maior virtute paterna,</TextUnit>
+    <TextUnit id="40" loc="9.2">quod puer et regis Pyrrhus opima tuli.</TextUnit>
+    <TextUnit id="41" loc="9.3">Impius ante aras quem fraude peremit Orestes,</TextUnit>
+    <TextUnit id="42" loc="9.4">quid mirum, caesa iam genetrice furens.</TextUnit>
+    <TextUnit id="43" loc="10.1">NEC me non dignum titulo Pleuronia credit,</TextUnit>
+    <TextUnit id="44" loc="10.2">quae 1 communis erat cum Diomede domus,</TextUnit>
+    <TextUnit id="45" loc="10.3">Euryalo et Sthenelo: nam tertius hoc ego regnum</TextUnit>
+    <TextUnit id="46" loc="10.4">possedi, de quo nunc satis est tumulus.</TextUnit>
+    <TextUnit id="47" loc="11.1">GUNEA pontus habet, tumulus sine corpore nomen.</TextUnit>
+    <TextUnit id="48" loc="11.2">fama homines inter, caelum animus repetit,</TextUnit>
+    <TextUnit id="49" loc="11.3">cuncta elementa duci tanto commune sepulcrum.</TextUnit>
+    <TextUnit id="50" loc="11.4">quae? caelum et tellus et mare et ora virum.</TextUnit>
+    <TextUnit id="51" loc="12.1">FATALE adscriptum nomen mihi Protesilao;</TextUnit>
+    <TextUnit id="52" loc="12.2">nam primus Danaum bello obii Phrygio,</TextUnit>
+    <TextUnit id="53" loc="12.3">audaci ingressus Sigeia litora saltu,</TextUnit>
+    <TextUnit id="54" loc="12.4">captus pellacis Lartiadae insidiis.</TextUnit>
+    <TextUnit id="55" loc="12.5">qui, ne Troianae premeret pede litora terrae,</TextUnit>
+    <TextUnit id="56" loc="12.6">ipse super proprium desiluit clipeum,</TextUnit>
+    <TextUnit id="57" loc="12.7">quid queror? hoc letum iam tum mea fata canebant,</TextUnit>
+    <TextUnit id="58" loc="12.8">tale mihi nomen cum pater inposuit.</TextUnit>
+    <TextUnit id="59" loc="13.1">PRODITUS ad poenam sceleratae fraude Lacaenae</TextUnit>
+    <TextUnit id="60" loc="13.2">et deformato corpore Deiphobus</TextUnit>
+    <TextUnit id="61" loc="13.3">non habeo tumulum, nisi quem mihi voce vocantis</TextUnit>
+    <TextUnit id="62" loc="13.4">et pius Aeneas et Maro conposuit.</TextUnit>
+    <TextUnit id="63" loc="14.1">HECTORIS hic tumulus, cum quo sua Troia sepulta est:</TextUnit>
+    <TextUnit id="64" loc="14.2">conduntur pariter, qui periere simul.</TextUnit>
+    <TextUnit id="65" loc="15.1">FLOS Asiae tantaque unus de gente superstes,</TextUnit>
+    <TextUnit id="66" loc="15.2">parvulus, Argivis set iam de patre timendus,</TextUnit>
+    <TextUnit id="67" loc="15.3">hic iaceo Astyanax, Scaeis deiectus ab altis.</TextUnit>
+    <TextUnit id="68" loc="15.4">pro dolor! Iliaci Neptunia moenia muri</TextUnit>
+    <TextUnit id="69" loc="15.5">viderunt aliquid crudelius Hectore tracto.</TextUnit>
+    <TextUnit id="70" loc="16.1">SARPEDON Lydus, genitus Iove, numine patris</TextUnit>
+    <TextUnit id="71" loc="16.2">sperabam caelum, set tegor hoc tumulo</TextUnit>
+    <TextUnit id="72" loc="16.3">sanguineis fletus lacrimis: pro ferrea fata,</TextUnit>
+    <TextUnit id="73" loc="16.4">et patitur luctum, qui prohibere potest.</TextUnit>
+    <TextUnit id="74" loc="17.1">NASTES Amphimachusque, Nomionis inclita proles,</TextUnit>
+    <TextUnit id="75" loc="17.2">ductores quondam, pulvis et umbra sumus.</TextUnit>
+    <TextUnit id="76" loc="18.1">HECTORE prostrato nec dis nec viribus aequis</TextUnit>
+    <TextUnit id="77" loc="18.2">congressus saevo Troilus Aeacidae,</TextUnit>
+    <TextUnit id="78" loc="18.3">raptatus bigis fratris coniungor honori,</TextUnit>
+    <TextUnit id="79" loc="18.4">cuius ob exemplum nec mihi poena gravis.</TextUnit>
+    <TextUnit id="80" loc="19.1">CEDE procul myrtumque istam fuge, nescius hospes:</TextUnit>
+    <TextUnit id="81" loc="19.2">telorum seges est sanguine adulta meo.</TextUnit>
+    <TextUnit id="82" loc="19.3">confixus iaculis et ab ipsa caede sepultus</TextUnit>
+    <TextUnit id="83" loc="19.4">condor in hoc tumulo bis Polydorus ego.</TextUnit>
+    <TextUnit id="84" loc="19.5">scit pius Aeneas et tu, rex impie, quod me</TextUnit>
+    <TextUnit id="85" loc="19.6">Thracia poena premit, Troia cura tegit?</TextUnit>
+    <TextUnit id="86" loc="20.1">EUPHEMUM Ciconum ductorem Troia tellus</TextUnit>
+    <TextUnit id="87" loc="20.2">condidit hastati Martis ad effigiem,</TextUnit>
+    <TextUnit id="88" loc="20.3">nec satis est titulum saxo incidisse sepulcri;</TextUnit>
+    <TextUnit id="89" loc="20.4">insuper et frontem mole onerant statuae,</TextUnit>
+    <TextUnit id="90" loc="20.5">ocius ista ruunt, quae sic cumulata locantur:</TextUnit>
+    <TextUnit id="91" loc="20.6">maior ubi est cultus, magna ruina subest.</TextUnit>
+    <TextUnit id="92" loc="21.1">HIPPOTHOUM Pyleumque tenet gremio infima tellus:</TextUnit>
+    <TextUnit id="93" loc="21.2">caulibus et malvis terga superna virent.</TextUnit>
+    <TextUnit id="94" loc="21.3">nec vexat cineres horti cultura quietos,</TextUnit>
+    <TextUnit id="95" loc="21.4">dum parcente manu molle holus excolitur.</TextUnit>
+    <TextUnit id="96" loc="22.1">ENNOMUS hic Chromiusque iacent: quis Mysia regnum</TextUnit>
+    <TextUnit id="97" loc="22.2">quis pater Alcinous Oceanusque atavus.</TextUnit>
+    <TextUnit id="98" loc="22.3">nobilitas quid tanta iuvat? quo clarius istis</TextUnit>
+    <TextUnit id="99" loc="22.4">est genus, hoc mortis condicio gravior.</TextUnit>
+    <TextUnit id="100" loc="23.1">HIC Priami non est tumulus nec condor in ista</TextUnit>
+    <TextUnit id="101" loc="23.2">sede: caput Danai deripuere meum.</TextUnit>
+    <TextUnit id="102" loc="23.3">ast ego cum lacerum sine nomine funus haberem,</TextUnit>
+    <TextUnit id="103" loc="23.4">confugi ad cineres Hectoreos genitor,</TextUnit>
+    <TextUnit id="104" loc="23.5">illic et natos Troiamque Asiamque sepultam</TextUnit>
+    <TextUnit id="105" loc="23.6">inveni et nostrum quidquid ubique iacet.</TextUnit>
+    <TextUnit id="106" loc="24.1">QUI tumulum Priami quaerit, legat Hectoris ante.</TextUnit>
+    <TextUnit id="107" loc="24.2">ille meus, nato quem prius ipse dedi.</TextUnit>
+    <TextUnit id="108" loc="24.3">XXIV A.-HECTORI</TextUnit>
+    <TextUnit id="109" loc="24.4">HECTORIS et patriae simul est commune sepulcrum,</TextUnit>
+    <TextUnit id="110" loc="24.5">amborum quoniam iuncta ruina fuit.</TextUnit>
+    <TextUnit id="111" loc="25.1">QUAE regina fui, quae claro nata Dymante,</TextUnit>
+    <TextUnit id="112" loc="25.2">quae Priami coniunx, Hectora quae genui,</TextUnit>
+    <TextUnit id="113" loc="25.3">hic Hecuba iniectis perii superobruta saxis,</TextUnit>
+    <TextUnit id="114" loc="25.4">set rabie linguae me tamen ulta prius.</TextUnit>
+    <TextUnit id="115" loc="25.5">fidite ne regnis et prole et stirpe parentum,</TextUnit>
+    <TextUnit id="116" loc="25.6">quicumque hoc nostrum σῆμα κυνὸς legitis.</TextUnit>
+    <TextUnit id="117" loc="26.1">TROAS Achilleo coniuncta Polyxena busto</TextUnit>
+    <TextUnit id="118" loc="26.2">malueram nullo caespite functa tegi.</TextUnit>
+    <TextUnit id="119" loc="26.3">non bene discordes tumulos miscetis, Achivi:</TextUnit>
+    <TextUnit id="120" loc="26.4">hoc violare magis, quam sepelire fuit.</TextUnit>
+    <TextUnit id="121" loc="27.1">THEBARUM regina fui, Sipyleia cautes</TextUnit>
+    <TextUnit id="122" loc="27.2">quae modo sum: laesi numina Letoidum.</TextUnit>
+    <TextUnit id="123" loc="27.3">bis septem natis genetrix laeta atque superba,</TextUnit>
+    <TextUnit id="124" loc="27.4">tot duxi mater funera, quot genui,</TextUnit>
+    <TextUnit id="125" loc="27.5">nec satis hoc divis: duro circumdata saxo</TextUnit>
+    <TextUnit id="126" loc="27.6">amisi humani corporis effigiem;</TextUnit>
+    <TextUnit id="127" loc="27.7">set dolor obstructis quamquam vitalibus haeret</TextUnit>
+    <TextUnit id="128" loc="27.8">perpetuasque rigat fonte pio lacrimas,</TextUnit>
+    <TextUnit id="129" loc="27.9">pro facinus! tantaene animis caelestibus irae?</TextUnit>
+    <TextUnit id="130" loc="27.10">durat adhuc luctus, matris imago perit .</TextUnit>
+    <TextUnit id="131" loc="28.1">DIC, canis, hic cuius tumulus? — Canis.-At canis hic quis? —</TextUnit>
+    <TextUnit id="132" loc="28.2">Diogenes.-Obiit? — Non obiit, set abit.-</TextUnit>
+    <TextUnit id="133" loc="28.3">Diogenes, cui pera penus, cui dolia sedes,</TextUnit>
+    <TextUnit id="134" loc="28.4">ad manes abiit? — Cerberus inde vetat.-</TextUnit>
+    <TextUnit id="135" loc="28.5">Et quonam? — Clari flagrat qua stella Leonis,</TextUnit>
+    <TextUnit id="136" loc="28.6">additus est iustae nunc canis Erigonae.</TextUnit>
+    <TextUnit id="137" loc="29.1">PERA, polenta, tribon, baculus, scyphus, arta supellex</TextUnit>
+    <TextUnit id="138" loc="29.2">ista fuit Cynici: set putat hanc nimiam.</TextUnit>
+    <TextUnit id="139" loc="29.3">namque cavis manibus cernens potare bubulcum:</TextUnit>
+    <TextUnit id="140" loc="29.4">cur, scyphe, te, dixit, gesto supervacuum.</TextUnit>
+    <TextUnit id="141" loc="30.1">EFFIGIEM, rex Croese, tuam, ditissime regum,</TextUnit>
+    <TextUnit id="142" loc="30.2">vidit aput manes Diogenes Cynicus.</TextUnit>
+    <TextUnit id="143" loc="30.3">nil, inquit, tibi, Croese, tuum; superant mihi cuncta.</TextUnit>
+    <TextUnit id="144" loc="30.4">nudus eram: sic sum. nil habui: hoc habeo,</TextUnit>
+    <TextUnit id="145" loc="30.5">rex ait: Haud egui, cum tu, mendice, carebas</TextUnit>
+    <TextUnit id="146" loc="30.6">omnibus; et careo, si modo non egeo?</TextUnit>
+    <TextUnit id="147" loc="31.1">SPARGE mero cineres bene olentis et unguine nardi,</TextUnit>
+    <TextUnit id="148" loc="31.2">hospes, et adde rosis balsama puniceis.</TextUnit>
+    <TextUnit id="149" loc="31.3">perpetuum mihi ver agit inlacrimabilis urna</TextUnit>
+    <TextUnit id="150" loc="31.4">et commutavi saecula, non obii.</TextUnit>
+    <TextUnit id="151" loc="31.5">nulla mihi veteris perierunt gaudia vitae,</TextUnit>
+    <TextUnit id="152" loc="31.6">seu meminisse putes omnia, sive nihil.</TextUnit>
+    <TextUnit id="153" loc="32.1">UNA quidem, geminis fulget set dissita punctis</TextUnit>
+    <TextUnit id="154" loc="32.2">littera, praenomen sic L: nota sola facit,</TextUnit>
+    <TextUnit id="155" loc="32.3">post .M. inrisum est: puto sic μ*: non tota videtur:</TextUnit>
+    <TextUnit id="156" loc="32.4">dissiluit saxi fragmine laesus apex.</TextUnit>
+    <TextUnit id="157" loc="32.5">nec quisquam, MARIUS SEU MARCIUS ANNE METELLUS</TextUnit>
+    <TextUnit id="158" loc="32.6">hic iaceat, certis noverit indiciis,</TextUnit>
+    <TextUnit id="159" loc="32.7">truncatis convulsa iacent elementa figuris,</TextUnit>
+    <TextUnit id="160" loc="32.8">omnia confusis interfere notis,</TextUnit>
+    <TextUnit id="161" loc="32.9">miremur periisse homines? monumenta fatiscunt</TextUnit>
+    <TextUnit id="162" loc="32.10">mors etiam saxis nominibusque venit.</TextUnit>
+    <TextUnit id="163" loc="33.1">PHOSPHORE, clamosi spatiosa per aequora circi</TextUnit>
+    <TextUnit id="164" loc="33.2">septenas solitus victor obire vias,</TextUnit>
+    <TextUnit id="165" loc="33.3">inproperanter agens primos a carcere cursus,</TextUnit>
+    <TextUnit id="166" loc="33.4">fortis praegressis ut potereris equis,</TextUnit>
+    <TextUnit id="167" loc="33.5">promptum et veloces erat anticipare quadrigas:</TextUnit>
+    <TextUnit id="168" loc="33.6">victores etiam vincere laus potior.</TextUnit>
+    <TextUnit id="169" loc="33.7">hunc titulum vani solacia sume sepulcri</TextUnit>
+    <TextUnit id="170" loc="33.8">et gradere Elysios praepes ad alipedes.</TextUnit>
+    <TextUnit id="171" loc="33.9">Pegasus hinc dexter currat tibi, laevus Arion</TextUnit>
+    <TextUnit id="172" loc="33.10">funis eat, quartum det tibi Castor equum.</TextUnit>
+    <TextUnit id="173" loc="34.1">ME sibi et uxori et natis commune sepulcrum</TextUnit>
+    <TextUnit id="174" loc="34.2">constituit seras Carus ad exequias,</TextUnit>
+    <TextUnit id="175" loc="34.3">iamque diu monumenta vacant sitque ista querella</TextUnit>
+    <TextUnit id="176" loc="34.4">longior et veniat ordine quisque suo,</TextUnit>
+    <TextUnit id="177" loc="34.5">nascendi qui lege datus, placidumque per aevum</TextUnit>
+    <TextUnit id="178" loc="34.6">condatur, natu qui prior, ille prior.</TextUnit>
+    <TextUnit id="179" loc="35.1">OMNIA quae longo vitae cupiuntur in aevo,</TextUnit>
+    <TextUnit id="180" loc="35.2">ante quater plenum consumpsit Anicia lustrum.</TextUnit>
+    <TextUnit id="181" loc="35.3">infans Iactavit, pubes et virgo adolevit.</TextUnit>
+    <TextUnit id="182" loc="35.4">nupsit, concepit, peperit, iam mater obivit.</TextUnit>
+    <TextUnit id="183" loc="35.5">quis mortem accuset? quis non accuset in ista?</TextUnit>
+    <TextUnit id="184" loc="35.6">aetatis meritis anus est, aetate puella.</TextUnit>
+  </Text>
+</TessDocument>

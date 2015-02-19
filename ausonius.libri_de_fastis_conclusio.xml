@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.libri_de_fastis_conclusio">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Fasti</Display>
+    <Abbr>aus. fast.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0617</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa017.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>9</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.10</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>10</MaskLower><MaskUpper>13</MaskUpper><LocusLower>2.11</LocusLower><LocusUpper>2.14</LocusUpper></Part><Part id="3"><Display>Book 3</Display><MaskLower>14</MaskLower><MaskUpper>17</MaskUpper><LocusLower>3.15</LocusLower><LocusUpper>3.18</LocusUpper></Part><Part id="4"><Display>Book 4</Display><MaskLower>18</MaskLower><MaskUpper>23</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.6</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">IGNOTA aeternae ne sint tibi tempora Romae,</TextUnit>
+    <TextUnit id="1" loc="1.2">regibus et patrum ducta sub imperiis,</TextUnit>
+    <TextUnit id="2" loc="1.3">digessi fastos et nomina praepetis aevi,</TextUnit>
+    <TextUnit id="3" loc="1.4">sparsa iacent Latiam si qua per historiam,</TextUnit>
+    <TextUnit id="4" loc="1.5">sit tuus hic fructus, vigilatas accipe noctes:</TextUnit>
+    <TextUnit id="5" loc="1.6">obsequitur studio nostra lucerna tuo.</TextUnit>
+    <TextUnit id="6" loc="1.7">tu quoque venturos per longum censere Ianos,</TextUnit>
+    <TextUnit id="7" loc="1.8">ut mea digessit pagina praeteritos.</TextUnit>
+    <TextUnit id="8" loc="1.9">exemplum iam patris habes, ut protinus 3 et te</TextUnit>
+    <TextUnit id="9" loc="1.10">adgreget Ausoniis purpura consulibus.</TextUnit>
+    <TextUnit id="10" loc="2.11">NOSTRUM 1</TextUnit>
+    <TextUnit id="11" loc="2.12">ANNIS undecies centum coniunge quaternos,</TextUnit>
+    <TextUnit id="12" loc="2.13">undecies unumque super trieterida necte.</TextUnit>
+    <TextUnit id="13" loc="2.14">haec erit aeternae series ab origine Romae.</TextUnit>
+    <TextUnit id="14" loc="3.15">HACTENUS adscripsi fastos, si sors volet, ultra</TextUnit>
+    <TextUnit id="15" loc="3.16">adiciam: si non, qui legis, adicies,</TextUnit>
+    <TextUnit id="16" loc="3.17">scire cupis, qui sim? titulum, qui quartus ab imo est,</TextUnit>
+    <TextUnit id="17" loc="3.18">quaere: leges nomen consulis Ausonii.</TextUnit>
+    <TextUnit id="18" loc="4.1">urbis ab aeternae deductam rege Quirino</TextUnit>
+    <TextUnit id="19" loc="4.2">annorum seriem cum, Procule, accipies,</TextUnit>
+    <TextUnit id="20" loc="4.3">mille annos centumque et bis fluxisse novenos</TextUnit>
+    <TextUnit id="21" loc="4.4">consulis Ausonii nomen ad usque leges,</TextUnit>
+    <TextUnit id="22" loc="4.5">fors erit, ut, lustrum cum se cumulaverit istis,</TextUnit>
+    <TextUnit id="23" loc="4.6">confectam Proculus signet Olympiadam.</TextUnit>
+  </Text>
+</TessDocument>

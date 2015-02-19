@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="prudentius.epilogus">
+  <Metadata>
+    <Author>prudentius</Author>
+    <Display>Epilogus</Display>
+    <Abbr>prud. epil.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Prudentius. Prudentius, Vol 2. H.J. Thomson. London; Cambridge, Massachusetts. Heinemann; Harvard University Press. 1953. Keyboarding.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0561</DigitalSourceURL>
+    <AddedBy/>
+    <URI>urn:cts:latinLit:stoa0238.stoa009.perseus-lat1</URI>
+  </Metadata>
+  <Text>
+    <TextUnit id="0" loc="1">Inmolat Deo Patri</TextUnit>
+    <TextUnit id="1" loc="2">pius, fidelis, innocens, pudicus</TextUnit>
+    <TextUnit id="2" loc="3">dona conscientiae,</TextUnit>
+    <TextUnit id="3" loc="4">quibus beata mens abundat intus.</TextUnit>
+    <TextUnit id="4" loc="5">alter et pecuniam</TextUnit>
+    <TextUnit id="5" loc="6">recidit, unde victitent egeni.</TextUnit>
+    <TextUnit id="6" loc="7">nos citos iambicos</TextUnit>
+    <TextUnit id="7" loc="8">sacramus et rotatiles trochaeos</TextUnit>
+    <TextUnit id="8" loc="9">sanctitatis indigi</TextUnit>
+    <TextUnit id="9" loc="10">nec ad levamen pauperum potentes.</TextUnit>
+    <TextUnit id="10" loc="11">approbat tamen Deus</TextUnit>
+    <TextUnit id="11" loc="12">pedestre carmen et benignus audit.</TextUnit>
+    <TextUnit id="12" loc="13">multa divitis domo</TextUnit>
+    <TextUnit id="13" loc="14">sita est per omnes angulos supellex:</TextUnit>
+    <TextUnit id="14" loc="15">fulget aureus scyphus</TextUnit>
+    <TextUnit id="15" loc="16">nec aere defit expolita pelvis,</TextUnit>
+    <TextUnit id="16" loc="17">est et olla fictilis</TextUnit>
+    <TextUnit id="17" loc="18">gravisque et ampla argentea est parapsis,</TextUnit>
+    <TextUnit id="18" loc="19">sunt eburna quaepiam,</TextUnit>
+    <TextUnit id="19" loc="20">nonnulla quercu sunt cavata et ulmo.</TextUnit>
+    <TextUnit id="20" loc="21">omne vas fit utile</TextUnit>
+    <TextUnit id="21" loc="22">quod est ad usum congruens erilem;</TextUnit>
+    <TextUnit id="22" loc="23">instruunt enim domum</TextUnit>
+    <TextUnit id="23" loc="24">ut empta magno, sic parata ligno.</TextUnit>
+    <TextUnit id="24" loc="25">me paterno in atrio</TextUnit>
+    <TextUnit id="25" loc="26">ut obsoletum vasculum caducis</TextUnit>
+    <TextUnit id="26" loc="27">Christus aptat usibus</TextUnit>
+    <TextUnit id="27" loc="28">sinitque parte in anguli manere.</TextUnit>
+    <TextUnit id="28" loc="29">munus ecce fictile</TextUnit>
+    <TextUnit id="29" loc="30">inimus intra regiam salutis.</TextUnit>
+    <TextUnit id="30" loc="31">attamen vel infimam</TextUnit>
+    <TextUnit id="31" loc="32">Deo obsequellam praestitisse prodest.</TextUnit>
+    <TextUnit id="32" loc="33">quidquid illud accidit,</TextUnit>
+    <TextUnit id="33" loc="34">iuvabit ore personasse Christum.</TextUnit>
+  </Text>
+</TessDocument>

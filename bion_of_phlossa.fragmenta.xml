@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="bion_of_phlossa.fragmenta">
+  <Metadata>
+    <Author>bion_of_phlossa</Author>
+    <Display>Fragmenta</Display>
+    <Abbr>bion. frag.</Abbr>
+    <Lang>grc</Lang>
+    <Prose>0</Prose>
+    <PrintSource>The Greek Bucolic Poets. J. M. (John Maxwell) Edmonds. William Heinemann; G. P. Putnam's Sons. London; New York. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0673</DigitalSourceURL>
+    <AddedBy/>
+    <URI>urn:cts:greekLit:tlg0036.tlg003.perseus-grc1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 3</Display><MaskLower>0</MaskLower><MaskUpper>17</MaskUpper><LocusLower>3.1</LocusLower><LocusUpper>3.18</LocusUpper></Part><Part id="2"><Display>Book 4</Display><MaskLower>18</MaskLower><MaskUpper>33</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.16</LocusUpper></Part><Part id="3"><Display>Book 5</Display><MaskLower>34</MaskLower><MaskUpper>46</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.13</LocusUpper></Part><Part id="4"><Display>Book 6</Display><MaskLower>47</MaskLower><MaskUpper>57</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.11</LocusUpper></Part><Part id="5"><Display>Book 7</Display><MaskLower>58</MaskLower><MaskUpper>72</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.15</LocusUpper></Part><Part id="6"><Display>Book 8</Display><MaskLower>73</MaskLower><MaskUpper>79</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.7</LocusUpper></Part><Part id="7"><Display>Book 9</Display><MaskLower>80</MaskLower><MaskUpper>87</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.8</LocusUpper></Part><Part id="8"><Display>Book 10</Display><MaskLower>88</MaskLower><MaskUpper>94</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.7</LocusUpper></Part><Part id="9"><Display>Book 11</Display><MaskLower>95</MaskLower><MaskUpper>98</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.4</LocusUpper></Part><Part id="10"><Display>Book 12</Display><MaskLower>99</MaskLower><MaskUpper>102</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.4</LocusUpper></Part><Part id="11"><Display>Book 13</Display><MaskLower>103</MaskLower><MaskUpper>105</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.3</LocusUpper></Part><Part id="12"><Display>Book 14</Display><MaskLower>106</MaskLower><MaskUpper>108</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.3</LocusUpper></Part><Part id="13"><Display>Book 15</Display><MaskLower>109</MaskLower><MaskUpper>110</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.2</LocusUpper></Part><Part id="14"><Display>Book 16</Display><MaskLower>111</MaskLower><MaskUpper>112</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.2</LocusUpper></Part><Part id="15"><Display>Book 17</Display><MaskLower>113</MaskLower><MaskUpper>113</MaskUpper><LocusLower>17.1</LocusLower><LocusUpper>17.1</LocusUpper></Part><Part id="16"><Display>Book 18</Display><MaskLower>114</MaskLower><MaskUpper>115</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.2</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="3.1">Εἴαρος ὦ Μύρσων ἢ χείματος ἢ φθινοπώρω</TextUnit>
+    <TextUnit id="1" loc="3.2">ἢ θέρεος τί τοι ἁδύ; τί δὲ πλέον εὔχεαι ἐλθεῖν;</TextUnit>
+    <TextUnit id="2" loc="3.3">ἢ θέρος, ἁνίκα πάντα τελείεται ὅσσα μογεῦμες;</TextUnit>
+    <TextUnit id="3" loc="3.4">ἢ γλυκερὸν φθινόπωρον, ὅτ̓ ἀνδράσι λιμὸς ἐλαφρά;</TextUnit>
+    <TextUnit id="4" loc="3.5">ἢ καὶ χεῖμα δύσεργον; ἐπεὶ καὶ χείματι πολλοὶ</TextUnit>
+    <TextUnit id="5" loc="3.6">θαλπόμενοι θέλγονται ἀεργείᾳ τε καὶ ὄκνῳ:</TextUnit>
+    <TextUnit id="6" loc="3.7">ἤ τοι καλὸν ἔαρ πλέον εὔαδεν; εἰπέ, τί τοι φρήν</TextUnit>
+    <TextUnit id="7" loc="3.8">αἱρεῖται; λαλέειν γὰρ ἐπέτραπεν ἁ σχολὰ ἄμμιν.</TextUnit>
+    <TextUnit id="8" loc="3.9">κρίνειν οὐκ ἐπέοικε θεήια ἔργα βροτοῖσι:</TextUnit>
+    <TextUnit id="9" loc="3.10">πάντα γὰρ ἱερὰ ταῦτα καὶ ἁδέα: σεῦ δὲ ἕκατι</TextUnit>
+    <TextUnit id="10" loc="3.11">ἐξερέω Κλεόδαμε, τό μοι πέλεν ἅδιον ἄλλων.</TextUnit>
+    <TextUnit id="11" loc="3.12">οὐκ ἐθέλω θέρος ἦμεν, ἐπεὶ τόκα μ̓ ἅλιος ὀπτῇ.</TextUnit>
+    <TextUnit id="12" loc="3.13">οὐκ ἐθέλω φθινόπωρον, ἐπεὶ νόσον ὥρια τίκτει.</TextUnit>
+    <TextUnit id="13" loc="3.14">οὖλον χεῖμα φέρειν: νιφετὸν κρυμώς τε φοβεῦμαι.</TextUnit>
+    <TextUnit id="14" loc="3.15">εἶαρ ἐμοὶ τριπόθητον ὅλῳ λυκάβαντι παρείη,</TextUnit>
+    <TextUnit id="15" loc="3.16">ἁνίκα μήτε κρύος μήθ̓ ἅλιος ἄμμε βαρύνει.</TextUnit>
+    <TextUnit id="16" loc="3.17">εἴαρι πάντα κύει, πάντ̓ εἴαρος ἁδέα βλαστεῖ,</TextUnit>
+    <TextUnit id="17" loc="3.18">χἀ νὺξ ἀνθρώποισιν ἴσα καὶ ὁμοίιος ἀώς...</TextUnit>
+    <TextUnit id="18" loc="4.1">̓Ιξευτὰς ἔτι κῶρος ἐν ἄλσεϊ δενδράεντι</TextUnit>
+    <TextUnit id="19" loc="4.2">ὄρνεα θηρεύων τὸν ἀπότροπον εἶδεν ̓́Ερωτα</TextUnit>
+    <TextUnit id="20" loc="4.3">ἑσδόμενον πύξοιο ποτὶ κλάδον: ὡς δ̓ ἐνόησε,</TextUnit>
+    <TextUnit id="21" loc="4.4">χαίρων ὥνεκα δὴ μέγα φαίνετο τὤρνεον αὐτῷ,</TextUnit>
+    <TextUnit id="22" loc="4.5">τὼς καλάμως ἅμα πάντας ἐπ̓ ἀλλάλοισι συνάπτων</TextUnit>
+    <TextUnit id="23" loc="4.6">τᾷ καὶ τᾷ τὸν ̓́Ερωτα μετάλμενον ἀμφεδόκευε.</TextUnit>
+    <TextUnit id="24" loc="4.7">χὠ παῖς ἀσχαλάων, ὅκα οἱ τέλος οὐδὲν ἀπάντη,</TextUnit>
+    <TextUnit id="25" loc="4.8">τὼς καλάμως ῥίψας ποτ̓ ἀροτρέα πρέσβυν ἵκανεν,</TextUnit>
+    <TextUnit id="26" loc="4.9">ὅς νιν τάνδε τέχναν ἐδιδάξατο, καὶ λέγεν αὐτῷ,</TextUnit>
+    <TextUnit id="27" loc="4.10">καί οἱ δεῖξεν ̓́Ερωτα καθήμενον. αὐτὰρ ὁ πρέσβυς</TextUnit>
+    <TextUnit id="28" loc="4.11">μειδιάων κίνησε κάρη καὶ ἀμείβετο παῖδα:</TextUnit>
+    <TextUnit id="29" loc="4.12">“φείδεο τᾶς θήρας, μηδ̓ ἐς τόδε τὤρνεον ἔρχευ.</TextUnit>
+    <TextUnit id="30" loc="4.13">φεῦγε μακράν. κακόν ἐστι τὸ θηρίον. ὄλβιος ἐσσῇ,</TextUnit>
+    <TextUnit id="31" loc="4.14">εἰσόκα μή νιν ἕλῃς: ἢν δ̓ ἀνέρος ἐς μέτρον ἔλθῃς,</TextUnit>
+    <TextUnit id="32" loc="4.15">οὗτος ὁ νῦν φεύγων καὶ ἀπάλμενος αὐτὸς ἀφ̓ αὑτῶ</TextUnit>
+    <TextUnit id="33" loc="4.16">ἐλθὼν ἐξαπίνας κεφαλὰν ἔπι σεῖο καθιξεῖ.”</TextUnit>
+    <TextUnit id="34" loc="5.1">̔Α μεγάλα μοι Κύπρις ἔθ̓ ὑπνώοντι παρέστα,</TextUnit>
+    <TextUnit id="35" loc="5.2">νηπίαχον τὸν ̓́Ερωτα καλᾶς ἐκ χειρὸς ἄγοισα</TextUnit>
+    <TextUnit id="36" loc="5.3">ἐς χθόνα νευστάζοντα, τόσον δέ μοι ἔφρασε μῦθον:</TextUnit>
+    <TextUnit id="37" loc="5.4">“μέλπειν μοι φίλε βοῦτα λαβὼν τὸν ̓́Ερωτα δίδασκε.”</TextUnit>
+    <TextUnit id="38" loc="5.5">ὣς λέγε: χἂ μὲν ἀπῆνθεν, ἐγὼ δ̓ ὅσα βουκολίασδον,</TextUnit>
+    <TextUnit id="39" loc="5.6">νήπιος ὡς ἐθέλοντα μαθεῖν τὸν ̓́Ερωτα δίδασκον,</TextUnit>
+    <TextUnit id="40" loc="5.7">ὡς εὗρε πλαγίαυλον ὁ Πάν, ὡς αὐλὸν ̓Αθάνα,</TextUnit>
+    <TextUnit id="41" loc="5.8">ὡς χέλυν ̔Ερμάων, κίθαριν ὡς ἁδὺς ̓Απόλλων.</TextUnit>
+    <TextUnit id="42" loc="5.9">ταῦτά νιν ἐξεδίδασκον: ὃ δ̓ οὐκ ἐμπάζετο μύθων,</TextUnit>
+    <TextUnit id="43" loc="5.10">ἀλλά μοι αὐτὸς ἄειδεν ἐρωτύλα, καί μ̓ ἐδίδασκε</TextUnit>
+    <TextUnit id="44" loc="5.11">θνατῶν ἀθανάτων τε πόθως καὶ ματέρος ἔργα.</TextUnit>
+    <TextUnit id="45" loc="5.12">κἠγὼν ἐκλαθόμαν μὲν ὅσων τὸν ̓́Ερωτ̓ ἐδίδασκον,</TextUnit>
+    <TextUnit id="46" loc="5.13">ὅσσα δ̓ ̓́Ερως μ̓ ἐδίδαξεν ἐρωτύλα πάντ̓ ἐδιδάχθην.</TextUnit>
+    <TextUnit id="47" loc="6.1">Ταὶ Μοῖσαι τὸν ̓́Ερωτα τὸν ἄγριον οὐ φοβέονται</TextUnit>
+    <TextUnit id="48" loc="6.2">ἐκ θυμῶ δὲ φιλεῦντι καὶ ἐκ ποδὸς αὐτῷ ἕπονται.</TextUnit>
+    <TextUnit id="49" loc="6.3">κἢν μὲν ἄρα ψυχάν τις ἔχων ἀνέραστον ἀείδῃ,</TextUnit>
+    <TextUnit id="50" loc="6.4">τῆνον ὑπεκφεύγοντι καὶ οὐκ ἐθέλοντι διδάσκειν:</TextUnit>
+    <TextUnit id="51" loc="6.5">ἢν δὲ νόον τις ̓́Ερωτι δονεύμενος ἁδὺ μελίσδῃ,</TextUnit>
+    <TextUnit id="52" loc="6.6">ἐς τῆνον μάλα πᾶσαι ἐπειγόμεναι προρέοντι.</TextUnit>
+    <TextUnit id="53" loc="6.7">μάρτυς ἐγών, ὅτι μῦθος ὅδ̓ ἔπλετο πᾶσιν ἀλαθής.</TextUnit>
+    <TextUnit id="54" loc="6.8">ἢν μὲν γὰρ βροτὸν ἄλλον ἢ ἀθανάτων τινὰ μέλπω,</TextUnit>
+    <TextUnit id="55" loc="6.9">βαμβαίνει μοι γλῶσσα καὶ ὡς πάρος οὐκέτ̓ ἀείδει:</TextUnit>
+    <TextUnit id="56" loc="6.10">ἢν δ̓ αὖτ̓ ἐς τὸν ̓́Ερωτα καὶ ἐς Λυκίδαν τι μελίσδω,</TextUnit>
+    <TextUnit id="57" loc="6.11">καὶ τόκα μοι χαίροισα διὰ στόματος ῥέει αὐδά.</TextUnit>
+    <TextUnit id="58" loc="7.1">... Οὐκ οἶδ̓, οὐδ̓ ἐπέοικεν ἃ μὴ μάθομες πονέεσθαι.</TextUnit>
+    <TextUnit id="59" loc="7.2">εἴ μοι καλὰ πέλει τὰ μελύδρια, καὶ τάδε μῶνα</TextUnit>
+    <TextUnit id="60" loc="7.3">κῦδος ἐμοὶ θήσοντι, τά μοι πάρος ὤπασε Μοῖρα:</TextUnit>
+    <TextUnit id="61" loc="7.4">εἰ δ̓ οὐχ ἁδέα ταῦτα, τί μοι ποτὶ πλείονα μοχθεῖν;</TextUnit>
+    <TextUnit id="62" loc="7.5">εἰ μὲν γὰρ βιότω διπλόον χρόνον ἄμμιν ἔδωκεν</TextUnit>
+    <TextUnit id="63" loc="7.6">ἢ Κρονίδας ἢ Μοῖρα πολύτροπος, ὥστ̓ ἀνύεσθαι</TextUnit>
+    <TextUnit id="64" loc="7.7">τὸν μὲν ἐς εὐφροσύναν καὶ χάρματα, τὸν δ̓ ἐπὶ μόχθῳ,</TextUnit>
+    <TextUnit id="65" loc="7.8">ἦν τάχα μοχθήσαντί ποθ̓ ὕστερον ἐσθλὰ δέχεσθαι.</TextUnit>
+    <TextUnit id="66" loc="7.9">εἰ δὲ θεοὶ κατένευσαν ἕνα χρόνον ἐς βίον ἐλθεῖν</TextUnit>
+    <TextUnit id="67" loc="7.10">ἀνθρώποις, καὶ τόνδε βραχὺν καὶ μείονα πάντων,</TextUnit>
+    <TextUnit id="68" loc="7.11">ἐς πόσον ἆ δειλοὶ καμάτως κεἰς ἔργα πονεῦμες,</TextUnit>
+    <TextUnit id="69" loc="7.12">ψυχὰν δ̓ ἄχρι τίνος ποτὶ κέρδεα καὶ ποτὶ τέχνας</TextUnit>
+    <TextUnit id="70" loc="7.13">βάλλομες, ἱμείροντες ἀεὶ πολὺ πλείονος ὄλβω;</TextUnit>
+    <TextUnit id="71" loc="7.14">λαθόμεθ̓ ἦ ἄρα πάντες, ὅτι θνατοὶ γενόμεσθα,</TextUnit>
+    <TextUnit id="72" loc="7.15">χὠς βραχὺν ἐκ Μοίρας λάχομες χρόνον;...</TextUnit>
+    <TextUnit id="73" loc="8.1">̓́Ολβιοι οἱ φιλέοντες, ἐπὴν ἴσον ἀντεράωνται.</TextUnit>
+    <TextUnit id="74" loc="8.2">ὄλβιος ἦν Θησεὺς τῶ Πειριθόω παρεόντος,</TextUnit>
+    <TextUnit id="75" loc="8.3">εἰ καὶ ἀμειλίκτοιο κατήλυθεν εἰς ̓Αΐδαο.</TextUnit>
+    <TextUnit id="76" loc="8.4">ὄλβιος ἦν χαλεποῖσιν ἐν ̓Αξείνοισιν ̓Ορέστας,</TextUnit>
+    <TextUnit id="77" loc="8.5">ὥνεκά οἱ ξυνὰς Πυλάδας ᾅρητο κελεύθως.</TextUnit>
+    <TextUnit id="78" loc="8.6">ἦν μάκαρ Αἰακίδας ἑτάρω ζώοντος ̓Αχιλλεύς:</TextUnit>
+    <TextUnit id="79" loc="8.7">ὄλβιος ἦν θνᾴσκων, ὅτι οἱ μόρον αἰνὸν ἄμυνεν.</TextUnit>
+    <TextUnit id="80" loc="9.1">̔́Εσπερε, τᾶς ἐρατᾶς χρύσεον φάος ̓Αφρογενείας,</TextUnit>
+    <TextUnit id="81" loc="9.2">̔́Εσπερε κυανέας ἱερὸν φίλε νυκτὸς ἄγαλμα,</TextUnit>
+    <TextUnit id="82" loc="9.3">τόσσον ἀφαυρότερος μήνας, ὅσον ἔξοχος ἄστρων,</TextUnit>
+    <TextUnit id="83" loc="9.4">χαῖρε φίλος, καί μοι ποτὶ ποιμένα κῶμον ἄγοντι</TextUnit>
+    <TextUnit id="84" loc="9.5">ἀντὶ σελαναίας τὺ δίδου φάος, ὥνεκα τήνα</TextUnit>
+    <TextUnit id="85" loc="9.6">σάμερον ἀρχομένα τάχιον δύεν. οὐκ ἐπὶ φωρὰν</TextUnit>
+    <TextUnit id="86" loc="9.7">ἔρχομαι, οὐδ̓ ἵνα νυκτὸς ὁδοιπορέοντας ἐνοχλέω:</TextUnit>
+    <TextUnit id="87" loc="9.8">ἀλλ̓ ἐράω: καλὸν δέ τ̓ ἐρασσαμένω συναρέσθαι.</TextUnit>
+    <TextUnit id="88" loc="10.1">̔́Αμερε Κυπρογένεια, Διὸς τέκος ἠὲ θαλάσσας,</TextUnit>
+    <TextUnit id="89" loc="10.2">τίπτε τόσον θνατοῖσι καὶ ἀθανάτοισι χάλεπτες;</TextUnit>
+    <TextUnit id="90" loc="10.3">τυτθὸν ἔφαν: τί νυ τόσσον ἀπήχθεο καὶ τεῒν αὐτᾷ,</TextUnit>
+    <TextUnit id="91" loc="10.4">ταλίκον ὡς πάντεσσι κακὸν τὸν ̓́Ερωτα τεκέσθαι,</TextUnit>
+    <TextUnit id="92" loc="10.5">ἄγριον, ἄστοργον, μορφᾷ νόον οὐδὲν ὁμοῖον;</TextUnit>
+    <TextUnit id="93" loc="10.6">ἐς τί δέ νιν πτανὸν καὶ ἑκαβόλον ὤπασας ἦμεν,</TextUnit>
+    <TextUnit id="94" loc="10.7">ὡς μὴ πικρὸν ἐόντα δυναίμεθα τῆνον ἀλύξαι;</TextUnit>
+    <TextUnit id="95" loc="11.1">... ἀμφασία τὸν Φοῖβον ἕλεν τὸ σὸν ἄλγος ὁρῶντα.</TextUnit>
+    <TextUnit id="96" loc="11.2">δίζετο φάρμακα πάντα, σοφὰν δ̓ ἐπεμαίετο τέχναν,</TextUnit>
+    <TextUnit id="97" loc="11.3">χρῖεν δ̓ ἀμβροσίᾳ καὶ νέκταρι, χρῖεν ἅπασαν</TextUnit>
+    <TextUnit id="98" loc="11.4">ὠτειλάν: Μοίραισι δ̓ ἀναλθέα φάρμακα πάντα ...</TextUnit>
+    <TextUnit id="99" loc="12.1">... αὐτὰρ ἐγὼν βασεῦμαι ἐμὰν ὁδὸν ἐς τὸ κάταντες</TextUnit>
+    <TextUnit id="100" loc="12.2">τῆνο ποτὶ ψάμαθόν τε καὶ ἀϊόνα ψιθυρίσδων,</TextUnit>
+    <TextUnit id="101" loc="12.3">λισσόμενος Γαλάτειαν ἀπηνέα: τὰς δὲ γλυκείας</TextUnit>
+    <TextUnit id="102" loc="12.4">ἐλπίδας ὑστατίω μέχρι γήραος οὐκ ἀπολειψῶ...</TextUnit>
+    <TextUnit id="103" loc="13.1">... οὐ καλὸν ὦ φίλε πάντα λόγον ποτὶ τέκτονα φοιτᾶν,</TextUnit>
+    <TextUnit id="104" loc="13.2">μηδ̓ ἐπὶ πάντ̓ ἄλλω χρέος ἰσχέμεν: ἀλλὰ καὶ αὐτὸς</TextUnit>
+    <TextUnit id="105" loc="13.3">τεχνᾶσθαι σύριγγα: πέλει δέ τοι εὐμαρὲς ἔργον...</TextUnit>
+    <TextUnit id="106" loc="14.1">Μοίσας ̓́Ερως καλέοι, Μοῖσαι τὸν ̓́Ερωτα φέροιεν.</TextUnit>
+    <TextUnit id="107" loc="14.2">μολπὰν ταὶ Μοῖσαί μοι ἀεὶ ποθέοντι διδοῖεν,</TextUnit>
+    <TextUnit id="108" loc="14.3">τὰν γλυκερὰν μολπάν, τᾶς φάρμακον ἅδιον οὐδέν.</TextUnit>
+    <TextUnit id="109" loc="15.1">...ἐκ θαμινᾶς ῥαθάμιγγος, ὅπως λόγος, αἰὲς ἰοίσας</TextUnit>
+    <TextUnit id="110" loc="15.2">χἀ λίθος ἐς ῥωχμὸν κοιλαίνεται...</TextUnit>
+    <TextUnit id="111" loc="16.1">...μηδὲ λίπῃς μ̓ ἀγέραστον, ἐπεὶ χὠ Φοῖβος ἀείδων</TextUnit>
+    <TextUnit id="112" loc="16.2">μισθοδοκεῖ. τιμὰ δὲ τὰ πράγματα κρέσσονα ποιεῖ...</TextUnit>
+    <TextUnit id="113" loc="17.1">...μορφὰ θηλυτέραισι πέλει καλόν, ἀνέρι δ̓ ἀλκά...</TextUnit>
+    <TextUnit id="114" loc="18.1">πάντα θεοῦ γ̓ ἐθέλοντος ἀνύσιμα, πάντα βροτοῖσιν</TextUnit>
+    <TextUnit id="115" loc="18.2">ἐκ μακάρων ῥάϊστα καὶ οὐκ ἀτέλεστα γένοντο.</TextUnit>
+  </Text>
+</TessDocument>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.ordo_urbium_nobilium">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Ordo Urbium Nobilium</Display>
+    <Abbr>aus. urb.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0621</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa021.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>0</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.1</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>1</MaskLower><MaskUpper>13</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.13</LocusUpper></Part><Part id="3"><Display>Book 4</Display><MaskLower>14</MaskLower><MaskUpper>26</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.13</LocusUpper></Part><Part id="4"><Display>Book 6</Display><MaskLower>27</MaskLower><MaskUpper>33</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.7</LocusUpper></Part><Part id="5"><Display>Book 7</Display><MaskLower>34</MaskLower><MaskUpper>44</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.11</LocusUpper></Part><Part id="6"><Display>Book 8</Display><MaskLower>45</MaskLower><MaskUpper>62</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.18</LocusUpper></Part><Part id="7"><Display>Book 9</Display><MaskLower>63</MaskLower><MaskUpper>71</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.9</LocusUpper></Part><Part id="8"><Display>Book 10</Display><MaskLower>72</MaskLower><MaskUpper>79</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.8</LocusUpper></Part><Part id="9"><Display>Book 11</Display><MaskLower>80</MaskLower><MaskUpper>84</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.5</LocusUpper></Part><Part id="10"><Display>Book 15</Display><MaskLower>85</MaskLower><MaskUpper>90</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.6</LocusUpper></Part><Part id="11"><Display>Book 16</Display><MaskLower>91</MaskLower><MaskUpper>96</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.6</LocusUpper></Part><Part id="12"><Display>Book 18</Display><MaskLower>97</MaskLower><MaskUpper>105</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.9</LocusUpper></Part><Part id="13"><Display>Book 19</Display><MaskLower>106</MaskLower><MaskUpper>126</MaskUpper><LocusLower>19.1</LocusLower><LocusUpper>19.21</LocusUpper></Part><Part id="14"><Display>Book 20</Display><MaskLower>127</MaskLower><MaskUpper>167</MaskUpper><LocusLower>20.1</LocusLower><LocusUpper>20.41</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">PRIMA URBES INTER, DIVUM DOMUS, AUREA ROMA.</TextUnit>
+    <TextUnit id="1" loc="2.1">CONSTANTINOPOLI adsurgit Carthago priori,</TextUnit>
+    <TextUnit id="2" loc="2.2">non toto cessura gradu, quia tertia dici</TextUnit>
+    <TextUnit id="3" loc="2.3">fastidit, non ausa locum sperare secundum,</TextUnit>
+    <TextUnit id="4" loc="2.4">qui fuit ambarum, vetus hanc opulentia praefert,</TextUnit>
+    <TextUnit id="5" loc="2.5">hanc fortuna recens; fuit haec, subit ista novisque</TextUnit>
+    <TextUnit id="6" loc="2.6">excellens meritis veterem praestringit honorem</TextUnit>
+    <TextUnit id="7" loc="2.7">et Constantino concedere cogit Elissam.</TextUnit>
+    <TextUnit id="8" loc="2.8">accusat Carthago deos iam plena pudoris,</TextUnit>
+    <TextUnit id="9" loc="2.9">nunc quoque si cedat, Romam vix passa priorem.</TextUnit>
+    <TextUnit id="10" loc="2.10">Conponat vestros fortuna antiqua tumores.</TextUnit>
+    <TextUnit id="11" loc="2.11">ite pares, tandem memores, quod numine divum</TextUnit>
+    <TextUnit id="12" loc="2.12">angustas mutastis opes et nomina: tu cum</TextUnit>
+    <TextUnit id="13" loc="2.13">Byzantina Lygos, tu Punica Byrsa fuisti.</TextUnit>
+    <TextUnit id="14" loc="4.1">TERTIA Phoebeae lauri domus Antiochia,</TextUnit>
+    <TextUnit id="15" loc="4.2">vellet Alexandri si quarta colonia poni:</TextUnit>
+    <TextUnit id="16" loc="4.3">ambarum locus unus. et has furor ambitionis</TextUnit>
+    <TextUnit id="17" loc="4.4">in certamen agit vitiorum: turbida vulgo</TextUnit>
+    <TextUnit id="18" loc="4.5">utraque et amentis populi male sana tumultu.</TextUnit>
+    <TextUnit id="19" loc="4.6">haec Nilo munita quod est penitusque repostis</TextUnit>
+    <TextUnit id="20" loc="4.7">insinuata locis, fecunda et tuta superbit,</TextUnit>
+    <TextUnit id="21" loc="4.8">illa, quod infidis opponitur aemula Persis.</TextUnit>
+    <TextUnit id="22" loc="4.9">Et vos ite pares Macetumque adtollite nomen,</TextUnit>
+    <TextUnit id="23" loc="4.10">magnus Alexander te condidit; illa Seleucum</TextUnit>
+    <TextUnit id="24" loc="4.11">nuncupat, ingenuum cuius fuit ancora signum,</TextUnit>
+    <TextUnit id="25" loc="4.12">qualis inusta solet, generis nota certa; per omnem</TextUnit>
+    <TextUnit id="26" loc="4.13">nam subolis seriem nativa cucurrit imago.</TextUnit>
+    <TextUnit id="27" loc="6.1">ARMIPOTENS dudum celebrari Gallia gestit</TextUnit>
+    <TextUnit id="28" loc="6.2">TREVERICAEque urbis solium, quae proxima Rheno</TextUnit>
+    <TextUnit id="29" loc="6.3">pacis ut in mediae gremio secura quiescit,</TextUnit>
+    <TextUnit id="30" loc="6.4">imperii vires quod alit, quod vestit et armat,</TextUnit>
+    <TextUnit id="31" loc="6.5">lata per extentum procurrunt moenia collem:</TextUnit>
+    <TextUnit id="32" loc="6.6">largus tranquillo praelabitur amne Mosella,</TextUnit>
+    <TextUnit id="33" loc="6.7">longinqua omnigenae vectans conmercia terrae.</TextUnit>
+    <TextUnit id="34" loc="7.1">ET MEDIOLANI mira omnia, copia rerum,</TextUnit>
+    <TextUnit id="35" loc="7.2">innumerae cultaeque domus, facunda virorum</TextUnit>
+    <TextUnit id="36" loc="7.3">ingenia et mores laeti; tum duplice muro</TextUnit>
+    <TextUnit id="37" loc="7.4">amplificata loci species populique voluptas</TextUnit>
+    <TextUnit id="38" loc="7.5">circus et inclusi moles cuneata theatri;</TextUnit>
+    <TextUnit id="39" loc="7.6">templa Palatinaeque arces opulensque moneta</TextUnit>
+    <TextUnit id="40" loc="7.7">et regio Herculei celebris sub honore lavacri;</TextUnit>
+    <TextUnit id="41" loc="7.8">cunctaque marmoreis ornata peristyla signis</TextUnit>
+    <TextUnit id="42" loc="7.9">moeniaque in valli formam circumdata limbo:</TextUnit>
+    <TextUnit id="43" loc="7.10">omnia quae magnis operum velut aemula formis</TextUnit>
+    <TextUnit id="44" loc="7.11">excellunt: nec iuncta premit vicinia Romae.</TextUnit>
+    <TextUnit id="45" loc="8.1">NEC CAPUAM pol agri 1 cultuque penuque potentem,</TextUnit>
+    <TextUnit id="46" loc="8.2">deliciis, opibus famaque priore silebo,</TextUnit>
+    <TextUnit id="47" loc="8.3">fortuna variante vices, quae freta secundis</TextUnit>
+    <TextUnit id="48" loc="8.4">nescivit servare modum, nunc subdita Romae</TextUnit>
+    <TextUnit id="49" loc="8.5">¦aemula, nunc fidei memor; ante infida, senatum</TextUnit>
+    <TextUnit id="50" loc="8.6">sperneret, an coleret dubitans, sperare curules</TextUnit>
+    <TextUnit id="51" loc="8.7">Campanis ausa auspiciis unoque suorum</TextUnit>
+    <TextUnit id="52" loc="8.8">consule, ut imperium divisi adtolleret orbis.</TextUnit>
+    <TextUnit id="53" loc="8.9">quin etiam rerum dominam Latiique parentem</TextUnit>
+    <TextUnit id="54" loc="8.10">adpetiit bello, ducibus non freta togatis.</TextUnit>
+    <TextUnit id="55" loc="8.11">Hannibalis iurata armis deceptaque in hostis</TextUnit>
+    <TextUnit id="56" loc="8.12">servitium demens specie transivit erili.</TextUnit>
+    <TextUnit id="57" loc="8.13">mox — ut in occasum vitiis communibus acti</TextUnit>
+    <TextUnit id="58" loc="8.14">conruerunt Poeni luxu, Campania fasto,</TextUnit>
+    <TextUnit id="59" loc="8.15">(heu numquam stabilem sortita superbia sedem!) —</TextUnit>
+    <TextUnit id="60" loc="8.16">illa potens opibusque valens, Roma altera quondam,</TextUnit>
+    <TextUnit id="61" loc="8.17">comere quae paribus potuit fastigia conis,</TextUnit>
+    <TextUnit id="62" loc="8.18">octavum reiecta locum vix paene tuetur.</TextUnit>
+    <TextUnit id="63" loc="9.1">NON erat iste locus: merito tamen aucta recenti,</TextUnit>
+    <TextUnit id="64" loc="9.2">nona inter claras Aquileia cieberis urbes,</TextUnit>
+    <TextUnit id="65" loc="9.3">Itala ad Illyricos obiecta colonia montes,</TextUnit>
+    <TextUnit id="66" loc="9.4">moenibus et portu celeberrima, sed magis illud</TextUnit>
+    <TextUnit id="67" loc="9.5">eminet, extremo quod te sub tempore legit,</TextUnit>
+    <TextUnit id="68" loc="9.6">solveret exacto cui sera piacula lustro</TextUnit>
+    <TextUnit id="69" loc="9.7">Maximus, armigeri quondam sub nomine lixa.</TextUnit>
+    <TextUnit id="70" loc="9.8">felix, quae tanti spectatrix laeta triumphi</TextUnit>
+    <TextUnit id="71" loc="9.9">punisti Ausonio Rutupinum Marte latronem.</TextUnit>
+    <TextUnit id="72" loc="10.1">PANDE, duplex Arelate, tuos blanda hospita portus,</TextUnit>
+    <TextUnit id="73" loc="10.2">Gallula Roma Arelas, quam Narbo Martius et quam</TextUnit>
+    <TextUnit id="74" loc="10.3">accolit Alpinis opulenta Vienna colonis,</TextUnit>
+    <TextUnit id="75" loc="10.4">praecipitis Rhodani sic intercisa fluentis,</TextUnit>
+    <TextUnit id="76" loc="10.5">ut mediam facias navali ponte plateam,</TextUnit>
+    <TextUnit id="77" loc="10.6">per quem Romani commercia suscipis orbis</TextUnit>
+    <TextUnit id="78" loc="10.7">nec cohibes, populosque alios et moenia ditas,</TextUnit>
+    <TextUnit id="79" loc="10.8">Gallia quis fruitur gremioque Aquitania lato.</TextUnit>
+    <TextUnit id="80" loc="11.1">CARA mihi post has memorabere, nomen Hiberum,</TextUnit>
+    <TextUnit id="81" loc="11.2">Hispalis,1 aequoreus quam praeterlabitur amnis,</TextUnit>
+    <TextUnit id="82" loc="11.3">submittit cui tota suos Hispania fasces.</TextUnit>
+    <TextUnit id="83" loc="11.4">Corduba non, non arce potens tibi Tarraco certat</TextUnit>
+    <TextUnit id="84" loc="11.5">quaeque sinu pelagi iactat se BRACARA dives.</TextUnit>
+    <TextUnit id="85" loc="15.1">NUNC et terrigenis patribus memoremus Athenas,</TextUnit>
+    <TextUnit id="86" loc="15.2">Pallados et Consi quondam certaminis arcem,</TextUnit>
+    <TextUnit id="87" loc="15.3">paciferae primum cui contigit arbor olivae,</TextUnit>
+    <TextUnit id="88" loc="15.4">Attica facundae cuius mera gloria linguae,</TextUnit>
+    <TextUnit id="89" loc="15.5">unde per Ioniae populos et nomen Achaeum</TextUnit>
+    <TextUnit id="90" loc="15.6">versa Graia manus centum se effudit in urbes.</TextUnit>
+    <TextUnit id="91" loc="16.1">QUIS CATINAM sileat? quis quadruplices Syracusas?</TextUnit>
+    <TextUnit id="92" loc="16.2">hanc ambustorum fratrum pietate celebrem,</TextUnit>
+    <TextUnit id="93" loc="16.3">illam conplexam miracula fontis et amnis,</TextUnit>
+    <TextUnit id="94" loc="16.4">qua maris Ionii subter vada salsa meantes</TextUnit>
+    <TextUnit id="95" loc="16.5">consociant dulces placita sibi sede liquores,</TextUnit>
+    <TextUnit id="96" loc="16.6">incorruptarum miscentes oscula aquarum.</TextUnit>
+    <TextUnit id="97" loc="18.1">NON umquam altricem nostri reticebo Tolosam,</TextUnit>
+    <TextUnit id="98" loc="18.2">coctilibus muris quam circuit ambitus ingens</TextUnit>
+    <TextUnit id="99" loc="18.3">perque latus pulchro praelabitur amne Garumna,</TextUnit>
+    <TextUnit id="100" loc="18.4">innumeris cultam populis, confinia propter</TextUnit>
+    <TextUnit id="101" loc="18.5">ninguida Pyrenes et pinea Cebennarum,</TextUnit>
+    <TextUnit id="102" loc="18.6">inter Aquitanas gentes et nomen Hiberum,</TextUnit>
+    <TextUnit id="103" loc="18.7">quae modo quadruplices ex se cum effuderit urbes,</TextUnit>
+    <TextUnit id="104" loc="18.8">non ulla exhaustae sentit dispendia plebis,</TextUnit>
+    <TextUnit id="105" loc="18.9">quos genuit cunctos gremio conplexa colonos. 1</TextUnit>
+    <TextUnit id="106" loc="19.1">NEC tu, Martie Narbo, silebere, nomine cuius</TextUnit>
+    <TextUnit id="107" loc="19.2">fusa per inmensum quondam Provincia regnum</TextUnit>
+    <TextUnit id="108" loc="19.3">optinuit multos dominandi iure colonos,</TextUnit>
+    <TextUnit id="109" loc="19.4">insinuant qua se Grais Allobroges oris</TextUnit>
+    <TextUnit id="110" loc="19.5">excluduntque Italos Alpina cacumina fines,</TextUnit>
+    <TextUnit id="111" loc="19.6">qua Pyrenaicis nivibus dirimuntur Hiberi,</TextUnit>
+    <TextUnit id="112" loc="19.7">qua rapitur praeceps Rhodanus genitore Lemanno</TextUnit>
+    <TextUnit id="113" loc="19.8">interiusque premunt Aquitanica rura Cebennae,</TextUnit>
+    <TextUnit id="114" loc="19.9">usque in Teutosagos paganaque nomina Belcas,</TextUnit>
+    <TextUnit id="115" loc="19.10">totum Narbo fuit: tu Gallia prima togati</TextUnit>
+    <TextUnit id="116" loc="19.11">nominis adtollis Latio proconsule fasces.</TextUnit>
+    <TextUnit id="117" loc="19.12">Quid memorem portusque tuos montesque lacusque?</TextUnit>
+    <TextUnit id="118" loc="19.13">quid populos vario discrimine vestis et oris?</TextUnit>
+    <TextUnit id="119" loc="19.14">quodque tibi Pario quondam de marmore templum</TextUnit>
+    <TextUnit id="120" loc="19.15">tantae molis erat, quantam non sperneret olim</TextUnit>
+    <TextUnit id="121" loc="19.16">Tarquinius Catulusque iterum, postremus et ille,</TextUnit>
+    <TextUnit id="122" loc="19.17">aurea qui statuit Capitoli culmina, Caesar?</TextUnit>
+    <TextUnit id="123" loc="19.18">te maris Eoi merces et Hiberica ditant</TextUnit>
+    <TextUnit id="124" loc="19.19">aequora, te classes Libyci Siculique profundi,</TextUnit>
+    <TextUnit id="125" loc="19.20">et quidquid vario per flumina, per freta cursu</TextUnit>
+    <TextUnit id="126" loc="19.21">advehitur: toto tibi navigat orbe cataplus.</TextUnit>
+    <TextUnit id="127" loc="20.1">IMPIA iamdudum condemno silentia, quod te,</TextUnit>
+    <TextUnit id="128" loc="20.2">o patria, insignem Baccho fluviisque virisque,</TextUnit>
+    <TextUnit id="129" loc="20.3">moribus ingeniisque hominum procerumque senatu,</TextUnit>
+    <TextUnit id="130" loc="20.4">non inter primas memorem, quasi conscius urbis</TextUnit>
+    <TextUnit id="131" loc="20.5">exiguae inmeritas dubitem contingere laudes.</TextUnit>
+    <TextUnit id="132" loc="20.6">non pudor hinc nobis; nec enim mihi barbara Rheni</TextUnit>
+    <TextUnit id="133" loc="20.7">ora nec arctoo domus est glacialis in Haemo:</TextUnit>
+    <TextUnit id="134" loc="20.8">BURDIGALA est natale solum; clementia caeli</TextUnit>
+    <TextUnit id="135" loc="20.9">mitis ubi et riguae larga indulgentia terrae,</TextUnit>
+    <TextUnit id="136" loc="20.10">ver longum brumaeque novo cum sole tepentes</TextUnit>
+    <TextUnit id="137" loc="20.11">aestifluique amnes, quorum iuga vitea subter</TextUnit>
+    <TextUnit id="138" loc="20.12">fervent aequoreos imitata fluenta meatus,</TextUnit>
+    <TextUnit id="139" loc="20.13">quadrua murorum species, sic turribus altis</TextUnit>
+    <TextUnit id="140" loc="20.14">ardua, ut aerias intrent fastigia nubes,</TextUnit>
+    <TextUnit id="141" loc="20.15">distinctas interne vias mirere, domorum</TextUnit>
+    <TextUnit id="142" loc="20.16">dispositum et latas nomen servare plateas,</TextUnit>
+    <TextUnit id="143" loc="20.17">tum respondentes directa in compita portas;</TextUnit>
+    <TextUnit id="144" loc="20.18">per mediumque urbis fontani fluminis alveum,</TextUnit>
+    <TextUnit id="145" loc="20.19">quem pater Oceanus refluo cum impleverit aestu,</TextUnit>
+    <TextUnit id="146" loc="20.20">adlabi totum spectabis classibus aequor.</TextUnit>
+    <TextUnit id="147" loc="20.21">Quid memorem Pario contectum marmore fontem</TextUnit>
+    <TextUnit id="148" loc="20.22">Euripi fervere freto? quanta unda profundi!</TextUnit>
+    <TextUnit id="149" loc="20.23">quantus in amne tumor! quanto ruit agmine praeceps</TextUnit>
+    <TextUnit id="150" loc="20.24">marginis extenti bis sena per ostia cursu,</TextUnit>
+    <TextUnit id="151" loc="20.25">innumeros populi non umquam exhaustus ad usus!</TextUnit>
+    <TextUnit id="152" loc="20.26">hunc cuperes, rex Mede, tuis contingere castris,</TextUnit>
+    <TextUnit id="153" loc="20.27">flumina consumpto cum defecere meatu,</TextUnit>
+    <TextUnit id="154" loc="20.28">huius fontis aquas peregrinas ferre per urbes,</TextUnit>
+    <TextUnit id="155" loc="20.29">unum per cunctas solitus potare Choaspen.</TextUnit>
+    <TextUnit id="156" loc="20.30">Salve, fons ignote ortu, sacer, alme, perennis,</TextUnit>
+    <TextUnit id="157" loc="20.31">vitree, glauce, profunde, sonore, inlimis, opace.</TextUnit>
+    <TextUnit id="158" loc="20.32">salve, urbis genius, medico potabilis haustu,</TextUnit>
+    <TextUnit id="159" loc="20.33">Divona Celtarum lingua, fons addite divis.</TextUnit>
+    <TextUnit id="160" loc="20.34">non Aponus potu, vitrea non luce Nemausus</TextUnit>
+    <TextUnit id="161" loc="20.35">purior, aequoreo non plenior amne Timavus.</TextUnit>
+    <TextUnit id="162" loc="20.36">Hic labor extremus celebres collegerit urbes,</TextUnit>
+    <TextUnit id="163" loc="20.37">utque caput numeri Roma inclita, sic capite isto</TextUnit>
+    <TextUnit id="164" loc="20.38">BURDIGALA ancipiti confirmet vertice sedem,</TextUnit>
+    <TextUnit id="165" loc="20.39">haec patria est: patrias sed Roma supervenit omnes,</TextUnit>
+    <TextUnit id="166" loc="20.40">diligo Burdigalam, Romam colo; civis in hac sum,</TextUnit>
+    <TextUnit id="167" loc="20.41">consul in ambabus; cunae hic, ibi sella curulis.</TextUnit>
+  </Text>
+</TessDocument>

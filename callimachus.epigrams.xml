@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="callimachus.epigrams">
+  <Metadata>
+    <Author>callimachus</Author>
+    <Display>Epigrams</Display>
+    <Abbr>call. epigrams.</Abbr>
+    <Lang>grc</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Hymns and Epigrams. Callimachus. Ulrich von Wilamowitz-Moellendorff. Berlin. Weidmann. 1897.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0226%3Atext%3Depigrams</DigitalSourceURL>
+    <AddedBy/>
+    <URI>urn:cts:greekLit:tlg0533.tlg003.perseus-grc1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>15</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.16</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>16</MaskLower><MaskUpper>21</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.6</LocusUpper></Part><Part id="3"><Display>Book 4</Display><MaskLower>22</MaskLower><MaskUpper>23</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.2</LocusUpper></Part><Part id="4"><Display>Book 5</Display><MaskLower>24</MaskLower><MaskUpper>35</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.12</LocusUpper></Part><Part id="5"><Display>Book 6</Display><MaskLower>36</MaskLower><MaskUpper>39</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.4</LocusUpper></Part><Part id="6"><Display>Book 7</Display><MaskLower>40</MaskLower><MaskUpper>43</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.4</LocusUpper></Part><Part id="7"><Display>Book 8</Display><MaskLower>44</MaskLower><MaskUpper>49</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.6</LocusUpper></Part><Part id="8"><Display>Book 9</Display><MaskLower>50</MaskLower><MaskUpper>51</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.2</LocusUpper></Part><Part id="9"><Display>Book 10</Display><MaskLower>52</MaskLower><MaskUpper>55</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.4</LocusUpper></Part><Part id="10"><Display>Book 11</Display><MaskLower>56</MaskLower><MaskUpper>57</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.2</LocusUpper></Part><Part id="11"><Display>Book 12</Display><MaskLower>58</MaskLower><MaskUpper>61</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.4</LocusUpper></Part><Part id="12"><Display>Book 13</Display><MaskLower>62</MaskLower><MaskUpper>67</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.6</LocusUpper></Part><Part id="13"><Display>Book 14</Display><MaskLower>68</MaskLower><MaskUpper>71</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.4</LocusUpper></Part><Part id="14"><Display>Book 15</Display><MaskLower>72</MaskLower><MaskUpper>75</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.4</LocusUpper></Part><Part id="15"><Display>Book 16</Display><MaskLower>76</MaskLower><MaskUpper>79</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.4</LocusUpper></Part><Part id="16"><Display>Book 17</Display><MaskLower>80</MaskLower><MaskUpper>83</MaskUpper><LocusLower>17.1</LocusLower><LocusUpper>17.4</LocusUpper></Part><Part id="17"><Display>Book 18</Display><MaskLower>84</MaskLower><MaskUpper>89</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.6</LocusUpper></Part><Part id="18"><Display>Book 19</Display><MaskLower>90</MaskLower><MaskUpper>91</MaskUpper><LocusLower>19.1</LocusLower><LocusUpper>19.2</LocusUpper></Part><Part id="19"><Display>Book 20</Display><MaskLower>92</MaskLower><MaskUpper>97</MaskUpper><LocusLower>20.1</LocusLower><LocusUpper>20.6</LocusUpper></Part><Part id="20"><Display>Book 21</Display><MaskLower>98</MaskLower><MaskUpper>104</MaskUpper><LocusLower>21.1</LocusLower><LocusUpper>21.7</LocusUpper></Part><Part id="21"><Display>Book 22</Display><MaskLower>105</MaskLower><MaskUpper>108</MaskUpper><LocusLower>22.1</LocusLower><LocusUpper>22.4</LocusUpper></Part><Part id="22"><Display>Book 23</Display><MaskLower>109</MaskLower><MaskUpper>112</MaskUpper><LocusLower>23.1</LocusLower><LocusUpper>23.4</LocusUpper></Part><Part id="23"><Display>Book 24</Display><MaskLower>113</MaskLower><MaskUpper>116</MaskUpper><LocusLower>24.1</LocusLower><LocusUpper>24.4</LocusUpper></Part><Part id="24"><Display>Book 25</Display><MaskLower>117</MaskLower><MaskUpper>122</MaskUpper><LocusLower>25.1</LocusLower><LocusUpper>25.6</LocusUpper></Part><Part id="25"><Display>Book 26</Display><MaskLower>123</MaskLower><MaskUpper>126</MaskUpper><LocusLower>26.1</LocusLower><LocusUpper>26.4</LocusUpper></Part><Part id="26"><Display>Book 27</Display><MaskLower>127</MaskLower><MaskUpper>130</MaskUpper><LocusLower>27.1</LocusLower><LocusUpper>27.4</LocusUpper></Part><Part id="27"><Display>Book 28</Display><MaskLower>131</MaskLower><MaskUpper>136</MaskUpper><LocusLower>28.1</LocusLower><LocusUpper>28.6</LocusUpper></Part><Part id="28"><Display>Book 29</Display><MaskLower>137</MaskLower><MaskUpper>140</MaskUpper><LocusLower>29.1</LocusLower><LocusUpper>29.4</LocusUpper></Part><Part id="29"><Display>Book 30</Display><MaskLower>141</MaskLower><MaskUpper>146</MaskUpper><LocusLower>30.1</LocusLower><LocusUpper>30.6</LocusUpper></Part><Part id="30"><Display>Book 31</Display><MaskLower>147</MaskLower><MaskUpper>152</MaskUpper><LocusLower>31.1</LocusLower><LocusUpper>31.6</LocusUpper></Part><Part id="31"><Display>Book 32</Display><MaskLower>153</MaskLower><MaskUpper>156</MaskUpper><LocusLower>32.1</LocusLower><LocusUpper>32.4</LocusUpper></Part><Part id="32"><Display>Book 33</Display><MaskLower>157</MaskLower><MaskUpper>158</MaskUpper><LocusLower>33.1</LocusLower><LocusUpper>33.2</LocusUpper></Part><Part id="33"><Display>Book 34</Display><MaskLower>159</MaskLower><MaskUpper>160</MaskUpper><LocusLower>34.1</LocusLower><LocusUpper>34.2</LocusUpper></Part><Part id="34"><Display>Book 35</Display><MaskLower>161</MaskLower><MaskUpper>162</MaskUpper><LocusLower>35.1</LocusLower><LocusUpper>35.2</LocusUpper></Part><Part id="35"><Display>Book 37</Display><MaskLower>163</MaskLower><MaskUpper>168</MaskUpper><LocusLower>37.1</LocusLower><LocusUpper>37.6</LocusUpper></Part><Part id="36"><Display>Book 38</Display><MaskLower>169</MaskLower><MaskUpper>173</MaskUpper><LocusLower>38.1</LocusLower><LocusUpper>38.5</LocusUpper></Part><Part id="37"><Display>Book 39</Display><MaskLower>174</MaskLower><MaskUpper>179</MaskUpper><LocusLower>39.1</LocusLower><LocusUpper>39.6</LocusUpper></Part><Part id="38"><Display>Book 40</Display><MaskLower>180</MaskLower><MaskUpper>185</MaskUpper><LocusLower>40.1</LocusLower><LocusUpper>40.6</LocusUpper></Part><Part id="39"><Display>Book 41</Display><MaskLower>186</MaskLower><MaskUpper>191</MaskUpper><LocusLower>41.1</LocusLower><LocusUpper>41.6</LocusUpper></Part><Part id="40"><Display>Book 42</Display><MaskLower>192</MaskLower><MaskUpper>197</MaskUpper><LocusLower>42.1</LocusLower><LocusUpper>42.6</LocusUpper></Part><Part id="41"><Display>Book 43</Display><MaskLower>198</MaskLower><MaskUpper>203</MaskUpper><LocusLower>43.1</LocusLower><LocusUpper>43.6</LocusUpper></Part><Part id="42"><Display>Book 44</Display><MaskLower>204</MaskLower><MaskUpper>209</MaskUpper><LocusLower>44.1</LocusLower><LocusUpper>44.6</LocusUpper></Part><Part id="43"><Display>Book 45</Display><MaskLower>210</MaskLower><MaskUpper>213</MaskUpper><LocusLower>45.1</LocusLower><LocusUpper>45.4</LocusUpper></Part><Part id="44"><Display>Book 46</Display><MaskLower>214</MaskLower><MaskUpper>223</MaskUpper><LocusLower>46.1</LocusLower><LocusUpper>46.10</LocusUpper></Part><Part id="45"><Display>Book 47</Display><MaskLower>224</MaskLower><MaskUpper>227</MaskUpper><LocusLower>47.1</LocusLower><LocusUpper>47.4</LocusUpper></Part><Part id="46"><Display>Book 48</Display><MaskLower>228</MaskLower><MaskUpper>233</MaskUpper><LocusLower>48.1</LocusLower><LocusUpper>48.6</LocusUpper></Part><Part id="47"><Display>Book 49</Display><MaskLower>234</MaskLower><MaskUpper>237</MaskUpper><LocusLower>49.1</LocusLower><LocusUpper>49.4</LocusUpper></Part><Part id="48"><Display>Book 50</Display><MaskLower>238</MaskLower><MaskUpper>241</MaskUpper><LocusLower>50.1</LocusLower><LocusUpper>50.4</LocusUpper></Part><Part id="49"><Display>Book 51</Display><MaskLower>242</MaskLower><MaskUpper>245</MaskUpper><LocusLower>51.1</LocusLower><LocusUpper>51.4</LocusUpper></Part><Part id="50"><Display>Book 52</Display><MaskLower>246</MaskLower><MaskUpper>249</MaskUpper><LocusLower>52.1</LocusLower><LocusUpper>52.4</LocusUpper></Part><Part id="51"><Display>Book 53</Display><MaskLower>250</MaskLower><MaskUpper>253</MaskUpper><LocusLower>53.1</LocusLower><LocusUpper>53.4</LocusUpper></Part><Part id="52"><Display>Book 54</Display><MaskLower>254</MaskLower><MaskUpper>257</MaskUpper><LocusLower>54.1</LocusLower><LocusUpper>54.4</LocusUpper></Part><Part id="53"><Display>Book 55</Display><MaskLower>258</MaskLower><MaskUpper>261</MaskUpper><LocusLower>55.1</LocusLower><LocusUpper>55.4</LocusUpper></Part><Part id="54"><Display>Book 56</Display><MaskLower>262</MaskLower><MaskUpper>265</MaskUpper><LocusLower>56.1</LocusLower><LocusUpper>56.4</LocusUpper></Part><Part id="55"><Display>Book 57</Display><MaskLower>266</MaskLower><MaskUpper>267</MaskUpper><LocusLower>57.1</LocusLower><LocusUpper>57.2</LocusUpper></Part><Part id="56"><Display>Book 58</Display><MaskLower>268</MaskLower><MaskUpper>271</MaskUpper><LocusLower>58.1</LocusLower><LocusUpper>58.4</LocusUpper></Part><Part id="57"><Display>Book 59</Display><MaskLower>272</MaskLower><MaskUpper>277</MaskUpper><LocusLower>59.1</LocusLower><LocusUpper>59.6</LocusUpper></Part><Part id="58"><Display>Book 60</Display><MaskLower>278</MaskLower><MaskUpper>279</MaskUpper><LocusLower>60.1</LocusLower><LocusUpper>60.2</LocusUpper></Part><Part id="59"><Display>Book 61</Display><MaskLower>280</MaskLower><MaskUpper>283</MaskUpper><LocusLower>61.1</LocusLower><LocusUpper>61.4</LocusUpper></Part><Part id="60"><Display>Book 62</Display><MaskLower>284</MaskLower><MaskUpper>287</MaskUpper><LocusLower>62.1</LocusLower><LocusUpper>62.4</LocusUpper></Part><Part id="61"><Display>Book 63</Display><MaskLower>288</MaskLower><MaskUpper>293</MaskUpper><LocusLower>63.1</LocusLower><LocusUpper>63.6</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">ξεῖνος ̓Αταρνείτης τις ἀνήρετο Πιττακὸν οὕτω</TextUnit>
+    <TextUnit id="1" loc="1.2">τὸν Μυτιληναῖον, παῖδα τὸν ̔Υρράδιον:</TextUnit>
+    <TextUnit id="2" loc="1.3">'ἄττα γέρον, δοιός με καλεῖ γάμος: ἡ μία μὲν δή</TextUnit>
+    <TextUnit id="3" loc="1.4">νύμφη καὶ πλούτωι καὶ γενεῆι κατ' ἐμέ,</TextUnit>
+    <TextUnit id="4" loc="1.5">ἡ δ' ἑτέρη προβέβηκε: τί λώιον; εἰ δ' ἄγε σύμ μοι</TextUnit>
+    <TextUnit id="5" loc="1.6">βούλευσον, ποτέρην εἰς ὑμέναιον ἄγω.'</TextUnit>
+    <TextUnit id="6" loc="1.7">εἶπεν: ὁ δὲ σκίπωνα, γεροντικὸν ὅπλον, ἀείρας,</TextUnit>
+    <TextUnit id="7" loc="1.8">'ἠνίδε, κεῖνοί τοι πᾶν ἐρέουσιν ἔπος.'</TextUnit>
+    <TextUnit id="8" loc="1.9">οἳ δ' ἄρ' ὑπὸ πληγῆισι θοὰς βέμβικας ἔχοντες</TextUnit>
+    <TextUnit id="9" loc="1.10">ἔστρεφον εὐρείηι παῖδες ἐνὶ τριόδωι.</TextUnit>
+    <TextUnit id="10" loc="1.11">'κείνων ἔρχεο' φησὶ 'μετ' ἴχνια'. χὠ μὲν ἐπέστη</TextUnit>
+    <TextUnit id="11" loc="1.12">πλησίον: οἳ δ' ἔλεγον: 'τὴν κατὰ σαυτὸν ἔλα'.</TextUnit>
+    <TextUnit id="12" loc="1.13">ταῦτ' ἀίων δ̔ ξεῖνος ἒφείσατο μείζονος οἴκου</TextUnit>
+    <TextUnit id="13" loc="1.14">δράξασθαι παίδων κληδόνι συνθέμενος.</TextUnit>
+    <TextUnit id="14" loc="1.15">τὴν δ' ὀλίγην ὡς κεῖνος ἐς οἰκίον ἤγετο νύμφην,</TextUnit>
+    <TextUnit id="15" loc="1.16">οὕτω καὶ σύ, Δίων, τὴν κατὰ σαυτὸν ἔλα.</TextUnit>
+    <TextUnit id="16" loc="2.1">εἶπέ τις ̔Ηράκλειτε τεὸν μόρον, ἐς δέ με δάκρυ</TextUnit>
+    <TextUnit id="17" loc="2.2">ἤγαγεν, ἐμνήσθην δ' ὁσσάκις ἀμφότεροι</TextUnit>
+    <TextUnit id="18" loc="2.3">ἥλιον ἐν λέσχηι κατεδύσαμεν: ἀλ̀λὰ σὺ μέν που</TextUnit>
+    <TextUnit id="19" loc="2.4">ξεῖν' 'Αλικαρνησεῦ τετράπαλαι σποδιή:</TextUnit>
+    <TextUnit id="20" loc="2.5">αἱ δὲ τεαὶ ζώουσιν ἀηδόνες, ἧισιν ὁ πάντων</TextUnit>
+    <TextUnit id="21" loc="2.6">ἁρπακτὴς ̓Αίδης οὐκ ἐπὶ χεῖρα βαλεῖ.</TextUnit>
+    <TextUnit id="22" loc="4.1">Τίμων, οὐ γὰρ ἔτ' ἐσσί, τί τοι, σκότος ἢ φάος ἐχθρόν;</TextUnit>
+    <TextUnit id="23" loc="4.2">'τὸ σκότος: ὑμέων γὰρ πλείονες εἰν ̓Αίδηι'.</TextUnit>
+    <TextUnit id="24" loc="5.1">κόγχος ἐγὼ Ζεφυρῖτι πάλαι τέρας: ἀλλὰ σὺ νῦν με</TextUnit>
+    <TextUnit id="25" loc="5.2">Κύπρι Σεληναίης ἄνθεμα πρῶτον ἔχεις,</TextUnit>
+    <TextUnit id="26" loc="5.3">ναυτίλος ὃς πελάγεσσιν ἐπέπλεον, εἰ μὲν ἀῆται,</TextUnit>
+    <TextUnit id="27" loc="5.4">τείνας οἰκείων λαῖφος ἀπὸ προτόνων,</TextUnit>
+    <TextUnit id="28" loc="5.5">εἰ δὲ Γαληναίη, λιπαρὴ θεός, οὖλος ἐρέσσων</TextUnit>
+    <TextUnit id="29" loc="5.6">ποσσί νιν, ὥστ' ἔργωι τοὔνομα συμφέρεται,</TextUnit>
+    <TextUnit id="30" loc="5.7">ἔστ' ἔπεσον παρὰ θῖνας ̓Ιουλίδας, ὄφρα γένωμαι</TextUnit>
+    <TextUnit id="31" loc="5.8">σοὶ τὸ περίσκεπτον παίγνιον, ̓Αρσινόη,</TextUnit>
+    <TextUnit id="32" loc="5.9">μηδέ μοι ἐν θαλάμηισιν ἔθ' ὡς πάρος, εἰμὶ γὰρ ἄπνους,</TextUnit>
+    <TextUnit id="33" loc="5.10">τίκτηται νοτερῆις' ὤεον ἁλκυονίς.</TextUnit>
+    <TextUnit id="34" loc="5.11">Κλεινίου ἀλλὰ θυγατρὶ δίδου χάριν, οἶδε γὰρ ἐσθλά</TextUnit>
+    <TextUnit id="35" loc="5.12">ῥέζειν καὶ Σμύρνης ἐστὶν ἀπ' Αἰολίδος.</TextUnit>
+    <TextUnit id="36" loc="6.1">τοῦ Σαμίου πόνος εἰμὶ δόμωι ποτὲ θεῖον ἀοιδόν:</TextUnit>
+    <TextUnit id="37" loc="6.2">δεξαμένου, κλείω δ' Εὔρυτον, ὅσς' ἔπαθεν,</TextUnit>
+    <TextUnit id="38" loc="6.3">καὶ ξανθὴν ̓Ιόλειαν, ̔Ομήρειον δὲ καλεῦμαι</TextUnit>
+    <TextUnit id="39" loc="6.4">γράμμα: Κρεωφύλωι, Ζεῦ φίλε, τοῦτο μέγα.</TextUnit>
+    <TextUnit id="40" loc="7.1">ἦλθε Θεαίτητος καθαρὴν ὁδόν. εἰ δ' ἐπὶ κισσόν</TextUnit>
+    <TextUnit id="41" loc="7.2">τὸν τεὸν οὐχ αὕτη, Βάκχε, κέλευθος ἄγει:</TextUnit>
+    <TextUnit id="42" loc="7.3">ἄλλων μὲν κήρυκες ἐπὶ βραχὺν οὔνομα καιρόν</TextUnit>
+    <TextUnit id="43" loc="7.4">φθέγξονται, κείνου δ' ̔Ελλὰς ἀεὶ σοφίην.</TextUnit>
+    <TextUnit id="44" loc="8.1">μικρή τις Διόνυσε καλὰ πρήσσοντι ποιητῆι</TextUnit>
+    <TextUnit id="45" loc="8.2">ῥῆσις: ὃ μὲν 'νικῶ' φησὶ τὸ μακρότατον,</TextUnit>
+    <TextUnit id="46" loc="8.3">ὧι δὲ σὺ μὴ πνεύσηις ἐπιδέξιος, ἤν τις ἔρηται</TextUnit>
+    <TextUnit id="47" loc="8.4">'πῶς ἔβαλες'; φησί 'σκληρὰ τὰ γιγνόμενα'.</TextUnit>
+    <TextUnit id="48" loc="8.5">τῶι μερμηρίξαντι τὰ μὴ̓́ νδικα τοῦτο γένοιτο</TextUnit>
+    <TextUnit id="49" loc="8.6">τοὖπος: ἐμοὶ δ', ὦναξ, ἡ βραχυσυλλαβίη.</TextUnit>
+    <TextUnit id="50" loc="9.1">Τῆιδε Σάων ὁ Δίκωνος ̓Ακάνθιος ἱερὸν ὕπνον</TextUnit>
+    <TextUnit id="51" loc="9.2">κοιμᾶται: θνήισκειν μὴ λέγε τοὺς ἀγαθούς.</TextUnit>
+    <TextUnit id="52" loc="10.1">̔Ην δίζηι Τίμαρχον ἐν ̓́Αιδος, ὄφρα πύθηαι</TextUnit>
+    <TextUnit id="53" loc="10.2">ἤ τι περὶ ψυχῆς ἢ πάλι πῶς ἔσεαι,</TextUnit>
+    <TextUnit id="54" loc="10.3">δίζησθαι φυλῆς Πτολεμαίδος υἱέα πατρός</TextUnit>
+    <TextUnit id="55" loc="10.4">Παυσανίου: δήεις δ' αὐτὸν ἐν εὐσεβέων.</TextUnit>
+    <TextUnit id="56" loc="11.1">σύντομος ἦν ὁ ξεῖνος, ὃ καὶ στίχος οὐ μακρὰ λέξων</TextUnit>
+    <TextUnit id="57" loc="11.2">'Θῆρις ̓Αρισταίου Κρής' ἐπ' ἐμοὶ δολιχός.</TextUnit>
+    <TextUnit id="58" loc="12.1">Κύζικον ἢν ἔλθηις, ὀλίγος πόνος ̔Ιππακὸν εὑρεῖν</TextUnit>
+    <TextUnit id="59" loc="12.2">καὶ Διδύμην: ἀφανὴς οὔ τι γὰρ ἡ γενεή.</TextUnit>
+    <TextUnit id="60" loc="12.3">καί σφιν ἀνιηρὸν μὲν ἐρεῖς ἔπος, ἔμπα δὲ λέξαι</TextUnit>
+    <TextUnit id="61" loc="12.4">τοῦθ', ὅτι τὸν κείνων ὧδ' ἐπέχω Κριτίην.</TextUnit>
+    <TextUnit id="62" loc="13.1">'Η ῥ' ὑπὸ σοὶ Χαρίδας ἀναπαύεται; 'εἰ τὸν ̓Αρίμμα</TextUnit>
+    <TextUnit id="63" loc="13.2">τοῦ Κυρηναίου παῖδα λέγεις, ὑπ' ἐμοί.'</TextUnit>
+    <TextUnit id="64" loc="13.3">ὦ Χαρίδα, τί τὰ νέρθε; 'πολὺ σκότος'. αἱ δ' ἄνοδοι τί;</TextUnit>
+    <TextUnit id="65" loc="13.4">'ψεῦδος'. ὁ δὲ Πλούτων; 'μῦθος'. ἀπωλόμεθα.</TextUnit>
+    <TextUnit id="66" loc="13.5">'οὗτος ἐμὸς λόγος ὔμμιν ἀληθινός: εἰ δὲ τὸν ἡδύν</TextUnit>
+    <TextUnit id="67" loc="13.6">βούλει, Πελλαίου βοῦς μέγας εἰν ̓Αίδηι.</TextUnit>
+    <TextUnit id="68" loc="14.1">δαίμονα τίς δ' εὖ οἶδε τὸν Αὔριον; ἁνίκα καὶ δέ</TextUnit>
+    <TextUnit id="69" loc="14.2">Χάρμι τὸν ὀφθαλμοῖς χθιζὸν ἐν ἁμετέροις</TextUnit>
+    <TextUnit id="70" loc="14.3">τᾶι ἑτέραι κλαύσαντες ἐθάπτομεν: οὐδὲν ἐκείνου</TextUnit>
+    <TextUnit id="71" loc="14.4">εἶδε πατὴρ Διοφῶν χρῆμ' ἀνιαρότερον.</TextUnit>
+    <TextUnit id="72" loc="15.1">'Τιμονόη.' τίς δ' ἐσσί; μὰ δαίμονας, οὔ ς' ἂν ἐπέγνων,</TextUnit>
+    <TextUnit id="73" loc="15.2">εἰ μὴ Τιμοθέου πατρὸς ἐπῆν ὄνομα</TextUnit>
+    <TextUnit id="74" loc="15.3">στήληι καὶ Μήθυμνα, τεὴ πόλις. ἦ μέγα φημί</TextUnit>
+    <TextUnit id="75" loc="15.4">χῆρον ἀνιᾶσθαι σὸν πόσιν Εὐθυμένη.</TextUnit>
+    <TextUnit id="76" loc="16.1">Κρηθίδα τὴν πολύμυθον ἐπισταμένην καλὰ παίζειν</TextUnit>
+    <TextUnit id="77" loc="16.2">δίζηνται Σαμίων πολλάκι θυγατέρες,</TextUnit>
+    <TextUnit id="78" loc="16.3">ἡδίστην συνέριθον ἀεὶ λάλον: ἣ δ' ἀποβρίζει</TextUnit>
+    <TextUnit id="79" loc="16.4">ἐνθάδε τὸν πάσαις ὕπνον ὀφειλόμενον.</TextUnit>
+    <TextUnit id="80" loc="17.1">ὤφελε μηδ' ἐγένοντο θοαὶ νέες: οὐ γὰρ ἂν ἡμεῖς</TextUnit>
+    <TextUnit id="81" loc="17.2">παῖδα Διοκλείδου Σώπολιν ἐστένομεν.</TextUnit>
+    <TextUnit id="82" loc="17.3">νῦν δ' ὃ μὲν εἰν ἁλί που φέρεται νέκυς, ἀντὶ δ' ἐκείνου</TextUnit>
+    <TextUnit id="83" loc="17.4">οὔνομα καὶ κενεὸν σῆμα παρερχόμεθα.</TextUnit>
+    <TextUnit id="84" loc="18.1">Νάξιος οὐκ ἐπὶ γῆς ἔθανεν Λύκος, ἀλλ' ἐνὶ πόντωι</TextUnit>
+    <TextUnit id="85" loc="18.2">ναῦν ἅμα καὶ ψυχὴν εἶδεν ἀπολλυμένην,</TextUnit>
+    <TextUnit id="86" loc="18.3">ἔμπορος Αἰγίνηθεν ὅτ' ἔπλεε. χὢ μὲν ἐν ὑγρῆι</TextUnit>
+    <TextUnit id="87" loc="18.4">νεκρός, ἐγὼ δ' ἄλλως οὔνομα τύμβος ἔχων</TextUnit>
+    <TextUnit id="88" loc="18.5">κηρύσσω πανάληθες ἔπος τόδε 'φεῦγε θαλάσσηι</TextUnit>
+    <TextUnit id="89" loc="18.6">συμμίσγειν ἐρίφων ναυτίλε δυομένων'.</TextUnit>
+    <TextUnit id="90" loc="19.1">Δωδεκέτη τὸν παῖδα πατὴρ ἀπέθηκε Φίλιππος</TextUnit>
+    <TextUnit id="91" loc="19.2">ἐνθάδε τὴν πολλὴν ἐλπίδα Νικοτέλην.</TextUnit>
+    <TextUnit id="92" loc="20.1">̓Ηῶιοι Μελάνιππον ἐθάπτομεν, ἠελίου δέ</TextUnit>
+    <TextUnit id="93" loc="20.2">δυομένου Βασιλὼ κάτθανε παρθενική</TextUnit>
+    <TextUnit id="94" loc="20.3">αὐτοχερί: ζώειν γὰρ ἀδελφεὸν ἐν πυρὶ θεῖσα</TextUnit>
+    <TextUnit id="95" loc="20.4">οὐκ ἔτλη. δίδυμον δ' οἶκος ἐπεῖδε κακόν</TextUnit>
+    <TextUnit id="96" loc="20.5">πατρὸς ̓Αριστίπποιο, κατήφησεν δὲ Κυρήνη</TextUnit>
+    <TextUnit id="97" loc="20.6">πᾶσα τὸν εὔτεκνον χῆρον ἰδοῦσα δόμον.</TextUnit>
+    <TextUnit id="98" loc="21.1">́Οστις ἐμὸν παρὰ σῆμα φέρεις πόδα, Καλλιμάχου με</TextUnit>
+    <TextUnit id="99" loc="21.2">ἴσθι Κυρηναίου παῖδά τε καὶ γενετήν.</TextUnit>
+    <TextUnit id="100" loc="21.3">εἰδείης δ' ἄμφω κεν: ὃ μέν κοτε πατρίδος ὅπλων</TextUnit>
+    <TextUnit id="101" loc="21.4">ἦρξεν, ὃ δ' ἤεισεν κρέσσονα βασκανίης:</TextUnit>
+    <TextUnit id="102" loc="21.5">οὐ νέμεσις: Μοῦσαι γὰρ ὅσους ἴδον ὄμματι παῖδας</TextUnit>
+    <TextUnit id="103" loc="21.6">μὴ λοξῶι, πολιοὺς οὐκ ἀπέθεντο φίλους.</TextUnit>
+    <TextUnit id="104" loc="21.7">* * *</TextUnit>
+    <TextUnit id="105" loc="22.1">̓Αστακίδην τὸν Κρῆτα τὸν αἰπόλον ἥρπασε Νύμφη</TextUnit>
+    <TextUnit id="106" loc="22.2">ἐξ ὄρεος, καὶ νῦν ἱερὸς ̓Αστακίδης.</TextUnit>
+    <TextUnit id="107" loc="22.3">οὐκέτι Δικταίηισιν ὑπὸ δρυσίν, οὐκέτι Δάφνιν</TextUnit>
+    <TextUnit id="108" loc="22.4">ποιμένες, ̓Αστακίδην δ' αἰὲν ἀεισόμεθα.</TextUnit>
+    <TextUnit id="109" loc="23.1">εἴπας '̔́Ηλιε χαῖρε' Κλεόμβροτος ̔Ωμβρακιώτης</TextUnit>
+    <TextUnit id="110" loc="23.2">ἥλατ' ἀφ' ὑψηλοῦ τείχεος εἰς ̓Αίδην,</TextUnit>
+    <TextUnit id="111" loc="23.3">ἄξιον οὐδὲν ἰδὼν θανάτου κακόν, ἀλλὰ Πλάτωνος</TextUnit>
+    <TextUnit id="112" loc="23.4">ἓν τὸ περὶ ψυχῆς γράμμ' ἀναλεξάμενος.</TextUnit>
+    <TextUnit id="113" loc="24.1">́Ηρως Αἰετίωνος ἐπίσταθμος ̓Αμφιπολίτεω</TextUnit>
+    <TextUnit id="114" loc="24.2">ἵδρυμαι μικρῶι μικρὸς ἐπὶ προθύρωι</TextUnit>
+    <TextUnit id="115" loc="24.3">λοξὸν ὄφιν καὶ μοῦνον ἔχων ξίφος: ἀνδρὶ † ιπειωι</TextUnit>
+    <TextUnit id="116" loc="24.4">θυμωθεὶς πεζὸν κἀμὲ παρωικίσατο.</TextUnit>
+    <TextUnit id="117" loc="25.1">ὤμοσε Καλλίγνωτος ̓Ιωνίδι μήποτ' ἐκείνης</TextUnit>
+    <TextUnit id="118" loc="25.2">ἕξειν μήτε φίλον κρέσσονα μήτε φίλην.</TextUnit>
+    <TextUnit id="119" loc="25.3">ὤμοσεν: ἀλλὰ λέγουσιν ἀληθέα τοὺς ἐν ἔρωτι</TextUnit>
+    <TextUnit id="120" loc="25.4">ὅρκους μὴ δύνειν οὔατ' ἐς ἀθανάτων.</TextUnit>
+    <TextUnit id="121" loc="25.5">νῦν δ' ὃ μὲν ἀρσενικῶι θέρεται πυρί: τῆς δὲ ταλαίνης</TextUnit>
+    <TextUnit id="122" loc="25.6">νύμφης ὡς Μεγαρέων οὐ λόγος οὐδ' ἀριθμός.</TextUnit>
+    <TextUnit id="123" loc="26.1">εἶχον ἀπὸ σμικρῶν ὀλίγον βίον οὔτε τι δεινόν</TextUnit>
+    <TextUnit id="124" loc="26.2">ῥέζων οὔτ' ἀδικέων οὐδένα. γαῖα φίλη,</TextUnit>
+    <TextUnit id="125" loc="26.3">Μικύλος εἴ τι πονηρὸν ἐπήινεσα, μήτε σὺ κούφη</TextUnit>
+    <TextUnit id="126" loc="26.4">γίνεο μήθ' ἵλεω δαίμονες οἵ μ' ἔχετε.</TextUnit>
+    <TextUnit id="127" loc="27.1">̔Ησιόδου τό τ' ἄεισμα καὶ ὁ τρόπος: οὐ τὸν ἀοιδόν</TextUnit>
+    <TextUnit id="128" loc="27.2">ἔσχατον, ἀλλ' ὀκνέω μὴ τὸ μελιχρότατον</TextUnit>
+    <TextUnit id="129" loc="27.3">τῶν ἐπέων ὁ Σολεὺς ἀπεμάξατο: χαίρετε λεπταί</TextUnit>
+    <TextUnit id="130" loc="27.4">ῥήσιες, ̓Αρήτου σύμβολον ἀγρυπνίης.</TextUnit>
+    <TextUnit id="131" loc="28.1">ἐχθαίρω τὸ ποίημα τὸ κυκλικόν, οὐδὲ κελεύθωι</TextUnit>
+    <TextUnit id="132" loc="28.2">χαίρω τίς πολλοὺς ὧδε καὶ ὧδε φέρει,</TextUnit>
+    <TextUnit id="133" loc="28.3">μισέω καὶ περίφοιτον ἐρώμενον, οὐδ' ἀπὸ κρήνης</TextUnit>
+    <TextUnit id="134" loc="28.4">πίνω: σικχαίνω πάντα τὰ δημόσια.</TextUnit>
+    <TextUnit id="135" loc="28.5">Λυσανίη σὺ δὲ ναιχὶ καλὸς καλός — ἀλλὰ πρὶν εἰπεῖν</TextUnit>
+    <TextUnit id="136" loc="28.6">τοῦτο σαφῶς, ̓Ηχώ φησί τις 'ἄλλος ἔχει'.</TextUnit>
+    <TextUnit id="137" loc="29.1">ἔγχει καὶ πάλιν εἰπὲ 'Διοκλέος'. οὐδ' ̓Αχελῶιος</TextUnit>
+    <TextUnit id="138" loc="29.2">κείνου τῶν ἱερῶν αἰσθάνεται κυάθων.</TextUnit>
+    <TextUnit id="139" loc="29.3">καλὸς ὁ παῖς ̓Αχελῶιε λίην καλός, εἰ δέ τις οὐχί</TextUnit>
+    <TextUnit id="140" loc="29.4">φησίν — ἐπισταίμην μοῦνος ἐγὼ τὰ καλά.</TextUnit>
+    <TextUnit id="141" loc="30.1">Θεσσαλικὲ Κλεόνικε τάλαν, τάλαν, οὐ μὰ τὸν ὀξύν</TextUnit>
+    <TextUnit id="142" loc="30.2">ἥλιον, οὐκ ἔγνων: σχέτλιε ποῦ γέγονας;</TextUnit>
+    <TextUnit id="143" loc="30.3">ὀστέα σοὶ καὶ μοῦνον ἔτι τρίχες: ἦ ῥά σε δαίμων</TextUnit>
+    <TextUnit id="144" loc="30.4">οὑμὸς ἔχει, χαλεπῆι δ' ἤντεο θευμορίηι;</TextUnit>
+    <TextUnit id="145" loc="30.5">ἔγνων̀: Εὐξίθεός σε συνήρπασε, καὶ σὺ γὰρ ἐλθών</TextUnit>
+    <TextUnit id="146" loc="30.6">τὸν καλόν, ὦ μοχθήρ', ἔβλεπες ἀμφοτέροις.</TextUnit>
+    <TextUnit id="147" loc="31.1">̔Ωγρευτὴς ̓Επίκυδες ἐν οὔρεσι πάντα λαγωόν</TextUnit>
+    <TextUnit id="148" loc="31.2">διφᾶι καὶ πάσης ἴχνια δορκαλίδος</TextUnit>
+    <TextUnit id="149" loc="31.3">στείβηι καὶ νιφετῶι κεχαρημένος, ἢν δέ τις εἴπηι</TextUnit>
+    <TextUnit id="150" loc="31.4">'τῆ, τόδε βέβληται θηρίον' οὐκ ἔλαβεν.</TextUnit>
+    <TextUnit id="151" loc="31.5">χοὐμὸς ἔρως τοιόσδε: τὰ γὰρ φεύγοντα διώκειν</TextUnit>
+    <TextUnit id="152" loc="31.6">οἶδε, τὰ δ' ἐν μέσσωι κείμενα παρπέτεται.</TextUnit>
+    <TextUnit id="153" loc="32.1">οἶδ' ὅτι μου πλούτου κενεαὶ χέρες, ἀλλὰ Μένιππε</TextUnit>
+    <TextUnit id="154" loc="32.2">μὴ λέγε πρὸς Χαρίτων τοὐμὸν ὄνειρον ἐμοί.</TextUnit>
+    <TextUnit id="155" loc="32.3">ἀλγέω τὴν διὰ παντὸς ἔπος τόδε πικρὸν ἀκούων:</TextUnit>
+    <TextUnit id="156" loc="32.4">ναὶ φίλε, τῶν παρὰ σοῦ τοῦτ' ἀνεραστότατον.</TextUnit>
+    <TextUnit id="157" loc="33.1">̓́Αρτεμι τὶν τόδ' ἄγαλμα Φιληρατὶς εἵσατο τῆιδε:</TextUnit>
+    <TextUnit id="158" loc="33.2">ἀλλὰ σὺ μὲν δέξαι πότνια, τὴν δὲ σάω.</TextUnit>
+    <TextUnit id="159" loc="34.1">τίν με λεοντάγχ' ὦνα συοκτόνε φήγινον ὄζον</TextUnit>
+    <TextUnit id="160" loc="34.2">θῆκε 'τίς'; ̓Αρχῖνος 'ποῖος'; ὁ Κρής 'δέχομαι'.</TextUnit>
+    <TextUnit id="161" loc="35.1">Βαττιάδεω παρὰ σῆμα φέρεις πόδας εὖ μὲν ἀοιδήν</TextUnit>
+    <TextUnit id="162" loc="35.2">εἰδότος, εὖ δ' οἴνωι καίρια συγγελάσαι.</TextUnit>
+    <TextUnit id="163" loc="37.1">ὁ Λύκτιος Μενοίτας</TextUnit>
+    <TextUnit id="164" loc="37.2">τὰ τόξα ταῦτ' ἐπειπών</TextUnit>
+    <TextUnit id="165" loc="37.3">ἔθηκε 'τῆ, κέρας τοι</TextUnit>
+    <TextUnit id="166" loc="37.4">δίδωμι καὶ φαρέτρην</TextUnit>
+    <TextUnit id="167" loc="37.5">Σάραπι: τοὺς δ' ὀιστούς</TextUnit>
+    <TextUnit id="168" loc="37.6">ἔχουσιν 'Εσπερῖται'.</TextUnit>
+    <TextUnit id="169" loc="38.1">τὰ δῶρα τἀφροδίτηι</TextUnit>
+    <TextUnit id="170" loc="38.2">Σῖμον ἡ περίφοιτος, εἰκόν' αὑτῆς,</TextUnit>
+    <TextUnit id="171" loc="38.3">ἔθηκε, τήν τε μίτρην</TextUnit>
+    <TextUnit id="172" loc="38.4">† ἡμᾶς τοὺς ἐφίλησε τόν τε πᾶνα</TextUnit>
+    <TextUnit id="173" loc="38.5">† καὶ τοὺς αὐτοὺς ὁρῆι τάλαινα θάρσους.</TextUnit>
+    <TextUnit id="174" loc="39.1">Δήμητρι τῆι Πυλαίηι,</TextUnit>
+    <TextUnit id="175" loc="39.2">τῆι τοῦτον οὑκ Πελασγῶν</TextUnit>
+    <TextUnit id="176" loc="39.3">̓Ακρίσιος τὸν νηὸν ἐδείματο, ταῦθ' ὁ Ναυκρατίτης</TextUnit>
+    <TextUnit id="177" loc="39.4">καὶ τῆι κάτω θυγατρί</TextUnit>
+    <TextUnit id="178" loc="39.5">τὰ δῶρα Τιμόδημος</TextUnit>
+    <TextUnit id="179" loc="39.6">εἵσατο τῶν κερδέων δεκατεύματα: καὶ γὰρ εὔξαθ' οὕτως.</TextUnit>
+    <TextUnit id="180" loc="40.1">̔Ιερέη Δήμητρος ἐγώ ποτε καὶ πάλιν Καβείρων,</TextUnit>
+    <TextUnit id="181" loc="40.2">ὦνερ, καὶ μετέπειτα Δινδυμήνης</TextUnit>
+    <TextUnit id="182" loc="40.3">ἡ γρῆυς γενόμην, ἡ νῦν κόνις, ἡ Νο</TextUnit>
+    <TextUnit id="183" loc="40.4">πολλῶν προστασίη νέων γυναικῶν.</TextUnit>
+    <TextUnit id="184" loc="40.5">καί μοι τέχν' ἐγένοντο δύ' ἄρσενα, κἠπέμυς' ἐκείνων</TextUnit>
+    <TextUnit id="185" loc="40.6">εὐγήρως ἐνὶ χερσίν: ἕρπε χαίρων.</TextUnit>
+    <TextUnit id="186" loc="41.1">ἥμισύ μευ ψυχῆς ἔτι τὸ πνέον, ἥμισυ δ' οὐκ οἶδ'</TextUnit>
+    <TextUnit id="187" loc="41.2">εἴτ' ̓́Ερος εἴτ' ̓Αίδης ἥρπασε, πλὴν ἀφανές.</TextUnit>
+    <TextUnit id="188" loc="41.3">ἦ ῥά τιν' ἐς παίδων πάλιν ὤιχετο; καὶ μὲν ἀπεῖπον</TextUnit>
+    <TextUnit id="189" loc="41.4">πολλάκι 'τὴν δρῆστιν μὴ ὑποδέχεσθε νέοι'.</TextUnit>
+    <TextUnit id="190" loc="41.5">† ουκισυνιφησον: ἐκεῖσε γὰρ ἡ λιθόλευστος</TextUnit>
+    <TextUnit id="191" loc="41.6">κείνη καὶ δύσερως οἶδ' ὅτι που στρέφεται.</TextUnit>
+    <TextUnit id="192" loc="42.1">εἰ μὲν ἑκὼν ̓Αρχῖν' ἐπεκώμασα, μυρία μέμφου,</TextUnit>
+    <TextUnit id="193" loc="42.2">εἰ δ' ἄκων ἥκω, τὴν προπέτειαν ἔα.</TextUnit>
+    <TextUnit id="194" loc="42.3">Ακρητος καὶ ̓́Ερως μ' ἠνάγκασαν, ὧν ὃ μὲν αὐτῶν</TextUnit>
+    <TextUnit id="195" loc="42.4">εἷλκεν, ὃ δ' οὐκ εἴα τὴν προπέτειαν ἐᾶν.</TextUnit>
+    <TextUnit id="196" loc="42.5">ἐλθὼν δ' οὐκ ἐβόησα, τίς ἢ τίνος, ἀλλ' ἐφίλησα</TextUnit>
+    <TextUnit id="197" loc="42.6">τὴν φλιήν: εἰ τοῦτ' ἔστ' ἀδίκημ', ἀδικέω.</TextUnit>
+    <TextUnit id="198" loc="43.1">έλκος ἔχων ὁ ξεῖνος ἐλάνθανεν: ὡς ἀνιηρόν</TextUnit>
+    <TextUnit id="199" loc="43.2">πνεῦμα διὰ στηθέων （εἶδες;） ἀνηγάγετο,</TextUnit>
+    <TextUnit id="200" loc="43.3">τὸ τρίτον ἡνίκ' ἔπινε, τὰ δὲ ῥόδα φυλλοβολεῦντα</TextUnit>
+    <TextUnit id="201" loc="43.4">τὠνδρὸς ἀπὸ στεφάνων πάντ' ἐγένοντο χαμαί:</TextUnit>
+    <TextUnit id="202" loc="43.5">ὤπτηται μέγα δή τι: μὰ δαίμονας οὐκ ἀπὸ ῥυσμοῦ</TextUnit>
+    <TextUnit id="203" loc="43.6">εἰκάζω, φωρὸς δ' ἴχνια φὼρ ἔμαθον.</TextUnit>
+    <TextUnit id="204" loc="44.1">ἔστι τι ναὶ τὸν Πᾶνα κεκρυμμένον, ἔστι τι ταύτηι</TextUnit>
+    <TextUnit id="205" loc="44.2">ναὶ μὰ Διώνυσον πῦρ ὑπὸ τῆι σποδίηι:</TextUnit>
+    <TextUnit id="206" loc="44.3">οὐ θαρσέω: μὴ δή με περίπλεκε. πολλάκι λήθει</TextUnit>
+    <TextUnit id="207" loc="44.4">τοῖχον ὑποτρώγων ἡσύχιος ποταμός:</TextUnit>
+    <TextUnit id="208" loc="44.5">τῶι καὶ νῦν δείδοικα, Μενέξενε, μή με παρεισδύς</TextUnit>
+    <TextUnit id="209" loc="44.6">οὗτος † ὁσειγαρνης εἰς τὸν ἔρωτα βάληι.</TextUnit>
+    <TextUnit id="210" loc="45.1">'Ληφθήσει, περίφευγε Μενέκρατες' εἶπα Πανήμου</TextUnit>
+    <TextUnit id="211" loc="45.2">εἰκάδι, καὶ Λώιου τῆι τίνι; τῆι δεκάτηι</TextUnit>
+    <TextUnit id="212" loc="45.3">ἦλθεν ὁ βοῦς ὑπ' ἄροτρον ἑκούσιος. εὖ γ', ἐμὸς ̔Ερμῆς,</TextUnit>
+    <TextUnit id="213" loc="45.4">εὖ γ', ἐμός: οὐ παρὰ τὰς εἴκοσι μεμφόμεθα.</TextUnit>
+    <TextUnit id="214" loc="46.1">ως ἀγαθὰν Πολύφαμος ἀνεύρετο τὰν ἐπαοιδάν</TextUnit>
+    <TextUnit id="215" loc="46.2">τὠραμένωι: ναὶ Γᾶν, οὐκ ἀμαθὴς ὁ Κύκλωψ:</TextUnit>
+    <TextUnit id="216" loc="46.3">αἱ Μοῦσαι τὸν ἔρωτα κατισχαίνοντι Φίλιππε:</TextUnit>
+    <TextUnit id="217" loc="46.4">ἦ πανακὲς πάντων φάρμακον ἁ σοφία.</TextUnit>
+    <TextUnit id="218" loc="46.5">τοῦτο, δοκέω, χἀ λιμὸς ἔχει μό͂νον ἐς τὰ πονηρά</TextUnit>
+    <TextUnit id="219" loc="46.6">τὠγαθόν: ἐκκόπτει τὰν φιλόπαιδα νόσον.</TextUnit>
+    <TextUnit id="220" loc="46.7">ἔσθ' ἁμὶν † χἀκαστὰς ἀφείδεα ποττὸν ̓́Ερωτα</TextUnit>
+    <TextUnit id="221" loc="46.8">τοῦτ' εἶπαι 'κείρευ τὰ πτερὰ παιδάριον,</TextUnit>
+    <TextUnit id="222" loc="46.9">οὐδ' ὅσον ἀττάραγόν τυ δεδοίκαμες': αἱ γὰρ ἐπωιδαί</TextUnit>
+    <TextUnit id="223" loc="46.10">οἴκοι τῶ χαλεπῶ τραύματος ἀμφότεραι.</TextUnit>
+    <TextUnit id="224" loc="47.1">τὴν ἁλίην Εὔδημος, ἀφ' ἧς ἅλα λιτὸν ἐπέσθων</TextUnit>
+    <TextUnit id="225" loc="47.2">χειμῶνας μεγάλους ἐξέφυγεν δανέων,</TextUnit>
+    <TextUnit id="226" loc="47.3">θῆκε θεοῖς Σαμόθρηιξι λέγων ὅτι τήνδε κατ' εὐχήν,</TextUnit>
+    <TextUnit id="227" loc="47.4">ὦ μεγάλοι, σωθεὶς ἐξ ἁλὸς ὧδ' ἔθετο.</TextUnit>
+    <TextUnit id="228" loc="48.1">Εὐμαθίην ἠιτεῖτο διδοὺς ἐμὲ Σῖμος ὁ Μίκκου</TextUnit>
+    <TextUnit id="229" loc="48.2">ταῖς Μούσαις: αἳ δὲ Γλαῦκος ὅκως ἔδοσαν</TextUnit>
+    <TextUnit id="230" loc="48.3">ἀντ' ὀλίγου μέγα δῶρον. ἐγὼ δ' ἀνὰ τῆιδε κεχηνώς</TextUnit>
+    <TextUnit id="231" loc="48.4">κεῖμαι τοῦ Σαμίου διπλόον ὁ τραγικός</TextUnit>
+    <TextUnit id="232" loc="48.5">παιδαρίων Διόνυσος ἐπήκοος: οἳ δὲ λέγουσιν</TextUnit>
+    <TextUnit id="233" loc="48.6">'ἱερὸς δ̔ πλόκαμος' τοὐμὸν ὄνειαρ ἐμοί.</TextUnit>
+    <TextUnit id="234" loc="49.1">τῆς ̓Αγοράνακτός με λέγε ξένε κωμικὸν ὄντως</TextUnit>
+    <TextUnit id="235" loc="49.2">ἀγκεῖσθαι νίκης μάρτυρα τοῦ ̔Ροδίου</TextUnit>
+    <TextUnit id="236" loc="49.3">Πάμφιλον, οὐ μὲν ἔρωτι δεδαγμένον, ἥμισυ δ' ὀπτῆι</TextUnit>
+    <TextUnit id="237" loc="49.4">ἰσχάδι καὶ λύχνοις ̓́Ισιδος εἰδόμενον.</TextUnit>
+    <TextUnit id="238" loc="50.1">τὴν Φρυγίην Αἴσχρην, ἀγαθὸν γάλα, πᾶσιν ἐν ἐσθλοῖς</TextUnit>
+    <TextUnit id="239" loc="50.2">Μίκκος καὶ ζωὴν οὖσαν ἐγηροκόμει</TextUnit>
+    <TextUnit id="240" loc="50.3">καὶ φθιμένην ἀνέθηκεν, ἐπεσσομένοισιν ὁρᾶσθαι,</TextUnit>
+    <TextUnit id="241" loc="50.4">ἡ γρῆυς μαστῶν ὡς ἀπέχει χάριτας.</TextUnit>
+    <TextUnit id="242" loc="51.1">τέσσαρες αἱ Χάριτες, ποτὶ γὰρ μία ταῖς τρισὶ τήναις</TextUnit>
+    <TextUnit id="243" loc="51.2">ἄρτι ποτεπλάσθη κἤτι μύροισι νοτεῖ.</TextUnit>
+    <TextUnit id="244" loc="51.3">εὐαίων ἐν πᾶσιν ἀρίζαλος Βερενίκα,</TextUnit>
+    <TextUnit id="245" loc="51.4">ἇς ἄτερ οὐδ' αὐταὶ ταὶ Χάριτες Χάριτες.</TextUnit>
+    <TextUnit id="246" loc="52.1">τὸν τὸ καλὸν μελανεῦντα Θεόκριτον, εἰ μὲν ἔμ' ἔχθει,</TextUnit>
+    <TextUnit id="247" loc="52.2">τετράκι μισοίης, εἰ δὲ φιλεῖ, φιλέοις:</TextUnit>
+    <TextUnit id="248" loc="52.3">ναιχὶ πρὸς εὐχαίτεω Γανυμήδεος, οὐράνιε Ζεῦ:</TextUnit>
+    <TextUnit id="249" loc="52.4">καὶ σύ ποτ' ἠράσθης — οὐκέτι μακρὰ λέγω.</TextUnit>
+    <TextUnit id="250" loc="53.1">καὶ πάλιν Εἰλήθυια Λυκαινίδος ἐλθὲ καλεύσης</TextUnit>
+    <TextUnit id="251" loc="53.2">εὔλοχος ὠδίνων ὧδε σὺν εὐτοκίηι,</TextUnit>
+    <TextUnit id="252" loc="53.3">ὡς τόδε νῦν μέν, ἄνασσα, κόρης ὕπερ, ἀντὶ δὲ παιδός</TextUnit>
+    <TextUnit id="253" loc="53.4">ὕστερον εὐώδης ἄλλο τι νηὸς ἔχοι.</TextUnit>
+    <TextUnit id="254" loc="54.1">τὸ χρέος ὡς ἀπέχεις ̓Ασκλήπιε, τὸ πρὸ γυναικός</TextUnit>
+    <TextUnit id="255" loc="54.2">Δημοδίκης ̓Ακέσων ὤφελεν εὐξάμενος,</TextUnit>
+    <TextUnit id="256" loc="54.3">γινώσκειν, ἤν δ' ἆρα λάθηι καί † μιν ἀπαιτῆις,</TextUnit>
+    <TextUnit id="257" loc="54.4">φησὶ παρέξεσθαι μαετυρίην ὁ πίναξ.</TextUnit>
+    <TextUnit id="258" loc="55.1">τῶι με Κανωπίται Καλλίστιον εἴκοσι μύξαις</TextUnit>
+    <TextUnit id="259" loc="55.2">πλούσιον ἁ Κριτίου λύχνον ἔθηκε θεῶι</TextUnit>
+    <TextUnit id="260" loc="55.3">εὐξαμένα περὶ παιδὸς ̓Απελλίδος: ἐς δ' ἐμὰ φέγγη</TextUnit>
+    <TextUnit id="261" loc="55.4">ἀθρήσας φάσεις '̔́Εσπερε πῶς ἔπεσες'.</TextUnit>
+    <TextUnit id="262" loc="56.1">φησὶν ὅ με στήσας Εὐαίνετος （οὐ γὰρ ἔγωγε</TextUnit>
+    <TextUnit id="263" loc="56.2">γινώσκω） νίκης ἀννί με τῆς ἰδίης</TextUnit>
+    <TextUnit id="264" loc="56.3">ἀγκεῖσθαι χάλκειον ἀλέκτορα Τυνδαρίδηισι:</TextUnit>
+    <TextUnit id="265" loc="56.4">πιστεύω Φαίδρου παιδὶ Φιλοξενίδεω.</TextUnit>
+    <TextUnit id="266" loc="57.1">̓Ιναχίης ἕστηκεν ἐν ̓́Ισιδος ἡ Θάλεω παῖς</TextUnit>
+    <TextUnit id="267" loc="57.2">Αἰσχυλὶς Εἰρήνης μητρὸς ὑποσχεσίηι.</TextUnit>
+    <TextUnit id="268" loc="58.1">τίς, ξένος ὦ ναυηγέ; Λεόντιχος ἐνθ:άδε νεκρόν</TextUnit>
+    <TextUnit id="269" loc="58.2">εὗρέ ς' ἐπ' αἰγιαλοῦ χῶσέ τε τῶιδε τάφωι</TextUnit>
+    <TextUnit id="270" loc="58.3">δακρύσας ἐπίκηρον ἑὸν βίον: οὐδὲ γὰρ αὐτός</TextUnit>
+    <TextUnit id="271" loc="58.4">ἥσυχον, αἰθυίηι δ' ἶσα θαλασσοπορεῖ.</TextUnit>
+    <TextUnit id="272" loc="59.1">εὐδαίμων ὅτι τἄλλα μανεὶς ὡρχαῖος ̓Ορέστας,</TextUnit>
+    <TextUnit id="273" loc="59.2">† λευκαρετανμαν οὐκ ἐμάνη μανίαν</TextUnit>
+    <TextUnit id="274" loc="59.3">οὐδ' ἔλαβ' ἐξέτασιν τῶ Φωκέος ἅτις ἐλέγχει</TextUnit>
+    <TextUnit id="275" loc="59.4">τὸν φίλον, † ἀλλαιχ' ἓν δρᾶμ' ἐδίδαξε μόνον:</TextUnit>
+    <TextUnit id="276" loc="59.5">ἦ τάχα κα τὸν ἑταῖρον ἀπώλεσε τοῦτο ποήσας —</TextUnit>
+    <TextUnit id="277" loc="59.6">κἠγὼ τὼς πολλὼς οὐκέτ' ἔχω Πυλάδας.</TextUnit>
+    <TextUnit id="278" loc="60.1">οἵτινες ̓Αλείοιο παρέρπετε σῆμα Κίμωνος,</TextUnit>
+    <TextUnit id="279" loc="60.2">ἴστε τὸν ̔Ιππαίου παῖδα παρερχόμενοι.</TextUnit>
+    <TextUnit id="280" loc="61.1">Αἴνιε, καὶ σὺ γὰρ ὧδε, Μενέκρατες, οὐκ ἐπὶ πουλύ</TextUnit>
+    <TextUnit id="281" loc="61.2">ἦσθα: τί δέ, ξείνων λῶιστε, κατειργάσατο;</TextUnit>
+    <TextUnit id="282" loc="61.3">ἦ ῥα τὸ καὶ Κένταυρον; 'ὅ μοι πεπρωμένος ὕπνος</TextUnit>
+    <TextUnit id="283" loc="61.4">ἦλθεν, ὁ δὲ τλήμων οἶνος ἔχει πρόφασιν'.</TextUnit>
+    <TextUnit id="284" loc="62.1">Κυνθιάδες θαρσεῖτε, τὰ γὰρ τοῦ Κρητὸς ̓Εχέμμα</TextUnit>
+    <TextUnit id="285" loc="62.2">κεῖται ἐν ̓Ορτυγίηι τόξα παρ' ̓Αρτέμιδι,</TextUnit>
+    <TextUnit id="286" loc="62.3">οἷς ὑμέων ἐκένωσεν ὄρος μέγα: νῦν δὲ πέπαυται,</TextUnit>
+    <TextUnit id="287" loc="62.4">αἶγες, ἐπεὶ σπονδὰς ἡ θεὸς εἰργάσατο.</TextUnit>
+    <TextUnit id="288" loc="63.1">οὕτως ὑπνώσαις Κωνώπιον, ὡς ἐμὲ ποιεῖς</TextUnit>
+    <TextUnit id="289" loc="63.2">κοιμᾶσθαι ψυχροῖς τοῖσδε παρὰ προθύροις.</TextUnit>
+    <TextUnit id="290" loc="63.3">οὕτως ὑπνώσαις ἀδικωτάτη, ὡς τὸν ἐραστήν</TextUnit>
+    <TextUnit id="291" loc="63.4">κοιμίζεις, ἐλέου δ' οὐδ' ὄναρ ἠντίασας.</TextUnit>
+    <TextUnit id="292" loc="63.5">γείτονες οἰκτείρουσι, σὺ δ' οὐδ' ὄναρ. ἡ πολιὴ δέ</TextUnit>
+    <TextUnit id="293" loc="63.6">αὐτίκ' ἀναμνήσει ταῦτά σε πάντα κόμη.</TextUnit>
+  </Text>
+</TessDocument>

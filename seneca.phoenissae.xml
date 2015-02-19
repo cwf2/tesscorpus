@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="seneca.phoenissae">
+  <Metadata>
+    <Author>seneca</Author>
+    <Display>Phoenissae</Display>
+    <Abbr>sen. phoen.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>L. Annaeus Seneca. Tragoediae. Rudolf Peiper. Gustav Richter. Leipzig. Teubner. 1921.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2007.01.0009</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:phi1017.phi003.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 0-4</Display><MaskLower>0</MaskLower><MaskUpper>4</MaskUpper><LocusLower>0-4</LocusLower><LocusUpper>0-4</LocusUpper></Part><Part id="2"><Display>Book 5-9</Display><MaskLower>5</MaskLower><MaskUpper>9</MaskUpper><LocusLower>5-9</LocusLower><LocusUpper>5-9</LocusUpper></Part><Part id="3"><Display>Book 10-4</Display><MaskLower>10</MaskLower><MaskUpper>14</MaskUpper><LocusLower>10-4</LocusLower><LocusUpper>10-4</LocusUpper></Part><Part id="4"><Display>Book 15-9</Display><MaskLower>15</MaskLower><MaskUpper>19</MaskUpper><LocusLower>15-9</LocusLower><LocusUpper>15-9</LocusUpper></Part><Part id="5"><Display>Book 20-4</Display><MaskLower>20</MaskLower><MaskUpper>24</MaskUpper><LocusLower>20-4</LocusLower><LocusUpper>20-4</LocusUpper></Part><Part id="6"><Display>Book 25-9</Display><MaskLower>25</MaskLower><MaskUpper>29</MaskUpper><LocusLower>25-9</LocusLower><LocusUpper>25-9</LocusUpper></Part><Part id="7"><Display>Book 30-4</Display><MaskLower>30</MaskLower><MaskUpper>34</MaskUpper><LocusLower>30-4</LocusLower><LocusUpper>30-4</LocusUpper></Part><Part id="8"><Display>Book 35-9</Display><MaskLower>35</MaskLower><MaskUpper>39</MaskUpper><LocusLower>35-9</LocusLower><LocusUpper>35-9</LocusUpper></Part><Part id="9"><Display>Book 40-4</Display><MaskLower>40</MaskLower><MaskUpper>44</MaskUpper><LocusLower>40-4</LocusLower><LocusUpper>40-4</LocusUpper></Part><Part id="10"><Display>Book 45-9</Display><MaskLower>45</MaskLower><MaskUpper>49</MaskUpper><LocusLower>45-9</LocusLower><LocusUpper>45-9</LocusUpper></Part><Part id="11"><Display>Book 50-4</Display><MaskLower>50</MaskLower><MaskUpper>54</MaskUpper><LocusLower>50-4</LocusLower><LocusUpper>50-4</LocusUpper></Part><Part id="12"><Display>Book 55-9</Display><MaskLower>55</MaskLower><MaskUpper>59</MaskUpper><LocusLower>55-9</LocusLower><LocusUpper>55-9</LocusUpper></Part><Part id="13"><Display>Book 60-4</Display><MaskLower>60</MaskLower><MaskUpper>64</MaskUpper><LocusLower>60-4</LocusLower><LocusUpper>60-4</LocusUpper></Part><Part id="14"><Display>Book 65-9</Display><MaskLower>65</MaskLower><MaskUpper>69</MaskUpper><LocusLower>65-9</LocusLower><LocusUpper>65-9</LocusUpper></Part><Part id="15"><Display>Book 70-4</Display><MaskLower>70</MaskLower><MaskUpper>74</MaskUpper><LocusLower>70-4</LocusLower><LocusUpper>70-4</LocusUpper></Part><Part id="16"><Display>Book 75-9</Display><MaskLower>75</MaskLower><MaskUpper>79</MaskUpper><LocusLower>75-9</LocusLower><LocusUpper>75-9</LocusUpper></Part><Part id="17"><Display>Book 80-4</Display><MaskLower>80</MaskLower><MaskUpper>84</MaskUpper><LocusLower>80-4</LocusLower><LocusUpper>80-4</LocusUpper></Part><Part id="18"><Display>Book 85-9</Display><MaskLower>85</MaskLower><MaskUpper>89</MaskUpper><LocusLower>85-9</LocusLower><LocusUpper>85-9</LocusUpper></Part><Part id="19"><Display>Book 90-4</Display><MaskLower>90</MaskLower><MaskUpper>94</MaskUpper><LocusLower>90-4</LocusLower><LocusUpper>90-4</LocusUpper></Part><Part id="20"><Display>Book 95-9</Display><MaskLower>95</MaskLower><MaskUpper>100</MaskUpper><LocusLower>95-9</LocusLower><LocusUpper>95-9</LocusUpper></Part><Part id="21"><Display>Book 100-4</Display><MaskLower>101</MaskLower><MaskUpper>104</MaskUpper><LocusLower>100-4</LocusLower><LocusUpper>100-4</LocusUpper></Part><Part id="22"><Display>Book 105-9</Display><MaskLower>105</MaskLower><MaskUpper>109</MaskUpper><LocusLower>105-9</LocusLower><LocusUpper>105-9</LocusUpper></Part><Part id="23"><Display>Book 110-4</Display><MaskLower>110</MaskLower><MaskUpper>114</MaskUpper><LocusLower>110-4</LocusLower><LocusUpper>110-4</LocusUpper></Part><Part id="24"><Display>Book 115-9</Display><MaskLower>115</MaskLower><MaskUpper>119</MaskUpper><LocusLower>115-9</LocusLower><LocusUpper>115-9</LocusUpper></Part><Part id="25"><Display>Book 120-4</Display><MaskLower>120</MaskLower><MaskUpper>124</MaskUpper><LocusLower>120-4</LocusLower><LocusUpper>120-4</LocusUpper></Part><Part id="26"><Display>Book 125-9</Display><MaskLower>125</MaskLower><MaskUpper>129</MaskUpper><LocusLower>125-9</LocusLower><LocusUpper>125-9</LocusUpper></Part><Part id="27"><Display>Book 130-4</Display><MaskLower>130</MaskLower><MaskUpper>134</MaskUpper><LocusLower>130-4</LocusLower><LocusUpper>130-4</LocusUpper></Part><Part id="28"><Display>Book 135-9</Display><MaskLower>135</MaskLower><MaskUpper>140</MaskUpper><LocusLower>135-9</LocusLower><LocusUpper>135-9</LocusUpper></Part><Part id="29"><Display>Book 140-4</Display><MaskLower>141</MaskLower><MaskUpper>145</MaskUpper><LocusLower>140-4</LocusLower><LocusUpper>140-4</LocusUpper></Part><Part id="30"><Display>Book 145-9</Display><MaskLower>146</MaskLower><MaskUpper>150</MaskUpper><LocusLower>145-9</LocusLower><LocusUpper>145-9</LocusUpper></Part><Part id="31"><Display>Book 150-4</Display><MaskLower>151</MaskLower><MaskUpper>155</MaskUpper><LocusLower>150-4</LocusLower><LocusUpper>150-4</LocusUpper></Part><Part id="32"><Display>Book 155-9</Display><MaskLower>156</MaskLower><MaskUpper>160</MaskUpper><LocusLower>155-9</LocusLower><LocusUpper>155-9</LocusUpper></Part><Part id="33"><Display>Book 160-4</Display><MaskLower>161</MaskLower><MaskUpper>165</MaskUpper><LocusLower>160-4</LocusLower><LocusUpper>160-4</LocusUpper></Part><Part id="34"><Display>Book 165-9</Display><MaskLower>166</MaskLower><MaskUpper>170</MaskUpper><LocusLower>165-9</LocusLower><LocusUpper>165-9</LocusUpper></Part><Part id="35"><Display>Book 170-4</Display><MaskLower>171</MaskLower><MaskUpper>175</MaskUpper><LocusLower>170-4</LocusLower><LocusUpper>170-4</LocusUpper></Part><Part id="36"><Display>Book 175-9</Display><MaskLower>176</MaskLower><MaskUpper>180</MaskUpper><LocusLower>175-9</LocusLower><LocusUpper>175-9</LocusUpper></Part><Part id="37"><Display>Book 180-4</Display><MaskLower>181</MaskLower><MaskUpper>185</MaskUpper><LocusLower>180-4</LocusLower><LocusUpper>180-4</LocusUpper></Part><Part id="38"><Display>Book 185-9</Display><MaskLower>186</MaskLower><MaskUpper>190</MaskUpper><LocusLower>185-9</LocusLower><LocusUpper>185-9</LocusUpper></Part><Part id="39"><Display>Book 190-4</Display><MaskLower>191</MaskLower><MaskUpper>195</MaskUpper><LocusLower>190-4</LocusLower><LocusUpper>190-4</LocusUpper></Part><Part id="40"><Display>Book 195-9</Display><MaskLower>196</MaskLower><MaskUpper>200</MaskUpper><LocusLower>195-9</LocusLower><LocusUpper>195-9</LocusUpper></Part><Part id="41"><Display>Book 200-4</Display><MaskLower>201</MaskLower><MaskUpper>205</MaskUpper><LocusLower>200-4</LocusLower><LocusUpper>200-4</LocusUpper></Part><Part id="42"><Display>Book 205-9</Display><MaskLower>206</MaskLower><MaskUpper>210</MaskUpper><LocusLower>205-9</LocusLower><LocusUpper>205-9</LocusUpper></Part><Part id="43"><Display>Book 210-4</Display><MaskLower>211</MaskLower><MaskUpper>215</MaskUpper><LocusLower>210-4</LocusLower><LocusUpper>210-4</LocusUpper></Part><Part id="44"><Display>Book 215-9</Display><MaskLower>216</MaskLower><MaskUpper>220</MaskUpper><LocusLower>215-9</LocusLower><LocusUpper>215-9</LocusUpper></Part><Part id="45"><Display>Book 220-4</Display><MaskLower>221</MaskLower><MaskUpper>225</MaskUpper><LocusLower>220-4</LocusLower><LocusUpper>220-4</LocusUpper></Part><Part id="46"><Display>Book 225-9</Display><MaskLower>226</MaskLower><MaskUpper>230</MaskUpper><LocusLower>225-9</LocusLower><LocusUpper>225-9</LocusUpper></Part><Part id="47"><Display>Book 230-4</Display><MaskLower>231</MaskLower><MaskUpper>235</MaskUpper><LocusLower>230-4</LocusLower><LocusUpper>230-4</LocusUpper></Part><Part id="48"><Display>Book 235-9</Display><MaskLower>236</MaskLower><MaskUpper>240</MaskUpper><LocusLower>235-9</LocusLower><LocusUpper>235-9</LocusUpper></Part><Part id="49"><Display>Book 240-4</Display><MaskLower>241</MaskLower><MaskUpper>245</MaskUpper><LocusLower>240-4</LocusLower><LocusUpper>240-4</LocusUpper></Part><Part id="50"><Display>Book 245-9</Display><MaskLower>246</MaskLower><MaskUpper>250</MaskUpper><LocusLower>245-9</LocusLower><LocusUpper>245-9</LocusUpper></Part><Part id="51"><Display>Book 250-4</Display><MaskLower>251</MaskLower><MaskUpper>255</MaskUpper><LocusLower>250-4</LocusLower><LocusUpper>250-4</LocusUpper></Part><Part id="52"><Display>Book 255-9</Display><MaskLower>256</MaskLower><MaskUpper>260</MaskUpper><LocusLower>255-9</LocusLower><LocusUpper>255-9</LocusUpper></Part><Part id="53"><Display>Book 260-4</Display><MaskLower>261</MaskLower><MaskUpper>265</MaskUpper><LocusLower>260-4</LocusLower><LocusUpper>260-4</LocusUpper></Part><Part id="54"><Display>Book 265-9</Display><MaskLower>266</MaskLower><MaskUpper>270</MaskUpper><LocusLower>265-9</LocusLower><LocusUpper>265-9</LocusUpper></Part><Part id="55"><Display>Book 270-4</Display><MaskLower>271</MaskLower><MaskUpper>275</MaskUpper><LocusLower>270-4</LocusLower><LocusUpper>270-4</LocusUpper></Part><Part id="56"><Display>Book 275-9</Display><MaskLower>276</MaskLower><MaskUpper>280</MaskUpper><LocusLower>275-9</LocusLower><LocusUpper>275-9</LocusUpper></Part><Part id="57"><Display>Book 280-4</Display><MaskLower>281</MaskLower><MaskUpper>285</MaskUpper><LocusLower>280-4</LocusLower><LocusUpper>280-4</LocusUpper></Part><Part id="58"><Display>Book 285-9</Display><MaskLower>286</MaskLower><MaskUpper>290</MaskUpper><LocusLower>285-9</LocusLower><LocusUpper>285-9</LocusUpper></Part><Part id="59"><Display>Book 290-4</Display><MaskLower>291</MaskLower><MaskUpper>295</MaskUpper><LocusLower>290-4</LocusLower><LocusUpper>290-4</LocusUpper></Part><Part id="60"><Display>Book 295-9</Display><MaskLower>296</MaskLower><MaskUpper>300</MaskUpper><LocusLower>295-9</LocusLower><LocusUpper>295-9</LocusUpper></Part><Part id="61"><Display>Book 300-4</Display><MaskLower>301</MaskLower><MaskUpper>305</MaskUpper><LocusLower>300-4</LocusLower><LocusUpper>300-4</LocusUpper></Part><Part id="62"><Display>Book 305-9</Display><MaskLower>306</MaskLower><MaskUpper>310</MaskUpper><LocusLower>305-9</LocusLower><LocusUpper>305-9</LocusUpper></Part><Part id="63"><Display>Book 310-4</Display><MaskLower>311</MaskLower><MaskUpper>315</MaskUpper><LocusLower>310-4</LocusLower><LocusUpper>310-4</LocusUpper></Part><Part id="64"><Display>Book 315-9</Display><MaskLower>316</MaskLower><MaskUpper>320</MaskUpper><LocusLower>315-9</LocusLower><LocusUpper>315-9</LocusUpper></Part><Part id="65"><Display>Book 320-4</Display><MaskLower>321</MaskLower><MaskUpper>325</MaskUpper><LocusLower>320-4</LocusLower><LocusUpper>320-4</LocusUpper></Part><Part id="66"><Display>Book 325-9</Display><MaskLower>326</MaskLower><MaskUpper>330</MaskUpper><LocusLower>325-9</LocusLower><LocusUpper>325-9</LocusUpper></Part><Part id="67"><Display>Book 330-4</Display><MaskLower>331</MaskLower><MaskUpper>335</MaskUpper><LocusLower>330-4</LocusLower><LocusUpper>330-4</LocusUpper></Part><Part id="68"><Display>Book 335-9</Display><MaskLower>336</MaskLower><MaskUpper>340</MaskUpper><LocusLower>335-9</LocusLower><LocusUpper>335-9</LocusUpper></Part><Part id="69"><Display>Book 340-4</Display><MaskLower>341</MaskLower><MaskUpper>345</MaskUpper><LocusLower>340-4</LocusLower><LocusUpper>340-4</LocusUpper></Part><Part id="70"><Display>Book 345-9</Display><MaskLower>346</MaskLower><MaskUpper>351</MaskUpper><LocusLower>345-9</LocusLower><LocusUpper>345-9</LocusUpper></Part><Part id="71"><Display>Book 350-4</Display><MaskLower>352</MaskLower><MaskUpper>356</MaskUpper><LocusLower>350-4</LocusLower><LocusUpper>350-4</LocusUpper></Part><Part id="72"><Display>Book 355-9</Display><MaskLower>357</MaskLower><MaskUpper>361</MaskUpper><LocusLower>355-9</LocusLower><LocusUpper>355-9</LocusUpper></Part><Part id="73"><Display>Book 360-4</Display><MaskLower>362</MaskLower><MaskUpper>367</MaskUpper><LocusLower>360-4</LocusLower><LocusUpper>360-4</LocusUpper></Part><Part id="74"><Display>Book 365-9</Display><MaskLower>368</MaskLower><MaskUpper>372</MaskUpper><LocusLower>365-9</LocusLower><LocusUpper>365-9</LocusUpper></Part><Part id="75"><Display>Book 370-4</Display><MaskLower>373</MaskLower><MaskUpper>377</MaskUpper><LocusLower>370-4</LocusLower><LocusUpper>370-4</LocusUpper></Part><Part id="76"><Display>Book 375-9</Display><MaskLower>378</MaskLower><MaskUpper>382</MaskUpper><LocusLower>375-9</LocusLower><LocusUpper>375-9</LocusUpper></Part><Part id="77"><Display>Book 380-4</Display><MaskLower>383</MaskLower><MaskUpper>387</MaskUpper><LocusLower>380-4</LocusLower><LocusUpper>380-4</LocusUpper></Part><Part id="78"><Display>Book 385-9</Display><MaskLower>388</MaskLower><MaskUpper>392</MaskUpper><LocusLower>385-9</LocusLower><LocusUpper>385-9</LocusUpper></Part><Part id="79"><Display>Book 390-4</Display><MaskLower>393</MaskLower><MaskUpper>397</MaskUpper><LocusLower>390-4</LocusLower><LocusUpper>390-4</LocusUpper></Part><Part id="80"><Display>Book 395-9</Display><MaskLower>398</MaskLower><MaskUpper>402</MaskUpper><LocusLower>395-9</LocusLower><LocusUpper>395-9</LocusUpper></Part><Part id="81"><Display>Book 400-4</Display><MaskLower>403</MaskLower><MaskUpper>407</MaskUpper><LocusLower>400-4</LocusLower><LocusUpper>400-4</LocusUpper></Part><Part id="82"><Display>Book 405-9</Display><MaskLower>408</MaskLower><MaskUpper>412</MaskUpper><LocusLower>405-9</LocusLower><LocusUpper>405-9</LocusUpper></Part><Part id="83"><Display>Book 410-4</Display><MaskLower>413</MaskLower><MaskUpper>418</MaskUpper><LocusLower>410-4</LocusLower><LocusUpper>410-4</LocusUpper></Part><Part id="84"><Display>Book 415-9</Display><MaskLower>419</MaskLower><MaskUpper>423</MaskUpper><LocusLower>415-9</LocusLower><LocusUpper>415-9</LocusUpper></Part><Part id="85"><Display>Book 420-4</Display><MaskLower>424</MaskLower><MaskUpper>428</MaskUpper><LocusLower>420-4</LocusLower><LocusUpper>420-4</LocusUpper></Part><Part id="86"><Display>Book 425-9</Display><MaskLower>429</MaskLower><MaskUpper>433</MaskUpper><LocusLower>425-9</LocusLower><LocusUpper>425-9</LocusUpper></Part><Part id="87"><Display>Book 430-4</Display><MaskLower>434</MaskLower><MaskUpper>438</MaskUpper><LocusLower>430-4</LocusLower><LocusUpper>430-4</LocusUpper></Part><Part id="88"><Display>Book 435-9</Display><MaskLower>439</MaskLower><MaskUpper>443</MaskUpper><LocusLower>435-9</LocusLower><LocusUpper>435-9</LocusUpper></Part><Part id="89"><Display>Book 440-4</Display><MaskLower>444</MaskLower><MaskUpper>448</MaskUpper><LocusLower>440-4</LocusLower><LocusUpper>440-4</LocusUpper></Part><Part id="90"><Display>Book 445-9</Display><MaskLower>449</MaskLower><MaskUpper>453</MaskUpper><LocusLower>445-9</LocusLower><LocusUpper>445-9</LocusUpper></Part><Part id="91"><Display>Book 450-4</Display><MaskLower>454</MaskLower><MaskUpper>458</MaskUpper><LocusLower>450-4</LocusLower><LocusUpper>450-4</LocusUpper></Part><Part id="92"><Display>Book 455-9</Display><MaskLower>459</MaskLower><MaskUpper>463</MaskUpper><LocusLower>455-9</LocusLower><LocusUpper>455-9</LocusUpper></Part><Part id="93"><Display>Book 460-4</Display><MaskLower>464</MaskLower><MaskUpper>468</MaskUpper><LocusLower>460-4</LocusLower><LocusUpper>460-4</LocusUpper></Part><Part id="94"><Display>Book 465-9</Display><MaskLower>469</MaskLower><MaskUpper>473</MaskUpper><LocusLower>465-9</LocusLower><LocusUpper>465-9</LocusUpper></Part><Part id="95"><Display>Book 470-4</Display><MaskLower>474</MaskLower><MaskUpper>478</MaskUpper><LocusLower>470-4</LocusLower><LocusUpper>470-4</LocusUpper></Part><Part id="96"><Display>Book 475-9</Display><MaskLower>479</MaskLower><MaskUpper>483</MaskUpper><LocusLower>475-9</LocusLower><LocusUpper>475-9</LocusUpper></Part><Part id="97"><Display>Book 480-4</Display><MaskLower>484</MaskLower><MaskUpper>489</MaskUpper><LocusLower>480-4</LocusLower><LocusUpper>480-4</LocusUpper></Part><Part id="98"><Display>Book 485-9</Display><MaskLower>490</MaskLower><MaskUpper>494</MaskUpper><LocusLower>485-9</LocusLower><LocusUpper>485-9</LocusUpper></Part><Part id="99"><Display>Book 490-4</Display><MaskLower>495</MaskLower><MaskUpper>499</MaskUpper><LocusLower>490-4</LocusLower><LocusUpper>490-4</LocusUpper></Part><Part id="100"><Display>Book 495-9</Display><MaskLower>500</MaskLower><MaskUpper>504</MaskUpper><LocusLower>495-9</LocusLower><LocusUpper>495-9</LocusUpper></Part><Part id="101"><Display>Book 500-4</Display><MaskLower>505</MaskLower><MaskUpper>509</MaskUpper><LocusLower>500-4</LocusLower><LocusUpper>500-4</LocusUpper></Part><Part id="102"><Display>Book 505-9</Display><MaskLower>510</MaskLower><MaskUpper>514</MaskUpper><LocusLower>505-9</LocusLower><LocusUpper>505-9</LocusUpper></Part><Part id="103"><Display>Book 510-4</Display><MaskLower>515</MaskLower><MaskUpper>519</MaskUpper><LocusLower>510-4</LocusLower><LocusUpper>510-4</LocusUpper></Part><Part id="104"><Display>Book 515-9</Display><MaskLower>520</MaskLower><MaskUpper>524</MaskUpper><LocusLower>515-9</LocusLower><LocusUpper>515-9</LocusUpper></Part><Part id="105"><Display>Book 520-4</Display><MaskLower>525</MaskLower><MaskUpper>529</MaskUpper><LocusLower>520-4</LocusLower><LocusUpper>520-4</LocusUpper></Part><Part id="106"><Display>Book 525-9</Display><MaskLower>530</MaskLower><MaskUpper>534</MaskUpper><LocusLower>525-9</LocusLower><LocusUpper>525-9</LocusUpper></Part><Part id="107"><Display>Book 530-4</Display><MaskLower>535</MaskLower><MaskUpper>539</MaskUpper><LocusLower>530-4</LocusLower><LocusUpper>530-4</LocusUpper></Part><Part id="108"><Display>Book 535-9</Display><MaskLower>540</MaskLower><MaskUpper>544</MaskUpper><LocusLower>535-9</LocusLower><LocusUpper>535-9</LocusUpper></Part><Part id="109"><Display>Book 540-4</Display><MaskLower>545</MaskLower><MaskUpper>549</MaskUpper><LocusLower>540-4</LocusLower><LocusUpper>540-4</LocusUpper></Part><Part id="110"><Display>Book 545-9</Display><MaskLower>550</MaskLower><MaskUpper>554</MaskUpper><LocusLower>545-9</LocusLower><LocusUpper>545-9</LocusUpper></Part><Part id="111"><Display>Book 550-4</Display><MaskLower>555</MaskLower><MaskUpper>559</MaskUpper><LocusLower>550-4</LocusLower><LocusUpper>550-4</LocusUpper></Part><Part id="112"><Display>Book 555-9</Display><MaskLower>560</MaskLower><MaskUpper>564</MaskUpper><LocusLower>555-9</LocusLower><LocusUpper>555-9</LocusUpper></Part><Part id="113"><Display>Book 560-4</Display><MaskLower>565</MaskLower><MaskUpper>569</MaskUpper><LocusLower>560-4</LocusLower><LocusUpper>560-4</LocusUpper></Part><Part id="114"><Display>Book 565-9</Display><MaskLower>570</MaskLower><MaskUpper>574</MaskUpper><LocusLower>565-9</LocusLower><LocusUpper>565-9</LocusUpper></Part><Part id="115"><Display>Book 570-4</Display><MaskLower>575</MaskLower><MaskUpper>579</MaskUpper><LocusLower>570-4</LocusLower><LocusUpper>570-4</LocusUpper></Part><Part id="116"><Display>Book 575-9</Display><MaskLower>580</MaskLower><MaskUpper>584</MaskUpper><LocusLower>575-9</LocusLower><LocusUpper>575-9</LocusUpper></Part><Part id="117"><Display>Book 580-4</Display><MaskLower>585</MaskLower><MaskUpper>589</MaskUpper><LocusLower>580-4</LocusLower><LocusUpper>580-4</LocusUpper></Part><Part id="118"><Display>Book 585-9</Display><MaskLower>590</MaskLower><MaskUpper>594</MaskUpper><LocusLower>585-9</LocusLower><LocusUpper>585-9</LocusUpper></Part><Part id="119"><Display>Book 590-4</Display><MaskLower>595</MaskLower><MaskUpper>599</MaskUpper><LocusLower>590-4</LocusLower><LocusUpper>590-4</LocusUpper></Part><Part id="120"><Display>Book 595-9</Display><MaskLower>600</MaskLower><MaskUpper>604</MaskUpper><LocusLower>595-9</LocusLower><LocusUpper>595-9</LocusUpper></Part><Part id="121"><Display>Book 600-4</Display><MaskLower>605</MaskLower><MaskUpper>609</MaskUpper><LocusLower>600-4</LocusLower><LocusUpper>600-4</LocusUpper></Part><Part id="122"><Display>Book 605-9</Display><MaskLower>610</MaskLower><MaskUpper>614</MaskUpper><LocusLower>605-9</LocusLower><LocusUpper>605-9</LocusUpper></Part><Part id="123"><Display>Book 610-4</Display><MaskLower>615</MaskLower><MaskUpper>619</MaskUpper><LocusLower>610-4</LocusLower><LocusUpper>610-4</LocusUpper></Part><Part id="124"><Display>Book 615-9</Display><MaskLower>620</MaskLower><MaskUpper>624</MaskUpper><LocusLower>615-9</LocusLower><LocusUpper>615-9</LocusUpper></Part><Part id="125"><Display>Book 620-4</Display><MaskLower>625</MaskLower><MaskUpper>629</MaskUpper><LocusLower>620-4</LocusLower><LocusUpper>620-4</LocusUpper></Part><Part id="126"><Display>Book 625-9</Display><MaskLower>630</MaskLower><MaskUpper>634</MaskUpper><LocusLower>625-9</LocusLower><LocusUpper>625-9</LocusUpper></Part><Part id="127"><Display>Book 630-4</Display><MaskLower>635</MaskLower><MaskUpper>639</MaskUpper><LocusLower>630-4</LocusLower><LocusUpper>630-4</LocusUpper></Part><Part id="128"><Display>Book 635-9</Display><MaskLower>640</MaskLower><MaskUpper>644</MaskUpper><LocusLower>635-9</LocusLower><LocusUpper>635-9</LocusUpper></Part><Part id="129"><Display>Book 640-4</Display><MaskLower>645</MaskLower><MaskUpper>650</MaskUpper><LocusLower>640-4</LocusLower><LocusUpper>640-4</LocusUpper></Part><Part id="130"><Display>Book 645-9</Display><MaskLower>651</MaskLower><MaskUpper>655</MaskUpper><LocusLower>645-9</LocusLower><LocusUpper>645-9</LocusUpper></Part><Part id="131"><Display>Book 650-4</Display><MaskLower>656</MaskLower><MaskUpper>662</MaskUpper><LocusLower>650-4</LocusLower><LocusUpper>650-4</LocusUpper></Part><Part id="132"><Display>Book 655-9</Display><MaskLower>663</MaskLower><MaskUpper>667</MaskUpper><LocusLower>655-9</LocusLower><LocusUpper>655-9</LocusUpper></Part><Part id="133"><Display>Book 660-4</Display><MaskLower>668</MaskLower><MaskUpper>672</MaskUpper><LocusLower>660-4</LocusLower><LocusUpper>660-4</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="0-4">Oedipus Iocasta   Antigona Polynices   Eteocles satelles Nuntius</TextUnit>
+    <TextUnit id="1" loc="0-4">Caeci parentis regimen et fessi unicum</TextUnit>
+    <TextUnit id="2" loc="0-4">lateris levamen, gnata, quam tanti est mihi</TextUnit>
+    <TextUnit id="3" loc="0-4">genuisse vel sic, desere infaustum patrem,</TextUnit>
+    <TextUnit id="4" loc="0-4">in recta quid deflectis errantem gradum?</TextUnit>
+    <TextUnit id="5" loc="5-9">permitte labi; melius inveniam viam,</TextUnit>
+    <TextUnit id="6" loc="5-9">quam quaero solus, quae me ab hac vita extrahat</TextUnit>
+    <TextUnit id="7" loc="5-9">et hoc nefandi capitis aspectu levet</TextUnit>
+    <TextUnit id="8" loc="5-9">caelum atque terras, quantulum hac egi manu?</TextUnit>
+    <TextUnit id="9" loc="5-9">non video noxae conscium nostrae diem,</TextUnit>
+    <TextUnit id="10" loc="10-4">sed videor, hinc iam solve inhaerentem manum</TextUnit>
+    <TextUnit id="11" loc="10-4">et patere caecum qua volet ferri pedem,</TextUnit>
+    <TextUnit id="12" loc="10-4">ibo, ibo qua praerupta protendit iuga</TextUnit>
+    <TextUnit id="13" loc="10-4">meus Cithaeron, qua peragrato celer</TextUnit>
+    <TextUnit id="14" loc="10-4">per saxa monte iacuit Actaeon suis</TextUnit>
+    <TextUnit id="15" loc="15-9">nova praeda canibus, qua per obscurum nemus</TextUnit>
+    <TextUnit id="16" loc="15-9">silvamque opacae vallis instinctas deo</TextUnit>
+    <TextUnit id="17" loc="15-9">egit sorores mater et gaudens malo</TextUnit>
+    <TextUnit id="18" loc="15-9">vibrante fixum praetulit thyrso caput;</TextUnit>
+    <TextUnit id="19" loc="15-9">vel qua cucurrit, corpus inrisum trahens,</TextUnit>
+    <TextUnit id="20" loc="20-4">Zethi iuvencus, qua per horrentes rubos</TextUnit>
+    <TextUnit id="21" loc="20-4">tauri ferocis sanguis ostentat fugas;</TextUnit>
+    <TextUnit id="22" loc="20-4">vel qua alta maria vertice inmenso premit</TextUnit>
+    <TextUnit id="23" loc="20-4">Inoa rupes, qua scelus fugiens novum</TextUnit>
+    <TextUnit id="24" loc="20-4">novumque faciens mater insiluit freto</TextUnit>
+    <TextUnit id="25" loc="25-9">mersura natum seque— felices quibus</TextUnit>
+    <TextUnit id="26" loc="25-9">fortuna melior tam bonas matres dedit.</TextUnit>
+    <TextUnit id="27" loc="25-9">est alius istis noster in silvis locus,</TextUnit>
+    <TextUnit id="28" loc="25-9">qui me reposcit, hunc petam cursu incito;</TextUnit>
+    <TextUnit id="29" loc="25-9">non haesitabit gressus, huc omni duce</TextUnit>
+    <TextUnit id="30" loc="30-4">spoliatus ibo. quid moror sedes meas?</TextUnit>
+    <TextUnit id="31" loc="30-4">mortem, Cithaeron, redde et hospitium mihi</TextUnit>
+    <TextUnit id="32" loc="30-4">illud meum restitue, ut expirem senex</TextUnit>
+    <TextUnit id="33" loc="30-4">ubi debui infans, recipe supplicium vetus.</TextUnit>
+    <TextUnit id="34" loc="30-4">semper cruente saeve crudelis ferox,</TextUnit>
+    <TextUnit id="35" loc="35-9">cum occidis et cum parcis, olim iam tuum</TextUnit>
+    <TextUnit id="36" loc="35-9">est hoc cadaver: perage mandatum patris,</TextUnit>
+    <TextUnit id="37" loc="35-9">iam et matris, animus gestit antiqua exsequi</TextUnit>
+    <TextUnit id="38" loc="35-9">supplicia, quid me, nata, pestifero tenes</TextUnit>
+    <TextUnit id="39" loc="35-9">amore vinctum? quid tenes? genitor vocat.</TextUnit>
+    <TextUnit id="40" loc="40-4">sequor, sequor, iam parce, sanguineum gerens</TextUnit>
+    <TextUnit id="41" loc="40-4">insigne regni Laius rapti furit;</TextUnit>
+    <TextUnit id="42" loc="40-4">en ecce, inanes manibus infestis petit</TextUnit>
+    <TextUnit id="43" loc="40-4">foditque vultus, nata, genitorem vides?</TextUnit>
+    <TextUnit id="44" loc="40-4">ego video, tandem spiritum inimicum expue,</TextUnit>
+    <TextUnit id="45" loc="45-9">desertor anime, fortis in partem tui.</TextUnit>
+    <TextUnit id="46" loc="45-9">omitte poenae languidas longae moras</TextUnit>
+    <TextUnit id="47" loc="45-9">mortemque totam admitte; quid segnis traho</TextUnit>
+    <TextUnit id="48" loc="45-9">quod vivo? nullum facere iam possum scelus?</TextUnit>
+    <TextUnit id="49" loc="45-9">possum miser, praedico— discedo a patre,</TextUnit>
+    <TextUnit id="50" loc="50-4">discedo, virgo. timeo post matrem omnia.</TextUnit>
+    <TextUnit id="51" loc="50-4">Vis nulla, genitor, a tuo nostram manum</TextUnit>
+    <TextUnit id="52" loc="50-4">corpore resolvet, nemo me comitem tibi</TextUnit>
+    <TextUnit id="53" loc="50-4">eripiet umquam. Labdaci claram domum,</TextUnit>
+    <TextUnit id="54" loc="50-4">opulenta ferro regna germani petant—</TextUnit>
+    <TextUnit id="55" loc="55-9">pars summa magno patris e regno mea est,</TextUnit>
+    <TextUnit id="56" loc="55-9">pater ipse. non hunc auferet frater mihi</TextUnit>
+    <TextUnit id="57" loc="55-9">Thebana rapto sceptra qui regno tenet,</TextUnit>
+    <TextUnit id="58" loc="55-9">non hunc catervas alter Argolicas agens;</TextUnit>
+    <TextUnit id="59" loc="55-9">non si revulso Iuppiter mundo tonet</TextUnit>
+    <TextUnit id="60" loc="60-4">mediumque nostros fulmen in nexus cadat,</TextUnit>
+    <TextUnit id="61" loc="60-4">manum hanc remittam. prohibeas, genitor, licet:</TextUnit>
+    <TextUnit id="62" loc="60-4">regam abnuentem, dirigam inviti gradum.</TextUnit>
+    <TextUnit id="63" loc="60-4">iu plana tendis? vado; praerupta appetis?</TextUnit>
+    <TextUnit id="64" loc="60-4">non obsto, sed praecedo; quo vis utere</TextUnit>
+    <TextUnit id="65" loc="65-9">duce me, duobus omnis eligitur via:</TextUnit>
+    <TextUnit id="66" loc="65-9">perire sine me non potes, mecum potes.</TextUnit>
+    <TextUnit id="67" loc="65-9">hic alta rupes arduo surgit iugo</TextUnit>
+    <TextUnit id="68" loc="65-9">spectatque longe spatia subiecti maris:</TextUnit>
+    <TextUnit id="69" loc="65-9">vis hanc petamus? nudus hic pendet silex,</TextUnit>
+    <TextUnit id="70" loc="70-4">hic scissa tellus faucibus ruptis hiat:</TextUnit>
+    <TextUnit id="71" loc="70-4">vis hanc petamus? hic rapax torrens cadit</TextUnit>
+    <TextUnit id="72" loc="70-4">partesque lapsi montis exesas rotat:</TextUnit>
+    <TextUnit id="73" loc="70-4">in hunc ruamus? dum prior, quo vis eo.</TextUnit>
+    <TextUnit id="74" loc="70-4">non deprecor, non hortor, extingui cupis</TextUnit>
+    <TextUnit id="75" loc="75-9">votumque, genitor, maximum mors est tibi?</TextUnit>
+    <TextUnit id="76" loc="75-9">si moreris, antecedo: si vivis, sequor.</TextUnit>
+    <TextUnit id="77" loc="75-9">sed flecte mentem pectus antiquum ad voca</TextUnit>
+    <TextUnit id="78" loc="75-9">victasque magno robore aerumnas doma;</TextUnit>
+    <TextUnit id="79" loc="75-9">resiste: tantus in malis vinci mori est.</TextUnit>
+    <TextUnit id="80" loc="80-4">Vnde in nefanda specimen egregium domo?</TextUnit>
+    <TextUnit id="81" loc="80-4">Unde ista generi virgo dissimilis suo?</TextUnit>
+    <TextUnit id="82" loc="80-4">Fortuna, credis? aliquis est ex me pius?</TextUnit>
+    <TextUnit id="83" loc="80-4">non esset umquam, fata bene novi mea,</TextUnit>
+    <TextUnit id="84" loc="80-4">nisi ut noceret, ipsa se in leges novas</TextUnit>
+    <TextUnit id="85" loc="85-9">natura vertit: regeret in fontem citas</TextUnit>
+    <TextUnit id="86" loc="85-9">revolutus undas amnis et noctem afferet</TextUnit>
+    <TextUnit id="87" loc="85-9">Phoebea lampas, Hesperus faciet diem;</TextUnit>
+    <TextUnit id="88" loc="85-9">ut ad miserias aliquid accedat meas,</TextUnit>
+    <TextUnit id="89" loc="85-9">pii quoque erimus, unica Oedipodae est salus,</TextUnit>
+    <TextUnit id="90" loc="90-4">non esse salvum, liceat ulcisci patrem</TextUnit>
+    <TextUnit id="91" loc="90-4">adhuc inultum, dextra quid cessas iners</TextUnit>
+    <TextUnit id="92" loc="90-4">exigere poenas? quicquid exactum est adhuc,</TextUnit>
+    <TextUnit id="93" loc="90-4">matri dedisti, mitte genitoris manum,</TextUnit>
+    <TextUnit id="94" loc="90-4">animosa virgo:'funus extendi» meum</TextUnit>
+    <TextUnit id="95" loc="95-9">longaeque vivi ducis exequias patris.</TextUnit>
+    <TextUnit id="96" loc="95-9">aliquando terra corpus invisum tege;</TextUnit>
+    <TextUnit id="97" loc="95-9">peccas honesta mente, pietatem vocas</TextUnit>
+    <TextUnit id="98" loc="95-9">patrem insepultum trahere, qui cogit mori</TextUnit>
+    <TextUnit id="99" loc="95-9">nolentem in aequo est quique properantem impedit;</TextUnit>
+    <TextUnit id="100" loc="95-9">nec tamen in aequo est: alterum gravius reor:</TextUnit>
+    <TextUnit id="101" loc="100-4">occidere est vetare cupientem mori</TextUnit>
+    <TextUnit id="102" loc="100-4">malo imperari quam eripi mortem mihi.</TextUnit>
+    <TextUnit id="103" loc="100-4">desiste coepto, virgo: ius vitae ac necis</TextUnit>
+    <TextUnit id="104" loc="100-4">meae penes me est. regna deserui libens,</TextUnit>
+    <TextUnit id="105" loc="105-9">regnum mei retineo. si fida es comes,</TextUnit>
+    <TextUnit id="106" loc="105-9">ensem parenti trade, sed notum nece</TextUnit>
+    <TextUnit id="107" loc="105-9">ensem paterna, tradis? an gnati tenent</TextUnit>
+    <TextUnit id="108" loc="105-9">cum regno et illum? facinore ubicumque est opus,</TextUnit>
+    <TextUnit id="109" loc="105-9">ibi sit; relinquo, natus hunc habeat meus,</TextUnit>
+    <TextUnit id="110" loc="110-4">sed uterque, flammas potius et vastum aggerem</TextUnit>
+    <TextUnit id="111" loc="110-4">compone; in altos ipse me immittam rogos,</TextUnit>
+    <TextUnit id="112" loc="110-4">haerebo ad ignes, funebrem escendam struem</TextUnit>
+    <TextUnit id="113" loc="110-4">pectusque solvam durum et in cinerem dabo</TextUnit>
+    <TextUnit id="114" loc="110-4">hoc quicquid in me vivit, ubi saevum est mare?</TextUnit>
+    <TextUnit id="115" loc="115-9">duc ubi sit altis prorutum saxis iugum,</TextUnit>
+    <TextUnit id="116" loc="115-9">ubi torva rapidus ducat Ismenos vada,</TextUnit>
+    <TextUnit id="117" loc="115-9">duc ubi ferae sunt, ubi fretum, ubi praeceps locus</TextUnit>
+    <TextUnit id="118" loc="115-9">si dux es: illuc ire morituro placet,</TextUnit>
+    <TextUnit id="119" loc="115-9">ubi sedit alta rupe semifero dolos</TextUnit>
+    <TextUnit id="120" loc="120-4">Sphinx ore nectens. dirige huc gressus pedum,</TextUnit>
+    <TextUnit id="121" loc="120-4">hic siste patrem, dira ne sedes vacet,</TextUnit>
+    <TextUnit id="122" loc="120-4">monstrum repone maius, hoc saxum insidens</TextUnit>
+    <TextUnit id="123" loc="120-4">obscura nostrae verba fortunae loquar,</TextUnit>
+    <TextUnit id="124" loc="120-4">quae nemo solvat: quisquis Assyrio loca</TextUnit>
+    <TextUnit id="125" loc="125-9">possessa regi scindis et Cadmi nemus</TextUnit>
+    <TextUnit id="126" loc="125-9">serpente notum, sacra quo Dirce latet,</TextUnit>
+    <TextUnit id="127" loc="125-9">supplex adoras, quisquis Eurotan bibis</TextUnit>
+    <TextUnit id="128" loc="125-9">Spartamque fratre nobilem gemino colis,</TextUnit>
+    <TextUnit id="129" loc="125-9">quique Elin et Parnason et Boeotios</TextUnit>
+    <TextUnit id="130" loc="130-4">colonus agros uberis tondes soli: ,</TextUnit>
+    <TextUnit id="131" loc="130-4">adverte mentem, saeva Thebarum lues</TextUnit>
+    <TextUnit id="132" loc="130-4">luctifica caecis verba committens modis</TextUnit>
+    <TextUnit id="133" loc="130-4">quid simile posuit? quid tam inextricabile?</TextUnit>
+    <TextUnit id="134" loc="130-4">avi gener patrisque rivalis sui,</TextUnit>
+    <TextUnit id="135" loc="135-9">frater suorum liberum et fratrum parens;</TextUnit>
+    <TextUnit id="136" loc="135-9">uno avia partu liberos peperit viro,</TextUnit>
+    <TextUnit id="137" loc="135-9">sibi et nepotes, monstra quis tanta explicat?</TextUnit>
+    <TextUnit id="138" loc="135-9">ego ipse, victae spolia qui Sphingis tuli,</TextUnit>
+    <TextUnit id="139" loc="135-9">haerebo fati tardus interpres mei.</TextUnit>
+    <TextUnit id="140" loc="135-9">*</TextUnit>
+    <TextUnit id="141" loc="140-4">quid perdis ultra verba? quid pectus ferum</TextUnit>
+    <TextUnit id="142" loc="140-4">mollire temptas precibus? hoc animo sedet</TextUnit>
+    <TextUnit id="143" loc="140-4">effundere hanc cum morte luctantem diu</TextUnit>
+    <TextUnit id="144" loc="140-4">animam et tenebras petere: nam sceleri haec meo</TextUnit>
+    <TextUnit id="145" loc="140-4">parum alta nox est: Tartaro condi iuvat,</TextUnit>
+    <TextUnit id="146" loc="145-9">et si quid ultra Tartarum est; tandem libet</TextUnit>
+    <TextUnit id="147" loc="145-9">quod olim oportet, morte prohiberi haud queo.</TextUnit>
+    <TextUnit id="148" loc="145-9">ferrum negabis? noxias lapsu vias</TextUnit>
+    <TextUnit id="149" loc="145-9">eludes et artis colla laqueis inseri</TextUnit>
+    <TextUnit id="150" loc="145-9">prohibebis? herbas quae ferunt letum auferes?</TextUnit>
+    <TextUnit id="151" loc="150-4">quid ista tandem cura proficiet tua?</TextUnit>
+    <TextUnit id="152" loc="150-4">ubique mors est. optume hoc cavit deus:</TextUnit>
+    <TextUnit id="153" loc="150-4">eripere vitam nemo non homini, potest,</TextUnit>
+    <TextUnit id="154" loc="150-4">at nemo mortem; mille ad hanc aditus patent.</TextUnit>
+    <TextUnit id="155" loc="150-4">nil quaero: dextra noster et nuda solet</TextUnit>
+    <TextUnit id="156" loc="155-9">bene animus uti— dextra, nunc toto impetu,</TextUnit>
+    <TextUnit id="157" loc="155-9">toto dolore, viribus totis veni.</TextUnit>
+    <TextUnit id="158" loc="155-9">non destino unum vulneri nostro locum:</TextUnit>
+    <TextUnit id="159" loc="155-9">totus nocens sum: qua Voles mortem exige.</TextUnit>
+    <TextUnit id="160" loc="155-9">effringe pectus corque tot scelerum capax</TextUnit>
+    <TextUnit id="161" loc="160-4">evelle, totos viscerum nuda sinus.</TextUnit>
+    <TextUnit id="162" loc="160-4">fractum incitatis ictibus guttur sonet</TextUnit>
+    <TextUnit id="163" loc="160-4">laceraeque fixis unguibus venae fluant.</TextUnit>
+    <TextUnit id="164" loc="160-4">aut dirige iras quo soles: haec vulnera</TextUnit>
+    <TextUnit id="165" loc="160-4">rescissa multo sanguine ac tabe inriga,</TextUnit>
+    <TextUnit id="166" loc="165-9">hac extrahe animam duram, inexpugnabilem.</TextUnit>
+    <TextUnit id="167" loc="165-9">et tu, parens, ubicumque poenarum arbiter</TextUnit>
+    <TextUnit id="168" loc="165-9">adstas mearum; non ego hoc tantum scelus</TextUnit>
+    <TextUnit id="169" loc="165-9">ulla expiari credidi poena satis</TextUnit>
+    <TextUnit id="170" loc="165-9">umquam, nec ista morte contentus fui,</TextUnit>
+    <TextUnit id="171" loc="170-4">nec me redemi parte: membratim tibi</TextUnit>
+    <TextUnit id="172" loc="170-4">perire volui— debitum tandem exige.</TextUnit>
+    <TextUnit id="173" loc="170-4">nunc solvo poenas, tunc tibi inferias dedi.</TextUnit>
+    <TextUnit id="174" loc="170-4">ades atque inertem dexteram introrsus preme</TextUnit>
+    <TextUnit id="175" loc="170-4">magisque merge: timida tunc parvo caput</TextUnit>
+    <TextUnit id="176" loc="175-9">libavit haustu vixque cupientes sequi</TextUnit>
+    <TextUnit id="177" loc="175-9">eduxit oculos, haeret etiam nunc mihi</TextUnit>
+    <TextUnit id="178" loc="175-9">ille animus, haeret, cum recusantem manum</TextUnit>
+    <TextUnit id="179" loc="175-9">pressere vultus, audies verum, Oedipus:</TextUnit>
+    <TextUnit id="180" loc="175-9">minus eruisti lumina audacter tua.</TextUnit>
+    <TextUnit id="181" loc="180-4">quam praestitisti, nunc manum cerebro indue:</TextUnit>
+    <TextUnit id="182" loc="180-4">hac parte mortem perage qua coepi mori.</TextUnit>
+    <TextUnit id="183" loc="180-4">Pauca, o parens magnanime, miserandae precor</TextUnit>
+    <TextUnit id="184" loc="180-4">ut verba natae mente placata audias.</TextUnit>
+    <TextUnit id="185" loc="180-4">non te ut reducam veteris ad speciem domus</TextUnit>
+    <TextUnit id="186" loc="185-9">habitumque regni flore pollentem inclito</TextUnit>
+    <TextUnit id="187" loc="185-9">peto aut ut iras, temporum haut ipsa mora</TextUnit>
+    <TextUnit id="188" loc="185-9">fractas, remisso pectore ac placido feras:</TextUnit>
+    <TextUnit id="189" loc="185-9">at hoc decebat roboris tanti virum,</TextUnit>
+    <TextUnit id="190" loc="185-9">non esse sub dolore nec victum malis</TextUnit>
+    <TextUnit id="191" loc="190-4">dare terga; non est, ut putas, virtus, pater,</TextUnit>
+    <TextUnit id="192" loc="190-4">timere vitam, sed malis ingentibus</TextUnit>
+    <TextUnit id="193" loc="190-4">obstare nec se vertere ac retro dare.</TextUnit>
+    <TextUnit id="194" loc="190-4">qui fata proculcavit ac vitae bona</TextUnit>
+    <TextUnit id="195" loc="190-4">proiecit atque abscidit et casus suos</TextUnit>
+    <TextUnit id="196" loc="195-9">oneravit ipse, cui deo nullo est opus,</TextUnit>
+    <TextUnit id="197" loc="195-9">quare ille mortem cupiat aut quare petat?</TextUnit>
+    <TextUnit id="198" loc="195-9">utrumque timidi est: nemo contempsit mori</TextUnit>
+    <TextUnit id="199" loc="195-9">qui concupivit, cuius haut ultra mala</TextUnit>
+    <TextUnit id="200" loc="195-9">exire possunt, in loco tuto est situs.</TextUnit>
+    <TextUnit id="201" loc="200-4">quis iam deorum, velle fac, quicquam potest</TextUnit>
+    <TextUnit id="202" loc="200-4">malis tuis adicere? iam nec tu potes</TextUnit>
+    <TextUnit id="203" loc="200-4">nisi hoc, ut esse te putes dignum nece—</TextUnit>
+    <TextUnit id="204" loc="200-4">non es nec ulla pectus hoc culpa attigit.</TextUnit>
+    <TextUnit id="205" loc="200-4">et hoc magis te, genitor, insontem voca.</TextUnit>
+    <TextUnit id="206" loc="205-9">quod innocens es dis quoque invitis, quid est</TextUnit>
+    <TextUnit id="207" loc="205-9">quod te efferant, quod novos suffixerit</TextUnit>
+    <TextUnit id="208" loc="205-9">stimulos dolori? quid te in infernas agit</TextUnit>
+    <TextUnit id="209" loc="205-9">sedes, quid ex his pellit? ut careas die?</TextUnit>
+    <TextUnit id="210" loc="205-9">cares; ut altis nobilem muris domum</TextUnit>
+    <TextUnit id="211" loc="210-4">patriamque fugias? patria tibi vivo perit;</TextUnit>
+    <TextUnit id="212" loc="210-4">natos fugis matremque? ab* aspectu omnium</TextUnit>
+    <TextUnit id="213" loc="210-4">fortuna te summovit, et quicquid potest</TextUnit>
+    <TextUnit id="214" loc="210-4">auferre cuiquam mors, tibi hoc vita abstulit;</TextUnit>
+    <TextUnit id="215" loc="210-4">regni tumultus? turba fortunae prior</TextUnit>
+    <TextUnit id="216" loc="215-9">abscessit a te iussa, quem, genitor, fugis?</TextUnit>
+    <TextUnit id="217" loc="215-9">Me fugio, fugio conscium scelerum omnium</TextUnit>
+    <TextUnit id="218" loc="215-9">pectus, manumque hanc fugio et hoc "caelum et deos.</TextUnit>
+    <TextUnit id="219" loc="215-9">et dira fugio scelera quae feci innocens.</TextUnit>
+    <TextUnit id="220" loc="215-9">ego hoc solum, frugifera quo surgit Ceres,</TextUnit>
+    <TextUnit id="221" loc="220-4">premo? has ego auras ore pestifero traho?</TextUnit>
+    <TextUnit id="222" loc="220-4">ego laticis haustu satior aut ullo fruor</TextUnit>
+    <TextUnit id="223" loc="220-4">almae parentis munere? ego castam manum</TextUnit>
+    <TextUnit id="224" loc="220-4">nefandus incestificus exsecrabilis</TextUnit>
+    <TextUnit id="225" loc="220-4">attrecto? ego ullos aure concipio sonos,</TextUnit>
+    <TextUnit id="226" loc="225-9">per quos parentis nomen aut nati audiam?</TextUnit>
+    <TextUnit id="227" loc="225-9">utinam quidem rescindere has quirem vias</TextUnit>
+    <TextUnit id="228" loc="225-9">manibusque adactis omne qua voces meant</TextUnit>
+    <TextUnit id="229" loc="225-9">aditusque verbis tramite angusto patet</TextUnit>
+    <TextUnit id="230" loc="225-9">eruere possem: nata, iam sensum tui,</TextUnit>
+    <TextUnit id="231" loc="230-4">quae pars meorum es criminum, infelix pater</TextUnit>
+    <TextUnit id="232" loc="230-4">fugissem. inhaeret ac recrudescit nefas</TextUnit>
+    <TextUnit id="233" loc="230-4">subinde, et aures ingerunt quicquid mihi</TextUnit>
+    <TextUnit id="234" loc="230-4">donastis, oculi, cur caput tenebris grave</TextUnit>
+    <TextUnit id="235" loc="230-4">non mitto ad umbras Ditis aeternas? quid hic</TextUnit>
+    <TextUnit id="236" loc="235-9">manes meos detineo? quid terram gravo</TextUnit>
+    <TextUnit id="237" loc="235-9">mixtusque superis erro? quid restat mali?</TextUnit>
+    <TextUnit id="238" loc="235-9">regnum parentes liberi, virtus quoque</TextUnit>
+    <TextUnit id="239" loc="235-9">et ingeni sollertis eximium decus</TextUnit>
+    <TextUnit id="240" loc="235-9">periere, cuncta sors mihi infesta abstulit:</TextUnit>
+    <TextUnit id="241" loc="240-4">lacrimae supererant: has quoque eripui mihi.</TextUnit>
+    <TextUnit id="242" loc="240-4">absiste, nullas animus admittit preces</TextUnit>
+    <TextUnit id="243" loc="240-4">novamque poenam sceleribus quaerit parem.</TextUnit>
+    <TextUnit id="244" loc="240-4">et esse par quae poterit? infanti quoque</TextUnit>
+    <TextUnit id="245" loc="240-4">decreta mors est.— fata quis tam tristia</TextUnit>
+    <TextUnit id="246" loc="245-9">sortitus umquam? videram nondum diem</TextUnit>
+    <TextUnit id="247" loc="245-9">uterique nondum solveram clausi moras,</TextUnit>
+    <TextUnit id="248" loc="245-9">et iam timebar. protinus quosdam editos</TextUnit>
+    <TextUnit id="249" loc="245-9">nox occupavit et novae luci abstulit:</TextUnit>
+    <TextUnit id="250" loc="245-9">mors me antecessit; aliquis intra viscera</TextUnit>
+    <TextUnit id="251" loc="250-4">materna letum praecoquis fati tulit:</TextUnit>
+    <TextUnit id="252" loc="250-4">sed numquid et peccavit? abstrusum, abditum</TextUnit>
+    <TextUnit id="253" loc="250-4">dubiumque an essem sceleris infandi reum</TextUnit>
+    <TextUnit id="254" loc="250-4">deus egit; illo teste damnavit parens</TextUnit>
+    <TextUnit id="255" loc="250-4">calidoque teneros transilit ferro pedes</TextUnit>
+    <TextUnit id="256" loc="255-9">et in alta nemora pabulum misit feris</TextUnit>
+    <TextUnit id="257" loc="255-9">avibusque saevis quas Cithaeron noxius</TextUnit>
+    <TextUnit id="258" loc="255-9">cruore saepe regio tinctas alit. ,</TextUnit>
+    <TextUnit id="259" loc="255-9">sed quem deus damnavit, abiecit pater,</TextUnit>
+    <TextUnit id="260" loc="255-9">mors quoque refugit, praestiti Delphis fidem:</TextUnit>
+    <TextUnit id="261" loc="260-4">genitorem adortus impia stravi nece.</TextUnit>
+    <TextUnit id="262" loc="260-4">hoc alia pietas redimet: occidi patrem,</TextUnit>
+    <TextUnit id="263" loc="260-4">sed matrem amavi, proloqui hymenaeum pudet</TextUnit>
+    <TextUnit id="264" loc="260-4">taedasque nostras, has quoque invitum pati</TextUnit>
+    <TextUnit id="265" loc="260-4">te coge poenas: facinus ignotum efferum</TextUnit>
+    <TextUnit id="266" loc="265-9">inusitatum effare quod populi horreant,</TextUnit>
+    <TextUnit id="267" loc="265-9">quod esse factum nulla non aetas neget,</TextUnit>
+    <TextUnit id="268" loc="265-9">quod parricidam pudeat: in patrios toros</TextUnit>
+    <TextUnit id="269" loc="265-9">tuli paterno sanguine aspersas manus</TextUnit>
+    <TextUnit id="270" loc="265-9">scelerisque pretium maius accepi scelus.</TextUnit>
+    <TextUnit id="271" loc="270-4">leve est paternum facinus: in thalamos meos</TextUnit>
+    <TextUnit id="272" loc="270-4">deducta mater, ne parum sceleris foret,</TextUnit>
+    <TextUnit id="273" loc="270-4">fecunda: nullum crimen hoc maius potest</TextUnit>
+    <TextUnit id="274" loc="270-4">natura ferre, si quod etiamnum est tamen,</TextUnit>
+    <TextUnit id="275" loc="270-4">qui facere possent dedimus, abieci necis '</TextUnit>
+    <TextUnit id="276" loc="275-9">pretium paternae sceptrum et hoc iterum manus</TextUnit>
+    <TextUnit id="277" loc="275-9">armavit alias; optime regni mei</TextUnit>
+    <TextUnit id="278" loc="275-9">fatum ipse novi: nemo sine sacro feret</TextUnit>
+    <TextUnit id="279" loc="275-9">illud cruore, magna praesagit mala</TextUnit>
+    <TextUnit id="280" loc="275-9">paternus animus, iacta iam sunt semina</TextUnit>
+    <TextUnit id="281" loc="280-4">cladis futurae: spernitur pacti fides;</TextUnit>
+    <TextUnit id="282" loc="280-4">hic occupato cedere imperio negat,</TextUnit>
+    <TextUnit id="283" loc="280-4">ius ille et icti foederis testes deos</TextUnit>
+    <TextUnit id="284" loc="280-4">invocat et Argos exul atque urbes movet</TextUnit>
+    <TextUnit id="285" loc="280-4">Graias in arma: non levis fessis venit</TextUnit>
+    <TextUnit id="286" loc="285-9">ruina Thebis; tela flammae vulnera</TextUnit>
+    <TextUnit id="287" loc="285-9">instant et istis si quod est maius malum,</TextUnit>
+    <TextUnit id="288" loc="285-9">ut esse genitos nemo non ex me sciat.</TextUnit>
+    <TextUnit id="289" loc="285-9">Si nulla, genitor, causa vivendi tibi est,</TextUnit>
+    <TextUnit id="290" loc="285-9">haec una abunde est, ut pater natos regas</TextUnit>
+    <TextUnit id="291" loc="290-4">graviter furentes, tu impii belli minas</TextUnit>
+    <TextUnit id="292" loc="290-4">avertere unus tuque vaecordes potes</TextUnit>
+    <TextUnit id="293" loc="290-4">inhibere iuvenes, civibus pacem dare,</TextUnit>
+    <TextUnit id="294" loc="290-4">patriae quietem, foederi laeso fidem.</TextUnit>
+    <TextUnit id="295" loc="290-4">vitam tibi ipse si negas, multis negas.</TextUnit>
+    <TextUnit id="296" loc="295-9">Illis parentis ullus aut aequi est amor,</TextUnit>
+    <TextUnit id="297" loc="295-9">avidis cruoris imperi armorum doli,</TextUnit>
+    <TextUnit id="298" loc="295-9">diris, scelestis, breviter ut dicam meis?</TextUnit>
+    <TextUnit id="299" loc="295-9">certant in omne facinus et pensi nihil</TextUnit>
+    <TextUnit id="300" loc="295-9">ducunt, ubi illos ira praecipites agit,</TextUnit>
+    <TextUnit id="301" loc="300-4">nefasque nullum per nefas nati putant.</TextUnit>
+    <TextUnit id="302" loc="300-4">non patris illos tangit afflicti pudor,</TextUnit>
+    <TextUnit id="303" loc="300-4">non patria: regno pectus attonitum furit.</TextUnit>
+    <TextUnit id="304" loc="300-4">scio quo ferantur, quanta moliri parent,</TextUnit>
+    <TextUnit id="305" loc="300-4">ideoque leti quaero maturi viam</TextUnit>
+    <TextUnit id="306" loc="305-9">morique propero, dum in domo nemo est mea</TextUnit>
+    <TextUnit id="307" loc="305-9">nocentior me. nata, quid genibus meis</TextUnit>
+    <TextUnit id="308" loc="305-9">fles advoluta? quid prece indomitum domas?</TextUnit>
+    <TextUnit id="309" loc="305-9">unum hoc habet fortuna quo possim capi,</TextUnit>
+    <TextUnit id="310" loc="305-9">invictus aliis: sola tu affectus potes</TextUnit>
+    <TextUnit id="311" loc="310-4">mollire duros, sola pietatem in domo</TextUnit>
+    <TextUnit id="312" loc="310-4">docere nostra, nil grave aut miserum est mihi</TextUnit>
+    <TextUnit id="313" loc="310-4">quod te sciam voluisse; tu tantum impera:</TextUnit>
+    <TextUnit id="314" loc="310-4">hic Oedipus Aegaea transnabit freta</TextUnit>
+    <TextUnit id="315" loc="310-4">iubente te, flammasque quas Siculo vomit</TextUnit>
+    <TextUnit id="316" loc="315-9">de monte tellus igneos volvens globos,</TextUnit>
+    <TextUnit id="317" loc="315-9">excipiet ore seque serpenti offeret,</TextUnit>
+    <TextUnit id="318" loc="315-9">quae saeva furto nemoris Herculeo furit;</TextUnit>
+    <TextUnit id="319" loc="315-9">iubente te praebebit! alitibus iecur—</TextUnit>
+    <TextUnit id="320" loc="315-9">iubente te vel vivet. Nuntius Oedipus Antigona</TextUnit>
+    <TextUnit id="321" loc="320-4">Exemplum in ingens regia stirpe editum</TextUnit>
+    <TextUnit id="322" loc="320-4">Thebae paventes arma fraterna invocant</TextUnit>
+    <TextUnit id="323" loc="320-4">rogantque tectis arceas patriis faces,</TextUnit>
+    <TextUnit id="324" loc="320-4">non sunt minae, iam propius accessit malum,</TextUnit>
+    <TextUnit id="325" loc="320-4">nam regna repetens frater et pactas vices</TextUnit>
+    <TextUnit id="326" loc="325-9">in bella cunctos Graeciae populos agit;</TextUnit>
+    <TextUnit id="327" loc="325-9">septena muros castra Thebanos premunt,</TextUnit>
+    <TextUnit id="328" loc="325-9">succurre, prohibe pariter et bellum et scelus.</TextUnit>
+    <TextUnit id="329" loc="325-9">Ego ille sum qui scelera committi vetem</TextUnit>
+    <TextUnit id="330" loc="325-9">et abstineri sanguine e caro manus</TextUnit>
+    <TextUnit id="331" loc="330-4">doceam? magister iuris et amoris pii</TextUnit>
+    <TextUnit id="332" loc="330-4">ego sum? meorum facinorum exempla appetunt,</TextUnit>
+    <TextUnit id="333" loc="330-4">me nunc secuntur; laudo et agnosco libens,</TextUnit>
+    <TextUnit id="334" loc="330-4">exhortor, aliquid ut patre hoc dignum gerant.</TextUnit>
+    <TextUnit id="335" loc="330-4">agite, o propago cara, generosam indolem</TextUnit>
+    <TextUnit id="336" loc="335-9">probate factis, gloriam ac laudes meas</TextUnit>
+    <TextUnit id="337" loc="335-9">superate et aliquid facite propter quod patrem</TextUnit>
+    <TextUnit id="338" loc="335-9">adhuc iuvet vixisse, facietis, scio:</TextUnit>
+    <TextUnit id="339" loc="335-9">sic estis orti. scelere defungi haut levi,</TextUnit>
+    <TextUnit id="340" loc="335-9">haut usitato tanta nobilitas potest.</TextUnit>
+    <TextUnit id="341" loc="340-4">ferte arma, facibus petite penetrales deos</TextUnit>
+    <TextUnit id="342" loc="340-4">frugemque flamma metite natalis soli,</TextUnit>
+    <TextUnit id="343" loc="340-4">miscete cuncta, rapite in exitium omnia,</TextUnit>
+    <TextUnit id="344" loc="340-4">disicite passim moenia, in planum date,</TextUnit>
+    <TextUnit id="345" loc="340-4">templis deos obruite, maculatos lares</TextUnit>
+    <TextUnit id="346" loc="345-9">conflate, ab imo tota considat domus;</TextUnit>
+    <TextUnit id="347" loc="345-9">urbs concremetur— primus a thalamis meis</TextUnit>
+    <TextUnit id="348" loc="345-9">incipiat ignis.</TextUnit>
+    <TextUnit id="349" loc="345-9">Mitte violentum impetum</TextUnit>
+    <TextUnit id="350" loc="345-9">doloris ac te publica exorent mala</TextUnit>
+    <TextUnit id="351" loc="345-9">auctorque placidae liberis pacis veni.</TextUnit>
+    <TextUnit id="352" loc="350-4">Vides modestae deditum menti senem</TextUnit>
+    <TextUnit id="353" loc="350-4">placidaeque amantem pacis ad partes vocas?</TextUnit>
+    <TextUnit id="354" loc="350-4">tumet animus ira, fervet immensus dolor,</TextUnit>
+    <TextUnit id="355" loc="350-4">maiusque quam quod casus et iuvenum furor</TextUnit>
+    <TextUnit id="356" loc="350-4">conatur aliquid cupio, non satis est adhuc</TextUnit>
+    <TextUnit id="357" loc="355-9">civile bellum: frater in fratrem ruat;</TextUnit>
+    <TextUnit id="358" loc="355-9">nec hoc sat est: quod debet, ut fiat nefas</TextUnit>
+    <TextUnit id="359" loc="355-9">de more nostro, quod meos deceat toros:</TextUnit>
+    <TextUnit id="360" loc="355-9">date arma matri, nemo me ex his eruat</TextUnit>
+    <TextUnit id="361" loc="355-9">silvis: latebo rupis exesae cavo</TextUnit>
+    <TextUnit id="362" loc="360-4">aut sepe densa corpus abstrusum tegam.</TextUnit>
+    <TextUnit id="363" loc="360-4">hinc aucupabor verba rumoris vagi</TextUnit>
+    <TextUnit id="364" loc="360-4">et saeva fratrum, bella, quod possum, audiam.</TextUnit>
+    <TextUnit id="365" loc="360-4">B.</TextUnit>
+    <TextUnit id="366" loc="360-4">Felix Agaue: facinus horrendum manu,</TextUnit>
+    <TextUnit id="367" loc="360-4">qua fecerat, gestavit et spolium tulit</TextUnit>
+    <TextUnit id="368" loc="365-9">cruenta nati maenas in partes dati;</TextUnit>
+    <TextUnit id="369" loc="365-9">fecit scelus, sed misera non ultro suo</TextUnit>
+    <TextUnit id="370" loc="365-9">sceleri occucurrit. hoc leve est quod sum nocens:</TextUnit>
+    <TextUnit id="371" loc="365-9">feci nocentes, hoc quoque etiamnunc leve est:</TextUnit>
+    <TextUnit id="372" loc="365-9">peperi nocentes, derat aerumnis meis,</TextUnit>
+    <TextUnit id="373" loc="370-4">ut et hostem amarem, bruma ter posuit nives</TextUnit>
+    <TextUnit id="374" loc="370-4">et tertia iam falce decubuit Ceres,</TextUnit>
+    <TextUnit id="375" loc="370-4">ut exul errat natus et patria caret</TextUnit>
+    <TextUnit id="376" loc="370-4">profugusque regum auxilia Graiorum rogat,</TextUnit>
+    <TextUnit id="377" loc="370-4">gener est Adrasti, cuius imperio mare</TextUnit>
+    <TextUnit id="378" loc="375-9">quod scindit Isthmos regitur; hic gentes suas</TextUnit>
+    <TextUnit id="379" loc="375-9">septemque secum regna ad auxilium trahit</TextUnit>
+    <TextUnit id="380" loc="375-9">genero, quid optem quidve decernam haut scio.</TextUnit>
+    <TextUnit id="381" loc="375-9">regnum reposcit: causa repetentis bona est,</TextUnit>
+    <TextUnit id="382" loc="375-9">mala sic petentis. vota quae faciam parens?</TextUnit>
+    <TextUnit id="383" loc="380-4">utrimque natum video: nil possum pie</TextUnit>
+    <TextUnit id="384" loc="380-4">pietate salva facere: quodcumque alteri</TextUnit>
+    <TextUnit id="385" loc="380-4">optabo nato fiet alterius malo.</TextUnit>
+    <TextUnit id="386" loc="380-4">sed utrumque quamvis diligam affectu pari,</TextUnit>
+    <TextUnit id="387" loc="380-4">quo causa melior sorsque deterior trahit</TextUnit>
+    <TextUnit id="388" loc="385-9">inclinat animus semper infirmo favens:</TextUnit>
+    <TextUnit id="389" loc="385-9">miseros magis fortuna conciliat suis.</TextUnit>
+    <TextUnit id="390" loc="385-9">Regina, dum tu flebiles questus cies</TextUnit>
+    <TextUnit id="391" loc="385-9">terisque tempus, saeva nudatis adest</TextUnit>
+    <TextUnit id="392" loc="385-9">acies in armis; aera iam bellum cient</TextUnit>
+    <TextUnit id="393" loc="390-4">aquilaque pugnam signifer mota vocat.</TextUnit>
+    <TextUnit id="394" loc="390-4">septena reges bella dispositi parant,</TextUnit>
+    <TextUnit id="395" loc="390-4">animo pari Cadmea progenies subit,</TextUnit>
+    <TextUnit id="396" loc="390-4">cursu citato miles hinc atque hinc ruit.</TextUnit>
+    <TextUnit id="397" loc="390-4">vide ut atra nubes pulvere abscondat diem</TextUnit>
+    <TextUnit id="398" loc="395-9">fumoque similes campus in caelum erigat</TextUnit>
+    <TextUnit id="399" loc="395-9">nebulas, equestri fracta quas tellus pede</TextUnit>
+    <TextUnit id="400" loc="395-9">summittit et, si vera metuentes vident,</TextUnit>
+    <TextUnit id="401" loc="395-9">infesta fulgent signa, subrectis adest</TextUnit>
+    <TextUnit id="402" loc="395-9">frons prima telis, aurea clarum nota</TextUnit>
+    <TextUnit id="403" loc="400-4">nomen ducum vexilla praescriptum ferunt.</TextUnit>
+    <TextUnit id="404" loc="400-4">i, redde amorem fratribus, pacem omnibus,</TextUnit>
+    <TextUnit id="405" loc="400-4">et impia arma matris oppositu impedi.</TextUnit>
+    <TextUnit id="406" loc="400-4">Perge, o parens, et concita celerem gradum,</TextUnit>
+    <TextUnit id="407" loc="400-4">compesce tela, fratribus ferrum excute,</TextUnit>
+    <TextUnit id="408" loc="405-9">nudum inter enses pectus infestos tene:</TextUnit>
+    <TextUnit id="409" loc="405-9">aut solve bellum, mater, aut prima excipe,</TextUnit>
+    <TextUnit id="410" loc="405-9">Ibo ibo et armis obvium opponam caput,</TextUnit>
+    <TextUnit id="411" loc="405-9">stabo inter arma; petere qui fratrem volet,</TextUnit>
+    <TextUnit id="412" loc="405-9">petat ante matrem, tela, qui fuerit pius,</TextUnit>
+    <TextUnit id="413" loc="410-4">rogante ponat matre; qui non est pius</TextUnit>
+    <TextUnit id="414" loc="410-4">incipiat a me. fervidos iuvenes anus</TextUnit>
+    <TextUnit id="415" loc="410-4">tenebo, nullum teste me fiet nefas;</TextUnit>
+    <TextUnit id="416" loc="410-4">aut si aliquod et me teste committi potest,</TextUnit>
+    <TextUnit id="417" loc="410-4">non fiet unum.</TextUnit>
+    <TextUnit id="418" loc="410-4">Signa collatis micant</TextUnit>
+    <TextUnit id="419" loc="415-9">vicina signis, clamor hostilis fremit;</TextUnit>
+    <TextUnit id="420" loc="415-9">scelus in propinquo est: occupa, mater, preces.</TextUnit>
+    <TextUnit id="421" loc="415-9">et ecce motos fletibus credas meis,</TextUnit>
+    <TextUnit id="422" loc="415-9">sic agmen armis segne compositis venit.</TextUnit>
+    <TextUnit id="423" loc="415-9">Procedit acies tarda, sed properant duces.</TextUnit>
+    <TextUnit id="424" loc="420-4">Quis me procellae turbine insano vehens</TextUnit>
+    <TextUnit id="425" loc="420-4">volucer per auras ventus aetherias aget?</TextUnit>
+    <TextUnit id="426" loc="420-4">quae Sphinx vel atra nube subtexens diem</TextUnit>
+    <TextUnit id="427" loc="420-4">Stymphalis avidis praepetem pinnis feret?</TextUnit>
+    <TextUnit id="428" loc="420-4">aut quae per altas aeris rapiet vias</TextUnit>
+    <TextUnit id="429" loc="425-9">Harpyia saevi regis observans famem</TextUnit>
+    <TextUnit id="430" loc="425-9">et inter acies proiciet raptam duas?</TextUnit>
+    <TextUnit id="431" loc="425-9">Vadit furenti similis aut etiam furit.</TextUnit>
+    <TextUnit id="432" loc="425-9">sagitta qualis Parthica velox manu</TextUnit>
+    <TextUnit id="433" loc="425-9">excussa fertur, qualis insano ratis</TextUnit>
+    <TextUnit id="434" loc="430-4">premente vento rapitur aut qualis cadit</TextUnit>
+    <TextUnit id="435" loc="430-4">delapsa caelo stella, cum stringens polum</TextUnit>
+    <TextUnit id="436" loc="430-4">rectam citatis ignibus rumpit viam,</TextUnit>
+    <TextUnit id="437" loc="430-4">attonita cursu fugit et binas statim</TextUnit>
+    <TextUnit id="438" loc="430-4">diduxit acies, victa materna prece</TextUnit>
+    <TextUnit id="439" loc="435-9">haesere bella, iamque in alternam necem</TextUnit>
+    <TextUnit id="440" loc="435-9">illinc et hinc miscere cupientes manus</TextUnit>
+    <TextUnit id="441" loc="435-9">librata dextra tela suspensa tenent.</TextUnit>
+    <TextUnit id="442" loc="435-9">paci favetur, omnium ferrum iacet</TextUnit>
+    <TextUnit id="443" loc="435-9">cessatve tectum; vibrat in fratrum manu.</TextUnit>
+    <TextUnit id="444" loc="440-4">laniata canas mater ostendit comas,</TextUnit>
+    <TextUnit id="445" loc="440-4">rogat abnuentes, irrigat fletu genas.</TextUnit>
+    <TextUnit id="446" loc="440-4">negare matri qui diu dubitat, potest.</TextUnit>
+    <TextUnit id="447" loc="440-4">In me arma et ignes vertite, in me omnis ruat</TextUnit>
+    <TextUnit id="448" loc="440-4">unam iuventus quaeque ab Inachio venit</TextUnit>
+    <TextUnit id="449" loc="445-9">animosa muro quaeque Thebana ferox</TextUnit>
+    <TextUnit id="450" loc="445-9">descendit arce; civis atque hostis simul</TextUnit>
+    <TextUnit id="451" loc="445-9">hunc petite ventrem, qui dedit fratres viro.</TextUnit>
+    <TextUnit id="452" loc="445-9">haec membra passim spargite ac divellite:</TextUnit>
+    <TextUnit id="453" loc="445-9">ego utrumque peperi— ponitis ferrum ocius?</TextUnit>
+    <TextUnit id="454" loc="450-4">an dico et ex quo? dexteras matri date,</TextUnit>
+    <TextUnit id="455" loc="450-4">date dum piae sunt. error invitos adhuc</TextUnit>
+    <TextUnit id="456" loc="450-4">fecit nocentes, omne Fortunae fuit</TextUnit>
+    <TextUnit id="457" loc="450-4">peccantis in nos crimen: hoc primum nefas</TextUnit>
+    <TextUnit id="458" loc="450-4">inter scientes geritur, in vestra manu est,</TextUnit>
+    <TextUnit id="459" loc="455-9">utrum velitis: sancta si pietas placet,</TextUnit>
+    <TextUnit id="460" loc="455-9">t donate matri pacem, si placuit scelus,</TextUnit>
+    <TextUnit id="461" loc="455-9">maius paratum est: media se opponit parens,</TextUnit>
+    <TextUnit id="462" loc="455-9">proinde bellum tollite aut belli moram,</TextUnit>
+    <TextUnit id="463" loc="455-9">sollicita cui nunc mater alterna prece</TextUnit>
+    <TextUnit id="464" loc="460-4">verba admovebo? misera quem amplectar prius?</TextUnit>
+    <TextUnit id="465" loc="460-4">in utramque partem ducor affectu pari.</TextUnit>
+    <TextUnit id="466" loc="460-4">hic afuit; sed pacta si fratrum valent,</TextUnit>
+    <TextUnit id="467" loc="460-4">nunc alter aberit. ergo iam numquam duos</TextUnit>
+    <TextUnit id="468" loc="460-4">nisi sic videbo? iunge complexus prior,</TextUnit>
+    <TextUnit id="469" loc="465-9">qui tot labores totque perpessus mala</TextUnit>
+    <TextUnit id="470" loc="465-9">longo parentem fessus exilio vides,</TextUnit>
+    <TextUnit id="471" loc="465-9">accede propius, elude vagina impium</TextUnit>
+    <TextUnit id="472" loc="465-9">ensem et trementem iamque cupientem excuti</TextUnit>
+    <TextUnit id="473" loc="465-9">hastam solo defige; maternum tuo</TextUnit>
+    <TextUnit id="474" loc="470-4">coire pectus pectori clipeus vetat:</TextUnit>
+    <TextUnit id="475" loc="470-4">hunc quoque repone, vinculo frontem exue</TextUnit>
+    <TextUnit id="476" loc="470-4">tegumenque capitis triste belligeri leva</TextUnit>
+    <TextUnit id="477" loc="470-4">et ora matri redde, quo vultus refers</TextUnit>
+    <TextUnit id="478" loc="470-4">acieque pavida fratris observas manum?</TextUnit>
+    <TextUnit id="479" loc="475-9">affusa totum corpus amplexu tegam,</TextUnit>
+    <TextUnit id="480" loc="475-9">tuo emori per meum fiet via.</TextUnit>
+    <TextUnit id="481" loc="475-9">quid dubius haeres? an times matris fidem?</TextUnit>
+    <TextUnit id="482" loc="475-9">Timeo; nihil iam iura naturae valent.</TextUnit>
+    <TextUnit id="483" loc="475-9">post ista fratrum exempla ne matri quidem</TextUnit>
+    <TextUnit id="484" loc="480-4">fides habenda est.</TextUnit>
+    <TextUnit id="485" loc="480-4">Redde iam capulo manum,</TextUnit>
+    <TextUnit id="486" loc="480-4">astringe galeam, laeva se clipeo inserat;</TextUnit>
+    <TextUnit id="487" loc="480-4">dum frater exarmatur, armatus mane.</TextUnit>
+    <TextUnit id="488" loc="480-4">tu pone ferrum, causa qui ferri es prior.</TextUnit>
+    <TextUnit id="489" loc="480-4">si pacis odium est, furere si bello placet:</TextUnit>
+    <TextUnit id="490" loc="485-9">indutias te mater exiguas rogat,</TextUnit>
+    <TextUnit id="491" loc="485-9">ferat ut reverso post fugam nato oscula</TextUnit>
+    <TextUnit id="492" loc="485-9">vel prima vel suprema, dum pacem peto,</TextUnit>
+    <TextUnit id="493" loc="485-9">audite inermes, ille te, tu illum times?</TextUnit>
+    <TextUnit id="494" loc="485-9">ego utrumque, sed pro utroque, quid strictum abnuis</TextUnit>
+    <TextUnit id="495" loc="490-4">recondere ensem? qualibet gaude mora:</TextUnit>
+    <TextUnit id="496" loc="490-4">id gerere bellum cupitis, in quo est optimum</TextUnit>
+    <TextUnit id="497" loc="490-4">vinci, vereris fratris infesti dolos?</TextUnit>
+    <TextUnit id="498" loc="490-4">quotiens necesse est fallere aut falli a suis,</TextUnit>
+    <TextUnit id="499" loc="490-4">patiare potius ipse quam facias scelus.</TextUnit>
+    <TextUnit id="500" loc="495-9">sed ne verere: mater insidias et hinc</TextUnit>
+    <TextUnit id="501" loc="495-9">et rursus illinc abiget. exoro? an patri</TextUnit>
+    <TextUnit id="502" loc="495-9">invideo vestro? veni ut arcerem nefas</TextUnit>
+    <TextUnit id="503" loc="495-9">an ut viderem propius? hic ferrum abdidit,</TextUnit>
+    <TextUnit id="504" loc="495-9">reclinis hasta est, arma defixa incubant.</TextUnit>
+    <TextUnit id="505" loc="500-4">ad te preces nunc, nate, maternas feram,</TextUnit>
+    <TextUnit id="506" loc="500-4">sed ante lacrimas, teneo longo tempore</TextUnit>
+    <TextUnit id="507" loc="500-4">petita votis ora. te profugum solo</TextUnit>
+    <TextUnit id="508" loc="500-4">patrio penates regis externi tegunt.</TextUnit>
+    <TextUnit id="509" loc="500-4">te maria tot diversa, tot casus vagum</TextUnit>
+    <TextUnit id="510" loc="505-9">egere, non te duxit in thalamos parens</TextUnit>
+    <TextUnit id="511" loc="505-9">comitata primos nec sua festas manu</TextUnit>
+    <TextUnit id="512" loc="505-9">ornavit aedes nec sacra laetas faces</TextUnit>
+    <TextUnit id="513" loc="505-9">vitta revinxit; dona non auro graves</TextUnit>
+    <TextUnit id="514" loc="505-9">gazas socer, non arva, non urbes dedit:</TextUnit>
+    <TextUnit id="515" loc="510-4">dotale bellum est. hostium es factus gener,</TextUnit>
+    <TextUnit id="516" loc="510-4">patria remotus hospes alieni laris,</TextUnit>
+    <TextUnit id="517" loc="510-4">externa consecutus, expulsus tuis,</TextUnit>
+    <TextUnit id="518" loc="510-4">sine crimine exul. ne quid e fatis tibi</TextUnit>
+    <TextUnit id="519" loc="510-4">desset paternis, hoc quoque ex illis habes,</TextUnit>
+    <TextUnit id="520" loc="515-9">errasse thalamis, nate post multos mihi</TextUnit>
+    <TextUnit id="521" loc="515-9">remissa soles, nate suspensae metus</TextUnit>
+    <TextUnit id="522" loc="515-9">et spes parentis, cuius aspectum deos</TextUnit>
+    <TextUnit id="523" loc="515-9">semper rogavi, cum tuus reditus mihi</TextUnit>
+    <TextUnit id="524" loc="515-9">tantum esset erepturus, adventu tuo</TextUnit>
+    <TextUnit id="525" loc="520-4">quantum daturus: 'quando pro te desinam'</TextUnit>
+    <TextUnit id="526" loc="520-4">dixi 'timere?' dixit inridens deus:</TextUnit>
+    <TextUnit id="527" loc="520-4">'ipsum timebis.' nempe nisi bellum foret,</TextUnit>
+    <TextUnit id="528" loc="520-4">ego te carerem; nempe si tu non fores,</TextUnit>
+    <TextUnit id="529" loc="520-4">bello carerem. a, triste conspectus datur</TextUnit>
+    <TextUnit id="530" loc="525-9">pretium tui durumque, sed matri placet.</TextUnit>
+    <TextUnit id="531" loc="525-9">hinc modo recedant arma, dum nullum nefas</TextUnit>
+    <TextUnit id="532" loc="525-9">Mars saevus audet: hoc quoque est magnum nefas.</TextUnit>
+    <TextUnit id="533" loc="525-9">tam prope fuisse, stupeo et exsanguis tremo,</TextUnit>
+    <TextUnit id="534" loc="525-9">cum stare fratres hinc et hinc video duos</TextUnit>
+    <TextUnit id="535" loc="530-4">sceleris sub ictu. membra quassantur metu:</TextUnit>
+    <TextUnit id="536" loc="530-4">quam paene mater maius aspexi nefas.</TextUnit>
+    <TextUnit id="537" loc="530-4">quam quod miser videre non potuit pater.</TextUnit>
+    <TextUnit id="538" loc="530-4">licet timore facinoris tanti vacem</TextUnit>
+    <TextUnit id="539" loc="530-4">videamque iam nil tale, sum infelix tamen</TextUnit>
+    <TextUnit id="540" loc="535-9">quod paene vidi. per decem mensum graves</TextUnit>
+    <TextUnit id="541" loc="535-9">uteri labores perque pietatem inclitae</TextUnit>
+    <TextUnit id="542" loc="535-9">precor sororis et per irati sibi</TextUnit>
+    <TextUnit id="543" loc="535-9">genas parentis, scelere quas nullo nocens,</TextUnit>
+    <TextUnit id="544" loc="535-9">erroris a se dira supplicia exigens,</TextUnit>
+    <TextUnit id="545" loc="540-4">hausit: nefandas moenibus patriis faces</TextUnit>
+    <TextUnit id="546" loc="540-4">averte, signa bellici retro agminis</TextUnit>
+    <TextUnit id="547" loc="540-4">flecte— ut recedas, magna pars sceleris tamen</TextUnit>
+    <TextUnit id="548" loc="540-4">vestri peracta est: vidit hostili grege</TextUnit>
+    <TextUnit id="549" loc="540-4">campos repleri patria, fulgentes procul</TextUnit>
+    <TextUnit id="550" loc="545-9">armis catervas vidit, equitatu levi</TextUnit>
+    <TextUnit id="551" loc="545-9">Cadmea frangi prata et excelsos rotis</TextUnit>
+    <TextUnit id="552" loc="545-9">volitare proceres, igne flagrantes trabes</TextUnit>
+    <TextUnit id="553" loc="545-9">fumare, cineri quae petunt nostras domos,</TextUnit>
+    <TextUnit id="554" loc="545-9">fratresque (facinus quod novum et Thebis fuit)</TextUnit>
+    <TextUnit id="555" loc="550-4">in se ruentes: totus hoc exercitus,</TextUnit>
+    <TextUnit id="556" loc="550-4">hoc populus omnis, utraque hoc vidit soror</TextUnit>
+    <TextUnit id="557" loc="550-4">genetrixque vidi: nam pater debet sibi</TextUnit>
+    <TextUnit id="558" loc="550-4">quod ista non spectavit, occurrat tibi</TextUnit>
+    <TextUnit id="559" loc="550-4">nunc Oedipus, quo iudice erroris quoque</TextUnit>
+    <TextUnit id="560" loc="555-9">poenae petuntur. ne, precor, ferro erue</TextUnit>
+    <TextUnit id="561" loc="555-9">patriam ac penates neve, quas regere expetis,</TextUnit>
+    <TextUnit id="562" loc="555-9">everte Thebas. quis tenet mentem furor?</TextUnit>
+    <TextUnit id="563" loc="555-9">petendo patriam perdis? ut fiat tua,.</TextUnit>
+    <TextUnit id="564" loc="555-9">vis esse nullam? quin tuae causae nocet</TextUnit>
+    <TextUnit id="565" loc="560-4">ipsum hoc quod armis uris infestis solum</TextUnit>
+    <TextUnit id="566" loc="560-4">segetesque adultas sternis et totos fugam</TextUnit>
+    <TextUnit id="567" loc="560-4">edis per agros: nemo sic vastat sua;</TextUnit>
+    <TextUnit id="568" loc="560-4">quae corripi igne. quae meti gladio iubes</TextUnit>
+    <TextUnit id="569" loc="560-4">aliena credis, rex sit ex vobis uter,</TextUnit>
+    <TextUnit id="570" loc="565-9">manente regno quaerite, haec telis petis</TextUnit>
+    <TextUnit id="571" loc="565-9">flammisque tecta? poteris has Amphionis</TextUnit>
+    <TextUnit id="572" loc="565-9">quassare moles? nulla quas struxit manus</TextUnit>
+    <TextUnit id="573" loc="565-9">stridente tardum machina ducens onus,</TextUnit>
+    <TextUnit id="574" loc="565-9">sed convocatus vocis et citharae sono</TextUnit>
+    <TextUnit id="575" loc="570-4">per se ipse summas venit in turres lapis:</TextUnit>
+    <TextUnit id="576" loc="570-4">haec saxa franges? victor hinc spolia auferes</TextUnit>
+    <TextUnit id="577" loc="570-4">vinctosque duces patris aequales tui,</TextUnit>
+    <TextUnit id="578" loc="570-4">matresque ab ipso coniugum raptas sinu</TextUnit>
+    <TextUnit id="579" loc="570-4">saevus catena miles imposita trahet?</TextUnit>
+    <TextUnit id="580" loc="575-9">adulta virgo, mixta captivo gregi,</TextUnit>
+    <TextUnit id="581" loc="575-9">Thebana nuribus munus Argolicis eat?</TextUnit>
+    <TextUnit id="582" loc="575-9">an et ipsa, palmas vincta postergum datas,</TextUnit>
+    <TextUnit id="583" loc="575-9">mater triumphi praeda fraterni vehar?</TextUnit>
+    <TextUnit id="584" loc="575-9">potesne cives leto et exilio datos</TextUnit>
+    <TextUnit id="585" loc="580-4">videre passim? moenibus caris potes</TextUnit>
+    <TextUnit id="586" loc="580-4">hostem admovere, sanguine et flamma potes</TextUnit>
+    <TextUnit id="587" loc="580-4">implere Thebas? tam ferus durum geris</TextUnit>
+    <TextUnit id="588" loc="580-4">saevumque in iras pectus? et nondum imperas.</TextUnit>
+    <TextUnit id="589" loc="580-4">quid sceptra facient? pone vaesanos, precor,</TextUnit>
+    <TextUnit id="590" loc="585-9">animi tumores teque pietati refer.</TextUnit>
+    <TextUnit id="591" loc="585-9">Vt profugus errem? semper ut patria arcear</TextUnit>
+    <TextUnit id="592" loc="585-9">opemque gentis hospes externae sequar?</TextUnit>
+    <TextUnit id="593" loc="585-9">quid paterer aliud, si fefellissem fidem?</TextUnit>
+    <TextUnit id="594" loc="585-9">si peierassem? fraudis alienae dabo</TextUnit>
+    <TextUnit id="595" loc="590-4">poenas, at ille praemium scelerum feret?</TextUnit>
+    <TextUnit id="596" loc="590-4">iubes abire: matris imperio obsequor—</TextUnit>
+    <TextUnit id="597" loc="590-4">da quo revertar, regia frater meus</TextUnit>
+    <TextUnit id="598" loc="590-4">habitat superba: parva me abscondat casa?</TextUnit>
+    <TextUnit id="599" loc="590-4">hanc date repulso; liceat exiguo lare</TextUnit>
+    <TextUnit id="600" loc="595-9">pensare regnum? coniugi donum datus</TextUnit>
+    <TextUnit id="601" loc="595-9">arbitria thalami dura felicis feram</TextUnit>
+    <TextUnit id="602" loc="595-9">humilisque socerum lixa dominantem sequar?</TextUnit>
+    <TextUnit id="603" loc="595-9">in servitutem cadere de regno grave est.</TextUnit>
+    <TextUnit id="604" loc="595-9">ioc. Si regna quaeris nec potest sceptro manus</TextUnit>
+    <TextUnit id="605" loc="600-4">vacare saevo, multa quae possunt peti</TextUnit>
+    <TextUnit id="606" loc="600-4">in orbe toto quaelibet tellus dabit.</TextUnit>
+    <TextUnit id="607" loc="600-4">hinc nota Baccho Tmolus attollit iuga,</TextUnit>
+    <TextUnit id="608" loc="600-4">qua lata terris spatia frugiferis iacent</TextUnit>
+    <TextUnit id="609" loc="600-4">et qua trahens opulenta Pactolus vada</TextUnit>
+    <TextUnit id="610" loc="605-9">inundat auro rura; nec laetis minus</TextUnit>
+    <TextUnit id="611" loc="605-9">Maeandros arvis flectit errantis aquas</TextUnit>
+    <TextUnit id="612" loc="605-9">rapidusque campos fertiles Hermus secat;</TextUnit>
+    <TextUnit id="613" loc="605-9">hinc grata Cereri Gargara et dives solum</TextUnit>
+    <TextUnit id="614" loc="605-9">quod Xanthus ambit nivibus Idaeis tumens;</TextUnit>
+    <TextUnit id="615" loc="610-4">hinc qua relinquit nomen Ionii mare</TextUnit>
+    <TextUnit id="616" loc="610-4">faucesque Abydo Sestos opposita premit,</TextUnit>
+    <TextUnit id="617" loc="610-4">aut quae latus iam propior orienti dedit</TextUnit>
+    <TextUnit id="618" loc="610-4">tutamque crebris portibus Lyciam videt:</TextUnit>
+    <TextUnit id="619" loc="610-4">haec regna ferro quaere, in hos populos ferat</TextUnit>
+    <TextUnit id="620" loc="615-9">socer arma fortis, has tuo sceptro paret</TextUnit>
+    <TextUnit id="621" loc="615-9">tradatque gentes, hoc adhuc regnum puta</TextUnit>
+    <TextUnit id="622" loc="615-9">tenere patrem, melius exilium est tibi</TextUnit>
+    <TextUnit id="623" loc="615-9">quam reditus iste: crimine alieno exulas,</TextUnit>
+    <TextUnit id="624" loc="615-9">tuo redibis. melius istis viribus</TextUnit>
+    <TextUnit id="625" loc="620-4">nova regna nullo scelere maculata appetes.</TextUnit>
+    <TextUnit id="626" loc="620-4">quin ipse frater arma comitatus tua</TextUnit>
+    <TextUnit id="627" loc="620-4">tibi militabit. vade et id bellum gere</TextUnit>
+    <TextUnit id="628" loc="620-4">in quo pater materque pugnanti tibi</TextUnit>
+    <TextUnit id="629" loc="620-4">favere possint, regna cum scelere omnibus</TextUnit>
+    <TextUnit id="630" loc="625-9">sunt exilis graviora, nunc belli mala</TextUnit>
+    <TextUnit id="631" loc="625-9">propone, dubias Martis incerti vices:</TextUnit>
+    <TextUnit id="632" loc="625-9">licet omne tecum Graeciae robur trahas,</TextUnit>
+    <TextUnit id="633" loc="625-9">licet arma longe miles ac late explicet,</TextUnit>
+    <TextUnit id="634" loc="625-9">fortuna belli semper ancipiti in loco est.</TextUnit>
+    <TextUnit id="635" loc="630-4">quodcumque Mars decernit; exaequat duos,</TextUnit>
+    <TextUnit id="636" loc="630-4">licet impares sint, gladius; et spes et metus</TextUnit>
+    <TextUnit id="637" loc="630-4">Fors caeca versat, praemium incertum petis,</TextUnit>
+    <TextUnit id="638" loc="630-4">certum scelus, favisse fac votis deos</TextUnit>
+    <TextUnit id="639" loc="630-4">omnes tuis: cessere et aversi fugam</TextUnit>
+    <TextUnit id="640" loc="635-9">petiere cives, clade funesta iacens</TextUnit>
+    <TextUnit id="641" loc="635-9">obtexit agros miles— exultes licet</TextUnit>
+    <TextUnit id="642" loc="635-9">victorque fratris spolia deiecti geras:</TextUnit>
+    <TextUnit id="643" loc="635-9">frangenda palma est. quale tu hoc bellum putas,</TextUnit>
+    <TextUnit id="644" loc="635-9">in quo execrandum victor admittit nefas,</TextUnit>
+    <TextUnit id="645" loc="640-4">si gaudet? hunc quem vincere infelix cupis,</TextUnit>
+    <TextUnit id="646" loc="640-4">cum viceris, lugebis. infaustas age</TextUnit>
+    <TextUnit id="647" loc="640-4">dimitte pugnas, libera patriam metu,</TextUnit>
+    <TextUnit id="648" loc="640-4">luctu parentes,</TextUnit>
+    <TextUnit id="649" loc="640-4">Sceleris et fraudis suae</TextUnit>
+    <TextUnit id="650" loc="640-4">poenas nefandus frater ut nullas ferat?</TextUnit>
+    <TextUnit id="651" loc="645-9">Ne metue. poenas et quidem solvet graves:</TextUnit>
+    <TextUnit id="652" loc="645-9">regnabit, est haec poena, si dubitas, avo</TextUnit>
+    <TextUnit id="653" loc="645-9">patrique crede: Cadmus hoc dicet tibi</TextUnit>
+    <TextUnit id="654" loc="645-9">Cadmique proles, sceptra Thebano fuit</TextUnit>
+    <TextUnit id="655" loc="645-9">impune nulli gerere, nec quisquam fide</TextUnit>
+    <TextUnit id="656" loc="650-4">rupta tenebit illa: iam numeres licet</TextUnit>
+    <TextUnit id="657" loc="650-4">fratrem inter istos.</TextUnit>
+    <TextUnit id="658" loc="650-4">Numeret, est tanti mihi</TextUnit>
+    <TextUnit id="659" loc="650-4">cum regibus iacere, te turbae exulum</TextUnit>
+    <TextUnit id="660" loc="650-4">ascribo.</TextUnit>
+    <TextUnit id="661" loc="650-4">Regna, dummodo invisus tuis.</TextUnit>
+    <TextUnit id="662" loc="650-4">Regnare non vult esse qui invisus timet:</TextUnit>
+    <TextUnit id="663" loc="655-9">simul ista mundi conditor posuit deus,</TextUnit>
+    <TextUnit id="664" loc="655-9">odium atque regnum: regis hoc magni reor,</TextUnit>
+    <TextUnit id="665" loc="655-9">odia ipsa premere, multa dominantem vetat</TextUnit>
+    <TextUnit id="666" loc="655-9">amor suorum; plus in iratos licet,</TextUnit>
+    <TextUnit id="667" loc="655-9">qui vult amari, languida regnat manu.</TextUnit>
+    <TextUnit id="668" loc="660-4">Invisa numquam imperia retinentur diu.</TextUnit>
+    <TextUnit id="669" loc="660-4">Praecepta melius imperi reges dabunt;</TextUnit>
+    <TextUnit id="670" loc="660-4">exilia tu dispone, pro regno velim—</TextUnit>
+    <TextUnit id="671" loc="660-4">Patriam penates coniugem flammis dare?</TextUnit>
+    <TextUnit id="672" loc="660-4">Imperia pretio quolibet constant bene.</TextUnit>
+  </Text>
+</TessDocument>

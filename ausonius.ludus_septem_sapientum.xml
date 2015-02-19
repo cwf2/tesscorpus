@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.ludus_septem_sapientum">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Ludus Septem Sapientum</Display>
+    <Abbr>aus. sap.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0618</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa018.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>17</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.18</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>18</MaskLower><MaskUpper>50</MaskUpper><LocusLower>2.19</LocusLower><LocusUpper>2.51</LocusUpper></Part><Part id="3"><Display>Book 3</Display><MaskLower>51</MaskLower><MaskUpper>71</MaskUpper><LocusLower>3.52</LocusLower><LocusUpper>3.72</LocusUpper></Part><Part id="4"><Display>Book 4</Display><MaskLower>72</MaskLower><MaskUpper>129</MaskUpper><LocusLower>4.73</LocusLower><LocusUpper>4.130</LocusUpper></Part><Part id="5"><Display>Book 5</Display><MaskLower>130</MaskLower><MaskUpper>145</MaskUpper><LocusLower>5.131</LocusLower><LocusUpper>5.146</LocusUpper></Part><Part id="6"><Display>Book 6</Display><MaskLower>146</MaskLower><MaskUpper>161</MaskUpper><LocusLower>6.147</LocusLower><LocusUpper>6.162</LocusUpper></Part><Part id="7"><Display>Book 7</Display><MaskLower>162</MaskLower><MaskUpper>188</MaskUpper><LocusLower>7.163</LocusLower><LocusUpper>7.188</LocusUpper></Part><Part id="8"><Display>Book 8</Display><MaskLower>189</MaskLower><MaskUpper>201</MaskUpper><LocusLower>8.189</LocusLower><LocusUpper>8.201</LocusUpper></Part><Part id="9"><Display>Book 9</Display><MaskLower>202</MaskLower><MaskUpper>213</MaskUpper><LocusLower>9.202</LocusLower><LocusUpper>9.213</LocusUpper></Part><Part id="10"><Display>Book 10</Display><MaskLower>214</MaskLower><MaskUpper>230</MaskUpper><LocusLower>10.214</LocusLower><LocusUpper>10.230</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">ignoscenda istaec an cognoscenda rearis,</TextUnit>
+    <TextUnit id="1" loc="1.2">adtento, Drepani, perlege iudicio,</TextUnit>
+    <TextUnit id="2" loc="1.3">aequanimus fiam te iudice, sive legenda,</TextUnit>
+    <TextUnit id="3" loc="1.4">sive tegenda putes carmina, quae dedimus,</TextUnit>
+    <TextUnit id="4" loc="1.5">nam primum est meruisse tuum, Pacate, favorem:</TextUnit>
+    <TextUnit id="5" loc="1.6">proxima defensi cura pudoris erit.</TextUnit>
+    <TextUnit id="6" loc="1.7">possum ego censuram lectoris ferre severi</TextUnit>
+    <TextUnit id="7" loc="1.8">et possum modica laude placere mihi:</TextUnit>
+    <TextUnit id="8" loc="1.9">novit equus plausae sonitum cervicis amare,</TextUnit>
+    <TextUnit id="9" loc="1.10">novit et intrepidus verbera lenta pati.</TextUnit>
+    <TextUnit id="10" loc="1.11">Maeonio qualem cultum quaesivit Homero</TextUnit>
+    <TextUnit id="11" loc="1.12">censor Aristarchus normaque Zenodoti!</TextUnit>
+    <TextUnit id="12" loc="1.13">pone obelos igitur primorum stigmata vatum:</TextUnit>
+    <TextUnit id="13" loc="1.14">palmas, non culpas esse putabo meas;</TextUnit>
+    <TextUnit id="14" loc="1.15">et correcta magis quam condemnata vocabo,</TextUnit>
+    <TextUnit id="15" loc="1.16">adponet docti quae mihi lima viri.</TextUnit>
+    <TextUnit id="16" loc="1.17">interea arbitrii subiturus pondera tanti</TextUnit>
+    <TextUnit id="17" loc="1.18">optabo, ut placeam; si minus, ut lateam.</TextUnit>
+    <TextUnit id="18" loc="2.19">Septem sapientes, nomen quibus istud dedit</TextUnit>
+    <TextUnit id="19" loc="2.20">Ssuperior aetas nec secuta sustulit,</TextUnit>
+    <TextUnit id="20" loc="2.21">hodie in orchestram palliati prodeunt,</TextUnit>
+    <TextUnit id="21" loc="2.22">quid erubescis tu, togate Romule,</TextUnit>
+    <TextUnit id="22" loc="2.23">scaenam quod introibunt tam clari viri?</TextUnit>
+    <TextUnit id="23" loc="2.24">nobis pudendum hoc, non et Atticis quoque:</TextUnit>
+    <TextUnit id="24" loc="2.25">quibus theatrum curiae praebet vicem.</TextUnit>
+    <TextUnit id="25" loc="2.26">nostris negotis sua loca sortito data:</TextUnit>
+    <TextUnit id="26" loc="2.27">campus comitiis, ut conscriptis curia,</TextUnit>
+    <TextUnit id="27" loc="2.28">forum atque rostra separat ius 1 civium,</TextUnit>
+    <TextUnit id="28" loc="2.29">una est Athenis atque in omni Graecia</TextUnit>
+    <TextUnit id="29" loc="2.30">ad consulendum publici sedes loci,</TextUnit>
+    <TextUnit id="30" loc="2.31">quam in urbe nostra sero luxus condidit,</TextUnit>
+    <TextUnit id="31" loc="2.32">aedilis olim scaenam tabulatam dabat</TextUnit>
+    <TextUnit id="32" loc="2.33">subito excitatam nulla mole saxea.</TextUnit>
+    <TextUnit id="33" loc="2.34">Murena sic et Gallius: nota eloquar,</TextUnit>
+    <TextUnit id="34" loc="2.35">postquam potentes nec verentes sumptuum</TextUnit>
+    <TextUnit id="35" loc="2.36">nomen perenne crediderunt, si semel</TextUnit>
+    <TextUnit id="36" loc="2.37">constructa moles saxeo fundamine</TextUnit>
+    <TextUnit id="37" loc="2.38">in omne tempus conderet ludis locum:</TextUnit>
+    <TextUnit id="38" loc="2.39">cuneata crevit haec theatri inmanitas:</TextUnit>
+    <TextUnit id="39" loc="2.40">Pompeius hanc et Balbus et Caesar dedit</TextUnit>
+    <TextUnit id="40" loc="2.41">Octavianus concertantes sumptibus.</TextUnit>
+    <TextUnit id="41" loc="2.42">sed quid ego istaec? non hac de causa huc prodii,</TextUnit>
+    <TextUnit id="42" loc="2.43">ut expedirem, quis theatra, quis forum,</TextUnit>
+    <TextUnit id="43" loc="2.44">quis condidisset privas partes moenium:</TextUnit>
+    <TextUnit id="44" loc="2.45">set ut verendos disque laudatos viros</TextUnit>
+    <TextUnit id="45" loc="2.46">praegrederer aperiremque, quid vellent sibi.</TextUnit>
+    <TextUnit id="46" loc="2.47">Pronuntiare suas solent sententias,</TextUnit>
+    <TextUnit id="47" loc="2.48">quas quisque iam prudentium anteverterit.</TextUnit>
+    <TextUnit id="48" loc="2.49">scitis profecto, quae sint; set si memoria</TextUnit>
+    <TextUnit id="49" loc="2.50">rebus vetustis claudit, veniet ludius</TextUnit>
+    <TextUnit id="50" loc="2.51">edissertator harum, quas teneo minus.</TextUnit>
+    <TextUnit id="51" loc="3.52">DELPHIS Solonem scripse fama est Atticum</TextUnit>
+    <TextUnit id="52" loc="3.53">γνῶθι σεαυτόν, quod Latinum est: nosce te.</TextUnit>
+    <TextUnit id="53" loc="3.54">multi hoc Laconis esse Chilonis putant.</TextUnit>
+    <TextUnit id="54" loc="3.55">Spartane Chilon, sit tuum necne, ambigunt,</TextUnit>
+    <TextUnit id="55" loc="3.56">quod iuxta fertur, ὄρα τέλος μακροῦ βίου,</TextUnit>
+    <TextUnit id="56" loc="3.57">finem intueri longae vitae qui iubes.</TextUnit>
+    <TextUnit id="57" loc="3.58">multi hoc Solonem dixe Croeso existimant.</TextUnit>
+    <TextUnit id="58" loc="3.59">et Pittacum dixisse fama est Lesbium</TextUnit>
+    <TextUnit id="59" loc="3.60">γίγνωσκε καιρόν: tempus ut noris, iubet.</TextUnit>
+    <TextUnit id="60" loc="3.61">set καιρὸς iste tempestivum tempus est.</TextUnit>
+    <TextUnit id="61" loc="3.62">Bias Prieneus dixit οἱ πλεῖστοι κακοί,</TextUnit>
+    <TextUnit id="62" loc="3.63">quod est Latinum, plures hominum sunt mali;</TextUnit>
+    <TextUnit id="63" loc="3.64">set inperitos scito, quos dixit malos.</TextUnit>
+    <TextUnit id="64" loc="3.65">μελέτη τὸ πᾶν, Periandri id est Corinthii,</TextUnit>
+    <TextUnit id="65" loc="3.66">meditationem posse totum qui putat.</TextUnit>
+    <TextUnit id="66" loc="3.67">ἄριστον μέτρον esse dicit Lindius</TextUnit>
+    <TextUnit id="67" loc="3.68">Cleobulus: hoc est, optimus cunctis modus.</TextUnit>
+    <TextUnit id="68" loc="3.69">Thales set ἐγγύα, πάρα δ' ἄτα protulit,</TextUnit>
+    <TextUnit id="69" loc="3.70">spondere qui nos, noxa quia praes est, vetat.</TextUnit>
+    <TextUnit id="70" loc="3.71">hoc nos monere faeneratis non placet.</TextUnit>
+    <TextUnit id="71" loc="3.72">Dixi: recedam, legifer venit Solon.</TextUnit>
+    <TextUnit id="72" loc="4.73">DE more Graeco prodeo in scaenam Solon,</TextUnit>
+    <TextUnit id="73" loc="4.74">septem sapientum fama cui palmam dedit.</TextUnit>
+    <TextUnit id="74" loc="4.75">set famae 1 non est iudicii severitas;</TextUnit>
+    <TextUnit id="75" loc="4.76">neque enim esse primum me, verum unum existimo,</TextUnit>
+    <TextUnit id="76" loc="4.77">aequalitas quod ordinem nescit pati.</TextUnit>
+    <TextUnit id="77" loc="4.78">recte olim ineptum Delphicus suasit deus</TextUnit>
+    <TextUnit id="78" loc="4.79">quaerentem, quisnam primus sapientum foret,</TextUnit>
+    <TextUnit id="79" loc="4.80">ut in orbe tereti nominum sertum inderet,</TextUnit>
+    <TextUnit id="80" loc="4.81">ne primus esset, ne vel imus quispiam.</TextUnit>
+    <TextUnit id="81" loc="4.82">eorum e medio prodeo gyro Solon,</TextUnit>
+    <TextUnit id="82" loc="4.83">ut, quod dixisse Croeso regi existimor,</TextUnit>
+    <TextUnit id="83" loc="4.84">id omnis hominum secta sibi dictum putet.</TextUnit>
+    <TextUnit id="84" loc="4.85">Graece coactum est ὄρα τέλος μακροῦ βίου,</TextUnit>
+    <TextUnit id="85" loc="4.86">quod longius fit, si Latine dixeris:</TextUnit>
+    <TextUnit id="86" loc="4.87">spectare vitae iubeo cunctos terminum.</TextUnit>
+    <TextUnit id="87" loc="4.88">proinde miseros aut beatos dicere</TextUnit>
+    <TextUnit id="88" loc="4.89">evita, quod sunt semper ancipiti in statu.</TextUnit>
+    <TextUnit id="89" loc="4.90">id adeo sic est. si queam, paucis loquar.</TextUnit>
+    <TextUnit id="90" loc="4.91">Rex an tyrannus Lydiae, Croesus, fuit</TextUnit>
+    <TextUnit id="91" loc="4.92">his in beatis, dives insanum in modum,</TextUnit>
+    <TextUnit id="92" loc="4.93">lateribus aureis templa qui divis dabat,</TextUnit>
+    <TextUnit id="93" loc="4.94">is me evocavit. venio dicto oboediens,</TextUnit>
+    <TextUnit id="94" loc="4.95">meliore ut uti rege possint Lydii.</TextUnit>
+    <TextUnit id="95" loc="4.96">rogat, beatum prodam, si quem noverim.</TextUnit>
+    <TextUnit id="96" loc="4.97">Tellena dico civem non ignobilem:</TextUnit>
+    <TextUnit id="97" loc="4.98">pro patria pugnans iste vitam obiecerat.</TextUnit>
+    <TextUnit id="98" loc="4.99">despexit, alium quaerit, inveni Aglaum:</TextUnit>
+    <TextUnit id="99" loc="4.100">fines agelli proprii is numquam excesserat.</TextUnit>
+    <TextUnit id="100" loc="4.101">at ille ridens: “ Quo dein me ponis loco,</TextUnit>
+    <TextUnit id="101" loc="4.102">beatus orbe toto qui solus vocor? ”</TextUnit>
+    <TextUnit id="102" loc="4.103">“Spectandum" dico “terminum vitae prius:</TextUnit>
+    <TextUnit id="103" loc="4.104">tum iudicandum, si manet felicitas.”</TextUnit>
+    <TextUnit id="104" loc="4.105">dictum moleste Croesus accepit: ego</TextUnit>
+    <TextUnit id="105" loc="4.106">relinquo regem, bellum ille in Persas parat,</TextUnit>
+    <TextUnit id="106" loc="4.107">profectus, victus, vinctus, regi deditus,</TextUnit>
+    <TextUnit id="107" loc="4.108">stat ille, captans funeris iam instar sui,</TextUnit>
+    <TextUnit id="108" loc="4.109">qua flamma totum se per ambitum dabat</TextUnit>
+    <TextUnit id="109" loc="4.110">volvens in altum tumidos aestu globos.</TextUnit>
+    <TextUnit id="110" loc="4.111">ac paene sero Croesus ingenti sono,</TextUnit>
+    <TextUnit id="111" loc="4.112">“ O vere vates,” inquit, " O Solon, Solon '”</TextUnit>
+    <TextUnit id="112" loc="4.113">clamore magno ter Solonem nuncupat.</TextUnit>
+    <TextUnit id="113" loc="4.114">qua voce Cyrus motus, extingui iubet</TextUnit>
+    <TextUnit id="114" loc="4.115">gyrum per omnem et destrui ardentem pyram:</TextUnit>
+    <TextUnit id="115" loc="4.116">et commodum profusus imber nubibus</TextUnit>
+    <TextUnit id="116" loc="4.117">repressit ignem. Croesus ad regem illico</TextUnit>
+    <TextUnit id="117" loc="4.118">per militarem ducitur lectam manum:</TextUnit>
+    <TextUnit id="118" loc="4.119">interrogatur, quem Solonem diceret</TextUnit>
+    <TextUnit id="119" loc="4.120">et quam ciendi causam haberet nominis?</TextUnit>
+    <TextUnit id="120" loc="4.121">seriem per omnem cuncta regi edisserit.</TextUnit>
+    <TextUnit id="121" loc="4.122">miseratur ille vimque fortunae videns</TextUnit>
+    <TextUnit id="122" loc="4.123">laudat Solonem: Croesum inde in amicis habet</TextUnit>
+    <TextUnit id="123" loc="4.124">vinctumque pedicis aureis secum iubet,</TextUnit>
+    <TextUnit id="124" loc="4.125">reliquum quod esset vitae, totum degere.</TextUnit>
+    <TextUnit id="125" loc="4.126">ego duorum regum testimonio</TextUnit>
+    <TextUnit id="126" loc="4.127">laudatus et probatus ambobus fui.</TextUnit>
+    <TextUnit id="127" loc="4.128">quodque uni dictum est, quisque sibi dictum putet.</TextUnit>
+    <TextUnit id="128" loc="4.129">Ego iam peregi, qua de causa huc prodii.</TextUnit>
+    <TextUnit id="129" loc="4.130">venit ecce Chilon. vos valete et plaudite.</TextUnit>
+    <TextUnit id="130" loc="5.131">LUMBI sedendo, oculi spectando dolent,</TextUnit>
+    <TextUnit id="131" loc="5.132">manendo Solonem, quoad ad se se recipiat.1</TextUnit>
+    <TextUnit id="132" loc="5.133">hui, quam pauca, di, locuntur Attici!</TextUnit>
+    <TextUnit id="133" loc="5.134">unam trecentis versibus sententiam</TextUnit>
+    <TextUnit id="134" loc="5.135">tandem peregit meque respectans abit.</TextUnit>
+    <TextUnit id="135" loc="5.136">Spartanus ego sum Chilon, qui nunc prodeo.</TextUnit>
+    <TextUnit id="136" loc="5.137">brevitate nota, qua Lacones utimur,</TextUnit>
+    <TextUnit id="137" loc="5.138">commendo nostrum γνῶθι σεαυτόν, nosce te,</TextUnit>
+    <TextUnit id="138" loc="5.139">quod in columna iam tenetur Delphica.</TextUnit>
+    <TextUnit id="139" loc="5.140">labor molestus iste fructi est optimi,</TextUnit>
+    <TextUnit id="140" loc="5.141">quid ferre possis, quidve non, dinoscere;</TextUnit>
+    <TextUnit id="141" loc="5.142">noctu diuque, quae geras, quae gesseris,</TextUnit>
+    <TextUnit id="142" loc="5.143">ad usque puncti tenuis instar quaerere.2</TextUnit>
+    <TextUnit id="143" loc="5.144">officia cuncta, pudor, honor, constantia</TextUnit>
+    <TextUnit id="144" loc="5.145">in hoc, et ulla spreta nobis gloria.</TextUnit>
+    <TextUnit id="145" loc="5.146">Dixi: valete memores, plausum non moror.</TextUnit>
+    <TextUnit id="146" loc="6.147">CLEOBULUS ego sum, parvae civis insulae,</TextUnit>
+    <TextUnit id="147" loc="6.148">magnae sed auctor, qua cluo, sententiae:</TextUnit>
+    <TextUnit id="148" loc="6.149">ἄριστον μέτρον quem dixisse existimant.</TextUnit>
+    <TextUnit id="149" loc="6.150">interpretare tu, qui orchestrae proximus</TextUnit>
+    <TextUnit id="150" loc="6.151">gradibus propinquis in quatuordecim sedes:</TextUnit>
+    <TextUnit id="151" loc="6.152">ἄριστον μέτρον an sit optimus modus,</TextUnit>
+    <TextUnit id="152" loc="6.153">dic! adnuisti? gratiam habeo, persequar</TextUnit>
+    <TextUnit id="153" loc="6.154">per ordinem, iam dixit ex isto loco</TextUnit>
+    <TextUnit id="154" loc="6.155">Afer poeta vester “ut ne quid nimis,” 1</TextUnit>
+    <TextUnit id="155" loc="6.156">et noster quidam μηδὲν ἄγαν.2 huc pertinet</TextUnit>
+    <TextUnit id="156" loc="6.157">uterque sensus, Italus seu Dorius.</TextUnit>
+    <TextUnit id="157" loc="6.158">fandi, tacendi, somni, vigilii is modus,</TextUnit>
+    <TextUnit id="158" loc="6.159">beneficiorum, gratiarum, iniuriae,</TextUnit>
+    <TextUnit id="159" loc="6.160">studii, laborum: vita in omni quidquid est,</TextUnit>
+    <TextUnit id="160" loc="6.161">istum requirit optimae pausae modum.</TextUnit>
+    <TextUnit id="161" loc="6.162">Dixi: recedam, sit modus, venit Thales.</TextUnit>
+    <TextUnit id="162" loc="7.163">MILESIUS sum Thales, aquam qui principem</TextUnit>
+    <TextUnit id="163" loc="7.164">rebus creandis 3 dixi, ut vates Pindarus, 4</TextUnit>
+    <TextUnit id="164" loc="7.164a">cuique olim iussu Apollinis tripodem aureum 5</TextUnit>
+    <TextUnit id="165" loc="7.165">dedere piscatores extractum mari;</TextUnit>
+    <TextUnit id="166" loc="7.166">namque hi iubente Delio me legerant,</TextUnit>
+    <TextUnit id="167" loc="7.167">quod ille munus hoc sapienti miserat.</TextUnit>
+    <TextUnit id="168" loc="7.168">ego recusans non recepi et reddidi</TextUnit>
+    <TextUnit id="169" loc="7.169">ferendum ad alios, quos priores crederem.</TextUnit>
+    <TextUnit id="170" loc="7.170">dein per omnes septem sapientes viros</TextUnit>
+    <TextUnit id="171" loc="7.171">missum ac remissum rursus ad me deferunt.</TextUnit>
+    <TextUnit id="172" loc="7.172">ego receptum consecravi Apollini;</TextUnit>
+    <TextUnit id="173" loc="7.173">nam si sapientem deligi Phoebus iubet,</TextUnit>
+    <TextUnit id="174" loc="7.174">non hominem quemquam, set deum credi decet.</TextUnit>
+    <TextUnit id="175" loc="7.175">Is igitur ego sum. causa set in scaenam fuit</TextUnit>
+    <TextUnit id="176" loc="7.176">mihi prodeundi, quae duobus ante me,</TextUnit>
+    <TextUnit id="177" loc="7.177">adsertor ut sententiae fierem meae.</TextUnit>
+    <TextUnit id="178" loc="7.178">ea displicebit, non tamen prudentibus,</TextUnit>
+    <TextUnit id="179" loc="7.179">quos docuit usus et peritos reddidit.</TextUnit>
+    <TextUnit id="180" loc="7.180">' en ἐγγύα, πάρα δ' ἄτα, graece dicimus:</TextUnit>
+    <TextUnit id="181" loc="7.181">Latinum est, sponde, noxa set praesto tibi.</TextUnit>
+    <TextUnit id="182" loc="7.182">per mille possem currere exempla, ut probem</TextUnit>
+    <TextUnit id="183" loc="7.183">praedes vadesque paenitudinis reos.</TextUnit>
+    <TextUnit id="184" loc="7.184">sed nolo quemquam nominatim dicere:</TextUnit>
+    <TextUnit id="185" loc="7.185">sibi quisque vestrum dicat et secum putet,</TextUnit>
+    <TextUnit id="186" loc="7.186">spondere quantis damno fuerit et malo.</TextUnit>
+    <TextUnit id="187" loc="7.187">gratum hoc officium maneat ambobus tamen.</TextUnit>
+    <TextUnit id="188" loc="7.188">Pars plaudite ergo, pars offensi explodite.</TextUnit>
+    <TextUnit id="189" loc="8.189">BIAS Prieneus quod 1 dixi oἱ πλεῖστοι κακοι,</TextUnit>
+    <TextUnit id="190" loc="8.190">Latine dictum suspicor: plures mali.</TextUnit>
+    <TextUnit id="191" loc="8.191">dixisse nollem; veritas odium parit.2</TextUnit>
+    <TextUnit id="192" loc="8.192">malos sed imperitos dixi et barbaros,</TextUnit>
+    <TextUnit id="193" loc="8.193">qui ius et aequum et sacros mores neglegunt.</TextUnit>
+    <TextUnit id="194" loc="8.194">nam populus iste, quo theatrum cingitur,</TextUnit>
+    <TextUnit id="195" loc="8.195">totus bonorum est. hostium tellus habet,</TextUnit>
+    <TextUnit id="196" loc="8.196">dixisse quos me creditis, plures malos,</TextUnit>
+    <TextUnit id="197" loc="8.197">sed nemo quisquam tam malus iudex fuat,</TextUnit>
+    <TextUnit id="198" loc="8.198">quin iam bonorum partibus se copulet,</TextUnit>
+    <TextUnit id="199" loc="8.199">sive ille vere bonus est, seu dici studet.</TextUnit>
+    <TextUnit id="200" loc="8.200">iam fugit illud nomen invisum mali.</TextUnit>
+    <TextUnit id="201" loc="8.201">Abeo. valete et plaudite, plures boni.1</TextUnit>
+    <TextUnit id="202" loc="9.202">MYTILENA ego ortus Pittacus sum Lesbius,</TextUnit>
+    <TextUnit id="203" loc="9.203">γίνωσκε καιρὸν qui docui sententiam.</TextUnit>
+    <TextUnit id="204" loc="9.204">set iste καιρός, tempus ut noris, monet</TextUnit>
+    <TextUnit id="205" loc="9.205">et esse καιρόν, tempestivum quod vocant.</TextUnit>
+    <TextUnit id="206" loc="9.206">Romana sic et est vox: veni in tempore.2</TextUnit>
+    <TextUnit id="207" loc="9.207">vester quoque iste comicus Terentius</TextUnit>
+    <TextUnit id="208" loc="9.208">rerum omnium esse primum tempus autumat,</TextUnit>
+    <TextUnit id="209" loc="9.209">ad Antiphilam quom venerat servus Dromo 3</TextUnit>
+    <TextUnit id="210" loc="9.210">nullo inpeditam, temporis servans vicem.</TextUnit>
+    <TextUnit id="211" loc="9.211">reputate cuncti, quotiens offensam incidat,</TextUnit>
+    <TextUnit id="212" loc="9.212">spectata cui non fuerit opportunitas.</TextUnit>
+    <TextUnit id="213" loc="9.213">Tempus monet, ne sim molestus, plaudite.</TextUnit>
+    <TextUnit id="214" loc="10.214">EPHYRA creatus huc Periander prodeo,</TextUnit>
+    <TextUnit id="215" loc="10.215">μελέτη τὸ πᾶν qui dixi et dictum iam probo,</TextUnit>
+    <TextUnit id="216" loc="10.216">meditationis esse, quod recte geras.</TextUnit>
+    <TextUnit id="217" loc="10.217">is quippe solus rei gerendae est efficax,</TextUnit>
+    <TextUnit id="218" loc="10.218">meditatur omne qui prius negotium.</TextUnit>
+    <TextUnit id="219" loc="10.219">adversa rerum vel secunda praedicat</TextUnit>
+    <TextUnit id="220" loc="10.220">meditanda cunctis comicus Terentius. 1</TextUnit>
+    <TextUnit id="221" loc="10.221">locare sedes, bellum gerere aut ponere,</TextUnit>
+    <TextUnit id="222" loc="10.222">magnas modicasque res, etiam parvas quoque</TextUnit>
+    <TextUnit id="223" loc="10.223">agere volentem semper meditari decet.</TextUnit>
+    <TextUnit id="224" loc="10.224">nam segniores omnes in coeptis novis,</TextUnit>
+    <TextUnit id="225" loc="10.225">meditatio si rei gerendae defuit.</TextUnit>
+    <TextUnit id="226" loc="10.226">nil est, quod ampliorem curam postulet,</TextUnit>
+    <TextUnit id="227" loc="10.227">quam cogitare, quid gerendum sit. dehinc</TextUnit>
+    <TextUnit id="228" loc="10.228">incogitantes fors, non consilium regit.</TextUnit>
+    <TextUnit id="229" loc="10.229">Sed ego me ad partes iam recipio, plaudite,</TextUnit>
+    <TextUnit id="230" loc="10.230">meditando et vestram rem curetis publicam.</TextUnit>
+  </Text>
+</TessDocument>

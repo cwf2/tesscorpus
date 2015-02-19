@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="claudian.de_bello_gildonico">
+  <Metadata>
+    <Author>claudian</Author>
+    <Display>De Bello Gildonico</Display>
+    <Abbr>claud. gild.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Claudian, Vol 1. Claudianus, Claudius. Maurice Platnaeur. William Heinemann; G.P. Putnam's Sons. London; New York. 1922.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0698</DigitalSourceURL>
+    <AddedBy/>
+    <URI>urn:cts:latinLit:stoa0089.stoa002.perseus-lat1</URI>
+  </Metadata>
+  <Text>
+    <TextUnit id="0" loc="1">Redditus imperiis Auster subiectaque rursus</TextUnit>
+    <TextUnit id="1" loc="2">alterius convexa poli, rectore sub uno</TextUnit>
+    <TextUnit id="2" loc="3">conspirat geminus frenis communibus orbis.</TextUnit>
+    <TextUnit id="3" loc="4">iunximus Europen Libyae. concordia fratrum</TextUnit>
+    <TextUnit id="4" loc="5">plena redit. patriis solum quod defuit armis,</TextUnit>
+    <TextUnit id="5" loc="6">tertius occubuit nati virtute tyrannus.</TextUnit>
+    <TextUnit id="6" loc="7">horret adhuc animus manifestaque gaudia differt,</TextUnit>
+    <TextUnit id="7" loc="8">dum stupet et tanto cunctatur credere voto.</TextUnit>
+    <TextUnit id="8" loc="9">necdum Cinyphias exercitus attigit oras:</TextUnit>
+    <TextUnit id="9" loc="10">iam domitus Gildo. nullis victoria nodis</TextUnit>
+    <TextUnit id="10" loc="11">haesit, non spatio terrae, non obice ponti.</TextUnit>
+    <TextUnit id="11" loc="12">congressum profugum captum vox nuntiat una</TextUnit>
+    <TextUnit id="12" loc="13">rumoremque sui praevenit laurea belli,</TextUnit>
+    <TextUnit id="13" loc="14">quo, precor, haec effecta deo? robusta vetusque</TextUnit>
+    <TextUnit id="14" loc="15">tempore tam parvo potuit dementia vinci?</TextUnit>
+    <TextUnit id="15" loc="16">quem veniens indixit hiems, ver perculit hostem.</TextUnit>
+    <TextUnit id="16" loc="17">Exitium iam Roma timens et fessa negatis</TextUnit>
+    <TextUnit id="17" loc="18">frugibus ad rapidi limen tendebat Olympi</TextUnit>
+    <TextUnit id="18" loc="19">non solito vultu nec qualis iura Britannis</TextUnit>
+    <TextUnit id="19" loc="20">dividit aut trepidos summittit fascibus Indos.</TextUnit>
+    <TextUnit id="20" loc="21">vox tenuis tardique gradus oculique iacentes</TextUnit>
+    <TextUnit id="21" loc="22">interius; fugere genae; ieiuna lacertos</TextUnit>
+    <TextUnit id="22" loc="23">exedit macies. umeris vix sustinet aegris</TextUnit>
+    <TextUnit id="23" loc="24">squalentem clipeum; laxata casside prodit</TextUnit>
+    <TextUnit id="24" loc="25">canitiem plenamque trahit rubiginis hastam.</TextUnit>
+    <TextUnit id="25" loc="26">attigit ut tandem caelum genibusque Tonantis</TextUnit>
+    <TextUnit id="26" loc="27">procubuit, tales orditur maesta querellas:</TextUnit>
+    <TextUnit id="27" loc="28">Si mea mansuris meruerunt moenia nasci,</TextUnit>
+    <TextUnit id="28" loc="29">Iuppiter, auguris, si stant inmota Sibyllae</TextUnit>
+    <TextUnit id="29" loc="30">carmina, Tarpeias si necdum respuis arces:</TextUnit>
+    <TextUnit id="30" loc="31">advenio supplex, non ut proculcet Araxen</TextUnit>
+    <TextUnit id="31" loc="32">consul ovans nostraeve premant pharetrata secures</TextUnit>
+    <TextUnit id="32" loc="33">Susa, nec ut Rubris aquilas figamus harenis.</TextUnit>
+    <TextUnit id="33" loc="34">haec nobis, haec ante dabas; nunc pabula tantum</TextUnit>
+    <TextUnit id="34" loc="35">Roma precor. miserere tuae, pater optime, gentis,</TextUnit>
+    <TextUnit id="35" loc="36">extremam defende famem. satiavimus iram</TextUnit>
+    <TextUnit id="36" loc="37">si qua fuit; lugenda Getis et flenda Suebis</TextUnit>
+    <TextUnit id="37" loc="38">hausimus; ipsa meos horreret Parthia casus.</TextUnit>
+    <TextUnit id="38" loc="39">quid referam morbive luem tumulosve repletos</TextUnit>
+    <TextUnit id="39" loc="40">stragibus et crebras corrupto sidere mortes?</TextUnit>
+    <TextUnit id="40" loc="41">aut fluvium per tecta vagum summisque minatum</TextUnit>
+    <TextUnit id="41" loc="42">collibus? ingentes vexi summersa carinas</TextUnit>
+    <TextUnit id="42" loc="43">remorumque sonos et Pyrrhae saecula sensi.</TextUnit>
+    <TextUnit id="43" loc="44">Ei mihi, quo Latiae vires urbisque potestas</TextUnit>
+    <TextUnit id="44" loc="45">decidit! in qualem paulatim fluximus umbram!</TextUnit>
+    <TextUnit id="45" loc="46">armato quondam populo patrumque vigebam</TextUnit>
+    <TextUnit id="46" loc="47">conciliis; domui terras urbesque revinxi</TextUnit>
+    <TextUnit id="47" loc="48">legibus: ad solem victrix utrumque cucurri.</TextUnit>
+    <TextUnit id="48" loc="49">postquam iura ferox in se communia Caesar</TextUnit>
+    <TextUnit id="49" loc="50">transtulit et lapsi mores desuetaque priscis</TextUnit>
+    <TextUnit id="50" loc="51">artibus in gremium pacis servile recessi,</TextUnit>
+    <TextUnit id="51" loc="52">tot mihi pro meritis Libyam Nilumque dedere,</TextUnit>
+    <TextUnit id="52" loc="53">ut dominam plebem bellatoremque senatum</TextUnit>
+    <TextUnit id="53" loc="54">classibus aestivis alerent geminoque vicissim</TextUnit>
+    <TextUnit id="54" loc="55">litore diversi complerent horrea venti.</TextUnit>
+    <TextUnit id="55" loc="56">stabat certa salus: Memphis si forte negasset,</TextUnit>
+    <TextUnit id="56" loc="57">pensabam Pharium Gaetulis messibus annum,,</TextUnit>
+    <TextUnit id="57" loc="58">frugiferas certare rates lateque videbam</TextUnit>
+    <TextUnit id="58" loc="59">Punica Niliacis concurrere carbasa velis.</TextUnit>
+    <TextUnit id="59" loc="60">cum subiit par Roma mihi divisaque sumpsit</TextUnit>
+    <TextUnit id="60" loc="61">aequales Aurora togas, Aegyptia rura</TextUnit>
+    <TextUnit id="61" loc="62">in partem cessere novae, spes unica nobis</TextUnit>
+    <TextUnit id="62" loc="63">restabat Libyae, quae vix aegreque fovebat;</TextUnit>
+    <TextUnit id="63" loc="64">solo ducta Noto, numquam secura futuri,</TextUnit>
+    <TextUnit id="64" loc="65">semper inops, ventique fidem poscebat et anni.</TextUnit>
+    <TextUnit id="65" loc="66">hanc quoque nunc Gildo rapuit sub fine cadentis</TextUnit>
+    <TextUnit id="66" loc="67">autumni. pavido metimur caerula voto,</TextUnit>
+    <TextUnit id="67" loc="68">puppis si qua venit, si quid fortasse potenti</TextUnit>
+    <TextUnit id="68" loc="69">vel pudor extorsit domino vel praedo reliquit.</TextUnit>
+    <TextUnit id="69" loc="70">pascimur arbitrio Mauri nec debita reddi,</TextUnit>
+    <TextUnit id="70" loc="71">sed sua concedi iactat gaudetque diurnos</TextUnit>
+    <TextUnit id="71" loc="72">ut famulae praebere cibos vitamque famemque</TextUnit>
+    <TextUnit id="72" loc="73">librat barbarico fastu vulgique superbit</TextUnit>
+    <TextUnit id="73" loc="74">fletibus et tantae suspendit fata ruinae.</TextUnit>
+    <TextUnit id="74" loc="75">Romuleas vendit segetes et possidet arva</TextUnit>
+    <TextUnit id="75" loc="76">vulneribus quaesita meis. ideone tot annos</TextUnit>
+    <TextUnit id="76" loc="77">flebile cum tumida bellum Carthagine gessi?</TextUnit>
+    <TextUnit id="77" loc="78">idcirco voluit contempta luce reverti</TextUnit>
+    <TextUnit id="78" loc="79">Regulus? hoc damnis, genitor, Cannensibus emi?</TextUnit>
+    <TextUnit id="79" loc="80">incassum totiens lituis navalibus arsit</TextUnit>
+    <TextUnit id="80" loc="81">Hispanum Siculumque fretum vastataque tellus</TextUnit>
+    <TextUnit id="81" loc="82">totque duces caesi ruptaque emissus ab Alpe</TextUnit>
+    <TextUnit id="82" loc="83">Poenus et attonitae iam proximus Hannibal urbi?</TextUnit>
+    <TextUnit id="83" loc="84">scilicet ut domitis frueretur barbarus Afris,</TextUnit>
+    <TextUnit id="84" loc="85">muro sustinui Martem noctesque cruentas</TextUnit>
+    <TextUnit id="85" loc="86">Collina pro turre tuli? Gildonis ad usum</TextUnit>
+    <TextUnit id="86" loc="87">Carthago ter victa ruit? hoc mille gementis</TextUnit>
+    <TextUnit id="87" loc="88">Italiae clades impensaque saecula bellis,</TextUnit>
+    <TextUnit id="88" loc="89">hoc Fabius fortisque mihi Marcellus agebant,</TextUnit>
+    <TextUnit id="89" loc="90">ut Gildo cumularet opes? haurire venena</TextUnit>
+    <TextUnit id="90" loc="91">compulimus dirum Syphacem fractumque Metello</TextUnit>
+    <TextUnit id="91" loc="92">traximus inmanem Marii sub vincla Iugurtham,</TextUnit>
+    <TextUnit id="92" loc="93">et Numidae Gildonis erunt? pro funera tanta,</TextUnit>
+    <TextUnit id="93" loc="94">pro labor! in Bocchi regnum sudavit uterque</TextUnit>
+    <TextUnit id="94" loc="95">Scipio. Romano vicistis sanguine Mauri.</TextUnit>
+    <TextUnit id="95" loc="96">ille diu miles populus, qui praefuit orbi,</TextUnit>
+    <TextUnit id="96" loc="97">qui trabeas et sceptra dabat, quem semper in armis</TextUnit>
+    <TextUnit id="97" loc="98">horribilem gentes, placidum sensere subactae,</TextUnit>
+    <TextUnit id="98" loc="99">nunc inhonorus egens perfert miserabile pacis</TextUnit>
+    <TextUnit id="99" loc="100">supplicium nulloque palam circumdatus hoste</TextUnit>
+    <TextUnit id="100" loc="101">obsessi discrimen habet. per singula letum</TextUnit>
+    <TextUnit id="101" loc="102">impendet momenta mihi dubitandaque pauci</TextUnit>
+    <TextUnit id="102" loc="103">praescribunt alimenta dies, heu prospera fata!</TextUnit>
+    <TextUnit id="103" loc="104">quid mihi septenos montes turbamque dedistis,</TextUnit>
+    <TextUnit id="104" loc="105">quae parvo non possit ali? felicior essem</TextUnit>
+    <TextUnit id="105" loc="106">angustis opibus; mallem tolerare Sabinos</TextUnit>
+    <TextUnit id="106" loc="107">at Veios; brevior duxi securius aevum.</TextUnit>
+    <TextUnit id="107" loc="108">ipsa nocet moles, utinam remeare liceret</TextUnit>
+    <TextUnit id="108" loc="109">ad veteres fines et moenia pauperis Anci.</TextUnit>
+    <TextUnit id="109" loc="110">sufficerent Etrusca mihi Campanaque culta</TextUnit>
+    <TextUnit id="110" loc="111">et Quincti Curiique seges, patriaeque petenti</TextUnit>
+    <TextUnit id="111" loc="112">rusticus inferret proprias dictator aristas.</TextUnit>
+    <TextUnit id="112" loc="113">Nunc quid agam? Libyam Gildo tenet, altera Nilum.</TextUnit>
+    <TextUnit id="113" loc="114">ast ego, quae terras umeris pontumque subegi,</TextUnit>
+    <TextUnit id="114" loc="115">deseror: emeritae iam praemia nulla senectae.</TextUnit>
+    <TextUnit id="115" loc="116">di, quibus iratis crevi, succurrite tandem,</TextUnit>
+    <TextUnit id="116" loc="117">exorate patrem; tuque o si sponte per altum</TextUnit>
+    <TextUnit id="117" loc="118">vecta Palatinis mutasti collibus Idam</TextUnit>
+    <TextUnit id="118" loc="119">praelatoque lavas Phrygios Almone leones,</TextUnit>
+    <TextUnit id="119" loc="120">maternis precibus natum iam flecte, Cybebe.</TextUnit>
+    <TextUnit id="120" loc="121">sin prohibent Parcae falsisque elusa vetustas</TextUnit>
+    <TextUnit id="121" loc="122">auspiciis, alio saltem prosternite casu</TextUnit>
+    <TextUnit id="122" loc="123">et poenae mutate genus. Porsenna reducat</TextUnit>
+    <TextUnit id="123" loc="124">Tarquinios; renovet ferales Allia pugnas;</TextUnit>
+    <TextUnit id="124" loc="125">me potius saevi manibus permittite Pyrrhi,</TextUnit>
+    <TextUnit id="125" loc="126">me Senonum furiis, Brenni me reddite flammis.</TextUnit>
+    <TextUnit id="126" loc="127">cuncta fame leviora mihi. Sic fata refusis</TextUnit>
+    <TextUnit id="127" loc="128">obticuit lacrimis. mater Cytherea parensque</TextUnit>
+    <TextUnit id="128" loc="129">flet Mavors sanctaeque memor Tritonia Vestae,</TextUnit>
+    <TextUnit id="129" loc="130">nec Cybele sicco nec stabat lumine Iuno.</TextUnit>
+    <TextUnit id="130" loc="131">maerent indigetes et si quos Roma recepit</TextUnit>
+    <TextUnit id="131" loc="132">aut dedit ipsa deos. genitor iam corde remitti</TextUnit>
+    <TextUnit id="132" loc="133">coeperat et sacrum dextra sedare tumultum,</TextUnit>
+    <TextUnit id="133" loc="134">cum procul insanis quatiens ululatibus axem</TextUnit>
+    <TextUnit id="134" loc="135">et contusa genas mediis adparet in astris</TextUnit>
+    <TextUnit id="135" loc="136">Africa: rescissae vestes et spicea passim</TextUnit>
+    <TextUnit id="136" loc="137">serta iacent; lacero crinales vertice dentes</TextUnit>
+    <TextUnit id="137" loc="138">et fractum pendebat ebur, talique superbas</TextUnit>
+    <TextUnit id="138" loc="139">inrupit clamore fores: Quid magne moraris</TextUnit>
+    <TextUnit id="139" loc="140">Iuppiter avulso nexu pelagique solutis</TextUnit>
+    <TextUnit id="140" loc="141">legibus iratum populis inmittere fratrem?</TextUnit>
+    <TextUnit id="141" loc="142">mergi prima peto; veniant praerupta Pachyno</TextUnit>
+    <TextUnit id="142" loc="143">aequora, laxatis subsidant Syrtibus urbes.</TextUnit>
+    <TextUnit id="143" loc="144">si mihi Gildonem nequeunt abducere fata,</TextUnit>
+    <TextUnit id="144" loc="145">me rape Gildoni. felicior ilia perustae</TextUnit>
+    <TextUnit id="145" loc="146">pars Libyae, nimio quae se munita calore</TextUnit>
+    <TextUnit id="146" loc="147">defendit tantique vacat secura tyranni.</TextUnit>
+    <TextUnit id="147" loc="148">crescat zona rubens; medius flagrantis Olympi</TextUnit>
+    <TextUnit id="148" loc="149">me quoque limes agat; melius deserta iacebo</TextUnit>
+    <TextUnit id="149" loc="150">vomeris impatiens. pulsis dominentur aristis</TextUnit>
+    <TextUnit id="150" loc="151">dipsades et sitiens attollat glaeba cerastas.</TextUnit>
+    <TextUnit id="151" loc="152">quid me temperies iuvit? quid mitior aether?</TextUnit>
+    <TextUnit id="152" loc="153">Gildoni fecunda fui. iam solis habenae</TextUnit>
+    <TextUnit id="153" loc="154">bis senas torquent hiemes, cervicibus ex quo</TextUnit>
+    <TextUnit id="154" loc="155">haeret triste iugum. nostris iam luctibus ille</TextUnit>
+    <TextUnit id="155" loc="156">consenuit regnumque sibi tot vindicat annos.</TextUnit>
+    <TextUnit id="156" loc="157">atque utinam regnum! privato iure tenemur</TextUnit>
+    <TextUnit id="157" loc="158">exigui specie fundi, quod Nilus et Atlas</TextUnit>
+    <TextUnit id="158" loc="159">dissidet, occiduis quod Gadibus arida Barce</TextUnit>
+    <TextUnit id="159" loc="160">quodque Paraetonio secedit litore Tingi,</TextUnit>
+    <TextUnit id="160" loc="161">hoc sibi transcripsit proprium. pars tertia mundi</TextUnit>
+    <TextUnit id="161" loc="162">unius praedonis ager. Distantibus idem</TextUnit>
+    <TextUnit id="162" loc="163">inter se vitiis cinctus: quodcumque profunda</TextUnit>
+    <TextUnit id="163" loc="164">traxit avaritia, luxu peiore refundit.</TextUnit>
+    <TextUnit id="164" loc="165">instat terribilis vivis, morientibus heres,</TextUnit>
+    <TextUnit id="165" loc="166">virginibus raptor, thalamis obscaenus adulter,</TextUnit>
+    <TextUnit id="166" loc="167">nulla quies: oritur praeda cessante libido,</TextUnit>
+    <TextUnit id="167" loc="168">divitibusque dies et nox metuenda maritis.</TextUnit>
+    <TextUnit id="168" loc="169">quisquis vel locuples pulchra vel coniuge notus,</TextUnit>
+    <TextUnit id="169" loc="170">crimine pulsatur falso; si crimina desunt,</TextUnit>
+    <TextUnit id="170" loc="171">accitus conviva perit. mors nulla refugit</TextUnit>
+    <TextUnit id="171" loc="172">artificem: varios sucos spumasque requirit</TextUnit>
+    <TextUnit id="172" loc="173">serpentum virides et adhuc ignota novercis</TextUnit>
+    <TextUnit id="173" loc="174">gramina. si quisquam vultu praesentia damnet</TextUnit>
+    <TextUnit id="174" loc="175">liberiusve gemat, dapibus crudelis in ipsis</TextUnit>
+    <TextUnit id="175" loc="176">emicat ad nutum stricto mucrone minister,</TextUnit>
+    <TextUnit id="176" loc="177">fixus quisque toro tacita formidine libat</TextUnit>
+    <TextUnit id="177" loc="178">carnifices epulas incertaque pocula pallens</TextUnit>
+    <TextUnit id="178" loc="179">haurit et intentos capiti circumspicit enses.</TextUnit>
+    <TextUnit id="179" loc="180">splendet Tartareo furialis mensa paratu</TextUnit>
+    <TextUnit id="180" loc="181">caede madens, atrox gladio, suspecta veneno.</TextUnit>
+    <TextUnit id="181" loc="182">ut vino calefacta Venus, tum saevior ardet</TextUnit>
+    <TextUnit id="182" loc="183">luxuries, mixtis redolent unguenta coronis:</TextUnit>
+    <TextUnit id="183" loc="184">crinitos inter famulos pubemque canoram</TextUnit>
+    <TextUnit id="184" loc="185">orbatas iubet ire nurus nuperque peremptis</TextUnit>
+    <TextUnit id="185" loc="186">adridere viris. Phalarim tormentaque flammae</TextUnit>
+    <TextUnit id="186" loc="187">profuit et Siculi mugitus ferre iuvenci</TextUnit>
+    <TextUnit id="187" loc="188">quam tales audire choros. nec damna pudoris</TextUnit>
+    <TextUnit id="188" loc="189">turpia sufficiunt: Mauris clarissima quaeque</TextUnit>
+    <TextUnit id="189" loc="190">fastidita datur. media Carthagine ductae</TextUnit>
+    <TextUnit id="190" loc="191">barbara Sidoniae subeunt conubia matres;</TextUnit>
+    <TextUnit id="191" loc="192">Aethiopem nobis generum, Nasamona maritum</TextUnit>
+    <TextUnit id="192" loc="193">ingerit; exterret cunabula discolor infans.</TextUnit>
+    <TextUnit id="193" loc="194">his fretus sociis ipso iam principe maior</TextUnit>
+    <TextUnit id="194" loc="195">incedit; peditum praecurrunt agmina longe;</TextUnit>
+    <TextUnit id="195" loc="196">circumdant equitum turmae regesque clientes,</TextUnit>
+    <TextUnit id="196" loc="197">quos nostris ditat spoliis. proturbat avita</TextUnit>
+    <TextUnit id="197" loc="198">quemque domo; veteres detrudit rure colonos.</TextUnit>
+    <TextUnit id="198" loc="199">exiliis dispersa feror. numquamne reverti</TextUnit>
+    <TextUnit id="199" loc="200">fas erit errantesque solo iam reddere cives?</TextUnit>
+    <TextUnit id="200" loc="201">Iret adhuc in verba dolor, ni Iuppiter alto</TextUnit>
+    <TextUnit id="201" loc="202">coepisset solio (voces adamante notabat</TextUnit>
+    <TextUnit id="202" loc="203">Atropos et Lachesis iungebat stamina dictis):</TextUnit>
+    <TextUnit id="203" loc="204">nec te, Roma, diu nec te patiemur inultam,</TextUnit>
+    <TextUnit id="204" loc="205">Africa, communem prosternet Honorius hostem.</TextUnit>
+    <TextUnit id="205" loc="206">pergite securae. vestrum vis nulla tenorem</TextUnit>
+    <TextUnit id="206" loc="207">separat et soli famulabitur Africa Romae."</TextUnit>
+    <TextUnit id="207" loc="208">Dixit et adflavit Romam meliore iuventa.</TextUnit>
+    <TextUnit id="208" loc="209">continuo redit ille vigor seniique colorem</TextUnit>
+    <TextUnit id="209" loc="210">mutavere comae, solidatam crista resurgens</TextUnit>
+    <TextUnit id="210" loc="211">erexit galeam clipeique recanduit orbis</TextUnit>
+    <TextUnit id="211" loc="212">et levis excussa micuit rubigine cornus.</TextUnit>
+    <TextUnit id="212" loc="213">Umentes iam noctis equos Lethaeaque Somnus</TextUnit>
+    <TextUnit id="213" loc="214">frena regens tacito volvebat sidera curru.</TextUnit>
+    <TextUnit id="214" loc="215">iam duo divorum proceres, maiorque minorque</TextUnit>
+    <TextUnit id="215" loc="216">Theodosii, pacem laturi gentibus ibant,</TextUnit>
+    <TextUnit id="216" loc="217">qui Iovis arcanos monitus mandataque ferrent</TextUnit>
+    <TextUnit id="217" loc="218">fratribus et geminis sancirent foedera regnis:</TextUnit>
+    <TextUnit id="218" loc="219">sic cum praecipites artem vicere procellae</TextUnit>
+    <TextUnit id="219" loc="220">adsiduoque gemens undarum verbere nutat</TextUnit>
+    <TextUnit id="220" loc="221">descensura ratis, caeca sub nocte vocati</TextUnit>
+    <TextUnit id="221" loc="222">naufraga Ledaei sustentant vela Lacones.</TextUnit>
+    <TextUnit id="222" loc="223">circulus ut patuit Lunae, secuere meatus</TextUnit>
+    <TextUnit id="223" loc="224">diversos: Italas senior tendebat in oras;</TextUnit>
+    <TextUnit id="224" loc="225">at pater, intrantem Pontum qua Bosphorus artat,</TextUnit>
+    <TextUnit id="225" loc="226">Arcadii thalamis urbique inlapsus Eoae.</TextUnit>
+    <TextUnit id="226" loc="227">quem simulac vidit natus (nam clara nitebat</TextUnit>
+    <TextUnit id="227" loc="228">Cynthia), permixto tremuerunt gaudia fletu</TextUnit>
+    <TextUnit id="228" loc="229">complexuque fovens, quos non speraverat, artus</TextUnit>
+    <TextUnit id="229" loc="230">O mihi post Alpes nunc primum reddite, dixit.</TextUnit>
+    <TextUnit id="230" loc="231">unde tuis optatus ades? da tangere dextram,</TextUnit>
+    <TextUnit id="231" loc="232">qua gentes cecidere ferae, quis tale removit</TextUnit>
+    <TextUnit id="232" loc="233">praesidium terris? ut te mortalia pridem</TextUnit>
+    <TextUnit id="233" loc="234">implorant longeque pium fortemque requirunt!"</TextUnit>
+    <TextUnit id="234" loc="235">Cui pater in tales rupit suspiria voces:</TextUnit>
+    <TextUnit id="235" loc="236">hoc erat? in fratres medio discordia Mauro</TextUnit>
+    <TextUnit id="236" loc="237">nascitur et mundus germanaque dissidet aula?</TextUnit>
+    <TextUnit id="237" loc="238">Gildonisne salus tanti sit palma furoris?</TextUnit>
+    <TextUnit id="238" loc="239">scilicet egregius morum magnoque tuendus</TextUnit>
+    <TextUnit id="239" loc="240">et cuius meritis pietas in fratre recedat!</TextUnit>
+    <TextUnit id="240" loc="241">invito1 genitore, vide, civile calebat</TextUnit>
+    <TextUnit id="241" loc="242">discidium; dubio stabant Romana sub ictu;</TextUnit>
+    <TextUnit id="242" loc="243">quis procul Armenius vel quis Maeotide ripa</TextUnit>
+    <TextUnit id="243" loc="244">rex ignotus agit, qui me non iuvit euntem</TextUnit>
+    <TextUnit id="244" loc="245">auxilio? fovere Getae, venere Geloni.</TextUnit>
+    <TextUnit id="245" loc="246">solus at hic non puppe data, non milite misso</TextUnit>
+    <TextUnit id="246" loc="247">subsedit fluitante fide, si signa petisset</TextUnit>
+    <TextUnit id="247" loc="248">obvia, detecto summissius hoste dolerem:</TextUnit>
+    <TextUnit id="248" loc="249">restitit in speculis fati turbaque reductus</TextUnit>
+    <TextUnit id="249" loc="250">libravit geminas eventu iudice vires</TextUnit>
+    <TextUnit id="250" loc="251">ad rerum momenta cliens seseque daturus</TextUnit>
+    <TextUnit id="251" loc="252">victori; fortuna simul cum mente pependit.</TextUnit>
+    <TextUnit id="252" loc="253">o si non cupidis essem praereptus ab astris,</TextUnit>
+    <TextUnit id="253" loc="254">exemplum sequerer Tulli laniandaque dumis</TextUnit>
+    <TextUnit id="254" loc="255">impia diversis aptarem membra quadrigis.</TextUnit>
+    <TextUnit id="255" loc="256">germani nunc usque tui responsa colebat:</TextUnit>
+    <TextUnit id="256" loc="257">en iterum calcat. tali te credere monstro</TextUnit>
+    <TextUnit id="257" loc="258">post patrem fratremque paras? sed magna rependit</TextUnit>
+    <TextUnit id="258" loc="259">inque tuam sortem numerosas transtulit urbes!</TextUnit>
+    <TextUnit id="259" loc="260">ergo fas pretio cedet? mercede placebit</TextUnit>
+    <TextUnit id="260" loc="261">proditio? taceo, laesi quod transfuga fratris,</TextUnit>
+    <TextUnit id="261" loc="262">quod levis ingenio. quamvis discrimine summo</TextUnit>
+    <TextUnit id="262" loc="263">proditor adportet suspensa morte salutem</TextUnit>
+    <TextUnit id="263" loc="264">numquam gratus erit. damnamus luce reperta</TextUnit>
+    <TextUnit id="264" loc="265">perfidiam nec nos patimur committere tali.</TextUnit>
+    <TextUnit id="265" loc="266">hoc genus emptori cives eum moenibus offert,</TextUnit>
+    <TextUnit id="266" loc="267">hoc vendit patriam. plerique in tempus abusi</TextUnit>
+    <TextUnit id="267" loc="268">mox odere tamen: tenuit sic Graia Philippus</TextUnit>
+    <TextUnit id="268" loc="269">oppida; Pellaeo libertas concidit auro.</TextUnit>
+    <TextUnit id="269" loc="270">Romani scelerum semper sprevere ministros.</TextUnit>
+    <TextUnit id="270" loc="271">noxia pollicitum domino miscere venena</TextUnit>
+    <TextUnit id="271" loc="272">Fabricius regi nudata fraude remisit,</TextUnit>
+    <TextUnit id="272" loc="273">infesto quem Marte petit, bellumque negavit</TextUnit>
+    <TextUnit id="273" loc="274">per famuli patrare nefas, ductosque Camillus</TextUnit>
+    <TextUnit id="274" loc="275">trans murum pueros obsessae reddidit urbi.</TextUnit>
+    <TextUnit id="275" loc="276">Traduntur poenis alii, eum proelia tollunt;</TextUnit>
+    <TextUnit id="276" loc="277">hic manet ut moveat? quod respuit alter in hostem,</TextUnit>
+    <TextUnit id="277" loc="278">suscipis in fratrem? longi pro dedecus aevi!</TextUnit>
+    <TextUnit id="278" loc="279">cui placet, australes Gildo condonat habenas</TextUnit>
+    <TextUnit id="279" loc="280">tantaque mutatos sequitur provincia mores.</TextUnit>
+    <TextUnit id="280" loc="281">quaslibet ad partes animus nutaverit anceps,</TextUnit>
+    <TextUnit id="281" loc="282">transfundit secum Libyam refluumque malignus</TextUnit>
+    <TextUnit id="282" loc="283">commodat imperium. Mauri fuit Africa munus.</TextUnit>
+    <TextUnit id="283" loc="284">tollite Massylas fraudes, removete bilingues</TextUnit>
+    <TextUnit id="284" loc="285">insidias et verba soli spirantia virus.</TextUnit>
+    <TextUnit id="285" loc="286">ne consanguineis certetur comminus armis,</TextUnit>
+    <TextUnit id="286" loc="287">ne, precor. haec trucibus Thebis, haec digna Mycenis;</TextUnit>
+    <TextUnit id="287" loc="288">in Mauros hoc crimen eat. Quid noster iniquum</TextUnit>
+    <TextUnit id="288" loc="289">molitur Stilicho? quando non ille iubenti</TextUnit>
+    <TextUnit id="289" loc="290">paruit? an quisquam nobis devinctior extat?</TextUnit>
+    <TextUnit id="290" loc="291">ut sileam varies mecum quos gesserit actus,</TextUnit>
+    <TextUnit id="291" loc="292">quae vidi post fata, loquar. cum divus abirem,</TextUnit>
+    <TextUnit id="292" loc="293">res incompositas (fateor) tumidasque reliqui.</TextUnit>
+    <TextUnit id="293" loc="294">stringebat vetitos etiamnum exercitus enses</TextUnit>
+    <TextUnit id="294" loc="295">Alpinis odiis, alternaque iurgia victi</TextUnit>
+    <TextUnit id="295" loc="296">victoresque dabant. vix haec amentia nostris</TextUnit>
+    <TextUnit id="296" loc="297">excubiis, nedum puero rectore quiesset.</TextUnit>
+    <TextUnit id="297" loc="298">heu quantum timui vobis, quid libera tanti</TextUnit>
+    <TextUnit id="298" loc="299">militis auderet moles, cum patre remoto</TextUnit>
+    <TextUnit id="299" loc="300">ferveret iam laeta novis! dissensus acerbus</TextUnit>
+    <TextUnit id="300" loc="301">et gravior consensus erat. tunc ipse paterna</TextUnit>
+    <TextUnit id="301" loc="302">successit pietate mihi tenerumque rudemque</TextUnit>
+    <TextUnit id="302" loc="303">fovit et in veros eduxit principis annos,</TextUnit>
+    <TextUnit id="303" loc="304">Rufinumque tibi, quero tu tremuisse fateris,</TextUnit>
+    <TextUnit id="304" loc="305">depulit. hunc solum memorem solumque fidelem</TextUnit>
+    <TextUnit id="305" loc="306">experior. volui si quid, dum vita maneret,</TextUnit>
+    <TextUnit id="306" loc="307">aut visus voluisse, gerit; venerabilis illi</TextUnit>
+    <TextUnit id="307" loc="308">ceu praesens numenque vocor. si tanta recusas,</TextUnit>
+    <TextUnit id="308" loc="309">at soceri reverere faces, at respice fratris</TextUnit>
+    <TextUnit id="309" loc="310">conubium pignusque meae regale Serenae.</TextUnit>
+    <TextUnit id="310" loc="311">debueras etiam fraternis obvius ire</TextUnit>
+    <TextUnit id="311" loc="312">hostibus, ille tuis. quae gens, quis Rhenus et Hister</TextUnit>
+    <TextUnit id="312" loc="313">vos opibus iunctos conspirantesque tulisset?</TextUnit>
+    <TextUnit id="313" loc="314">sed tantum permitte, cadat. nil poscimus ultra.</TextUnit>
+    <TextUnit id="314" loc="315">ille licet sese praetentis Syrtibus armet</TextUnit>
+    <TextUnit id="315" loc="316">oppositoque Atlante tegat, licet arva referta</TextUnit>
+    <TextUnit id="316" loc="317">anguibus et solis medios obiecerit aestus:</TextUnit>
+    <TextUnit id="317" loc="318">novi consilium, novi Stilichonis in omnes</TextUnit>
+    <TextUnit id="318" loc="319">aequalem casus animum: penetrabit harenas,</TextUnit>
+    <TextUnit id="319" loc="320">inveniet virtute viam. Sic divus et inde</TextUnit>
+    <TextUnit id="320" loc="321">sic natus: "iussis, genitor, parebitur ultro.</TextUnit>
+    <TextUnit id="321" loc="322">amplector praecepta libens, nec carior alter</TextUnit>
+    <TextUnit id="322" loc="323">cognato Stilichone mihi. commissa profanus</TextUnit>
+    <TextUnit id="323" loc="324">ille luat; redeat iam tutior Africa fratri."</TextUnit>
+    <TextUnit id="324" loc="325">Talia dum longo secum sermone retexunt,</TextUnit>
+    <TextUnit id="325" loc="326">Hesperiam pervenit avus castumque cubile</TextUnit>
+    <TextUnit id="326" loc="327">ingreditur, Tyrio quo fusus Honorius ostro</TextUnit>
+    <TextUnit id="327" loc="328">carpebat teneros Maria cum coniuge somnos.</TextUnit>
+    <TextUnit id="328" loc="329">adsistit capiti; tunc sic per somnia fatur:</TextUnit>
+    <TextUnit id="329" loc="330">Tantane devictos tenuit fiducia Mauros,</TextUnit>
+    <TextUnit id="330" loc="331">care nepos? iterum post me coniurat in arma</TextUnit>
+    <TextUnit id="331" loc="332">progenies vesana Iubae bellumque resumit</TextUnit>
+    <TextUnit id="332" loc="333">victoris cum stirpe sui? Firmumne iacentem</TextUnit>
+    <TextUnit id="333" loc="334">obliti Libyam nostro sudore receptam</TextUnit>
+    <TextUnit id="334" loc="335">rursus habent? ausus Latio contendere Gildo</TextUnit>
+    <TextUnit id="335" loc="336">germani nec fata timet? nunc ire profecto,</TextUnit>
+    <TextUnit id="336" loc="337">nunc vellem notosque senex ostendere vultus:</TextUnit>
+    <TextUnit id="337" loc="338">nonne meam fugiet Maurus cum viderit umbram?</TextUnit>
+    <TextUnit id="338" loc="339">quid dubitas? exsurge toris, invade rebellem,</TextUnit>
+    <TextUnit id="339" loc="340">captivum mihi redde meum. desiste morari.</TextUnit>
+    <TextUnit id="340" loc="341">hoc generi fatale tuo: dum sanguis in orbe</TextUnit>
+    <TextUnit id="341" loc="342">noster erit, semper pallebit regia Bocchi.</TextUnit>
+    <TextUnit id="342" loc="343">iungantur spoliis Firmi Gildonis opima;</TextUnit>
+    <TextUnit id="343" loc="344">exornet geminos Maurusia laurea currus:</TextUnit>
+    <TextUnit id="344" loc="345">una domus totiens una de gente triumphet.</TextUnit>
+    <TextUnit id="345" loc="346">di bene, quod tantis interlabentibus annis</TextUnit>
+    <TextUnit id="346" loc="347">servati Firmusque mihi fraterque nepoti."</TextUnit>
+    <TextUnit id="347" loc="348">dixit et adflatus vicino sole refugit.</TextUnit>
+    <TextUnit id="348" loc="349">At iuvenem stimulis inmanibus aemula virtus</TextUnit>
+    <TextUnit id="349" loc="350">exacuit; iam puppe vehi, iam stagna secare 350</TextUnit>
+    <TextUnit id="350" loc="351">fervet et absentes invadere cuspide Mauros.</TextUnit>
+    <TextUnit id="351" loc="352">tum iubet acciri socerum dextramque vocato</TextUnit>
+    <TextUnit id="352" loc="353">conserit et, quae sit potior sententia, quaerit:</TextUnit>
+    <TextUnit id="353" loc="354">Per somnos mihi, sancte pater, iam saepe futura</TextUnit>
+    <TextUnit id="354" loc="355">panduntur multaeque canunt praesagia noctes.</TextUnit>
+    <TextUnit id="355" loc="356">namque procul Libycos venatu cingere saltus</TextUnit>
+    <TextUnit id="356" loc="357">et iuga rimari canibus Gaetula videbar.</TextUnit>
+    <TextUnit id="357" loc="358">maerebat regio saevi vastata leonis</TextUnit>
+    <TextUnit id="358" loc="359">incursu; pecudum strages passimque iuvenci</TextUnit>
+    <TextUnit id="359" loc="360">semineces et adhuc infecta mapalia tabo</TextUnit>
+    <TextUnit id="360" loc="361">sparsaque sanguineis pastorum funera campis.</TextUnit>
+    <TextUnit id="361" loc="362">adgredior latebras monstri mirumque relatu</TextUnit>
+    <TextUnit id="362" loc="363">conspicio: dilapsus honos, cervice minaces</TextUnit>
+    <TextUnit id="363" loc="364">defluxere iubae; fractos inglorius armos</TextUnit>
+    <TextUnit id="364" loc="365">supposuit, servile gemens; iniectaque vincla</TextUnit>
+    <TextUnit id="365" loc="366">unguibus et subitae collo sonuere catenae,</TextUnit>
+    <TextUnit id="366" loc="367">nunc etiam paribus secum certare tropaeis</TextUnit>
+    <TextUnit id="367" loc="368">hortator me cogit avus. quonam usque remoti</TextUnit>
+    <TextUnit id="368" loc="369">cunctamur? decuit pridem complere biremes</TextUnit>
+    <TextUnit id="369" loc="370">et pelagi superare moras, transmittere primus</TextUnit>
+    <TextUnit id="370" loc="371">ipse paro; quaecumque meo gens barbara nutu</TextUnit>
+    <TextUnit id="371" loc="372">stringitur, adveniat: Germania cuncta feratur</TextUnit>
+    <TextUnit id="372" loc="373">navibus et socia comitentur classe Sygambri.</TextUnit>
+    <TextUnit id="373" loc="374">pallida translatum iam sentiat Africa Rhenum.</TextUnit>
+    <TextUnit id="374" loc="375">an patiar tot probra sedens iuvenisque relinquam</TextUnit>
+    <TextUnit id="375" loc="376">quae tenui rexique puer? bis noster ad Alpes</TextUnit>
+    <TextUnit id="376" loc="377">alterius genitor defensum regna cucurrit.</TextUnit>
+    <TextUnit id="377" loc="378">nos praedae faciles insultandique iacemus?"</TextUnit>
+    <TextUnit id="378" loc="379">Finierat. Stilicho contra cui talia reddit:</TextUnit>
+    <TextUnit id="379" loc="380">adversine tubam princeps dignabere Mauri?</TextUnit>
+    <TextUnit id="380" loc="381">auferet ignavus clari solacia leti.</TextUnit>
+    <TextUnit id="381" loc="382">te bellante mori? decernet Honorius inde,</TextUnit>
+    <TextUnit id="382" loc="383">hinc Gildo? prius astra Chaos miscebit Averno.</TextUnit>
+    <TextUnit id="383" loc="384">vindictam mandasse sat est; plus nominis horror</TextUnit>
+    <TextUnit id="384" loc="385">quam tuus ensis aget. minuit praesentia famam.</TextUnit>
+    <TextUnit id="385" loc="386">qui stetit aequatur campo, collataque nescit</TextUnit>
+    <TextUnit id="386" loc="387">maiestatem acies. sed quod magis utile factu</TextUnit>
+    <TextUnit id="387" loc="388">atque hosti gravius (sensus adverte) docebo</TextUnit>
+    <TextUnit id="388" loc="389">est illi patribus, sed non et moribus isdem</TextUnit>
+    <TextUnit id="389" loc="390">Mascezel, fugiens qui dira piacula fratris</TextUnit>
+    <TextUnit id="390" loc="391">spesque suas vitamque tuo commisit asylo.</TextUnit>
+    <TextUnit id="391" loc="392">hunc ubi temptatis frustra mactare nequivit</TextUnit>
+    <TextUnit id="392" loc="393">insidiis, patrias in pignora contulit iras</TextUnit>
+    <TextUnit id="393" loc="394">et, quos ipse sinu parvos gestaverat, una</TextUnit>
+    <TextUnit id="394" loc="395">occidit iuvenes inhumataque corpora vulgo</TextUnit>
+    <TextUnit id="395" loc="396">dispulit et tumulo cognatas arcuit umbras</TextUnit>
+    <TextUnit id="396" loc="397">naturamque simul fratremque hominemque cruentus</TextUnit>
+    <TextUnit id="397" loc="398">exuit et tenuem caesis invidit harenam.</TextUnit>
+    <TextUnit id="398" loc="399">hoc facinus refugo damnavit sole Mycenas</TextUnit>
+    <TextUnit id="399" loc="400">avertitque diem; sceleri sed reddidit Atreus</TextUnit>
+    <TextUnit id="400" loc="401">crimen et infandas excusat coniuge mensas.</TextUnit>
+    <TextUnit id="401" loc="402">hic odium, non poena fuit. te perdita iura,</TextUnit>
+    <TextUnit id="402" loc="403">te pater ultorem, te nudi pulvere manes,</TextUnit>
+    <TextUnit id="403" loc="404">te pietas polluta rogat; si flentibus aram</TextUnit>
+    <TextUnit id="404" loc="405">et proprium miseris numen statuistis, Athenae,</TextUnit>
+    <TextUnit id="405" loc="406">si Pandionias planctu traxere phalanges</TextUnit>
+    <TextUnit id="406" loc="407">Inachides belloque rogos meruere maritis,</TextUnit>
+    <TextUnit id="407" loc="408">si maesto squalore comae lacrimisque senatum</TextUnit>
+    <TextUnit id="408" loc="409">in Numidas pulsus solio commovit Adherbal:</TextUnit>
+    <TextUnit id="409" loc="410">hunc quoque nunc Gildo, tanto quem funere mersit,</TextUnit>
+    <TextUnit id="410" loc="411">hunc doleat venisse ducem seseque minorem</TextUnit>
+    <TextUnit id="411" loc="412">supplicibus sciat esse tuis. quem sede fugavit,</TextUnit>
+    <TextUnit id="412" loc="413">hunc praeceps fugiat, fregit quem clade, tremiscat</TextUnit>
+    <TextUnit id="413" loc="414">agnoscatque suum, trahitur dum victima, fratrem."</TextUnit>
+    <TextUnit id="414" loc="415">Haec ubi sederunt genero, notissima Marti</TextUnit>
+    <TextUnit id="415" loc="416">robora, praecipuos electa pube maniplos</TextUnit>
+    <TextUnit id="416" loc="417">disponit portuque rates instaurat Etrusco.</TextUnit>
+    <TextUnit id="417" loc="418">Herculeam suus Alcides Ioviamque cohortem</TextUnit>
+    <TextUnit id="418" loc="419">rex ducit superum, premitur nec signifer ullo</TextUnit>
+    <TextUnit id="419" loc="420">pondere: festinant adeo vexilla moveri.</TextUnit>
+    <TextUnit id="420" loc="421">Nervius insequitur meritusque vocabula Felix</TextUnit>
+    <TextUnit id="421" loc="422">dietaque ab Augusto legio nomenque probantes</TextUnit>
+    <TextUnit id="422" loc="423">invicti clipeoque animosi teste Leones.</TextUnit>
+    <TextUnit id="423" loc="424">Dictis ante tamen princeps confirmat ituros</TextUnit>
+    <TextUnit id="424" loc="425">aggere conspicuus; stat circumfusa iuventus</TextUnit>
+    <TextUnit id="425" loc="426">nixa hastis pronasque ferox accommodat aures:</TextUnit>
+    <TextUnit id="426" loc="427">Gildonem domitura manus, promissa minasque</TextUnit>
+    <TextUnit id="427" loc="428">tempus agi. si quid pro me doluistis, in armis</TextUnit>
+    <TextUnit id="428" loc="429">ostentate mihi; iusto magnoque triumpho</TextUnit>
+    <TextUnit id="429" loc="430">civiles abolete notas; sciat orbis Eous</TextUnit>
+    <TextUnit id="430" loc="431">sitque palam Gallos causa, non robore vinci.</TextUnit>
+    <TextUnit id="431" loc="432">nec vos, barbariem quamvis collegerit omnem,</TextUnit>
+    <TextUnit id="432" loc="433">terreat. an Mauri fremitum raucosque repulsus</TextUnit>
+    <TextUnit id="433" loc="434">umbonum et vestros passuri comminus enses?</TextUnit>
+    <TextUnit id="434" loc="435">non contra clipeis tectos gladiisque micantes</TextUnit>
+    <TextUnit id="435" loc="436">ibitis: in solis longe fiducia telis.</TextUnit>
+    <TextUnit id="436" loc="437">exarmatus erit, cum missile torserit, hostis.</TextUnit>
+    <TextUnit id="437" loc="438">dextra movet iaculum, praetentat pallia laeva;</TextUnit>
+    <TextUnit id="438" loc="439">cetera nudus eques. sonipes ignarus habenae;</TextUnit>
+    <TextUnit id="439" loc="440">virga regit, non ulla fides, non agminis ordo:</TextUnit>
+    <TextUnit id="440" loc="441">arma oneri, fuga praesidio. conubia mille;</TextUnit>
+    <TextUnit id="441" loc="442">non illis generis nexus, non pignora curae:</TextUnit>
+    <TextUnit id="442" loc="443">sed numero languet pietas. haec copia vulgi.</TextUnit>
+    <TextUnit id="443" loc="444">umbratus dux ipse rosis et marcidus ibit</TextUnit>
+    <TextUnit id="444" loc="445">unguentis crudusque cibo titubansque Lyaeo,</TextUnit>
+    <TextUnit id="445" loc="446">confectus senio, morbis stuprisque solutus.</TextUnit>
+    <TextUnit id="446" loc="447">excitet incestos turmalis bucina somnos,</TextUnit>
+    <TextUnit id="447" loc="448">imploret citharas cantatricesque choreas</TextUnit>
+    <TextUnit id="448" loc="449">offensus stridore tubae discatque coactus,</TextUnit>
+    <TextUnit id="449" loc="450">quas vigilat Veneri, castris impendere noctes.</TextUnit>
+    <TextUnit id="450" loc="451">Nonne mori satius, vitae quam ferre pudorem?</TextUnit>
+    <TextUnit id="451" loc="452">nam quae iam regio restat, si dedita Mauris</TextUnit>
+    <TextUnit id="452" loc="453">regibus Illyricis accesserit Africa damnis?</TextUnit>
+    <TextUnit id="453" loc="454">ius Latium, quod tunc Meroe Rubroque solebat</TextUnit>
+    <TextUnit id="454" loc="455">Oceano cingi, Tyrrhena clauditur unda;</TextUnit>
+    <TextUnit id="455" loc="456">et cui non Nilus, non intulit India metas,</TextUnit>
+    <TextUnit id="456" loc="457">Romani iam finis erit Trinacria regni.</TextUnit>
+    <TextUnit id="457" loc="458">ite recepturi, praedo quem sustulit, axem</TextUnit>
+    <TextUnit id="458" loc="459">ereptumque Notum; caput insuperabile rerum</TextUnit>
+    <TextUnit id="459" loc="460">aut ruet in vestris aut stabit Roma lacertis.</TextUnit>
+    <TextUnit id="460" loc="461">tot mihi debetis populos, tot rura, tot urbes</TextUnit>
+    <TextUnit id="461" loc="462">amissas. uno Libyam defendite bello.</TextUnit>
+    <TextUnit id="462" loc="463">vestros imperium remos et vestra sequatur</TextUnit>
+    <TextUnit id="463" loc="464">carbasa. despectas trans aequora ducite leges,</TextUnit>
+    <TextUnit id="464" loc="465">tertia iam solito cervix mucrone rotetur</TextUnit>
+    <TextUnit id="465" loc="466">tandem funereis finem positura tyrannis.</TextUnit>
+    <TextUnit id="466" loc="467">Omina conveniunt dicto fulvusque Tonantis</TextUnit>
+    <TextUnit id="467" loc="468">armiger a liquida cunctis spectantibus aethra</TextUnit>
+    <TextUnit id="468" loc="469">correptum pedibus curvis innexuit hydrum,</TextUnit>
+    <TextUnit id="469" loc="470">dumque reluctantem morsu partitur obunco,</TextUnit>
+    <TextUnit id="470" loc="471">haesit in ungue caput; truncatus decidit anguis.</TextUnit>
+    <TextUnit id="471" loc="472">ilicet auguriis alacres per saxa citati</TextUnit>
+    <TextUnit id="472" loc="473">torrentesque ruunt; nec mons aut silva retardat:</TextUnit>
+    <TextUnit id="473" loc="474">pendula ceu parvis moturae bella colonis</TextUnit>
+    <TextUnit id="474" loc="475">ingenti clangore grues aestiva relinquunt</TextUnit>
+    <TextUnit id="475" loc="476">Thracia, cum tepido permutant Strymona Nile:</TextUnit>
+    <TextUnit id="476" loc="477">ordinibus variis per nubila texitur ales</TextUnit>
+    <TextUnit id="477" loc="478">littera pennarumque notis conscribitur aer.</TextUnit>
+    <TextUnit id="478" loc="479">Ut fluctus tetigere maris, tunc acrior arsit</TextUnit>
+    <TextUnit id="479" loc="480">impetus; adripiunt naves ipsique rudentes</TextUnit>
+    <TextUnit id="480" loc="481">expediunt et vela legunt et cornua summis</TextUnit>
+    <TextUnit id="481" loc="482">adsociant malis; quatitur Tyrrhena tumultu</TextUnit>
+    <TextUnit id="482" loc="483">ora nec Alpheae capiunt navalia Pisae:</TextUnit>
+    <TextUnit id="483" loc="484">sic Agamemnoniam vindex cum Graecia classem</TextUnit>
+    <TextUnit id="484" loc="485">solveret, innumeris fervebat vocibus Aulis.</TextUnit>
+    <TextUnit id="485" loc="486">non illos strepitus impendentisque procellae</TextUnit>
+    <TextUnit id="486" loc="487">signa nec adventus dubii deterruit Austri.</TextUnit>
+    <TextUnit id="487" loc="488">vellite" proclamant "socii, iam vellite funem.</TextUnit>
+    <TextUnit id="488" loc="489">per vada Gildonem quamvis adversa petamus.</TextUnit>
+    <TextUnit id="489" loc="490">ad bellum nos trudat hiems per devia ponti.</TextUnit>
+    <TextUnit id="490" loc="491">quassatis cupio tellurem figere rostris.</TextUnit>
+    <TextUnit id="491" loc="492">heu nimium segnes, cauta qui mente notatis,</TextUnit>
+    <TextUnit id="492" loc="493">si revolant mergi, graditur si litore cornix.</TextUnit>
+    <TextUnit id="493" loc="494">ora licet maculis adsperserit occiduus sol</TextUnit>
+    <TextUnit id="494" loc="495">lunaque conceptis livescat turgida Cauris</TextUnit>
+    <TextUnit id="495" loc="496">et contusa vagos iaculentur sidera crines;</TextUnit>
+    <TextUnit id="496" loc="497">imbribus umescant Haedi nimbosaque Taurum</TextUnit>
+    <TextUnit id="497" loc="498">ducat Hyas totusque fretis descendat Orion:</TextUnit>
+    <TextUnit id="498" loc="499">certa fides caeli, sed maior Honorius auctor;</TextUnit>
+    <TextUnit id="499" loc="500">illius auspiciis inmensa per aequora miles,</TextUnit>
+    <TextUnit id="500" loc="501">non Plaustris Arctove regor. contemne Booten,</TextUnit>
+    <TextUnit id="501" loc="502">navita, turbinibus mediis permitte carinas.</TextUnit>
+    <TextUnit id="502" loc="503">si mihi tempestas Libyam ventique negabunt,</TextUnit>
+    <TextUnit id="503" loc="504">Augusti Fortuna dabit." Iam classis in altum</TextUnit>
+    <TextUnit id="504" loc="505">provehitur; dextra Ligures, Etruria laeva</TextUnit>
+    <TextUnit id="505" loc="506">linquitur et caecis vitatur Corsica saxis.</TextUnit>
+    <TextUnit id="506" loc="507">humanae specie plantae se magna figurat</TextUnit>
+    <TextUnit id="507" loc="508">insula (Sardiniam veteres dixere coloni),</TextUnit>
+    <TextUnit id="508" loc="509">dives ager frugum, Poenos Italosve petenti</TextUnit>
+    <TextUnit id="509" loc="510">opportuna situ: quae pars vicinior Afris,</TextUnit>
+    <TextUnit id="510" loc="511">plana solo, ratibus clemens; quae respicit Arcton,</TextUnit>
+    <TextUnit id="511" loc="512">inmitis, scopulosa, procax subitisque sonora</TextUnit>
+    <TextUnit id="512" loc="513">flatibus; insanos infamat navita montes.</TextUnit>
+    <TextUnit id="513" loc="514">hic hominum pecudumque lues, sic pestifer aer</TextUnit>
+    <TextUnit id="514" loc="515">saevit et exclusis regnant Aquilonibus Austri.</TextUnit>
+    <TextUnit id="515" loc="516">Quos ubi luctatis procul effugere carinis,</TextUnit>
+    <TextUnit id="516" loc="517">per diversa ruunt sinuosae litora terrae.</TextUnit>
+    <TextUnit id="517" loc="518">pars adit antiqua ductos Carthagine Sulcos;</TextUnit>
+    <TextUnit id="518" loc="519">partem litoreo complectitur Olbia muro.</TextUnit>
+    <TextUnit id="519" loc="520">urbs Libyam contra Tyrio fundata potenti</TextUnit>
+    <TextUnit id="520" loc="521">tenditur in longum Caralis tenuemque per undas</TextUnit>
+    <TextUnit id="521" loc="522">obvia dimittit fracturum flamina collem;</TextUnit>
+    <TextUnit id="522" loc="523">efficitur portus medium mare, tutaque ventis</TextUnit>
+    <TextUnit id="523" loc="524">omnibus ingenti mansuescunt stagna recessu.</TextUnit>
+    <TextUnit id="524" loc="525">hanc omni petiere manu prorisque reductis</TextUnit>
+    <TextUnit id="525" loc="526">suspensa Zephyros expectant classe faventes.</TextUnit>
+  </Text>
+</TessDocument>

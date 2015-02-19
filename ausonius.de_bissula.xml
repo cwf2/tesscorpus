@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.de_bissula">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>De Bissula</Display>
+    <Abbr>aus. biss.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0603</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa001.perseus-lat1</URI>
+  </Metadata>
+  <Text>
+    <TextUnit id="0" loc="praef">Ausonius Paulo suo S. D. Pervincis tandem 1 et operta musarum mearum, quae initiorum velabat obscuritas, quamquam non profanus, irrumpis, Paule carissime, quamvis enim te non eius vulgi existimem, quod Horatius 2 arcet ingressu, tamen sua cuique sacra, neque idem Cereri, quod Libero, etiam sub isdem cultoribus, poematia, quae in alumnam meam luseram rudia et incohata ad domesticae solacium cantilenae, cum sine metu laterent 3 et arcana securitate fruerentur, proferre ad lucem caligantia coegisti. verecundiae meae scilicet spolium concupisti, aut, quantum tibi in me iuris esset, ab invito indicari. ne tu Alexandri Macedonis pervicaciam supergressus, qui, fatalis iugi lora  cum solvere non posset, abscidit et Pythiae specum, quo die fas non erat patere, penetravit. Utere igitur ut tuis, pari iure, sed fiducia dispari: quippe tua possunt populum non timere; meis etiam intra me erubesco, vale.</TextUnit>
+    <TextUnit id="1" loc="1.1">UT voluisti, Paule, cunctos Bissulae versus habes,</TextUnit>
+    <TextUnit id="2" loc="1.2">lusimus quos in Suebae gratiam virgunculae,</TextUnit>
+    <TextUnit id="3" loc="1.3">otium magis foventes, quam studentes gloriae,</TextUnit> 
+    <TextUnit id="4" loc="1.4">tu molestus flagitator lege molesta carmina,</TextUnit>
+    <TextUnit id="5" loc="1.5">tibi, quod intristi, exedendum est 1: sic vetus verbum iubet,</TextUnit>
+    <TextUnit id="6" loc="1.6">compedes, quas ipse fecit, ipsus ut gestet faber.</TextUnit>
+    
+    <TextUnit id="7" loc="2.1">CARMINIS incompti tenuem lecture libellum,</TextUnit>
+    <TextUnit id="8" loc="2.2">pone supercilium,</TextUnit>
+    <TextUnit id="9" loc="2.3">seria contractis expende poemata rugis:</TextUnit>
+    <TextUnit id="10" loc="2.4">nos Thymelen sequimur.</TextUnit>
+    <TextUnit id="11" loc="2.5">Bissula in hoc scedio cantabitur, haut Erasinus:</TextUnit>
+    <TextUnit id="12" loc="2.6">admoneo, ante bibas,</TextUnit>
+    <TextUnit id="13" loc="2.7">ieiunis nil scribo; meum post pocula si quis</TextUnit>
+    <TextUnit id="14" loc="2.8">legerit, hic sapiet.</TextUnit>
+    <TextUnit id="15" loc="2.9">sed magis hic sapiet, si dormiet et putet ista</TextUnit>
+    <TextUnit id="16" loc="2.10">somnia missa sibi.</TextUnit>
+
+    <TextUnit id="17" loc="3.1">BISSULA, trans gelidum stirpe et lare prosata Rhenum,</TextUnit>
+    <TextUnit id="18" loc="3.2">conscia nascentis Bissula Danuvii,</TextUnit>
+    <TextUnit id="19" loc="3.3">capta manu, sed missa manu dominatur in eius</TextUnit>
+    <TextUnit id="20" loc="3.4">deliciis, cuius bellica praeda fuit.</TextUnit>
+    <TextUnit id="21" loc="3.5">matre carens, nutricis egens, quae nescit herai</TextUnit>
+    <TextUnit id="22" loc="3.6">imperium, domini quae regit ipsa domum,</TextUnit>
+    <TextUnit id="23" loc="3.7">fortunae ac patriae quae nulla obprobria sensit,</TextUnit>
+    <TextUnit id="24" loc="3.8">illico inexperto libera servitio,</TextUnit>
+    <TextUnit id="25" loc="3.9">sic Latiis mutata bonis, Germana maneret</TextUnit>
+    <TextUnit id="26" loc="3.10">ut facies, oculos caerula, flava comas.</TextUnit>
+    <TextUnit id="27" loc="3.11">ambiguam modo lingua facit, modo forma puellam:</TextUnit>
+    <TextUnit id="28" loc="3.12">haec Rheno genitam praedicat, haec Latio.</TextUnit>
+    
+    <TextUnit id="29" loc="4.1">DELICIUM, blanditiae, ludus, amor, voluptas,</TextUnit>
+    <TextUnit id="30" loc="4.2">barbara, sed quae Latias vineis alumna pupas,</TextUnit>
+    <TextUnit id="31" loc="4.3">Bissula, nomen tenerae rusticulum puellae,</TextUnit>
+    <TextUnit id="32" loc="4.4">horridulum non solitis, sed domino venustum.</TextUnit>
+    
+    <TextUnit id="33" loc="5.1">BISSULA nec ceris nec fuco imitabilis ullo</TextUnit>
+    <TextUnit id="34" loc="5.2">naturale decus fictae non commodat arti.</TextUnit>
+    <TextUnit id="35" loc="5.3">sandyx et cerusa, alias simulate puellas:</TextUnit>
+    <TextUnit id="36" loc="5.4">temperiem hanc vultus nescit manus, ergo age, pictor,</TextUnit>
+    <TextUnit id="37" loc="5.5">puniceas confunde rosas et lilia misce,</TextUnit>
+    <TextUnit id="38" loc="5.6">quique erit ex illis color aeris, ipse sit oris.</TextUnit>
+    
+    <TextUnit id="39" loc="6.1">PINGERE si nostram, pictor, meditaris alumnam,</TextUnit>
+    <TextUnit id="40" loc="6.2">aemula Cecropias ars imitetur apes.</TextUnit>
+  </Text>
+</TessDocument>

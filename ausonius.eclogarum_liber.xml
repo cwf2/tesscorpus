@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.eclogarum_liber">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Eclogarum Liber</Display>
+    <Abbr>aus. ecl. 13.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0609</DigitalSourceURL>
+    <AddedBy/>
+    <URI>urn:cts:latinLit:stoa0045.stoa007.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>17</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.18</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>18</MaskLower><MaskUpper>80</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.64</LocusUpper></Part><Part id="3"><Display>Book 3</Display><MaskLower>81</MaskLower><MaskUpper>106</MaskUpper><LocusLower>3.1</LocusLower><LocusUpper>3.26</LocusUpper></Part><Part id="4"><Display>Book 4</Display><MaskLower>107</MaskLower><MaskUpper>131</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.25</LocusUpper></Part><Part id="5"><Display>Book 5</Display><MaskLower>132</MaskLower><MaskUpper>148</MaskUpper><LocusLower>5.1</LocusLower><LocusUpper>5.17</LocusUpper></Part><Part id="6"><Display>Book 6</Display><MaskLower>149</MaskLower><MaskUpper>179</MaskUpper><LocusLower>6.1</LocusLower><LocusUpper>6.31</LocusUpper></Part><Part id="7"><Display>Book 7</Display><MaskLower>180</MaskLower><MaskUpper>221</MaskUpper><LocusLower>7.1</LocusLower><LocusUpper>7.42</LocusUpper></Part><Part id="8"><Display>Book 8</Display><MaskLower>222</MaskLower><MaskUpper>233</MaskUpper><LocusLower>8.1</LocusLower><LocusUpper>8.12</LocusUpper></Part><Part id="9"><Display>Book 9</Display><MaskLower>234</MaskLower><MaskUpper>245</MaskUpper><LocusLower>9.1</LocusLower><LocusUpper>9.12</LocusUpper></Part><Part id="10"><Display>Book 10</Display><MaskLower>246</MaskLower><MaskUpper>269</MaskUpper><LocusLower>10.1</LocusLower><LocusUpper>10.24</LocusUpper></Part><Part id="11"><Display>Book 11</Display><MaskLower>270</MaskLower><MaskUpper>274</MaskUpper><LocusLower>11.1</LocusLower><LocusUpper>11.5</LocusUpper></Part><Part id="12"><Display>Book 12</Display><MaskLower>275</MaskLower><MaskUpper>284</MaskUpper><LocusLower>12.1</LocusLower><LocusUpper>12.10</LocusUpper></Part><Part id="13"><Display>Book 13</Display><MaskLower>285</MaskLower><MaskUpper>289</MaskUpper><LocusLower>13.1</LocusLower><LocusUpper>13.5</LocusUpper></Part><Part id="14"><Display>Book 14</Display><MaskLower>290</MaskLower><MaskUpper>305</MaskUpper><LocusLower>14.1</LocusLower><LocusUpper>14.16</LocusUpper></Part><Part id="15"><Display>Book 15</Display><MaskLower>306</MaskLower><MaskUpper>323</MaskUpper><LocusLower>15.1</LocusLower><LocusUpper>15.18</LocusUpper></Part><Part id="16"><Display>Book 16</Display><MaskLower>324</MaskLower><MaskUpper>335</MaskUpper><LocusLower>16.1</LocusLower><LocusUpper>16.12</LocusUpper></Part><Part id="17"><Display>Book 17</Display><MaskLower>336</MaskLower><MaskUpper>342</MaskUpper><LocusLower>17.1</LocusLower><LocusUpper>17.7</LocusUpper></Part><Part id="18"><Display>Book 18</Display><MaskLower>343</MaskLower><MaskUpper>348</MaskUpper><LocusLower>18.1</LocusLower><LocusUpper>18.6</LocusUpper></Part><Part id="19"><Display>Book 19</Display><MaskLower>349</MaskLower><MaskUpper>352</MaskUpper><LocusLower>19.1</LocusLower><LocusUpper>19.4</LocusUpper></Part><Part id="20"><Display>Book 20</Display><MaskLower>353</MaskLower><MaskUpper>356</MaskUpper><LocusLower>20.1</LocusLower><LocusUpper>20.4</LocusUpper></Part><Part id="21"><Display>Book 21</Display><MaskLower>357</MaskLower><MaskUpper>362</MaskUpper><LocusLower>21.1</LocusLower><LocusUpper>21.6</LocusUpper></Part><Part id="22"><Display>Book 22</Display><MaskLower>363</MaskLower><MaskUpper>367</MaskUpper><LocusLower>22.1</LocusLower><LocusUpper>22.5</LocusUpper></Part><Part id="23"><Display>Book 23</Display><MaskLower>368</MaskLower><MaskUpper>403</MaskUpper><LocusLower>23.1</LocusLower><LocusUpper>23.36</LocusUpper></Part><Part id="24"><Display>Book 24</Display><MaskLower>404</MaskLower><MaskUpper>415</MaskUpper><LocusLower>24.1</LocusLower><LocusUpper>24.12</LocusUpper></Part><Part id="25"><Display>Book 25</Display><MaskLower>416</MaskLower><MaskUpper>435</MaskUpper><LocusLower>25.1</LocusLower><LocusUpper>25.20</LocusUpper></Part><Part id="26"><Display>Book 26</Display><MaskLower>436</MaskLower><MaskUpper>444</MaskUpper><LocusLower>26.1</LocusLower><LocusUpper>26.8</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">“CUI dono lepidum novum libellum?” 1</TextUnit>
+    <TextUnit id="1" loc="1.2">Veronensis ait poeta quondam</TextUnit>
+    <TextUnit id="2" loc="1.3">inventoque dedit statim Nepoti.</TextUnit>
+    <TextUnit id="3" loc="1.4">at nos inlepidum, rudem libellum,</TextUnit>
+    <TextUnit id="4" loc="1.5">burras, quisquilias ineptiasque,</TextUnit>
+    <TextUnit id="5" loc="1.6">credemus gremio cui fovendum?</TextUnit>
+    <TextUnit id="6" loc="1.7">inveni, trepidae silete nugae,</TextUnit>
+    <TextUnit id="7" loc="1.8">nec doctum minus et magis benignum,</TextUnit>
+    <TextUnit id="8" loc="1.9">quam quem Gallia praebuit Catullo.</TextUnit>
+    <TextUnit id="9" loc="1.10">hoc nullus mihi carior meorum,</TextUnit>
+    <TextUnit id="10" loc="1.11">quem pluris faciunt novem sorores,</TextUnit>
+    <TextUnit id="11" loc="1.12">quam cunctos alios Marone dempto.</TextUnit>
+    <TextUnit id="12" loc="1.13">“ Pacatum haut dubie, poeta, dicis? ”</TextUnit>
+    <TextUnit id="13" loc="1.14">ipse est. intrepide volate, versus,</TextUnit>
+    <TextUnit id="14" loc="1.15">et nidum in gremio fovete tuto.</TextUnit>
+    <TextUnit id="15" loc="1.16">hic vos diligere, hic volet tueri;</TextUnit>
+    <TextUnit id="16" loc="1.17">ignoscenda teget, probata tradet:</TextUnit>
+    <TextUnit id="17" loc="1.18">post hunc iudicium timete nullum, vale.</TextUnit>
+    <TextUnit id="18" loc="2.1">QUOD vitae sectabor iter, si plena tumultu</TextUnit>
+    <TextUnit id="19" loc="2.2">sunt fora, si curis domus anxia, si peregrinos</TextUnit>
+    <TextUnit id="20" loc="2.3">cura domus sequitur, mercantem si nova semper</TextUnit>
+    <TextUnit id="21" loc="2.4">damna manent, cessare vetat si turpis egestas;</TextUnit>
+    <TextUnit id="22" loc="2.5">si vexat labor agricolam, mare naufragus horror</TextUnit>
+    <TextUnit id="23" loc="2.6">infamat, poenaeque graves in caelibe vita</TextUnit>
+    <TextUnit id="24" loc="2.7">et gravior cautis custodia vana maritis;</TextUnit>
+    <TextUnit id="25" loc="2.8">sanguineum si Martis opus, si turpia lucra</TextUnit>
+    <TextUnit id="26" loc="2.9">faenoris et velox inopes usura trucidat?</TextUnit>
+    <TextUnit id="27" loc="2.10">omne aevum curae, cunctis sua displicet aetas.</TextUnit>
+    <TextUnit id="28" loc="2.11">sensus abest parvis Iactantibus, et puerorum</TextUnit>
+    <TextUnit id="29" loc="2.12">dura rudimenta, et iuvenum temeraria pubes.</TextUnit>
+    <TextUnit id="30" loc="2.13">adflictat fortuna viros per bella, per aequor,</TextUnit>
+    <TextUnit id="31" loc="2.14">irasque insidiasque catenatosque labores 1</TextUnit>
+    <TextUnit id="32" loc="2.15">mutandos semper gravioribus. ipsa senectus</TextUnit>
+    <TextUnit id="33" loc="2.16">expectata diu votisque optata malignis</TextUnit>
+    <TextUnit id="34" loc="2.17">obicit innumeris corpus lacerabile morbis.</TextUnit>
+    <TextUnit id="35" loc="2.18">spernimus in commune omnes praesentia; quosdam</TextUnit>
+    <TextUnit id="36" loc="2.19">constat nolle deos fieri. Iuturna reclamat:</TextUnit>
+    <TextUnit id="37" loc="2.20">“quo vitam dedit aeternam? cur mortis adempta est</TextUnit>
+    <TextUnit id="38" loc="2.21">condicio?” sic Caucasea sub rupe Prometheus</TextUnit>
+    <TextUnit id="39" loc="2.22">testatur Saturnigenam nec nomine cessat</TextUnit>
+    <TextUnit id="40" loc="2.23">incusare Iovem, data sit quod vita perennis.</TextUnit>
+    <TextUnit id="41" loc="2.24">respice et ad cultus animi, sic nempe pudicum</TextUnit>
+    <TextUnit id="42" loc="2.25">perdidit Hippolytum non felix cura pudoris.</TextUnit>
+    <TextUnit id="43" loc="2.26">e contra inlecebris maculosam degere vitam</TextUnit>
+    <TextUnit id="44" loc="2.27">quem iuvat, adspiciat poenas et crimina regum,</TextUnit>
+    <TextUnit id="45" loc="2.28">Tereos incesti vel mollis Sardanapalli.</TextUnit>
+    <TextUnit id="46" loc="2.29">perfidiam vitare monent tria Punica bella;</TextUnit>
+    <TextUnit id="47" loc="2.30">set prohibet servare fidem deleta Saguntos.</TextUnit>
+    <TextUnit id="48" loc="2.31">vive et amicitias semper cole.-Crimen ob istud</TextUnit>
+    <TextUnit id="49" loc="2.32">Pythagoreorum periit schola docta sophorum.- hoc</TextUnit>
+    <TextUnit id="50" loc="2.33">metuens igitur nullas cole.-Crimen ob istud</TextUnit>
+    <TextUnit id="51" loc="2.34">Timon Palladiis olim lapidatus Athenis,</TextUnit>
+    <TextUnit id="52" loc="2.35">dissidet ambiguis semper mens obvia votis,</TextUnit>
+    <TextUnit id="53" loc="2.36">nec voluisse homini satis est: optata recusat,</TextUnit>
+    <TextUnit id="54" loc="2.37">esse in honore placet, mox paenitet: et dominari</TextUnit>
+    <TextUnit id="55" loc="2.38">ut possint, servire volunt, idem auctus honore</TextUnit>
+    <TextUnit id="56" loc="2.39">invidiae obicitur, pernox est cura disertis;</TextUnit>
+    <TextUnit id="57" loc="2.40">set rudis ornatu vitae caret, esto patronus,</TextUnit>
+    <TextUnit id="58" loc="2.41">et defende reos: set gratia rara clientis,</TextUnit>
+    <TextUnit id="59" loc="2.42">esto cliens: gravis imperiis persona patroni,</TextUnit>
+    <TextUnit id="60" loc="2.43">xercent hunc vota patrum: mox aspera curis</TextUnit>
+    <TextUnit id="61" loc="2.44">sollicitudo subit, contemnitur orba senectus</TextUnit>
+    <TextUnit id="62" loc="2.45">et captatoris praeda est heredis egenus.</TextUnit>
+    <TextUnit id="63" loc="2.46">vitam parcus agas: avidi lacerabere fama,</TextUnit>
+    <TextUnit id="64" loc="2.47">et largitorem gravius censura notabit.</TextUnit>
+    <TextUnit id="65" loc="2.48">cuncta tibi adversis contraria casibus, ergo</TextUnit>
+    <TextUnit id="66" loc="2.49">optima Graiorum sententia: quippe homini aiunt</TextUnit>
+    <TextUnit id="67" loc="2.50">non nasci esse bonum aut natum cito morte potiri. Haec quidem Pythagorica est apophasis secundum</TextUnit>
+    <TextUnit id="68" loc="2.51">tale quod subiectum est distichon:</TextUnit>
+    <TextUnit id="69" loc="2.52">πρῶτον μὲν μὴ φῦναι ἐν ἀνθρώποισιν ἄριστον,</TextUnit>
+    <TextUnit id="70" loc="2.53">δεύτερον ὅττι τάχιστα πύλας ̓αίδαο* περῆσαι.</TextUnit>
+    <TextUnit id="71" loc="2.55">Contra sed alterius sectator dogmatis ista</TextUnit>
+    <TextUnit id="72" loc="2.56">quid doceat reprobans, subdita disce legens:</TextUnit>
+    <TextUnit id="73" loc="2.57">“ Ergo nihil quoniam vita est quod amemus in ista,</TextUnit>
+    <TextUnit id="74" loc="2.58">nec tamen incassum fas est nos credere natos,</TextUnit>
+    <TextUnit id="75" loc="2.59">auctorem vitae si iustum credimus esse,</TextUnit>
+    <TextUnit id="76" loc="2.60">vita alia est nobis illi vivendo paranda,</TextUnit>
+    <TextUnit id="77" loc="2.61">cum quo post istam possimus vivere vitam,</TextUnit>
+    <TextUnit id="78" loc="2.62">illi equidem stygias properent descendere ad umbras,</TextUnit>
+    <TextUnit id="79" loc="2.63">Pythagoreorum stolidum qui dogma secuti</TextUnit>
+    <TextUnit id="80" loc="2.64">non nasci sese quam natos vivere malint.”</TextUnit>
+    <TextUnit id="81" loc="3.1">VIR bonus et sapiens, qualem vix repperit unum</TextUnit>
+    <TextUnit id="82" loc="3.2">milibus e cunctis hominum consultus Apollo,</TextUnit>
+    <TextUnit id="83" loc="3.3">iudex ipse sui totum se explorat ad unguem.</TextUnit>
+    <TextUnit id="84" loc="3.4">quid proceres vanique levis quid opinio volgi ******</TextUnit>
+    <TextUnit id="85" loc="3.5">securus, mundi instar habens, teres atque rotundus,</TextUnit>
+    <TextUnit id="86" loc="3.6">externae ne quid labis per levia sidat.1</TextUnit>
+    <TextUnit id="87" loc="3.7">ille, dies quam longus erit sub sidere Cancri</TextUnit>
+    <TextUnit id="88" loc="3.8">quantaque nox tropico se porrigit in Capricorno,</TextUnit>
+    <TextUnit id="89" loc="3.9">cogitat et iusto trutinae se examine pendit,</TextUnit>
+    <TextUnit id="90" loc="3.10">ne quid luet, ne quid protuberet, angulus aequis</TextUnit>
+    <TextUnit id="91" loc="3.11">partibus ut coeat, nil ut deliret amussis,</TextUnit>
+    <TextUnit id="92" loc="3.12">sit solidum, quodcumque subest, nec inania subter</TextUnit>
+    <TextUnit id="93" loc="3.13">indicet .admotus digitis pellentibus ictus,</TextUnit>
+    <TextUnit id="94" loc="3.14">non prius in dulcem declinans lumina somnum,</TextUnit>
+    <TextUnit id="95" loc="3.15">omnia quam longi reputaverit acta diei:</TextUnit>
+    <TextUnit id="96" loc="3.16">quae praetergressus, quid gestum in tempore, quid non?</TextUnit>
+    <TextUnit id="97" loc="3.17">cur isti facto decus afuit aut ratio illi?</TextUnit>
+    <TextUnit id="98" loc="3.18">quid mihi praeteritum? cur haec sententia sedit,</TextUnit>
+    <TextUnit id="99" loc="3.19">quam melius mutare fuit? miseratus egentem</TextUnit>
+    <TextUnit id="100" loc="3.20">cur aliquem fracta persensi mente dolorem?</TextUnit>
+    <TextUnit id="101" loc="3.21">quid volui, quod nolle bonum foret? utile honesto</TextUnit>
+    <TextUnit id="102" loc="3.22">cur malus antetuli? num dicto aut denique voltu</TextUnit>
+    <TextUnit id="103" loc="3.23">perstrictus quisquam? cur me natura magis quam</TextUnit>
+    <TextUnit id="104" loc="3.24">disciplina trahit? sic dicta et facta per omnia</TextUnit>
+    <TextUnit id="105" loc="3.25">ingrediens ortoque a vespere cuncta revolvens</TextUnit>
+    <TextUnit id="106" loc="3.26">offensus pravis dat palmam et praemia rectis.</TextUnit>
+    <TextUnit id="107" loc="4.1">EST et Non cuncti monosyllaba nota frequentant.</TextUnit>
+    <TextUnit id="108" loc="4.2">his demptis nil est, hominum quod sermo volutet.</TextUnit>
+    <TextUnit id="109" loc="4.3">omnia in his et ab his sunt omnia, sive negoti</TextUnit>
+    <TextUnit id="110" loc="4.4">sive oti quidquam est, seu turbida sive quieta,</TextUnit>
+    <TextUnit id="111" loc="4.5">alterutro pariter nonnumquam, saepe seorsis</TextUnit>
+    <TextUnit id="112" loc="4.6">obsistunt studiis, ut mores ingeniumque</TextUnit>
+    <TextUnit id="113" loc="4.7">ut faciles vel difficiles contentio nancta est.</TextUnit>
+    <TextUnit id="114" loc="4.8">si consentitur, mora nulla intervenit “Est Est,”</TextUnit>
+    <TextUnit id="115" loc="4.9">sin controversum, dissensio subiciet “Non.”</TextUnit>
+    <TextUnit id="116" loc="4.10">hinc fora dissultant clamoribus, hinc furiosi</TextUnit>
+    <TextUnit id="117" loc="4.11">iurgia sunt circi, cuneati hinc lata theatri</TextUnit>
+    <TextUnit id="118" loc="4.12">seditio, et tales agitat quoque curia lites.</TextUnit>
+    <TextUnit id="119" loc="4.13">coniugia et nati cum patribus ista quietis</TextUnit>
+    <TextUnit id="120" loc="4.14">verba serunt studiis salva pietate loquentes.</TextUnit>
+    <TextUnit id="121" loc="4.15">hinc etiam placidis schola consona disciplinis</TextUnit>
+    <TextUnit id="122" loc="4.16">dogmaticas agitat placido certamine lites,</TextUnit>
+    <TextUnit id="123" loc="4.17">hinc omnis certat dialectica turba sophorum.</TextUnit>
+    <TextUnit id="124" loc="4.18">estne dies? est ergo dies! non convenit istuc;</TextUnit>
+    <TextUnit id="125" loc="4.19">nam facibus multis aut fulgeribus quotiens lux</TextUnit>
+    <TextUnit id="126" loc="4.20">est nocturna homini, non est lux ista diei.</TextUnit>
+    <TextUnit id="127" loc="4.21">est et Non igitur, quotiens lucem esse fatendum est,</TextUnit>
+    <TextUnit id="128" loc="4.22">set non esse diem. mille hinc certamina surgunt,</TextUnit>
+    <TextUnit id="129" loc="4.23">hinc rauco, multi quoque talia commeditantes</TextUnit>
+    <TextUnit id="130" loc="4.24">murmure concluso rabiosa silentia rodunt.</TextUnit>
+    <TextUnit id="131" loc="4.25">Qualis vita hominum, duo quam monosyllaba versant!</TextUnit>
+    <TextUnit id="132" loc="5.1">TER binos deciesque novem super exit in annos</TextUnit>
+    <TextUnit id="133" loc="5.2">iusta senescentum quos implet vita virorum,</TextUnit>
+    <TextUnit id="134" loc="5.3">hos novies superat vivendo garrula cornix</TextUnit>
+    <TextUnit id="135" loc="5.4">et quater egreditur cornicis saecula cervus,</TextUnit>
+    <TextUnit id="136" loc="5.5">alipedem cervum ter vincit corvus et illum</TextUnit>
+    <TextUnit id="137" loc="5.6">multiplicat novies Phoenix, reparabilis ales.</TextUnit>
+    <TextUnit id="138" loc="5.7">quem nos perpetuo decies praevertimus aevo,</TextUnit>
+    <TextUnit id="139" loc="5.8">Nymphae Hamadryades, quarum longissima vita est.</TextUnit>
+    <TextUnit id="140" loc="5.9">Haec cohibet finis vivacia fata animantum.</TextUnit>
+    <TextUnit id="141" loc="5.10">cetera secreti novit deus arbiter aevi,1</TextUnit>
+    <TextUnit id="142" loc="5.11">tempora quae Stilbon volvat, quae saecula Phaenon,</TextUnit>
+    <TextUnit id="143" loc="5.12">quos Pyrois habeat, quos Iuppiter igne benigno</TextUnit>
+    <TextUnit id="144" loc="5.13">circuitus, quali properet Venus alma recursu,</TextUnit>
+    <TextUnit id="145" loc="5.14">qui Phoeben, quanti maneant Titana labores,</TextUnit>
+    <TextUnit id="146" loc="5.15">donec consumpto, magnus qui dicitur, anno,</TextUnit>
+    <TextUnit id="147" loc="5.16">rursus in anticum veniant vaga sidera cursum,</TextUnit>
+    <TextUnit id="148" loc="5.17">qualia dispositi steterunt ab origine mundi.</TextUnit>
+    <TextUnit id="149" loc="6.1">MIRARIS quicumque manere ingentia mundi</TextUnit>
+    <TextUnit id="150" loc="6.2">corpora, sublimi caeli circumdata gyro,</TextUnit>
+    <TextUnit id="151" loc="6.3">et tantae nullam moli intercedere labem,</TextUnit>
+    <TextUnit id="152" loc="6.4">accipe, quod mirere magis, tenuissima tantis</TextUnit>
+    <TextUnit id="153" loc="6.5">principia et nostros non admittentia visus:</TextUnit>
+    <TextUnit id="154" loc="6.6">parvarum serie constant conexa atomorum;</TextUnit>
+    <TextUnit id="155" loc="6.7">set solidum in parvis nullique secabile segmen.</TextUnit>
+    <TextUnit id="156" loc="6.8">unde vigor viresque manent aeternaque rerum</TextUnit>
+    <TextUnit id="157" loc="6.9">mobilitas nulloque umquam superabilis aevo.</TextUnit>
+    <TextUnit id="158" loc="6.10">divinis humana licet conponere. sic est</TextUnit>
+    <TextUnit id="159" loc="6.11">as solidus, quoniam bis sex de partibus aequis</TextUnit>
+    <TextUnit id="160" loc="6.12">constat et in minimis paribus tamen una manet vis.</TextUnit>
+    <TextUnit id="161" loc="6.13">nam si quid numero minuatur, summa vacillat</TextUnit>
+    <TextUnit id="162" loc="6.14">convulsaeque ruunt labefacto corpore partes.</TextUnit>
+    <TextUnit id="163" loc="6.15">ut, medium si quis vellat de fornice saxum,</TextUnit>
+    <TextUnit id="164" loc="6.16">incumbunt cui cuncta, simul devexa sequentur</TextUnit>
+    <TextUnit id="165" loc="6.17">cetera communemque trahent a vertice lapsum;</TextUnit>
+    <TextUnit id="166" loc="6.18">non aliter libra est. si defuit uncia, totus</TextUnit>
+    <TextUnit id="167" loc="6.19">non erit as nomenque deunx iam cassus habebit.</TextUnit>
+    <TextUnit id="168" loc="6.20">nec dextans retinet nomen sextante remoto,</TextUnit>
+    <TextUnit id="169" loc="6.21">et dodrans quadrante satus auctore carebit</TextUnit>
+    <TextUnit id="170" loc="6.22">divulsusque triens prohibet persistere bessem.</TextUnit>
+    <TextUnit id="171" loc="6.23">iam quincunx tibi nullus erit, si gramma 1 revellas.</TextUnit>
+    <TextUnit id="172" loc="6.24">et semis cui semis erit pereuntibus assis</TextUnit>
+    <TextUnit id="173" loc="6.25">partibus? et cuius librae pars septima septunx?</TextUnit>
+    <TextUnit id="174" loc="6.26">libra igitur, totum si nulla in parte vacillet.</TextUnit>
+    <TextUnit id="175" loc="6.27">ponderis et numeri morumque operumque et aquarum</TextUnit>
+    <TextUnit id="176" loc="6.28">libra: nec est modulus, quem non hoc nomine signes.</TextUnit>
+    <TextUnit id="177" loc="6.29">telluris, medio quae pendet in aere, libra est 2</TextUnit>
+    <TextUnit id="178" loc="6.30">et solis lunaeque vias sua libra cohercet.</TextUnit>
+    <TextUnit id="179" loc="6.31">Libra dii somnique pares determinat horas,1 libra Caledonios sine litore continet aestus: tu quoque certa mane morum mihi libra meorum.</TextUnit>
+    <TextUnit id="180" loc="7.1">OMNIA, quae vario rerum metimur in actu,</TextUnit>
+    <TextUnit id="181" loc="7.2">astrorum dominatus agit; terrenaque tantum</TextUnit>
+    <TextUnit id="182" loc="7.3">membra homini: e superis fortuna et spiritus auris</TextUnit>
+    <TextUnit id="183" loc="7.4">septeno moderanda choro: set praesidet ollis</TextUnit>
+    <TextUnit id="184" loc="7.5">sortitus regimen nitidae Sol aureus aethrae.</TextUnit>
+    <TextUnit id="185" loc="7.6">nec sola in nobis moderatur tempora vitae,</TextUnit>
+    <TextUnit id="186" loc="7.7">dum breve solliciti spatium producimus aevi:</TextUnit>
+    <TextUnit id="187" loc="7.8">creditur occultosque satus et tempora vitae</TextUnit>
+    <TextUnit id="188" loc="7.9">materno ducenda utero formare videndo</TextUnit>
+    <TextUnit id="189" loc="7.10">et nondum exortae leges conponere vitae.</TextUnit>
+    <TextUnit id="190" loc="7.11">namque ubi conceptus genitali insederit arvo,</TextUnit>
+    <TextUnit id="191" loc="7.12">haut dubium Solem cuicumque insistere signo.</TextUnit>
+    <TextUnit id="192" loc="7.13">qui cum vicini stationem ceperit astri,</TextUnit>
+    <TextUnit id="193" loc="7.14">contiguos nullum transfundit lumen in ortus.</TextUnit>
+    <TextUnit id="194" loc="7.15">ast ubi conversis post menstrua tempora habenis</TextUnit>
+    <TextUnit id="195" loc="7.16">scandit purpureo iam tertia sidera curru,</TextUnit>
+    <TextUnit id="196" loc="7.17">obliqua exilem demittit linea lucem,</TextUnit>
+    <TextUnit id="197" loc="7.18">adspirans tenues per inertia pondera motus.</TextUnit>
+    <TextUnit id="198" loc="7.19">quarta in sede viget primi indulgentia Solis,</TextUnit>
+    <TextUnit id="199" loc="7.20">suadet et infusus teneros coalescere fetus.</TextUnit>
+    <TextUnit id="200" loc="7.21">fulgore et trigono aspectus 1 vitale coruscat,</TextUnit>
+    <TextUnit id="201" loc="7.22">clarum et lene micans, quinti qui cardine signi</TextUnit>
+    <TextUnit id="202" loc="7.23">incutit attonitam vegetato infante parentem.</TextUnit>
+    <TextUnit id="203" loc="7.24">nam sexto vis nulla loco, quia nulla tuendi</TextUnit>
+    <TextUnit id="204" loc="7.25">aequati lateris signatur regula Phoebo.2</TextUnit>
+    <TextUnit id="205" loc="7.26">ast ubi signiferae media in regione cohortis</TextUnit>
+    <TextUnit id="206" loc="7.27">septimus accepit limes rutilantia flammis</TextUnit>
+    <TextUnit id="207" loc="7.28">recto castra situ: turgentis foedera partus</TextUnit>
+    <TextUnit id="208" loc="7.29">iam plena sub luce videt, nec fulgura parci</TextUnit>
+    <TextUnit id="209" loc="7.30">luminis intendens toto fovet igne coronae.</TextUnit>
+    <TextUnit id="210" loc="7.31">hinc illud, quod legitimos Lucina labores</TextUnit>
+    <TextUnit id="211" loc="7.32">praevenit et gravidos sentit subrepere nixus</TextUnit>
+    <TextUnit id="212" loc="7.33">ante expectatum festina puerpera votum;</TextUnit>
+    <TextUnit id="213" loc="7.34">quod nisi, septeno cum lumina fudit ab astro,</TextUnit>
+    <TextUnit id="214" loc="7.35">impulerit tardi claustra obluctantia partus,</TextUnit>
+    <TextUnit id="215" loc="7.36">posterior nequeat, possit prior: an quia sexto</TextUnit>
+    <TextUnit id="216" loc="7.37">aemulus octavi conspectus inutilis astri</TextUnit>
+    <TextUnit id="217" loc="7.38">nescit conpariles laterum formare figuras?</TextUnit>
+    <TextUnit id="218" loc="7.39">set nono incumbens signo cunctantia matrum</TextUnit>
+    <TextUnit id="219" loc="7.40">vota levat, trigono vires sociante sequenti.</TextUnit>
+    <TextUnit id="220" loc="7.41">at si difficilis rursum trahit Ilithyia,</TextUnit>
+    <TextUnit id="221" loc="7.42">tetragono absolvet dubiarum vincla morarum.</TextUnit>
+    <TextUnit id="222" loc="8.1">NOMINA, quae septem venientibus apta diebus</TextUnit>
+    <TextUnit id="223" loc="8.2">annus habet, totidem errantes fecere planetae,</TextUnit>
+    <TextUnit id="224" loc="8.3">quos indefessa volvens vertigine mundus</TextUnit>
+    <TextUnit id="225" loc="8.4">signorum obliqua iubet in statione vagari,</TextUnit>
+    <TextUnit id="226" loc="8.5">primum supremumque diem radiatus habet Sol.</TextUnit>
+    <TextUnit id="227" loc="8.6">proxima fraternae succedit Luna coronae,</TextUnit>
+    <TextUnit id="228" loc="8.7">tertius adsequitur Titania lumina Mavors.</TextUnit>
+    <TextUnit id="229" loc="8.8">Mercurius quarti sibi vindicat astra diei.</TextUnit>
+    <TextUnit id="230" loc="8.9">illustrant quintam Iovis aurea sidera zonam,</TextUnit>
+    <TextUnit id="231" loc="8.10">sexta salutigerum sequitur Venus alma parentem.</TextUnit>
+    <TextUnit id="232" loc="8.11">cuncta supergrediens Saturni septima lux est.</TextUnit>
+    <TextUnit id="233" loc="8.12">octavum instaurat revolubilis orbita Solem.</TextUnit>
+    <TextUnit id="234" loc="9.1">PRIMUS Romanas ordiris, Iane, kalendas.</TextUnit>
+    <TextUnit id="235" loc="9.2">Februa vicino mense Numa instituit.</TextUnit>
+    <TextUnit id="236" loc="9.3">Martius antiqui primordia protulit anni.</TextUnit>
+    <TextUnit id="237" loc="9.4">fetiferum Aprilem vindicat alma Venus,</TextUnit>
+    <TextUnit id="238" loc="9.5">maiorum dictus patrum de nomine Maius.</TextUnit>
+    <TextUnit id="239" loc="9.6">Iunius aetatis proximus est titulo,</TextUnit>
+    <TextUnit id="240" loc="9.7">nomine Caesareo Quintilem Iulius auget.</TextUnit>
+    <TextUnit id="241" loc="9.8">Augustus nomen Caesareum sequitur,</TextUnit>
+    <TextUnit id="242" loc="9.9">autumnum, Pomona, tuum September opimat.</TextUnit>
+    <TextUnit id="243" loc="9.10">triticeo October faenore ditat agros.</TextUnit>
+    <TextUnit id="244" loc="9.11">sidera praecipitas pelago, intempeste November.</TextUnit>
+    <TextUnit id="245" loc="9.12">tu genialem hiemem, feste December, agis.</TextUnit>
+    <TextUnit id="246" loc="10.1">IANE nove, primo qui das tua nomina mensi,</TextUnit>
+    <TextUnit id="247" loc="10.2">Iane bifrons, spectas tempora bina simul,</TextUnit>
+    <TextUnit id="248" loc="10.3">post superum cultus vicino Februa mense</TextUnit>
+    <TextUnit id="249" loc="10.4">dat Numa cognatis manibus inferias.</TextUnit>
+    <TextUnit id="250" loc="10.5">Martius et generis Romani praesul et anni,</TextUnit>
+    <TextUnit id="251" loc="10.6">prima dabas Latiis tempora consulibus.</TextUnit>
+    <TextUnit id="252" loc="10.7">Aeneadum genetrix vicino nomen Aprili</TextUnit>
+    <TextUnit id="253" loc="10.8">das Venus: est Marti namque Aphrodita comes.</TextUnit>
+    <TextUnit id="254" loc="10.9">Maia dea, an maior Maium te fecerit aetas,</TextUnit>
+    <TextUnit id="255" loc="10.10">ambigo; sed mensi est auctor uterque bonus.</TextUnit>
+    <TextUnit id="256" loc="10.11">Iunius hunc sequitur duplici celebrandus honore,</TextUnit>
+    <TextUnit id="257" loc="10.12">seu nomen Iuno sive Iuventa dedit,</TextUnit>
+    <TextUnit id="258" loc="10.13">inde Dionaeo praefulgens Iulius astro</TextUnit>
+    <TextUnit id="259" loc="10.14">aestatis mediae tempora certa tenet.</TextUnit>
+    <TextUnit id="260" loc="10.15">Augustus sequitur cognatum a Caesare nomen,</TextUnit>
+    <TextUnit id="261" loc="10.16">ordine sic anni proximus, ut generis,</TextUnit>
+    <TextUnit id="262" loc="10.17">nectuntur post hos numerumque ex ordine signant:</TextUnit>
+    <TextUnit id="263" loc="10.18">September, Bacchi munere praela rigans,</TextUnit>
+    <TextUnit id="264" loc="10.19">et qui sementis per tempora faenore laetus</TextUnit>
+    <TextUnit id="265" loc="10.20">October cupidi spem fovet agricolae,</TextUnit>
+    <TextUnit id="266" loc="10.21">quique salo mergens sollemnia signa November</TextUnit>
+    <TextUnit id="267" loc="10.22">praecipitat, caelo mox reditura suo.</TextUnit>
+    <TextUnit id="268" loc="10.23">concludens numerum genialia festa December</TextUnit>
+    <TextUnit id="269" loc="10.24">finit, ut a bruma mox novus annus eat.</TextUnit>
+    <TextUnit id="270" loc="11.1">BIS senas anno reparat Lucina kalendas</TextUnit>
+    <TextUnit id="271" loc="11.2">et totidem medias dat currere Iuppiter idus</TextUnit>
+    <TextUnit id="272" loc="11.3">nonarumque diem faciunt infra octo secundi,</TextUnit>
+    <TextUnit id="273" loc="11.4">haec sunt Romano tantum tria nomina mensi;</TextUnit>
+    <TextUnit id="274" loc="11.5">cetera per numeros sunt cognomenta dierum.</TextUnit>
+    <TextUnit id="275" loc="12.1">INPLENT tricenas per singula menstrua luces</TextUnit>
+    <TextUnit id="276" loc="12.2">Iunius Aprilisque et cum Septembre November.</TextUnit>
+    <TextUnit id="277" loc="12.3">unum ter denis cumulatius adde diebus</TextUnit>
+    <TextUnit id="278" loc="12.4">per septem menses, Iani Martisque kalendis</TextUnit>
+    <TextUnit id="279" loc="12.5">et quas Maius agit, quas Iulius Augustusque</TextUnit>
+    <TextUnit id="280" loc="12.6">et quas October positusque in fine December.</TextUnit>
+    <TextUnit id="281" loc="12.7">unus erit tantum duodetriginta dierum,</TextUnit>
+    <TextUnit id="282" loc="12.8">quem Numa praeposito voluit succedere Iano.</TextUnit>
+    <TextUnit id="283" loc="12.9">sic ter centenis decies accedere senos</TextUnit>
+    <TextUnit id="284" loc="12.10">quadrantemque et quinque dies sibi conputat annus.</TextUnit>
+    <TextUnit id="285" loc="13.1">AT nonas modo quarta aperit, modo sexta refert lux.</TextUnit>
+    <TextUnit id="286" loc="13.2">sexta refert Mai Octobris Martisque recursu</TextUnit>
+    <TextUnit id="287" loc="13.3">et qui solstitio sua tempora Iulius infert,</TextUnit>
+    <TextUnit id="288" loc="13.4">cetera pars mensum quartis est praedita nonis;</TextUnit>
+    <TextUnit id="289" loc="13.5">omnes vero idus octava luce recurrunt.</TextUnit>
+    <TextUnit id="290" loc="14.1">POST IDUS, quas quisque suas habet ordine mensis,</TextUnit>
+    <TextUnit id="291" loc="14.2">diversae numero redeunt variante kalendae,</TextUnit>
+    <TextUnit id="292" loc="14.3">dum vertente anno 1 rursumque iterumque vocantur,</TextUnit>
+    <TextUnit id="293" loc="14.4">ut tandem optati procedant temporis ortu.</TextUnit>
+    <TextUnit id="294" loc="14.5">ter senis unoque die genialia festa</TextUnit>
+    <TextUnit id="295" loc="14.6">porrigit, ut Ianum arcessat nova bruma morantem.</TextUnit>
+    <TextUnit id="296" loc="14.7">hoc numero mensisque Numae redit autumnique</TextUnit>
+    <TextUnit id="297" loc="14.8">principium referens Bacchi September alumnus.</TextUnit>
+    <TextUnit id="298" loc="14.9">Iulius et Maius positusque in fine December</TextUnit>
+    <TextUnit id="299" loc="14.10">Octoberque die re vocatur tardius uno.</TextUnit>
+    <TextUnit id="300" loc="14.11">inde die redeunt minus uno quattuor ultra,</TextUnit>
+    <TextUnit id="301" loc="14.12">quos numero adiciam: Sextilis, Iunius atque</TextUnit>
+    <TextUnit id="302" loc="14.13">Aprilis, post quos paenultima meta November,</TextUnit>
+    <TextUnit id="303" loc="14.14">ter quinis unoque die, Iunonie Mavors,</TextUnit>
+    <TextUnit id="304" loc="14.15">ut redeas referasque exordia prima, cieris.</TextUnit>
+    <TextUnit id="305" loc="14.16">Hoc numero ad plenum vertens reparabitur annus.</TextUnit>
+    <TextUnit id="306" loc="15.1">NONAGINTA dies et quattuor ac medium Sol</TextUnit>
+    <TextUnit id="307" loc="15.2">conficit, a tropico in tropicum dum permeat astrum,</TextUnit>
+    <TextUnit id="308" loc="15.3">octipedem in Cancrum Phrixeo ab Ariete pergens,</TextUnit>
+    <TextUnit id="309" loc="15.4">hoc spatio aestivi pulsusque et meta diei.</TextUnit>
+    <TextUnit id="310" loc="15.5">semidiemque duosque dies deciesque novenos</TextUnit>
+    <TextUnit id="311" loc="15.6">a Cancro in Chelas aequatae tempora noctis</TextUnit>
+    <TextUnit id="312" loc="15.7">atque dii cursu peragit Sol aureus altero,</TextUnit>
+    <TextUnit id="313" loc="15.8">autumni aestatisque simul confinia miscens.</TextUnit>
+    <TextUnit id="314" loc="15.9">unde autumnales transcurrens ordine menses</TextUnit>
+    <TextUnit id="315" loc="15.10">ad tropicum pergit signum gelidi Capricorni,</TextUnit>
+    <TextUnit id="316" loc="15.11">octo dies decies octonis insuper addens</TextUnit>
+    <TextUnit id="317" loc="15.12">quadrantemque dii, quinto qui protinus anno</TextUnit>
+    <TextUnit id="318" loc="15.13">mense Numae extremo nomen capit embolimaei.</TextUnit>
+    <TextUnit id="319" loc="15.14">inde ad Agenorei festinans cornua Tauri,</TextUnit>
+    <TextUnit id="320" loc="15.15">scandit Lanigeri tropicum Sol aureus astrum,</TextUnit>
+    <TextUnit id="321" loc="15.16">nonaginta dies decreto fine cohercens.</TextUnit>
+    <TextUnit id="322" loc="15.17">hic tibi circus erit semper vertentibus annis</TextUnit>
+    <TextUnit id="323" loc="15.18">ter centum ac senis decies et quinque diebus.</TextUnit>
+    <TextUnit id="324" loc="16.1">PRINCIPIUM Iani sancit tropicus Capricornus.</TextUnit>
+    <TextUnit id="325" loc="16.2">mense Numae in medio solidi stat sidus Aquari.</TextUnit>
+    <TextUnit id="326" loc="16.3">procedunt duplices in Martia tempora Pisces,</TextUnit>
+    <TextUnit id="327" loc="16.4">respicis Apriles, Aries Phryxeë, kalendas.</TextUnit>
+    <TextUnit id="328" loc="16.5">Maius Agenorei miratur cornua Tauri.</TextUnit>
+    <TextUnit id="329" loc="16.6">Iunius aequatos caelo videt ire Laconas.</TextUnit>
+    <TextUnit id="330" loc="16.7">solstitio ardentis Cancri fert Iulius astrum.</TextUnit>
+    <TextUnit id="331" loc="16.8">Augustum mensem Leo fervidus igne perurit.</TextUnit>
+    <TextUnit id="332" loc="16.9">sidere, Virgo, tuo Bacchum September opimat,</TextUnit>
+    <TextUnit id="333" loc="16.10">aequat et October sementis tempore Libram.</TextUnit>
+    <TextUnit id="334" loc="16.11">Scorpios hibernus praeceps iubet ire Novembrem.</TextUnit>
+    <TextUnit id="335" loc="16.12">terminat Arquitenens medio sua signa Decembri.</TextUnit>
+    <TextUnit id="336" loc="17.1">SOL profectus a teporo veris aequinoctio</TextUnit>
+    <TextUnit id="337" loc="17.2">post semidiem postque totos nonaginta et quattuor</TextUnit>
+    <TextUnit id="338" loc="17.3">fervidis flagrans habenis pulsum aestivum conficit,</TextUnit>
+    <TextUnit id="339" loc="17.4">inde autumnus noctis horas librans aequo lumine</TextUnit>
+    <TextUnit id="340" loc="17.5">octo et octoginta goeris et super trihorio ******</TextUnit>
+    <TextUnit id="341" loc="17.6">inde floridum reflexis ver revisit oreis</TextUnit>
+    <TextUnit id="342" loc="17.7">additis ad hos priores goeros geminis orbibus.</TextUnit>
+    <TextUnit id="343" loc="18.1">AETERNOS menses et tempora quattuor anni</TextUnit>
+    <TextUnit id="344" loc="18.2">quattuor ista tibi subiecta monosticha dicent.</TextUnit>
+    <TextUnit id="345" loc="18.3">Martius, Aprilis, Maius sunt tempora veris.</TextUnit>
+    <TextUnit id="346" loc="18.4">Iulius, Augustus nec non et Iunius aestas.</TextUnit>
+    <TextUnit id="347" loc="18.5">Septembri, Octobri autumnat totoque Novembri.</TextUnit>
+    <TextUnit id="348" loc="18.6">brumales Ianus, Februarius atque December.</TextUnit>
+    <TextUnit id="349" loc="19.1">QUATTUOR antiquos celebravit Achaia ludos.</TextUnit>
+    <TextUnit id="350" loc="19.2">caelicolum duo sunt et duo festa hominum,</TextUnit>
+    <TextUnit id="351" loc="19.3">sacra Iovis Phoebique, Palaemonis Archemorique,</TextUnit>
+    <TextUnit id="352" loc="19.4">serta quibus pinus, malus, oliva, apium.</TextUnit>
+    <TextUnit id="353" loc="20.1">PRIMA Iovi magno celebrantur Olympia Pisae.</TextUnit>
+    <TextUnit id="354" loc="20.2">Parnasus Clario sacravit Pythia Phoebo.</TextUnit>
+    <TextUnit id="355" loc="20.3">Isthmia Portuno bimari dicat alta Corinthos.</TextUnit>
+    <TextUnit id="356" loc="20.4">Archemori Nemeaea colunt funebria Thebae.</TextUnit>
+    <TextUnit id="357" loc="21.1">PRIMUS Olympiacae sacravit festa coronae</TextUnit>
+    <TextUnit id="358" loc="21.2">Iuppiter Argivi stadia ad longissima circi,</TextUnit>
+    <TextUnit id="359" loc="21.3">proximus Alcides Nemeum sacravit honorem,</TextUnit>
+    <TextUnit id="360" loc="21.4">haec quoque temporibus quinquennia sacra notandis,</TextUnit>
+    <TextUnit id="361" loc="21.5">Isthmia Neptuno data sunt et Pythia Phoebo</TextUnit>
+    <TextUnit id="362" loc="21.6">ancipiti cultu divorum hominumque sepultis.1</TextUnit>
+    <TextUnit id="363" loc="22.1">FUNEBRES LUDI HABEANTUR</TextUnit>
+    <TextUnit id="364" loc="22.2">TANTALIDAE Pelopi maestum dicat Elis honorem.</TextUnit>
+    <TextUnit id="365" loc="22.3">Archemori Nemeaea colunt quinquennia Thebae.</TextUnit>
+    <TextUnit id="366" loc="22.4">Isthmia defuncto celebrata Palaemone notum.</TextUnit>
+    <TextUnit id="367" loc="22.5">Pythia placando Delphi statuere draconi.</TextUnit>
+    <TextUnit id="368" loc="23.1">NUNC et Apollineos Tiberina per ostia ludos</TextUnit>
+    <TextUnit id="369" loc="23.2">et Megalesiacae matris operta loquar</TextUnit>
+    <TextUnit id="370" loc="23.3">Vulcanique dies, autumni exordia primi,</TextUnit>
+    <TextUnit id="371" loc="23.4">Quinquatrusque deae Pallados expediam</TextUnit>
+    <TextUnit id="372" loc="23.5">et medias idus Mai Augustique recursu,</TextUnit>
+    <TextUnit id="373" loc="23.6">quas sibi Mercurius quasque Diana dicat;</TextUnit>
+    <TextUnit id="374" loc="23.7">matronae quae sacra colant pro laude virorum,</TextUnit>
+    <TextUnit id="375" loc="23.8">Mavortis primi cum rediere dies.</TextUnit>
+    <TextUnit id="376" loc="23.9">festa Caprotinis memorabo celebria nonis,</TextUnit>
+    <TextUnit id="377" loc="23.10">cum stola matronis dempta teget famulas.</TextUnit>
+    <TextUnit id="378" loc="23.11">quattuor illa etiam discretis partibus anni</TextUnit>
+    <TextUnit id="379" loc="23.12">solstitia et luces nocte dieque pares,</TextUnit>
+    <TextUnit id="380" loc="23.13">nec Regifugium pulsis ex urbe tyrannis</TextUnit>
+    <TextUnit id="381" loc="23.14">laetum Romanis fas reticere diem.</TextUnit>
+    <TextUnit id="382" loc="23.15">visne Opis ante sacrum vel Saturnalia dicam</TextUnit>
+    <TextUnit id="383" loc="23.16">festaque servorum, cum famulantur eri?</TextUnit>
+    <TextUnit id="384" loc="23.17">et numquam certis redeuntia festa diebus,</TextUnit>
+    <TextUnit id="385" loc="23.18">compita per vicos cum sua quisque colit?</TextUnit>
+    <TextUnit id="386" loc="23.19">aut duplicem cultum, quem Neptunalia dicunt,</TextUnit>
+    <TextUnit id="387" loc="23.20">et quem de Conso consiliisque vocant?</TextUnit>
+    <TextUnit id="388" loc="23.21">festa haec navigiis, aut quae celebrata quadrigis</TextUnit>
+    <TextUnit id="389" loc="23.22">iungunt Romanos finitimosque duces?</TextUnit>
+    <TextUnit id="390" loc="23.23">adiciam cultus peregrinaque sacra deorum,</TextUnit>
+    <TextUnit id="391" loc="23.24">natalem Herculeum vel ratis Isiacae,</TextUnit>
+    <TextUnit id="392" loc="23.25">nec non lascivi Floralia laeta theatri,</TextUnit>
+    <TextUnit id="393" loc="23.26">quae spectare volunt, qui voluisse negant?</TextUnit>
+    <TextUnit id="394" loc="23.27">nunc etiam veteres celebrantur Equirria ludi:</TextUnit>
+    <TextUnit id="395" loc="23.28">prima haec Romanus nomina circus habet,</TextUnit>
+    <TextUnit id="396" loc="23.29">et Dionysiacos Latio cognomine ludos</TextUnit>
+    <TextUnit id="397" loc="23.30">Roma colit, Liber quae sibi vota dicat.</TextUnit>
+    <TextUnit id="398" loc="23.31">Aediles etiam plebi aedilesque curules</TextUnit>
+    <TextUnit id="399" loc="23.32">sacra Sigillorum nomine dicta colunt,</TextUnit>
+    <TextUnit id="400" loc="23.33">et gladiatores funebria proelia notum</TextUnit>
+    <TextUnit id="401" loc="23.34">decertasse foro: nunc sibi harena suos</TextUnit>
+    <TextUnit id="402" loc="23.35">vindicat extremo qui iam sub fine Decembris</TextUnit>
+    <TextUnit id="403" loc="23.36">falcigerum placant sanguine Caeligenam.</TextUnit>
+    <TextUnit id="404" loc="24.1">PRIMA Cleonaei tolerata aerumna leonis,</TextUnit>
+    <TextUnit id="405" loc="24.2">proxima Lernaeam ferro et face contudit hydram.</TextUnit>
+    <TextUnit id="406" loc="24.3">mox Erymantheum vis tertia perculit aprum,</TextUnit>
+    <TextUnit id="407" loc="24.4">aeripedis quarto tulit aurea cornua cervi.</TextUnit>
+    <TextUnit id="408" loc="24.5">Stymphalidas pepulit volucres discrimine quinto.</TextUnit>
+    <TextUnit id="409" loc="24.6">Thraeiciam sexto spoliavit Amazona balteo,</TextUnit>
+    <TextUnit id="410" loc="24.7">septima in Augei stabulis inpensa laboris,</TextUnit>
+    <TextUnit id="411" loc="24.8">octava expulso numeratur adoria tauro,</TextUnit>
+    <TextUnit id="412" loc="24.9">in Diomedeis victoria nona quadrigis.</TextUnit>
+    <TextUnit id="413" loc="24.10">Geryone extincto decimam dat Hiberia palmam.</TextUnit>
+    <TextUnit id="414" loc="24.11">undecimo mala Hesperidum destricta triumpho.</TextUnit>
+    <TextUnit id="415" loc="24.12">Cerberus extremi .suprema est meta laboris.</TextUnit>
+    <TextUnit id="416" loc="25.1">FLAMINA 1 verna cient obscuro lumine Pisces</TextUnit>
+    <TextUnit id="417" loc="25.2">curriculumque Aries aequat noctisque diique,</TextUnit>
+    <TextUnit id="418" loc="25.3">cornua quem condunt florum praenuntia Tauri,</TextUnit>
+    <TextUnit id="419" loc="25.4">aridaque aestatis Gemini primordia pandunt,</TextUnit>
+    <TextUnit id="420" loc="25.5">longaque iam munit praeclarus lumina Cancer,</TextUnit>
+    <TextUnit id="421" loc="25.6">languificosque Leo proflat ferus ore calores.</TextUnit>
+    <TextUnit id="422" loc="25.7">post modium quatiens Virgo fugat orta vaporem:</TextUnit>
+    <TextUnit id="423" loc="25.8">autumni reserat portas aequatque diurna</TextUnit>
+    <TextUnit id="424" loc="25.9">tempora nocturnis dispenso sidere Libra.</TextUnit>
+    <TextUnit id="425" loc="25.10">ecfetos 1 ramos denudat flamma Nepai,</TextUnit>
+    <TextUnit id="426" loc="25.11">pigra Sagittipotens iaculatur frigora terris,</TextUnit>
+    <TextUnit id="427" loc="25.12">bruma gelu glacians iubar exspirat Capricorni,</TextUnit>
+    <TextUnit id="428" loc="25.13">quam sequitur nebulas rorans liquor altus Aquari.</TextUnit>
+    <TextUnit id="429" loc="25.14">tanta supra circaque viget vis flammea 2 mundi.</TextUnit>
+    <TextUnit id="430" loc="25.15">at dextra laevaque ciet rota fulgida Solis</TextUnit>
+    <TextUnit id="431" loc="25.16">mobile curriculum et Lunae simulacra feruntur.</TextUnit>
+    <TextUnit id="432" loc="25.17">squama sub aeterno conspectu torta Draconis</TextUnit>
+    <TextUnit id="433" loc="25.18">eminet, hunc infra fulgentes Arcera septem</TextUnit>
+    <TextUnit id="434" loc="25.19">magna quatit stellas: quam servans serus in alta</TextUnit>
+    <TextUnit id="435" loc="25.20">conditur oceani ripa cum luce Bootes.3</TextUnit>
+    <TextUnit id="436" loc="26.1">UNGUES Mercurio, barbam Iove, Cypride crines.</TextUnit>
+    <TextUnit id="437" loc="26.1">MERCURIUS furtis probat ungues semper acutos</TextUnit>
+    <TextUnit id="438" loc="26.2">articulisque aciem non sinit imminui.</TextUnit>
+    <TextUnit id="439" loc="26.3">barba Iovi, crines Veneri decor: ergo necesse est,</TextUnit>
+    <TextUnit id="440" loc="26.4">ut nolint demi, quo sibi uterque placent.</TextUnit>
+    <TextUnit id="441" loc="26.5">Mavors imberbos et calvos, Luna, adamasti:</TextUnit>
+    <TextUnit id="442" loc="26.6">non prohibent comi tum caput atque genas.</TextUnit>
+    <TextUnit id="443" loc="26.7">Sol et Saturnus nil obstant unguibus: ergo</TextUnit>
+    <TextUnit id="444" loc="26.8">non placitum divis tolle monostichium.</TextUnit>
+  </Text>
+</TessDocument>

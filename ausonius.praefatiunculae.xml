@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TessDocument id="ausonius.praefatiunculae">
+  <Metadata>
+    <Author>ausonius</Author>
+    <Display>Praefatiunculae</Display>
+    <Abbr>aus. praef.</Abbr>
+    <Lang>la</Lang>
+    <Prose>0</Prose>
+    <PrintSource>Ausonius. Works. Ausonius, Vol 1. Ausonius, Decimus Magnus. Hugh G. Evelyn-White. William Heinemann Ltd.; Harvard University Press. London; Cambridge, Massachusetts. 1919.</PrintSource>
+    <DigitalSourceDisplay>Perseus</DigitalSourceDisplay>
+    <DigitalSourceURL>http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0628</DigitalSourceURL>
+    <AddedBy>Katherine Roache</AddedBy>
+    <URI>urn:cts:latinLit:stoa0045.stoa025.perseus-lat1</URI>
+  </Metadata>
+  <Parts><Part id="1"><Display>Book 1</Display><MaskLower>0</MaskLower><MaskUpper>39</MaskUpper><LocusLower>1.1</LocusLower><LocusUpper>1.40</LocusUpper></Part><Part id="2"><Display>Book 2</Display><MaskLower>40</MaskLower><MaskUpper>43</MaskUpper><LocusLower>2.1</LocusLower><LocusUpper>2.4</LocusUpper></Part><Part id="3"><Display>Book 3</Display><MaskLower>44</MaskLower><MaskUpper>44</MaskUpper><LocusLower>3.0</LocusLower><LocusUpper>3.0</LocusUpper></Part><Part id="4"><Display>Book 4</Display><MaskLower>45</MaskLower><MaskUpper>66</MaskUpper><LocusLower>4.1</LocusLower><LocusUpper>4.22</LocusUpper></Part></Parts><Text>
+    <TextUnit id="0" loc="1.1">Ausonius genitor nobis, ego nomine eodem:</TextUnit>
+    <TextUnit id="1" loc="1.2">qui sim, qua secta, stirpe, lare et patria,</TextUnit>
+    <TextUnit id="2" loc="1.3">adscripsi, ut nosses, bone vir, quicumque fuisses,</TextUnit>
+    <TextUnit id="3" loc="1.4">et notum memori me coleres animo.</TextUnit>
+    <TextUnit id="4" loc="1.5">Vasates patria est patri, gens Haedua matri</TextUnit>
+    <TextUnit id="5" loc="1.6">de patre, Tarbellis set genetrix ab Aquis,</TextUnit>
+    <TextUnit id="6" loc="1.7">ipse ego Burdigalae genitus: divisa per urbes</TextUnit>
+    <TextUnit id="7" loc="1.8">quattuor antiquas stirpis origo meae.</TextUnit>
+    <TextUnit id="8" loc="1.9">hinc late fusa est cognatio; nomina multis</TextUnit>
+    <TextUnit id="9" loc="1.10">ex nostra, ut placitum, ducta domo veniant:</TextUnit>
+    <TextUnit id="10" loc="1.11">derivata aliis, nobis ab stemmate primo</TextUnit>
+    <TextUnit id="11" loc="1.12">et non cognati, sed genetiva, placent,</TextUnit>
+    <TextUnit id="12" loc="1.13">set redeo ad seriem. genitor studuit medicinae,</TextUnit>
+    <TextUnit id="13" loc="1.14">disciplinarum quae dedit una deum.</TextUnit>
+    <TextUnit id="14" loc="1.15">nos ad grammaticen studium convertimus et mox</TextUnit>
+    <TextUnit id="15" loc="1.16">rhetorices etiam, quod satis, attigimus.</TextUnit>
+    <TextUnit id="16" loc="1.17">nec fora non celebrata mihi, set cura docendi</TextUnit>
+    <TextUnit id="17" loc="1.18">cultior, et nomen grammatici merui</TextUnit>
+    <TextUnit id="18" loc="1.19">non tam grande quidem, quo gloria nostra subiret</TextUnit>
+    <TextUnit id="19" loc="1.20">Aemilium aut Scaurum Berytiumve Probum,</TextUnit>
+    <TextUnit id="20" loc="1.21">sed quo nostrates, Aquitanica nomina, multos</TextUnit>
+    <TextUnit id="21" loc="1.22">conlatus, set non subditus, adspicerem.</TextUnit>
+    <TextUnit id="22" loc="1.23">Exactisque dehinc per trina decennia fastis</TextUnit>
+    <TextUnit id="23" loc="1.24">deserui doctor municipalem operam,</TextUnit>
+    <TextUnit id="24" loc="1.25">aurea et Augusti palatia iussus adire</TextUnit>
+    <TextUnit id="25" loc="1.26">Augustam subolem grammaticus docui,</TextUnit>
+    <TextUnit id="26" loc="1.27">mox etiam rhetor, nec enim fiducia nobis</TextUnit>
+    <TextUnit id="27" loc="1.28">vana aut non solidi gloria iudicii,</TextUnit>
+    <TextUnit id="28" loc="1.29">cedo tamen fuerint fama potiore magistri,</TextUnit>
+    <TextUnit id="29" loc="1.30">dum nulli fuerit discipulus melior.</TextUnit>
+    <TextUnit id="30" loc="1.31">Alcides Atlantis et Aeacides Chironis,</TextUnit>
+    <TextUnit id="31" loc="1.32">paene Iove iste satus, filius ille Iovis,</TextUnit>
+    <TextUnit id="32" loc="1.33">Thessaliam Thebasque suos habuere penates:</TextUnit>
+    <TextUnit id="33" loc="1.34">at meus hic toto regnat in orbe suo.</TextUnit>
+    <TextUnit id="34" loc="1.35">cuius ego comes et quaestor et, culmen honorum,</TextUnit>
+    <TextUnit id="35" loc="1.36">praefectus Gallis et Libyae et Latio</TextUnit>
+    <TextUnit id="36" loc="1.37">et, prior indeptus fasces Latiamque curulem,</TextUnit>
+    <TextUnit id="37" loc="1.38">consul, collega posteriore, fui.</TextUnit>
+    <TextUnit id="38" loc="1.39">Hic ergo Ausonius: sed tu ne temne, quod ultro</TextUnit>
+    <TextUnit id="39" loc="1.40">patronum nostris te paro carminibus.</TextUnit>
+    <TextUnit id="40" loc="2.1">PECTORIS ut nostri sedem colis, alme Syagri,</TextUnit>
+    <TextUnit id="41" loc="2.2">communemque habitas alter ego Ausonium:</TextUnit>
+    <TextUnit id="42" loc="2.3">sic etiam nostro praefatus habebere libro,</TextUnit>
+    <TextUnit id="43" loc="2.4">differat ut nihilo, sit tuus anne meus.</TextUnit>
+    <TextUnit id="44" loc="3.0">Theodosius Augustus Ausonio parenti salutem. 1 Amor meus qui in te est et admiratio ingenii atque eruditionis tuae, quae multo maxima sunt, fecit, parens iucundissime, ut morem principibus aliis solitum sequestrarem familiaremque sermonem autographum ad te transmitterem, postulans pro iure non equidem regio, sed illius privatae inter nos caritatis, ne fraudari me scriptorum tuorum lectione patiaris, quae olim mihi cognita et iam per tempus oblita rursum desidero, non solum ut, quae sunt nota, recolantur, sed etiam ut ea, quae fama celebri adiecta memorantur, accipiam, quae tu de promptuario scriniorum tuorum, qui me amas, libens imperties, secutus exempla auctorum optimorum, quibus par esse meruisti: qui Octaviano Augusto rerum potienti certatim opera sua tradebant, nullo fine in eius honorem multa condentes. qui illos haut sciam an aequaliter atque ego te admiratus sit, certe non amplius diligebat, vale parens.</TextUnit>
+    <TextUnit id="45" loc="4.1">agricolam si flava Ceres dare semina terrae,</TextUnit>
+    <TextUnit id="46" loc="4.2">Gradivus iubeat si capere arma ducem,</TextUnit>
+    <TextUnit id="47" loc="4.3">solvere de portu classem Neptunus inermem:</TextUnit>
+    <TextUnit id="48" loc="4.4">fidere tam fas est, quam dubitare nefas,</TextUnit>
+    <TextUnit id="49" loc="4.5">insanum quamvis hiemet mare crudaque tellus</TextUnit>
+    <TextUnit id="50" loc="4.6">seminibus, bello nec satis apta manus,</TextUnit>
+    <TextUnit id="51" loc="4.7">nil dubites auctore bono. mortalia quaerunt</TextUnit>
+    <TextUnit id="52" loc="4.8">consilium, certus iussa capesse dei.</TextUnit>
+    <TextUnit id="53" loc="4.9">scribere me Augustus iubet et mea carmina poscit</TextUnit>
+    <TextUnit id="54" loc="4.10">paene rogans: blando vis latet imperio.</TextUnit>
+    <TextUnit id="55" loc="4.11">non habeo ingenium, Caesar sed iussit: habebo.</TextUnit>
+    <TextUnit id="56" loc="4.12">cur me posse negem, posse quod ille putat?</TextUnit>
+    <TextUnit id="57" loc="4.13">invalidas vires ipse excitat et iuvat idem,</TextUnit>
+    <TextUnit id="58" loc="4.14">qui iubet: obsequium sufficit esse meum.</TextUnit>
+    <TextUnit id="59" loc="4.15">non tutum renuisse deo. laudata pudoris</TextUnit>
+    <TextUnit id="60" loc="4.16">saepe mora est, quotiens contra parem dubites.</TextUnit>
+    <TextUnit id="61" loc="4.17">Quin etiam non iussa parant erumpere dudum</TextUnit>
+    <TextUnit id="62" loc="4.18">carmina, quis nolit Caesaris esse liber,</TextUnit>
+    <TextUnit id="63" loc="4.19">ne ferat indignum vatem centumque lituras,</TextUnit>
+    <TextUnit id="64" loc="4.20">mutandas semper deteriore nota?</TextUnit>
+    <TextUnit id="65" loc="4.21">tu modo te iussisse, pater Romane, memento</TextUnit>
+    <TextUnit id="66" loc="4.22">inque meis culpis da tibi tu veniam.</TextUnit>
+  </Text>
+</TessDocument>
